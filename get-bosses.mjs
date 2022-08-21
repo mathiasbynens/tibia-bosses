@@ -6,8 +6,14 @@ await page.goto('https://guildstats.eu/bosses?rook=0&world=Vunira');
 
 const bossesToCheck = await page.evaluate(() => {
 	const UNINTERESTING_BOSSES = new Set([
-		'midnight panthers',
-		'undead cavebears',
+		'Apprentice Sheng', // Rookgaard boss; not in Bosstiary.
+		'Arthom The Hunter', // Mini World Change boss.
+		'Furyosa', // Mini World Change boss.
+		'midnight panthers', // Not in Bosstiary.
+		'Munster', // Rookgaard boss; not in Bosstiary.
+		'Oodok Witchmaster', // Mini World Change boss.
+		'Teleskor', // Rookgaard boss; not in Bosstiary.
+		'undead cavebears', // Not in Bosstiary.
 	]);
 
 	const rows = document.querySelectorAll('#myTable tr:has(span[style])');

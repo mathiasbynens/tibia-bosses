@@ -1,5 +1,5 @@
 {
-  timestamp: '2022-08-21T13:58:58.265Z',
+  timestamp: '2022-08-21T14:25:58.983Z',
   bosses: [
     { name: 'The Welter', chance: 64.94 },
     { name: 'General Murius', chance: 51.23 },
@@ -23,7 +23,6 @@
     { name: 'Big Boss Trolliver', chance: 6.53 },
     { name: 'Fleabringer', chance: 6.17 },
     { name: 'Dreadmaw', chance: 5.76 },
-    { name: 'Dreadful Disruptor', chance: 5.13 },
     { name: 'The Voice Of Ruin', chance: 2.98 },
     { name: 'Hirintror', chance: 2.78 }
   ]

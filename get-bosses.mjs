@@ -7,11 +7,13 @@ await page.goto('https://guildstats.eu/bosses?rook=0&world=Vunira');
 const bossesToCheck = await page.evaluate(() => {
 	const UNINTERESTING_BOSSES = new Set([
 		'Apprentice Sheng', // Rookgaard boss; not in Bosstiary.
-		'Arthom The Hunter', // Mini World Change boss.
-		'Furyosa', // Mini World Change boss.
+		'Arthom The Hunter', // Mini World Change boss; not time-based.
+		'Burster', // Not a time-based spawn.
+		'Dreadful Disruptor', // Not a time-based spawn.
+		'Furyosa', // Mini World Change boss; not time-based.
 		'midnight panthers', // Not in Bosstiary.
 		'Munster', // Rookgaard boss; not in Bosstiary.
-		'Oodok Witchmaster', // Mini World Change boss.
+		'Oodok Witchmaster', // Mini World Change boss; not time-based.
 		'Teleskor', // Rookgaard boss; not in Bosstiary.
 		'undead cavebears', // Not in Bosstiary.
 	]);

@@ -1,0 +1,35 @@
+name: 'Update data'
+
+on:
+  schedule:
+    # Run daily at 05:00 UTC.
+    - cron: '00 05 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update data
+        run: |
+          npm run build
+          git config user.name 'Tibia boss checker'
+          git config user.email 'bosses@tibiamaps.io'
+          date=$(date +'%Y-%m-%d')
+          git add data
+          git commit data -m "Add boss data for date=${date}" || true
+          git push

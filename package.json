@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "./run.sh"
+  },
+  "dependencies": {
+    "puppeteer": "^16.2.0"
+  }
+}

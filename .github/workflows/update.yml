@@ -2,8 +2,8 @@ name: 'Update data'
 
 on:
   schedule:
-    # Run daily at 05:00 UTC.
-    - cron: '00 05 * * *'
+    # Run daily at 08:30 UTC (10:30 CEST).
+    - cron: '30 08 * * *'
   workflow_dispatch:
 
 jobs:

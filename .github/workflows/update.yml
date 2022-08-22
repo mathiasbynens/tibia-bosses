@@ -33,3 +33,13 @@ jobs:
           git add data
           git commit data -m "Add boss data for date=${date}" || true
           git push
+
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          single-commit: true
+          git-config-name: Tibia boss checker
+          git-config-email: bosses@tibiamaps.io

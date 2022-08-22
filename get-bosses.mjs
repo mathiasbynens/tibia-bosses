@@ -9,9 +9,9 @@ const bossesToCheck = await page.evaluate(() => {
 		'Apprentice Sheng', // Rookgaard boss; not in Bosstiary.
 		'Arthom The Hunter', // Mini World Change boss; not time-based.
 		'Burster', // Not a time-based spawn.
+		'draptors', // Not in Bosstiary; Grand Mother Foulscale is tracked separately.
 		'Dreadful Disruptor', // Not a time-based spawn.
 		'Furyosa', // Mini World Change boss; not time-based.
-		'midnight panthers', // Not in Bosstiary.
 		'Munster', // Rookgaard boss; not in Bosstiary.
 		'Oodok Witchmaster', // Mini World Change boss; not time-based.
 		'Teleskor', // Rookgaard boss; not in Bosstiary.

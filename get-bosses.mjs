@@ -39,4 +39,4 @@ const result = {
 	timestamp: new Date().toISOString(),
 	bosses: bossesToCheck,
 };
-console.log(result);
+console.log(JSON.stringify(result, null, '\t'));

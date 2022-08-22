@@ -3,7 +3,9 @@
   "scripts": {
     "build": "./run.sh"
   },
-  "dependencies": {
+  "devDependencies": {
+    "html-minifier-terser": "^7.0.0",
+    "lodash-es": "^4.17.21",
     "puppeteer": "^16.2.0"
   }
 }

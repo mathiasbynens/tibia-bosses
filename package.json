@@ -1,7 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "build": "./run.sh"
+    "build": "npm run scrape && npm run render",
+    "scrape": "./scrape.sh",
+    "render": "node render-html.mjs"
   },
   "devDependencies": {
     "html-minifier-terser": "^7.0.0",

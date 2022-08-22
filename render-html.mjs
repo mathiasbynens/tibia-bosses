@@ -1,6 +1,22 @@
 import fs from 'node:fs/promises';
-import { escape as escapeHtml } from 'lodash-es';
+import { escape as escapeHtml, startCase } from 'lodash-es';
 import { minify as minifyHtml } from 'html-minifier-terser';
+
+const slugify = (part) => {
+	const first = part.at(0);
+	// E.g. `'midnight panthers'`.
+	if (/\p{Lowercase}/u.test(first) && part.at(-1) === 's') {
+		const startCased = startCase(part);
+		const singularized = startCased.slice(0, -1);
+		part = singularized;
+	}
+	const underscored = part
+		.replaceAll(' ', '_')
+		.replaceAll('_The_', '_the_')
+		.replaceAll('_Of_', '_of_');
+	const encoded = encodeURIComponent(underscored);
+	return encoded;
+};
 
 const formatNumber = (number) => {
 	return `${number.toFixed(2)}%`;
@@ -9,7 +25,7 @@ const formatNumber = (number) => {
 const render = (data) => {
 	const output = ['<div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
 	for (const boss of data.bosses) {
-		output.push(`<tr><td>${escapeHtml(boss.name)}<td>${formatNumber(boss.chance)}`);
+		output.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${slugify(boss.name)}">${escapeHtml(boss.name)}</a><td>${formatNumber(boss.chance)}`);
 	}
 	output.push(`</table></div><p>Last updated on <time>${escapeHtml(data.timestamp)}</time>.`);
 	const html = output.join('');

@@ -25,7 +25,13 @@ const formatNumber = (number) => {
 const render = (data) => {
 	const output = ['<div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
 	for (const boss of data.bosses) {
-		output.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${slugify(boss.name)}">${boss.killed ? '<s>' : ''}${escapeHtml(boss.name)}${boss.killed ? '</s>' : ''}${boss.killed ? ' (killed)' : ''}</a><td>${boss.killed ? '<s>' : ''}${formatNumber(boss.chance)}${boss.killed ? '</s>' : ''}`);
+		output.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${slugify(boss.name)}">${boss.killed ? '<s>' : ''}${
+			escapeHtml(
+				boss.name
+					.replaceAll(' The ', ' the ')
+					.replaceAll(' Of ', ' of ')
+			)
+		}${boss.killed ? '</s>' : ''}${boss.killed ? ' (killed)' : ''}</a><td>${boss.killed ? '<s>' : ''}${formatNumber(boss.chance)}${boss.killed ? '</s>' : ''}`);
 	}
 	output.push(`</table></div><p>Last updated on <time>${escapeHtml(data.timestamp)}</time>.`);
 	const html = output.join('');

@@ -25,14 +25,14 @@ const formatNumber = (number) => {
 const render = (data) => {
 	const output = ['<div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
 	for (const boss of data.bosses) {
-		output.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${slugify(boss.name)}">${escapeHtml(boss.name)}</a><td>${formatNumber(boss.chance)}`);
+		output.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${slugify(boss.name)}">${boss.killed ? '<s>' : ''}${escapeHtml(boss.name)}${boss.killed ? '</s>' : ''}${boss.killed ? ' (killed)' : ''}</a><td>${boss.killed ? '<s>' : ''}${formatNumber(boss.chance)}${boss.killed ? '</s>' : ''}`);
 	}
 	output.push(`</table></div><p>Last updated on <time>${escapeHtml(data.timestamp)}</time>.`);
 	const html = output.join('');
 	return html;
 };
 
-const json = await fs.readFile('./data/vunira/bosses-latest.json', 'utf8');
+const json = await fs.readFile('./data/vunira/latest.json', 'utf8');
 const data = JSON.parse(json);
 
 const htmlTemplate = await fs.readFile('./templates/index.html', 'utf8');

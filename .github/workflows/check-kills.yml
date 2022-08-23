@@ -1,13 +1,15 @@
-name: 'Update boss data'
+name: 'Update kill data'
 
 on:
   schedule:
-    # Run daily at 08:30 UTC (10:30 CEST).
-    - cron: '30 08 * * *'
+    # Tibia.com kill stats update daily around 04:00 CE(S)T.
+    # Schedule the cron job for 04:30 CE(S)T, i.e. 02:30 UTC.
+    # https://www.tibiaqa.com/26439/when-and-how-often-the-kill-statistics-are-updated?show=26440#a26440
+    - cron: '30 02 * * *'
   workflow_dispatch:
 
 jobs:
-  update-boss-data:
+  update-kill-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -26,10 +28,10 @@ jobs:
 
       - name: Update data
         run: |
-          npm run scrape
+          npm run scrape-kills
           git config user.name 'Tibia boss checker'
           git config user.email 'bosses@tibiamaps.io'
-          date=$(date +'%Y-%m-%d')
+          date="$(date +'%Y-%m-%d' --date='yesterday')"
           git add data
-          git commit data -m "Add boss data for date=${date}" || true
+          git commit data -m "Update data for date=${date} based on kill stats since the last server save" || true
           git push

@@ -1,13 +1,14 @@
 {
-  "private": true,
-  "scripts": {
-    "build": "npm run scrape && npm run render",
-    "scrape": "./scrape.sh",
-    "render": "node render-html.mjs"
-  },
-  "devDependencies": {
-    "html-minifier-terser": "^7.0.0",
-    "lodash-es": "^4.17.21",
-    "puppeteer": "^16.2.0"
-  }
+	"private": true,
+	"scripts": {
+		"build": "npm run scrape-bosses && npm run render",
+		"scrape-bosses": "./scrape-bosses.sh",
+		"scrape-kills": "node --no-warnings scrape-kills.mjs",
+		"render": "node render-html.mjs"
+	},
+	"devDependencies": {
+		"html-minifier-terser": "^7.0.0",
+		"lodash-es": "^4.17.21",
+		"puppeteer": "^16.2.0"
+	}
 }

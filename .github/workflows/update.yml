@@ -26,7 +26,7 @@ jobs:
 
       - name: Update data
         run: |
-          npm run scrape
+          npm run scrape-bosses
           git config user.name 'Tibia boss checker'
           git config user.email 'bosses@tibiamaps.io'
           date=$(date +'%Y-%m-%d')

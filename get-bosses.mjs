@@ -18,14 +18,16 @@ const bossesToCheck = await page.evaluate(() => {
 		'undead cavebears', // Not in Bosstiary.
 	]);
 
-	const rows = document.querySelectorAll('#myTable tr:has(span[style])');
+	const rows = document.querySelectorAll('#myTable tr:has(span[style="color: green; font-weight: bold"])');
 	const bosses = [];
 	for (const row of rows) {
 		const boss = row.querySelector('b').textContent.trim();
 		if (UNINTERESTING_BOSSES.has(boss)) continue;
-		const chance = row.querySelector('td:has(span[style]').textContent.trim();
+		const chanceCell = row.querySelector('td:has(span[style="color: green; font-weight: bold"]');
+		if (!chanceCell) continue;
+		const chance = chanceCell.textContent.trim();
 		if (chance === 'No') continue;
-		const percentage = Number(chance.match(/Yes \(([^%)]+)%\)/)[1]);
+		const percentage = Number(chance.match(/([^%)]+)%/)[1]);
 		bosses.push({ name: boss, chance: percentage });
 	}
 	bosses.sort((a, b) => {

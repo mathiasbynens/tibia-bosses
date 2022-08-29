@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-08-28T08:36:36.483Z",
+	"timestamp": "2022-08-29T03:23:32.576Z",
 	"bosses": [
 		{
 			"name": "yetis",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 7.24
+			"chance": 7.24,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.03
+			"chance": 7.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

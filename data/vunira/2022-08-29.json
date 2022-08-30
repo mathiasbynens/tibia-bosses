@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-08-29T08:39:02.214Z",
+	"timestamp": "2022-08-30T03:27:17.717Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "yetis",
-			"chance": 25.5
+			"chance": 25.5,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.63
+			"chance": 8.63,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

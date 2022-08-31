@@ -7,6 +7,10 @@ const latestBossDataPath = './data/vunira/latest.json';
 const json = await fs.readFile(latestBossDataPath, 'utf8');
 const bossData = JSON.parse(json);
 
+const normalize = (bossName) => {
+	return bossName.toLowerCase();
+};
+
 const getCreaturesKilledSinceServerSave = async () => {
 	const response = await fetch('https://api.tibiadata.com/v3/killstatistics/Vunira');
 	const data = await response.json();
@@ -15,7 +19,8 @@ const getCreaturesKilledSinceServerSave = async () => {
 	for (const entry of entries) {
 		const hasBeenKilledSinceServerSave = entry.last_day_killed > 0;
 		if (hasBeenKilledSinceServerSave) {
-			creaturesKilledSinceServerSave.add(entry.race);
+			const normalized = normalize(entry.race);
+			creaturesKilledSinceServerSave.add(normalized);
 		}
 	}
 	return creaturesKilledSinceServerSave;
@@ -23,7 +28,8 @@ const getCreaturesKilledSinceServerSave = async () => {
 
 const creaturesKilledSinceServerSave = await getCreaturesKilledSinceServerSave();
 for (const boss of bossData.bosses) {
-	if (creaturesKilledSinceServerSave.has(boss.name)) {
+	const normalized = normalize(boss.name);
+	if (creaturesKilledSinceServerSave.has(normalized)) {
 		boss.killed = true;
 	}
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-08-31T03:31:44.825Z",
+	"timestamp": "2022-08-31T04:54:57.252Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 53.42
+			"chance": 53.42,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -26,7 +27,8 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 21.67
+			"chance": 21.67,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",

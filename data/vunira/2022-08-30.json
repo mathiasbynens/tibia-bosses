@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-08-30T08:37:48.375Z",
+	"timestamp": "2022-08-31T03:31:44.825Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 51.29
+			"chance": 51.29,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.25
+			"chance": 39.25,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.74
+			"chance": 31.74,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-09-01T08:38:23.491Z",
+	"timestamp": "2022-09-02T03:25:44.275Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 65.87
+			"chance": 65.87,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "man in the cave",
-			"chance": 23.13
+			"chance": 23.13,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.93
+			"chance": 11.93,
+			"killed": true
 		},
 		{
 			"name": "Dracola",

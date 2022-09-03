@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-09-02T08:37:44.335Z",
+	"timestamp": "2022-09-03T03:20:26.113Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.07
+			"chance": 41.07,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 25.61
+			"chance": 25.61,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 8.07
+			"chance": 8.07,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

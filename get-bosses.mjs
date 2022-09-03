@@ -11,6 +11,7 @@ const bossesToCheck = await page.evaluate(() => {
 		'Burster', // Not a time-based spawn.
 		'draptors', // Not in Bosstiary; Grand Mother Foulscale is tracked separately.
 		'Dreadful Disruptor', // Not a time-based spawn.
+		'Fernfang', // Not in Bosstiary.
 		'Furyosa', // Mini World Change boss; not time-based.
 		'Munster', // Rookgaard boss; not in Bosstiary.
 		'Oodok Witchmaster', // Mini World Change boss; not time-based.

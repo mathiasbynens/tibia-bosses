@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-03T08:37:06.631Z",
+	"timestamp": "2022-09-04T03:23:14.866Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 16.72
+			"chance": 16.72,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -35,12 +37,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
 			"chance": 13.87,
-			"killed":  true
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",

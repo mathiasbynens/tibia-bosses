@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-09-05T08:37:05.310Z",
+	"timestamp": "2022-09-06T03:28:54.977Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.39
+			"chance": 66.39,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 65.93
+			"chance": 65.93,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.05
+			"chance": 15.05,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah The Dazzler",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 7.76
+			"chance": 7.76,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

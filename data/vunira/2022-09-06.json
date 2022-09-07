@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-09-06T08:38:46.797Z",
+	"timestamp": "2022-09-07T03:29:08.667Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.16
+			"chance": 69.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 6.12
+			"chance": 6.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.42
+			"chance": 4.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

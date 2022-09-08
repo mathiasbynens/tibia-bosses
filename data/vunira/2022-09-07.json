@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-09-07T08:38:54.977Z",
+	"timestamp": "2022-09-08T03:25:20.507Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 55.89
+			"chance": 55.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 51.36
+			"chance": 51.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.73
+			"chance": 4.73,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

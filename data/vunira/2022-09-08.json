@@ -1,17 +1,20 @@
 {
-	"timestamp": "2022-09-08T08:38:13.127Z",
+	"timestamp": "2022-09-09T03:22:02.526Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 59.37
+			"chance": 59.37,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 35.15
+			"chance": 35.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.57
+			"chance": 28.57,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16.56
+			"chance": 16.56,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.37
+			"chance": 8.37,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

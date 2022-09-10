@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-09T08:39:26.584Z",
+	"timestamp": "2022-09-10T03:23:46.835Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.88
+			"chance": 26.88,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.16
+			"chance": 15.16,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -35,15 +37,18 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 10.5
+			"chance": 10.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.5
+			"chance": 2.5,
+			"killed": true
 		}
 	]
 }

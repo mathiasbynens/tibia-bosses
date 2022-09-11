@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-09-10T08:38:27.923Z",
+	"timestamp": "2022-09-11T03:22:54.201Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.61
+			"chance": 39.61,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.83
+			"chance": 8.83,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.47
+			"chance": 6.47,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-11T08:37:23.548Z",
+	"timestamp": "2022-09-12T03:31:00.845Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.89
+			"chance": 8.89,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

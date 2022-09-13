@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-12T08:41:01.885Z",
+	"timestamp": "2022-09-13T03:28:27.634Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 10.57
+			"chance": 10.57,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 7.1
+			"chance": 7.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

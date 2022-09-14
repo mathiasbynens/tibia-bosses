@@ -1,21 +1,25 @@
 {
-	"timestamp": "2022-09-13T08:38:52.944Z",
+	"timestamp": "2022-09-14T03:25:44.122Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 78.61
+			"chance": 78.61,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 78.23
+			"chance": 78.23,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.13
+			"chance": 69.13,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 38.13
+			"chance": 38.13,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 12.85
+			"chance": 12.85,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.08
+			"chance": 7.08,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -111,7 +119,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.54
+			"chance": 2.54,
+			"killed": true
 		}
 	]
 }

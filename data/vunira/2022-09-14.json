@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-14T08:39:19.967Z",
+	"timestamp": "2022-09-15T03:30:23.422Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 14.9
+			"chance": 14.9,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 8.46
+			"chance": 8.46,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.26
+			"chance": 5.26,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

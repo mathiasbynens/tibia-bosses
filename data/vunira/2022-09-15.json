@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-15T08:40:31.064Z",
+	"timestamp": "2022-09-16T03:30:27.808Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.08
+			"chance": 41.08,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.8
+			"chance": 8.8,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 7.6
+			"chance": 7.6,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

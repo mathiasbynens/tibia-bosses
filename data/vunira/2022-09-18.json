@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-18T08:37:44.904Z",
+	"timestamp": "2022-09-19T03:31:36.566Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 16.59
+			"chance": 16.59,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.9
+			"chance": 10.9,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 5.3
+			"chance": 5.3,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

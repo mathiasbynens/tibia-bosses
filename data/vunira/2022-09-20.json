@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-09-20T08:41:43.924Z",
+	"timestamp": "2022-09-21T03:30:55.415Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 39.53
+			"chance": 39.53,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "yetis",
-			"chance": 22.33
+			"chance": 22.33,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.53
+			"chance": 15.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 7
+			"chance": 7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.02
+			"chance": 6.02,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 5.49
+			"chance": 5.49,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

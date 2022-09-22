@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-21T08:40:56.688Z",
+	"timestamp": "2022-09-22T03:23:40.777Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.46
+			"chance": 17.46,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.85
+			"chance": 9.85,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 8.82
+			"chance": 8.82,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

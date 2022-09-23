@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-22T08:39:53.238Z",
+	"timestamp": "2022-09-23T03:27:19.040Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 25.41
+			"chance": 25.41,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

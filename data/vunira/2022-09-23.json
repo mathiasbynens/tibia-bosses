@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-23T08:40:06.852Z",
+	"timestamp": "2022-09-24T03:27:05.757Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.51
+			"chance": 24.51,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 18.71
+			"chance": 18.71,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 16.4
+			"chance": 16.4,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

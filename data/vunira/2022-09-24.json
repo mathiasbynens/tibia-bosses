@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-24T08:38:45.559Z",
+	"timestamp": "2022-09-25T03:24:41.819Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 51.48
+			"chance": 51.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.19
+			"chance": 39.19,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 35.76
+			"chance": 35.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

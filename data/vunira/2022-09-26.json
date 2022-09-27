@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-09-26T08:41:03.500Z",
+	"timestamp": "2022-09-27T03:21:49.163Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.23
+			"chance": 69.23,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 59.44
+			"chance": 59.44,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 21.96
+			"chance": 21.96,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 14.94
+			"chance": 14.94,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.08
+			"chance": 7.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

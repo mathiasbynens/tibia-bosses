@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-28T08:41:45.866Z",
+	"timestamp": "2022-09-29T03:27:14.779Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 12.55
+			"chance": 12.55,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.22
+			"chance": 12.22,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.17
+			"chance": 10.17,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah The Dazzler",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.69
+			"chance": 8.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.44
+			"chance": 5.44,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

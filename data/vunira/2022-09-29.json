@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-09-29T08:41:13.701Z",
+	"timestamp": "2022-09-30T03:35:24.639Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 78.3
+			"chance": 78.3,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.24
+			"chance": 20.24,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.12
+			"chance": 14.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.07
+			"chance": 13.07,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.69
+			"chance": 6.69,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

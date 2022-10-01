@@ -1,0 +1,101 @@
+{
+	"timestamp": "2022-10-01T08:40:08.488Z",
+	"bosses": [
+		{
+			"name": "man in the cave",
+			"chance": 50.35
+		},
+		{
+			"name": "Arachir The Ancient One",
+			"chance": 35.83
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.57
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.13
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 21.56
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.28
+		},
+		{
+			"name": "Tzumrah The Dazzler",
+			"chance": 17.47
+		},
+		{
+			"name": "Omrafir",
+			"chance": 15.9
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 14.44
+		},
+		{
+			"name": "Yaga The Crone",
+			"chance": 12.62
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.46
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.64
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.59
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 10.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.26
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.24
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 7.99
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 5.68
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.26
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 3.9
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.51
+		}
+	]
+}

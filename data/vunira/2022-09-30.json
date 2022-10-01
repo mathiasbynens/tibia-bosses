@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-09-30T08:43:29.742Z",
+	"timestamp": "2022-10-01T03:34:02.532Z",
 	"bosses": [
 		{
 			"name": "man in the cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.58
+			"chance": 16.58,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 15.5
+			"chance": 15.5,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah The Dazzler",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -71,11 +76,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.86
+			"chance": 10.86,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 5.25
+			"chance": 5.25,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",

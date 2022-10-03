@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-10-02T08:39:28.924Z",
+	"timestamp": "2022-10-03T03:08:51.839Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 56.1
+			"chance": 56.1,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.05
+			"chance": 41.05,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.21
+			"chance": 28.21,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",

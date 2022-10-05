@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-04T08:41:08.689Z",
+	"timestamp": "2022-10-05T03:13:22.091Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

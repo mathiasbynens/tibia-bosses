@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-06T08:40:50.247Z",
+	"timestamp": "2022-10-07T03:16:46.505Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 25.68
+			"chance": 25.68,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 16.6
+			"chance": 16.6,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.47
+			"chance": 11.47,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-10-07T08:40:37.610Z",
+	"timestamp": "2022-10-08T03:09:36.650Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 37.22
+			"chance": 37.22,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.43
+			"chance": 33.43,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.22
+			"chance": 14.22,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3
+			"chance": 3,
+			"killed": true
 		}
 	]
 }

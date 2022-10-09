@@ -1,0 +1,113 @@
+{
+	"timestamp": "2022-10-09T08:39:05.473Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 62.14
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 41.13
+		},
+		{
+			"name": "Arachir The Ancient One",
+			"chance": 35.81
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.75
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.38
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.35
+		},
+		{
+			"name": "Yaga The Crone",
+			"chance": 17.41
+		},
+		{
+			"name": "midnight panthers",
+			"chance": 16.45
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.86
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.24
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.15
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.99
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.91
+		},
+		{
+			"name": "yetis",
+			"chance": 10.29
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 9.53
+		},
+		{
+			"name": "Massacre",
+			"chance": 8.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.74
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.25
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 7.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.68
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 6.61
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.24
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 5.79
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.49
+		},
+		{
+			"name": "The Voice Of Ruin",
+			"chance": 3.25
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.05
+		}
+	]
+}

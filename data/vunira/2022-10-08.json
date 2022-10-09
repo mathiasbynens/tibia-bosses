@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-08T08:39:34.467Z",
+	"timestamp": "2022-10-09T03:21:24.382Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 16.64
+			"chance": 16.64,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.26
+			"chance": 7.26,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.22
+			"chance": 6.22,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

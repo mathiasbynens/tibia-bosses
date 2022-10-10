@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-10-09T08:39:05.473Z",
+	"timestamp": "2022-10-10T03:23:35.663Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.14
+			"chance": 62.14,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 35.81
+			"chance": 35.81,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.75
+			"chance": 31.75,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.35
+			"chance": 18.35,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 16.45
+			"chance": 16.45,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -43,11 +48,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.15
+			"chance": 13.15,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 9.53
+			"chance": 9.53,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -83,7 +91,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

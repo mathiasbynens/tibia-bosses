@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-10T08:42:10.948Z",
+	"timestamp": "2022-10-11T03:22:13.337Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.84
+			"chance": 14.84,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "yetis",
-			"chance": 13.71
+			"chance": 13.71,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.44
+			"chance": 12.44,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

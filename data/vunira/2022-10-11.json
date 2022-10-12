@@ -1,17 +1,20 @@
 {
-	"timestamp": "2022-10-11T08:41:28.301Z",
+	"timestamp": "2022-10-12T03:23:13.540Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.26
+			"chance": 39.26,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 25
+			"chance": 25,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.17
+			"chance": 10.17,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 10.05
+			"chance": 10.05,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

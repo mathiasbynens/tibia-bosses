@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-12T08:40:25.893Z",
+	"timestamp": "2022-10-13T03:24:20.495Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.33
+			"chance": 21.33,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.29
+			"chance": 15.29,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.11
+			"chance": 5.11,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-13T08:40:45.564Z",
+	"timestamp": "2022-10-14T03:30:47.356Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Feroxa",
-			"chance": 29.85
+			"chance": 29.85,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 10.92
+			"chance": 10.92,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 6.65
+			"chance": 6.65,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

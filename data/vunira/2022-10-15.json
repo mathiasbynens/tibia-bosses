@@ -1,0 +1,113 @@
+{
+	"timestamp": "2022-10-15T08:40:22.698Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 51.57
+		},
+		{
+			"name": "man in the cave",
+			"chance": 34.64
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.74
+		},
+		{
+			"name": "Massacre",
+			"chance": 25.04
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.86
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.52
+		},
+		{
+			"name": "Arachir The Ancient One",
+			"chance": 18.13
+		},
+		{
+			"name": "Zushuka",
+			"chance": 17.54
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.52
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.3
+		},
+		{
+			"name": "midnight panthers",
+			"chance": 16.54
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 14.98
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 14.51
+		},
+		{
+			"name": "Yaga The Crone",
+			"chance": 14.38
+		},
+		{
+			"name": "The Voice Of Ruin",
+			"chance": 13.38
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 11.37
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 10.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.6
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.6
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.97
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.5
+		},
+		{
+			"name": "White Pale",
+			"chance": 5.99
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.51
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.05
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.37
+		}
+	]
+}

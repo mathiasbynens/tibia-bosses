@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-10-15T08:40:22.698Z",
+	"timestamp": "2022-10-16T03:29:00.706Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 51.57
+			"chance": 51.57,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
-			"chance": 34.64
+			"chance": 34.64,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.86
+			"chance": 20.86,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.52
+			"chance": 17.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 14.38
+			"chance": 14.38,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.97
+			"chance": 6.97,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",

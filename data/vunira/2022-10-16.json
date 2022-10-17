@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-16T08:39:20.998Z",
+	"timestamp": "2022-10-17T03:32:54.805Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.61
+			"chance": 29.61,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.56
+			"chance": 28.56,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.35
+			"chance": 21.35,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 4.74
+			"chance": 4.74,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

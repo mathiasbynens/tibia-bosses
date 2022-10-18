@@ -1,17 +1,20 @@
 {
-	"timestamp": "2022-10-17T08:43:14.771Z",
+	"timestamp": "2022-10-18T03:26:48.848Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 79.2
+			"chance": 79.2,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 56.34
+			"chance": 56.34,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-19T08:43:14.316Z",
+	"timestamp": "2022-10-20T03:23:29.537Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.11
+			"chance": 11.11,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-10-21T08:41:52.362Z",
+	"timestamp": "2022-10-22T03:18:04.841Z",
 	"bosses": [
 		{
 			"name": "Diblis The Fair",
-			"chance": 26.84
+			"chance": 26.84,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 25.39
+			"chance": 25.39,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 17.4
+			"chance": 17.4,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Tzumrah The Dazzler",
-			"chance": 9.86
+			"chance": 9.86,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

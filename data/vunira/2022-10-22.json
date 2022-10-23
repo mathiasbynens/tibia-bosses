@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-22T08:40:26.791Z",
+	"timestamp": "2022-10-23T03:22:08.193Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.76
+			"chance": 11.76,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-10-24T08:43:23.610Z",
+	"timestamp": "2022-10-25T03:30:06.312Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.15
+			"chance": 41.15,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 13.55
+			"chance": 13.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 11.9
+			"chance": 11.9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 11.89
+			"chance": 11.89,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",

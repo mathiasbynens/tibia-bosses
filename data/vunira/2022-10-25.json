@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-25T08:43:12.733Z",
+	"timestamp": "2022-10-26T03:15:45.111Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

@@ -1,0 +1,81 @@
+{
+	"timestamp": "2022-10-28T08:40:58.732Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 37.68
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.45
+		},
+		{
+			"name": "man in the cave",
+			"chance": 23.3
+		},
+		{
+			"name": "midnight panthers",
+			"chance": 22.06
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.34
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.24
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 16.24
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.3
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.37
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.92
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.26
+		},
+		{
+			"name": "The Voice Of Ruin",
+			"chance": 9.97
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.04
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.92
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.39
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 6.13
+		},
+		{
+			"name": "yetis",
+			"chance": 5.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 5.34
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.19
+		}
+	]
+}

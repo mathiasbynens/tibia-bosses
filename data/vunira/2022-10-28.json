@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-10-28T08:40:58.732Z",
+	"timestamp": "2022-10-29T03:11:24.367Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.68
+			"chance": 37.68,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "man in the cave",
-			"chance": 23.3
+			"chance": 23.3,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.34
+			"chance": 21.34,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 16.24
+			"chance": 16.24,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.04
+			"chance": 8.04,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.39
+			"chance": 7.39,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 5.34
+			"chance": 5.34,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

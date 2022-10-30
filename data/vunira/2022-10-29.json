@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-10-29T08:38:03.333Z",
+	"timestamp": "2022-10-30T03:17:35.272Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 51.67
+			"chance": 51.67,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 23.42
+			"chance": 23.42,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 18.2
+			"chance": 18.2,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.56
+			"chance": 11.56,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 7.18
+			"chance": 7.18,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

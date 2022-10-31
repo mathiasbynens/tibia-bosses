@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-30T09:34:47.882Z",
+	"timestamp": "2022-10-31T03:55:07.279Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.78
+			"chance": 18.78,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.54
+			"chance": 6.54,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

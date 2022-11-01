@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-10-31T09:36:36.835Z",
+	"timestamp": "2022-11-01T04:12:39.293Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.16
+			"chance": 41.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "yetis",
-			"chance": 17.97
+			"chance": 17.97,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -27,15 +29,18 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.91
+			"chance": 12.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.28
+			"chance": 12.28,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

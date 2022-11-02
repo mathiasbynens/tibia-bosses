@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-01T09:38:09.517Z",
+	"timestamp": "2022-11-02T04:05:11.393Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.22
+			"chance": 12.22,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-02T09:35:44.101Z",
+	"timestamp": "2022-11-03T03:47:41.941Z",
 	"bosses": [
 		{
 			"name": "Diblis The Fair",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 12.88
+			"chance": 12.88,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 11.48
+			"chance": 11.48,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.87
+			"chance": 4.87,
+			"killed": true
 		}
 	]
 }

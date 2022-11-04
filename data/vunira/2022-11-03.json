@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-03T09:34:31.391Z",
+	"timestamp": "2022-11-04T03:53:39.799Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 17.54
+			"chance": 17.54,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 10.96
+			"chance": 10.96,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 10.23
+			"chance": 10.23,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 5.71
+			"chance": 5.71,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

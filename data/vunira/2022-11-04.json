@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-04T09:34:07.498Z",
+	"timestamp": "2022-11-05T03:44:50.164Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 38.34
+			"chance": 38.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.56
+			"chance": 16.56,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.03
+			"chance": 6.03,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

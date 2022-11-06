@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-05T09:33:57.058Z",
+	"timestamp": "2022-11-06T03:44:55.100Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 61.69
+			"chance": 61.69,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.6
+			"chance": 17.6,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 14.02
+			"chance": 14.02,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.37
+			"chance": 7.37,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

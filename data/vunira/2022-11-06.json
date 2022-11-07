@@ -1,17 +1,20 @@
 {
-	"timestamp": "2022-11-06T09:34:03.228Z",
+	"timestamp": "2022-11-07T03:50:22.157Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 78.41
+			"chance": 78.41,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 75.4
+			"chance": 75.4,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 59.77
+			"chance": 59.77,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 10.89
+			"chance": 10.89,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

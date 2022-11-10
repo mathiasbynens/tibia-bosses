@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-09T09:34:45.893Z",
+	"timestamp": "2022-11-10T03:47:14.410Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.53
+			"chance": 15.53,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",

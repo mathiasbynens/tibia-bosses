@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-10T09:35:15.070Z",
+	"timestamp": "2022-11-11T03:47:11.632Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "man in the cave",
-			"chance": 23.4
+			"chance": 23.4,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 17.78
+			"chance": 17.78,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.56
+			"chance": 16.56,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.63
+			"chance": 14.63,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 5.92
+			"chance": 5.92,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

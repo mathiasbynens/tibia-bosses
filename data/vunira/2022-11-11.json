@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-11-11T09:34:29.510Z",
+	"timestamp": "2022-11-12T03:45:44.852Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.41
+			"chance": 40.41,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.21
+			"chance": 40.21,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 27.7
+			"chance": 27.7,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.1
+			"chance": 12.1,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 6.9
+			"chance": 6.9,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

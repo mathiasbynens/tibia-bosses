@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-11-13T09:33:49.533Z",
+	"timestamp": "2022-11-14T03:48:41.852Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 77.74
+			"chance": 77.74,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.16
+			"chance": 69.16,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.63
+			"chance": 18.63,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah The Dazzler",

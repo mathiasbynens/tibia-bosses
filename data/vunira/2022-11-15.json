@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-15T09:33:44.901Z",
+	"timestamp": "2022-11-16T03:44:26.975Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 56.79
+			"chance": 56.79,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.2
+			"chance": 41.2,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 16.56
+			"chance": 16.56,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah The Dazzler",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.09
+			"chance": 15.09,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

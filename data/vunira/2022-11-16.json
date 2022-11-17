@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-16T09:34:02.361Z",
+	"timestamp": "2022-11-17T03:42:38.225Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 39.65
+			"chance": 39.65,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.12
+			"chance": 22.12,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
@@ -135,7 +138,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 2.73
+			"chance": 2.73,
+			"killed": true
 		}
 	]
 }

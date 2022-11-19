@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-11-18T09:33:44.785Z",
+	"timestamp": "2022-11-19T03:42:04.691Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 51.73
+			"chance": 51.73,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 38.41
+			"chance": 38.41,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 14.71
+			"chance": 14.71,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.38
+			"chance": 14.38,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

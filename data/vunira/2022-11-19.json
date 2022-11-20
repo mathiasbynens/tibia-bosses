@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-11-19T09:32:43.702Z",
+	"timestamp": "2022-11-20T03:43:39.589Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 35.97
+			"chance": 35.97,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -107,11 +111,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.46
+			"chance": 6.46,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",

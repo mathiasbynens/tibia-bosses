@@ -1,21 +1,25 @@
 {
-	"timestamp": "2022-11-22T09:33:50.474Z",
+	"timestamp": "2022-11-23T03:38:09.363Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.29
+			"chance": 64.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 61.78
+			"chance": 61.78,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 44.11
+			"chance": 44.11,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.2
+			"chance": 41.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.92
+			"chance": 23.92,
+			"killed": true
 		},
 		{
 			"name": "yetis",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -43,15 +49,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.67
+			"chance": 14.67,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
-			"chance": 14.14
+			"chance": 14.14,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 13.93
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

@@ -1,0 +1,93 @@
+{
+	"timestamp": "2022-11-25T09:32:13.235Z",
+	"bosses": [
+		{
+			"name": "man in the cave",
+			"chance": 50.24
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 42.81
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.45
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 18.89
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.07
+		},
+		{
+			"name": "midnight panthers",
+			"chance": 17.04
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 16.46
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.97
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 14.84
+		},
+		{
+			"name": "Hairman The Huge",
+			"chance": 11.34
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.46
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 8.74
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.77
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.67
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 6.52
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.22
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 5.79
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.91
+		},
+		{
+			"name": "The Voice Of Ruin",
+			"chance": 3.83
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.94
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 1.49
+		}
+	]
+}

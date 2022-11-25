@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-24T09:32:44.129Z",
+	"timestamp": "2022-11-25T03:39:27.923Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "yetis",
-			"chance": 36.81
+			"chance": 36.81,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.53
+			"chance": 13.53,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.16
+			"chance": 7.16,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

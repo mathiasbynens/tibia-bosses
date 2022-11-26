@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-11-25T09:32:13.235Z",
+	"timestamp": "2022-11-26T03:34:51.998Z",
 	"bosses": [
 		{
 			"name": "man in the cave",
-			"chance": 50.24
+			"chance": 50.24,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 14.84
+			"chance": 14.84,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.77
+			"chance": 6.77,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

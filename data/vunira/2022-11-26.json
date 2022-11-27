@@ -1,17 +1,20 @@
 {
-	"timestamp": "2022-11-26T09:32:05.618Z",
+	"timestamp": "2022-11-27T03:41:21.964Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 51.76
+			"chance": 51.76,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 21.9
+			"chance": 21.9,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

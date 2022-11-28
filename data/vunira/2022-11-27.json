@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-27T09:31:53.794Z",
+	"timestamp": "2022-11-28T03:37:49.939Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 18.35
+			"chance": 18.35,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 15.24
+			"chance": 15.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 14.14
+			"chance": 14.14,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.63
+			"chance": 12.63,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 5.3
+			"chance": 5.3,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",

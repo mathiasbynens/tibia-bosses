@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-11-29T09:32:31.061Z",
+	"timestamp": "2022-11-30T03:35:33.950Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.93
+			"chance": 41.93,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 19.55
+			"chance": 19.55,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.6
+			"chance": 5.6,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.91
+			"chance": 4.91,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-11-30T09:32:46.816Z",
+	"timestamp": "2022-12-01T03:40:37.284Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.29
+			"chance": 15.29,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 14.62
+			"chance": 14.62,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
-			"chance": 14.42
+			"chance": 14.42,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

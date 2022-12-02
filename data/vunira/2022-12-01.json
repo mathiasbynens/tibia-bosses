@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-12-01T09:33:01.207Z",
+	"timestamp": "2022-12-02T03:33:37.300Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 59.91
+			"chance": 59.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.76
+			"chance": 11.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",

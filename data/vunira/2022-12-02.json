@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-02T09:31:59.582Z",
+	"timestamp": "2022-12-03T03:31:33.184Z",
 	"bosses": [
 		{
 			"name": "midnight panthers",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

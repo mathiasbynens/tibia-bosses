@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-04T09:32:01.555Z",
+	"timestamp": "2022-12-05T03:31:53.091Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 35.89
+			"chance": 35.89,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.79
+			"chance": 7.79,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",

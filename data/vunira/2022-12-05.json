@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-12-05T09:32:17.837Z",
+	"timestamp": "2022-12-06T03:31:49.769Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.18
+			"chance": 69.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.88
+			"chance": 28.88,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 26.37
+			"chance": 26.37,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

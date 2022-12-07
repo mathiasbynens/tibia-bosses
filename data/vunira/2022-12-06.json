@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-06T09:32:06.712Z",
+	"timestamp": "2022-12-07T03:34:07.247Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.11
+			"chance": 16.11,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 11.98
+			"chance": 11.98,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 9.12
+			"chance": 9.12,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 6.89
+			"chance": 6.89,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

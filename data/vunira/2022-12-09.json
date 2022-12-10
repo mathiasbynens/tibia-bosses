@@ -1,17 +1,20 @@
 {
-	"timestamp": "2022-12-09T09:31:57.482Z",
+	"timestamp": "2022-12-10T03:31:36.111Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 38.47
+			"chance": 38.47,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.75
+			"chance": 37.75,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
-			"chance": 34.56
+			"chance": 34.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",

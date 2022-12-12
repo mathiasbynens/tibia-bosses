@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-11T09:31:54.497Z",
+	"timestamp": "2022-12-12T03:33:56.447Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 35.92
+			"chance": 35.92,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,11 +86,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 5.94
+			"chance": 5.94,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

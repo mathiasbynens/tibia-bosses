@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-12-13T09:32:08.798Z",
+	"timestamp": "2022-12-14T03:33:24.998Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 30.24
+			"chance": 30.24,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 27.05
+			"chance": 27.05,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

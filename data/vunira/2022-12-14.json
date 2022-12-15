@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-14T09:32:08.761Z",
+	"timestamp": "2022-12-15T03:33:49.055Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.63
+			"chance": 16.63,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 15.03
+			"chance": 15.03,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.76
+			"chance": 10.76,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

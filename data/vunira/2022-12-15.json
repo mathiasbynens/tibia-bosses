@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-12-15T09:32:08.448Z",
+	"timestamp": "2022-12-16T03:30:52.839Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 22.91
+			"chance": 22.91,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "yetis",
-			"chance": 17.72
+			"chance": 17.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Voice Of Ruin",
-			"chance": 14.46
+			"chance": 14.46,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

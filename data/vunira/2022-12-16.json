@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-12-16T09:31:56.812Z",
+	"timestamp": "2022-12-17T03:30:42.611Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.94
+			"chance": 28.94,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 20.52
+			"chance": 20.52,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 12.62
+			"chance": 12.62,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.96
+			"chance": 7.96,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

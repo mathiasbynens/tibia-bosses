@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-12-17T09:32:01.303Z",
+	"timestamp": "2022-12-18T03:30:46.039Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.76
+			"chance": 37.76,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.8
+			"chance": 11.8,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

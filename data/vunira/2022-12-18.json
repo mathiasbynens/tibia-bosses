@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-18T09:31:59.504Z",
+	"timestamp": "2022-12-19T03:30:58.516Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.74
+			"chance": 20.74,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 17.4
+			"chance": 17.4,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.65
+			"chance": 16.65,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -127,7 +131,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.94
+			"chance": 2.94,
+			"killed": true
 		}
 	]
 }

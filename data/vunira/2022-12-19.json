@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-19T09:32:03.006Z",
+	"timestamp": "2022-12-20T03:30:48.496Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 57.19
+			"chance": 57.19,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.96
+			"chance": 17.96,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -55,15 +57,18 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 11.91
+			"chance": 11.91,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.49
+			"chance": 11.49,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -87,11 +92,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 7.64
+			"chance": 7.64,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.8
+			"chance": 6.8,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

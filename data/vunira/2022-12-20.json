@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-12-20T09:32:06.253Z",
+	"timestamp": "2022-12-21T03:30:56.240Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 61.86
+			"chance": 61.86,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.31
+			"chance": 39.31,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 26.18
+			"chance": 26.18,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.17
+			"chance": 12.17,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.84
+			"chance": 9.84,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

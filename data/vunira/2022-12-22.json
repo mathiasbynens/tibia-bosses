@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-22T09:31:58.786Z",
+	"timestamp": "2022-12-23T03:31:10.064Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "man in the cave",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.53
+			"chance": 22.53,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.59
+			"chance": 15.59,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.37
+			"chance": 5.37,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

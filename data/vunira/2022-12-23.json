@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-23T09:32:06.813Z",
+	"timestamp": "2022-12-24T03:30:42.768Z",
 	"bosses": [
 		{
 			"name": "midnight panthers",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.75
+			"chance": 16.75,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 9.54
+			"chance": 9.54,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

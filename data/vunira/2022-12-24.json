@@ -1,9 +1,10 @@
 {
-	"timestamp": "2022-12-24T09:32:00.019Z",
+	"timestamp": "2022-12-25T03:30:38.359Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 42.69
+			"chance": 42.69,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 7.35
+			"chance": 7.35,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

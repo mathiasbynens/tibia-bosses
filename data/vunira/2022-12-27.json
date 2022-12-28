@@ -1,5 +1,5 @@
 {
-	"timestamp": "2022-12-27T09:32:04.460Z",
+	"timestamp": "2022-12-28T03:31:04.431Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.75
+			"chance": 6.75,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

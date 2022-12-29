@@ -1,17 +1,20 @@
 {
-	"timestamp": "2022-12-28T09:32:04.877Z",
+	"timestamp": "2022-12-29T03:31:00.496Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 45.49
+			"chance": 45.49,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.31
+			"chance": 39.31,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 14.45
+			"chance": 14.45,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",

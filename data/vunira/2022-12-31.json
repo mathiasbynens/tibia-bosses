@@ -1,13 +1,15 @@
 {
-	"timestamp": "2022-12-31T09:31:49.060Z",
+	"timestamp": "2023-01-01T03:32:50.784Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.07
+			"chance": 69.07,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 19.89
+			"chance": 19.89,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 11.06
+			"chance": 11.06,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -111,7 +114,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 4.61
+			"chance": 4.61,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",

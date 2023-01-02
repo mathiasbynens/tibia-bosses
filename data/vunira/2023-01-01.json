@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-01T09:31:59.256Z",
+	"timestamp": "2023-01-02T03:31:04.010Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 23.1
+			"chance": 23.1,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -51,15 +53,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

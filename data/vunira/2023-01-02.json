@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-01-02T09:31:50.562Z",
+	"timestamp": "2023-01-03T03:30:39.242Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.87
+			"chance": 41.87,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.42
+			"chance": 33.42,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.01
+			"chance": 22.01,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -91,11 +96,13 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 9.55
+			"chance": 9.55,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah The Dazzler",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -119,7 +126,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 5.63
+			"chance": 5.63,
+			"killed": true
 		},
 		{
 			"name": "yetis",
@@ -135,7 +143,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.62
+			"chance": 2.62,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

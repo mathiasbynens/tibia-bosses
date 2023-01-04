@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-01-03T09:32:07.361Z",
+	"timestamp": "2023-01-04T03:31:05.388Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 59.95
+			"chance": 59.95,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 26.31
+			"chance": 26.31,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "man in the cave",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "yetis",

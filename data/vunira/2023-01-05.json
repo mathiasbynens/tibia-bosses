@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-01-05T09:31:59.575Z",
+	"timestamp": "2023-01-06T03:31:02.252Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 61.96
+			"chance": 61.96,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 57.47
+			"chance": 57.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.47
+			"chance": 38.47,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.13
+			"chance": 16.13,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 5.63
+			"chance": 5.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-01-06T09:31:59.780Z",
+	"timestamp": "2023-01-07T03:30:47.968Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.32
+			"chance": 62.32,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.86
+			"chance": 31.86,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 28.81
+			"chance": 28.81,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.99
+			"chance": 18.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +56,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 8.99
+			"chance": 8.99,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

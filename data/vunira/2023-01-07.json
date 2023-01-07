@@ -1,0 +1,101 @@
+{
+	"timestamp": "2023-01-07T09:32:09.430Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 37.93
+		},
+		{
+			"name": "yetis",
+			"chance": 27.05
+		},
+		{
+			"name": "Dracola",
+			"chance": 26.76
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.2
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.96
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.87
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 18.07
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 17.86
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.7
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.18
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 12.81
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.58
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 11.48
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.18
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 10.62
+		},
+		{
+			"name": "The Voice Of Ruin",
+			"chance": 9.51
+		},
+		{
+			"name": "Hairman The Huge",
+			"chance": 9.27
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.49
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 7.81
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 5.92
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.02
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 4.94
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.45
+		}
+	]
+}

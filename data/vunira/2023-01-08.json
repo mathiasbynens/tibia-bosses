@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-08T09:31:56.476Z",
+	"timestamp": "2023-01-09T03:31:09.180Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -27,19 +27,23 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.51
+			"chance": 15.51,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.31
+			"chance": 14.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.37
+			"chance": 13.37,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 13.27
+			"chance": 13.27,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 5.54
+			"chance": 5.54,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

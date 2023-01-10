@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-09T09:32:10.021Z",
+	"timestamp": "2023-01-10T03:31:15.701Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 22.13
+			"chance": 22.13,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

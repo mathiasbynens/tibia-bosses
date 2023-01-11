@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-01-10T09:32:06.067Z",
+	"timestamp": "2023-01-11T03:31:15.594Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 71.97
+			"chance": 71.97,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.01
+			"chance": 52.01,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.33
+			"chance": 39.33,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.07
+			"chance": 27.07,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.29
+			"chance": 22.29,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-01-11T09:34:12.662Z",
+	"timestamp": "2023-01-12T03:31:16.224Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 65.82
+			"chance": 65.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.56
+			"chance": 7.56,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

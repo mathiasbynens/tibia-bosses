@@ -1,29 +1,35 @@
 {
-	"timestamp": "2023-01-13T09:32:06.824Z",
+	"timestamp": "2023-01-14T03:30:51.158Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 77.91
+			"chance": 77.91,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.06
+			"chance": 69.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 61.98
+			"chance": 61.98,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 57.58
+			"chance": 57.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 26.71
+			"chance": 26.71,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "The Voice Of Ruin",
-			"chance": 17.82
+			"chance": 17.82,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.49
+			"chance": 13.49,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,11 +75,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -91,11 +101,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.47
+			"chance": 6.47,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -103,7 +115,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 5.52
+			"chance": 5.52,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

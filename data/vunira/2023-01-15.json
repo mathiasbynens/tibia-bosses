@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-15T09:32:00.898Z",
+	"timestamp": "2023-01-16T03:31:00.918Z",
 	"bosses": [
 		{
 			"name": "Diblis The Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22
+			"chance": 22,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 15.62
+			"chance": 15.62,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

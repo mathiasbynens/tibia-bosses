@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-16T09:32:05.535Z",
+	"timestamp": "2023-01-17T03:31:02.192Z",
 	"bosses": [
 		{
 			"name": "Diblis The Fair",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.79
+			"chance": 16.79,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

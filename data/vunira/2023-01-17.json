@@ -1,0 +1,105 @@
+{
+	"timestamp": "2023-01-17T09:32:14.055Z",
+	"bosses": [
+		{
+			"name": "Diblis The Fair",
+			"chance": 60.4
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 41.89
+		},
+		{
+			"name": "man in the cave",
+			"chance": 34.57
+		},
+		{
+			"name": "Yaga The Crone",
+			"chance": 30.52
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.49
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.13
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 17.96
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.23
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 16.22
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 15.39
+		},
+		{
+			"name": "The Imperor",
+			"chance": 15.15
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 14.75
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 14.38
+		},
+		{
+			"name": "Hairman The Huge",
+			"chance": 12.71
+		},
+		{
+			"name": "midnight panthers",
+			"chance": 11.77
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.4
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.32
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.8
+		},
+		{
+			"name": "Hirintror",
+			"chance": 7.58
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.45
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 7.09
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.03
+		},
+		{
+			"name": "The Voice Of Ruin",
+			"chance": 3.51
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.79
+		}
+	]
+}

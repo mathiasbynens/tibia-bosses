@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-01-17T09:32:14.055Z",
+	"timestamp": "2023-01-18T03:31:43.375Z",
 	"bosses": [
 		{
 			"name": "Diblis The Fair",
-			"chance": 60.4
+			"chance": 60.4,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.89
+			"chance": 41.89,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 30.52
+			"chance": 30.52,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 7.58
+			"chance": 7.58,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 7.09
+			"chance": 7.09,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

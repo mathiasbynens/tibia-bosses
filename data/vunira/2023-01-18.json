@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-01-18T09:32:02.845Z",
+	"timestamp": "2023-01-19T03:32:07.082Z",
 	"bosses": [
 		{
 			"name": "man in the cave",
-			"chance": 50.81
+			"chance": 50.81,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.33
+			"chance": 39.33,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.95
+			"chance": 37.95,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.39
+			"chance": 2.39,
+			"killed": true
 		}
 	]
 }

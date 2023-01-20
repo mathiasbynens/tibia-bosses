@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-19T09:31:57.009Z",
+	"timestamp": "2023-01-20T03:32:24.105Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",

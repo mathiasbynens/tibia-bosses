@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-01-20T09:31:57.477Z",
+	"timestamp": "2023-01-21T03:30:47.547Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.05
+			"chance": 69.05,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 31.38
+			"chance": 31.38,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.39
+			"chance": 17.39,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",

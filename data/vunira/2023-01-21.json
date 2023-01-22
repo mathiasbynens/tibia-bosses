@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-21T09:32:00.220Z",
+	"timestamp": "2023-01-22T03:30:46.809Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.68
+			"chance": 15.68,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

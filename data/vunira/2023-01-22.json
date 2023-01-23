@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-22T09:31:58.612Z",
+	"timestamp": "2023-01-23T03:31:00.649Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 14.8
+			"chance": 14.8,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -75,15 +76,18 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.52
+			"chance": 8.52,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.45
+			"chance": 8.45,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.43
+			"chance": 8.43,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -111,11 +115,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.75
+			"chance": 4.75,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.88
+			"chance": 3.88,
+			"killed": true
 		},
 		{
 			"name": "The Voice Of Ruin",

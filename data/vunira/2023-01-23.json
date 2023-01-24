@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-01-23T09:32:03.195Z",
+	"timestamp": "2023-01-24T03:30:53.099Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 73.68
+			"chance": 73.68,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.47
+			"chance": 33.47,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.86
+			"chance": 28.86,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.5
+			"chance": 9.5,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

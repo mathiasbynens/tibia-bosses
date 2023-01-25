@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-01-24T09:32:02.491Z",
+	"timestamp": "2023-01-25T03:31:06.247Z",
 	"bosses": [
 		{
 			"name": "Xenia",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 11.85
+			"chance": 11.85,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Tzumrah The Dazzler",
-			"chance": 10.36
+			"chance": 10.36,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.31
+			"chance": 6.31,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

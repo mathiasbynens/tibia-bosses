@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-25T09:32:15.191Z",
+	"timestamp": "2023-01-26T03:31:20.474Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.75
+			"chance": 12.75,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 5.33
+			"chance": 5.33,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.85
+			"chance": 2.85,
+			"killed": true
 		}
 	]
 }

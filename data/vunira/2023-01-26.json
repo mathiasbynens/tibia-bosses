@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-01-26T09:31:57.594Z",
+	"timestamp": "2023-01-27T03:30:55.379Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.36
+			"chance": 39.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.25
+			"chance": 21.25,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.17
+			"chance": 21.17,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-01-27T09:32:05.828Z",
+	"timestamp": "2023-01-28T03:30:45.196Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.06
+			"chance": 69.06,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 59.94
+			"chance": 59.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 26.6
+			"chance": 26.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "yetis",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.25
+			"chance": 13.25,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

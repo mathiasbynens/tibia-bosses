@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-01-29T09:32:01.881Z",
+	"timestamp": "2023-01-30T03:31:14.846Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 21.72
+			"chance": 21.72,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.63
+			"chance": 19.63,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.27
+			"chance": 19.27,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.71
+			"chance": 8.71,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-01-30T09:32:00.325Z",
+	"timestamp": "2023-01-31T03:31:34.888Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.9
+			"chance": 41.9,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 30.93
+			"chance": 30.93,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.22
+			"chance": 18.22,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.89
+			"chance": 10.89,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",

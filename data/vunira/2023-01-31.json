@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-01-31T09:32:07.492Z",
+	"timestamp": "2023-02-01T03:35:23.248Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 28.89
+			"chance": 28.89,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 27.93
+			"chance": 27.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 23.55
+			"chance": 23.55,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.23
+			"chance": 7.23,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

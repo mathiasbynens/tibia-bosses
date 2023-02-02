@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-02-01T09:31:59.700Z",
+	"timestamp": "2023-02-02T03:31:15.004Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 36.04
+			"chance": 36.04,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

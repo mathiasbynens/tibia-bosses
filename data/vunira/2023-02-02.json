@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-02-02T09:32:01.327Z",
+	"timestamp": "2023-02-03T03:32:57.976Z",
 	"bosses": [
 		{
 			"name": "man in the cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.36
+			"chance": 39.36,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 10.76
+			"chance": 10.76,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.51
+			"chance": 9.51,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

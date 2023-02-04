@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-02-03T09:31:57.102Z",
+	"timestamp": "2023-02-04T03:30:50.107Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.07
+			"chance": 69.07,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
-			"chance": 43.67
+			"chance": 43.67,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 12.47
+			"chance": 12.47,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.59
+			"chance": 8.59,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

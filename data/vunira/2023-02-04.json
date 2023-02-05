@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-02-04T09:31:55.468Z",
+	"timestamp": "2023-02-05T03:32:34.786Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 16.52
+			"chance": 16.52,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 11.45
+			"chance": 11.45,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

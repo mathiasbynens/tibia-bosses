@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-02-06T09:32:06.251Z",
+	"timestamp": "2023-02-07T03:31:11.362Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.06
+			"chance": 52.06,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.94
+			"chance": 41.94,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 25.65
+			"chance": 25.65,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.74
+			"chance": 15.74,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

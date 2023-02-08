@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-02-07T09:31:58.930Z",
+	"timestamp": "2023-02-08T03:33:11.748Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 11.13
+			"chance": 11.13,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 7
+			"chance": 7,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.37
+			"chance": 6.37,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",

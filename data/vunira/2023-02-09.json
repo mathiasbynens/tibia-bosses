@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-02-09T09:32:09.710Z",
+	"timestamp": "2023-02-10T03:34:49.788Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 73.94
+			"chance": 73.94,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 24.44
+			"chance": 24.44,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 16.7
+			"chance": 16.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

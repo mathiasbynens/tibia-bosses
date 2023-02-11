@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-02-10T09:31:55.198Z",
+	"timestamp": "2023-02-11T03:31:14.196Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 46.49
+			"chance": 46.49,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 26.81
+			"chance": 26.81,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.12
+			"chance": 6.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

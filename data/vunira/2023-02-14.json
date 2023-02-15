@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-02-14T09:32:27.477Z",
+	"timestamp": "2023-02-15T03:33:39.744Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 71.98
+			"chance": 71.98,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.11
+			"chance": 52.11,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 21.9
+			"chance": 21.9,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 19.51
+			"chance": 19.51,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.15
+			"chance": 7.15,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

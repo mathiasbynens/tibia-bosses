@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-02-17T09:31:59.210Z",
+	"timestamp": "2023-02-18T03:30:58.834Z",
 	"bosses": [
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 36.15
+			"chance": 36.15,
+			"killed": true
 		},
 		{
 			"name": "man in the cave",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.48
+			"chance": 17.48,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",

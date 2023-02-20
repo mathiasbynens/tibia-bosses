@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-02-19T09:32:03.276Z",
+	"timestamp": "2023-02-20T03:33:42.041Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.3
+			"chance": 39.3,
+			"killed": true
 		},
 		{
 			"name": "yetis",
-			"chance": 27.25
+			"chance": 27.25,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.6
+			"chance": 17.6,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.73
+			"chance": 14.73,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -83,15 +89,18 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.93
+			"chance": 11.93,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -115,7 +124,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 5.97
+			"chance": 5.97,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

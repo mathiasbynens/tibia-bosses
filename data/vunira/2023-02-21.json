@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-02-21T09:31:57.988Z",
+	"timestamp": "2023-02-22T03:33:17.568Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 38.95
+			"chance": 38.95,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.26
+			"chance": 14.26,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

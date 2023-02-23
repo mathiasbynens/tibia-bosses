@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-02-22T09:32:18.528Z",
+	"timestamp": "2023-02-23T03:31:57.889Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 71.99
+			"chance": 71.99,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.37
+			"chance": 62.37,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.09
+			"chance": 52.09,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 17.7
+			"chance": 17.7,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,15 +52,18 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.62
+			"chance": 16.62,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.56
+			"chance": 16.56,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.97
+			"chance": 14.97,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -67,7 +75,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +84,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -87,7 +97,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 6.89
+			"chance": 6.89,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

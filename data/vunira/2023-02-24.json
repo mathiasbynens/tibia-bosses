@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-02-24T09:32:06.915Z",
+	"timestamp": "2023-02-25T03:32:56.880Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 36.25
+			"chance": 36.25,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

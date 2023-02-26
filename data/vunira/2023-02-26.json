@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-02-26T09:31:52.705Z",
+	"bosses": [
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 18.41
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.54
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.01
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 14.19
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.25
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 11.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.55
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.35
+		},
+		{
+			"name": "Hairman The Huge",
+			"chance": 9.75
+		},
+		{
+			"name": "The Voice Of Ruin",
+			"chance": 9.4
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.44
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.43
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.43
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 5.32
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.07
+		}
+	]
+}

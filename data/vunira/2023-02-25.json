@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-02-25T09:31:52.220Z",
+	"timestamp": "2023-02-26T03:36:08.326Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.51
+			"chance": 67.51,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.66
+			"chance": 28.66,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.13
+			"chance": 23.13,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "midnight panthers",
-			"chance": 16.7
+			"chance": 16.7,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.87
+			"chance": 9.87,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 7.29
+			"chance": 7.29,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

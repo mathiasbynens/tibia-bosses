@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-02-26T09:31:52.705Z",
+	"timestamp": "2023-02-27T03:33:48.201Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.43
+			"chance": 8.43,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

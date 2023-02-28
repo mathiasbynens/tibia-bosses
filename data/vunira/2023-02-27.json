@@ -1,33 +1,40 @@
 {
-	"timestamp": "2023-02-27T09:32:21.939Z",
+	"timestamp": "2023-02-28T03:33:42.213Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
-			"chance": 23.09
+			"chance": 23.09,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.37
+			"chance": 17.37,
+			"killed": true
 		},
 		{
 			"name": "Yaga The Crone",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.28
+			"chance": 16.28,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.68
+			"chance": 15.68,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.06
+			"chance": 15.06,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Hairman The Huge",
-			"chance": 9.75
+			"chance": 9.75,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.45
+			"chance": 5.45,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

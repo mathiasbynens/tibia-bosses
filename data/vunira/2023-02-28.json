@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-02-28T09:32:42.604Z",
+	"timestamp": "2023-03-01T03:37:19.564Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.16
+			"chance": 27.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panthers",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.59
+			"chance": 9.59,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

@@ -1,16 +1,13 @@
 import fs from 'node:fs/promises';
-import { escape as escapeHtml, startCase } from 'lodash-es';
+import { escape as escapeHtml } from 'lodash-es';
 import { minify as minifyHtml } from 'html-minifier-terser';
 
-const slugify = (part) => {
-	const first = part.at(0);
-	// E.g. `'midnight panthers'`.
-	if (/\p{Lowercase}/u.test(first) && part.at(-1) === 's') {
-		const startCased = startCase(part);
-		const singularized = startCased.slice(0, -1);
-		part = singularized;
+const slugify = (name) => {
+	// Deal with lowercase names, e.g. `'midnight panther'`.
+	if (/^\p{Lowercase}/u.test(name)) {
+		name = name.replaceAll(/\b\p{Lowercase}/gu, (firstLetter) => firstLetter.toUpperCase());
 	}
-	const underscored = part
+	const underscored = name
 		.replaceAll(' ', '_')
 		.replaceAll('_The_', '_the_')
 		.replaceAll('_Of_', '_of_');

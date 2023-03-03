@@ -2,7 +2,7 @@
 	"timestamp": "2022-09-17T03:19:00.558Z",
 	"bosses": [
 		{
-			"name": "man in the cave",
+			"name": "Man in the Cave",
 			"chance": 50.26,
 			"killed": true
 		},
@@ -30,7 +30,7 @@
 			"killed": true
 		},
 		{
-			"name": "midnight panthers",
+			"name": "midnight panther",
 			"chance": 21.97
 		},
 		{
@@ -94,7 +94,7 @@
 			"chance": 5.63
 		},
 		{
-			"name": "yetis",
+			"name": "yeti",
 			"chance": 5.39
 		},
 		{

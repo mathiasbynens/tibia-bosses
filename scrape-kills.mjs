@@ -7,8 +7,16 @@ const latestBossDataPath = './data/vunira/latest.json';
 const json = await fs.readFile(latestBossDataPath, 'utf8');
 const bossData = JSON.parse(json);
 
+// Map from upstreamName => prettyName.
+// Keep this in sync with get-bosses.mjs.
+const NAME_MAPPINGS = new Map([
+	['midnight panthers', 'midnight panther'],
+	['yetis', 'yeti'],
+]);
+
 const normalize = (bossName) => {
-	return bossName.toLowerCase();
+	const prettyName = NAME_MAPPINGS.get(bossName);
+	return prettyName || bossName.toLowerCase();
 };
 
 const getCreaturesKilledSinceServerSave = async () => {

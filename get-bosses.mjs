@@ -19,17 +19,35 @@ const bossesToCheck = await page.evaluate(() => {
 		'undead cavebears', // Not in Bosstiary.
 	]);
 
+	// Map from upstreamName => prettyName.
+	// Keep this in sync with scrape-kills.mjs.
+	const NAME_MAPPINGS = new Map([
+		// Bosses.
+		['man in the cave', 'Man in the Cave'],
+		// Boss-like creatures.
+		['midnight panthers', 'midnight panther'],
+		['yetis', 'yeti'],
+	]);
+
+	const toPrettyName = (upstreamName) => {
+		const prettyName = NAME_MAPPINGS.get(upstreamName);
+		return prettyName || upstreamName;
+	};
+
 	const rows = document.querySelectorAll('#myTable tr:has(span[style="color: green; font-weight: bold"])');
 	const bosses = [];
 	for (const row of rows) {
-		const boss = row.querySelector('b').textContent.trim();
+		const boss = toPrettyName(row.querySelector('b').textContent.trim());
 		if (UNINTERESTING_BOSSES.has(boss)) continue;
 		const chanceCell = row.querySelector('td:has(span[style="color: green; font-weight: bold"]');
 		if (!chanceCell) continue;
 		const chance = chanceCell.textContent.trim();
 		if (chance === 'No') continue;
 		const percentage = Number(chance.match(/([^%)]+)%/)[1]);
-		bosses.push({ name: boss, chance: percentage });
+		bosses.push({
+			name: boss,
+			chance: percentage,
+		});
 	}
 	bosses.sort((a, b) => {
 		return b.chance - a.chance;

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-02T09:32:42.247Z",
+	"timestamp": "2023-03-03T04:11:59.128Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

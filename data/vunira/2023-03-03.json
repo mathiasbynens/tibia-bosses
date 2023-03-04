@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-03T09:32:05.827Z",
+	"timestamp": "2023-03-04T03:31:44.128Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 79.77
+			"chance": 79.77,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.36
+			"chance": 62.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.02
+			"chance": 7.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.14
+			"chance": 2.14,
+			"killed": true
 		}
 	]
 }

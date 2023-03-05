@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-04T09:31:55.196Z",
+	"timestamp": "2023-03-05T03:35:43.370Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.28
+			"chance": 64.28,
+			"killed": true
 		},
 		{
 			"name": "Arachir The Ancient One",
-			"chance": 58.11
+			"chance": 58.11,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

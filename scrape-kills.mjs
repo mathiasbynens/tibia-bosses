@@ -2,22 +2,92 @@
 // stats (which happens ~6 hours before server save).
 
 import * as fs from 'node:fs/promises';
+import {toPrettyName} from './normalize-kill-stats-names.mjs';
 
 const latestBossDataPath = './data/vunira/latest.json';
 const json = await fs.readFile(latestBossDataPath, 'utf8');
 const bossData = JSON.parse(json);
 
-// Map from upstreamName => prettyName.
-// Keep this in sync with get-bosses.mjs.
-const NAME_MAPPINGS = new Map([
-	['midnight panthers', 'midnight panther'],
-	['yetis', 'yeti'],
+// “Interesting” bosses are bosses that we want to report kills of,
+// regardless of whether or not we thought they were “on chance”. This
+// includes bosses that are never “on chance” such as Burster and
+// Mahatheb.
+// Note: Keep this in sync with https://github.com/tibiamaps/tibia-kill-stats/blob/31b817dc8d789549eb62a5f4614ca7753db878e8/analyze-bosses.mjs#LL300C24-L374C6.
+const INTERESTING_BOSSES = new Set([
+	'Arachir the Ancient One',
+	'Arthom the Hunter',
+	'Barbaria',
+	'Battlemaster Zunzu',
+	'Big Boss Trolliver',
+	'Burster',
+	'Captain Jones',
+	'Countess Sorrow',
+	'Devovorga',
+	'Dharalion',
+	'Diblis the Fair',
+	'Dracola',
+	'Dreadful Disruptor',
+	'Dreadmaw',
+	'Elvira Hammerthrust',
+	'Ferumbras',
+	'Flamecaller Zazrak',
+	'Fleabringer',
+	'Foreman Kneebiter',
+	'Furyosa',
+	'General Murius',
+	'Ghazbaran',
+	'Grandfather Tridian',
+	'Gravelord Oshuran',
+	'Groam',
+	'Grorlam',
+	'Hairman the Huge',
+	'Hatebreeder',
+	'High Templar Cobrass',
+	'Hirintror',
+	'Horestis',
+	'Jesse the Wicked',
+	'Mahatheb',
+	'Man in the Cave',
+	'Massacre',
+	'Morgaroth',
+	'Mornenion',
+	'Morshabaal',
+	'Mr. Punish',
+	'Ocyakao',
+	'Omrafir',
+	'Oodok Witchmaster',
+	'Orshabaal',
+	'Robby the Reckless',
+	'Rotworm Queen',
+	'Rukor Zad',
+	'Shlorg',
+	'Sir Valorcrest',
+	'Smuggler Baron Silvertoe',
+	'The Abomination',
+	'The Big Bad One',
+	'The Evil Eye',
+	'The Frog Prince',
+	'The Handmaiden',
+	'The Hungerer',
+	'The Imperor',
+	'The Manhunter',
+	'The Mean Masher',
+	'The Old Whopper',
+	'The Pale Count',
+	'The Plasmother',
+	'The Voice of Ruin',
+	'The Welter',
+	'Tyrn',
+	'Tzumrah the Dazzler',
+	'Warlord Ruzad',
+	'White Pale',
+	'Xenia',
+	'Yaga the Crone',
+	'Yakchal',
+	'Zarabustor',
+	'Zevelon Duskbringer',
+	'Zushuka',
 ]);
-
-const normalize = (bossName) => {
-	const prettyName = NAME_MAPPINGS.get(bossName);
-	return prettyName || bossName.toLowerCase();
-};
 
 const getCreaturesKilledSinceServerSave = async () => {
 	const response = await fetch('https://api.tibiadata.com/v3/killstatistics/Vunira');
@@ -27,18 +97,30 @@ const getCreaturesKilledSinceServerSave = async () => {
 	for (const entry of entries) {
 		const hasBeenKilledSinceServerSave = entry.last_day_killed > 0;
 		if (hasBeenKilledSinceServerSave) {
-			const normalized = normalize(entry.race);
+			const normalized = toPrettyName(entry.race);
 			creaturesKilledSinceServerSave.add(normalized);
 		}
 	}
 	return creaturesKilledSinceServerSave;
 };
 
+const handledBosses = new Set();
 const creaturesKilledSinceServerSave = await getCreaturesKilledSinceServerSave();
 for (const boss of bossData.bosses) {
-	const normalized = normalize(boss.name);
-	if (creaturesKilledSinceServerSave.has(normalized)) {
+	const name = boss.name;
+	if (creaturesKilledSinceServerSave.has(name)) {
 		boss.killed = true;
+	}
+	handledBosses.add(name);
+}
+for (const creature of creaturesKilledSinceServerSave) {
+	if (handledBosses.has(creature)) continue;
+	if (INTERESTING_BOSSES.has(creature)) {
+		bossData.bosses.push({
+			name: creature,
+			chance: 0,
+			killed: true,
+		});
 	}
 }
 bossData.timestamp = new Date().toISOString();

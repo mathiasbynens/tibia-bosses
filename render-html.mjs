@@ -20,19 +20,29 @@ const formatNumber = (number) => {
 };
 
 const render = (data) => {
-	const output = ['<div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
+	const checkOutput = ['<h2>Bosses to check</h2><div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
+	const killedOutput = ['<h2>Recently killed bosses</h2><div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
+	let includeKilledOutput = false;
 	for (const boss of data.bosses) {
 		const wikiSlug = slugify(boss.name);
 		const imageSlug = wikiSlug.toLowerCase().replaceAll('_', '-');
-		output.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.gif" width="64" height="64" alt=""> ${boss.killed ? '<s>' : ''}${
-			escapeHtml(
-				boss.name
-					.replaceAll(' The ', ' the ')
-					.replaceAll(' Of ', ' of ')
-			)
-		}${boss.killed ? '</s>' : ''}${boss.killed ? ' (killed)' : ''}</a><td>${boss.killed ? '<s>' : ''}${formatNumber(boss.chance)}${boss.killed ? '</s>' : ''}`);
+		const niceName = boss.name
+			.replaceAll(' The ', ' the ')
+			.replaceAll(' Of ', ' of ');
+		if (boss.killed) {
+			includeKilledOutput = true;
+			killedOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.gif" width="64" height="64" alt=""> ${escapeHtml(niceName)} (killed)</a><td><s>${formatNumber(boss.chance)}</s>`);
+			continue;
+		}
+		checkOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.gif" width="64" height="64" alt=""> ${escapeHtml(niceName)}</a><td>${formatNumber(boss.chance)}`);
 	}
-	output.push(`</table></div><p>Last updated on <time>${escapeHtml(data.timestamp)}</time>.`);
+	checkOutput.push('</table></div>');
+	killedOutput.push('</table></div>');
+	const output = [
+		includeKilledOutput ? killedOutput.join('') : '',
+		checkOutput.join(''),
+		`<p>Last updated on <time>${escapeHtml(data.timestamp)}</time>.`,
+	];
 	const html = output.join('');
 	return html;
 };

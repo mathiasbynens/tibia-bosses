@@ -23,7 +23,7 @@ const render = (data) => {
 	const output = ['<div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
 	for (const boss of data.bosses) {
 		const wikiSlug = slugify(boss.name);
-		const imageSlug = wikiSlug.replaceAll('_', '-');
+		const imageSlug = wikiSlug.toLowerCase().replaceAll('_', '-');
 		output.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.gif" width="64" height="64" alt=""> ${boss.killed ? '<s>' : ''}${
 			escapeHtml(
 				boss.name

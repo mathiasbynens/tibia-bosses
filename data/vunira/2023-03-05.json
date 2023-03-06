@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-05T09:31:56.333Z",
+	"timestamp": "2023-03-06T03:33:57.879Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 51.06
+			"chance": 51.06,
+			"killed": true
 		},
 		{
 			"name": "Diblis The Fair",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.39
+			"chance": 17.39,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 8.81
+			"chance": 8.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -119,7 +123,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.98
+			"chance": 4.98,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -14,6 +14,11 @@ const bossData = JSON.parse(json);
 // Mahatheb.
 // Note: Keep this in sync with https://github.com/tibiamaps/tibia-kill-stats/blob/31b817dc8d789549eb62a5f4614ca7753db878e8/analyze-bosses.mjs#LL300C24-L374C6.
 const INTERESTING_BOSSES = new Set([
+	// Boss-like creatures.
+	'draptor',
+	'midnight panther',
+	'yeti',
+	// Bosses.
 	'Arachir the Ancient One',
 	'Arthom the Hunter',
 	'Barbaria',

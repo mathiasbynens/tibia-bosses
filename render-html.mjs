@@ -31,7 +31,7 @@ const render = (data) => {
 			.replaceAll(' Of ', ' of ');
 		if (boss.killed) {
 			includeKilledOutput = true;
-			killedOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.webp" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)} (killed)</a><td><s>${formatNumber(boss.chance)}</s>`);
+			killedOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.webp" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)} (killed)</a><td><s>${boss.chance ? formatNumber(boss.chance) : '?'}</s>`);
 			continue;
 		}
 		checkOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.gif" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)}</a><td>${formatNumber(boss.chance)}`);

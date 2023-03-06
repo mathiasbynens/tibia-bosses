@@ -1,6 +1,10 @@
 // Map from killStatsName => prettyName.
 // Note: Keep this in sync with https://github.com/tibiamaps/tibia-kill-stats/blob/31b817dc8d789549eb62a5f4614ca7753db878e8/normalize-names.mjs#L5.
 const normalizedToPrettyNames = new Map([
+	// Rare boss-like Bestiary creatures.
+	['draptors', 'draptor'],
+	['midnight panthers', 'midnight panther'],
+	['yetis', 'yeti'],
 	// Bosses and boss-like creatures.
 	['A Greedy Eye', 'A Greedy Eye'],
 	['A Shielded Astral Glyph', 'A Shielded Astral Glyph'],

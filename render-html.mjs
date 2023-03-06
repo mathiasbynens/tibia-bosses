@@ -34,7 +34,7 @@ const render = (data) => {
 			killedOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.webp" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)} (killed)</a><td><s>${boss.chance ? formatNumber(boss.chance) : '?'}</s>`);
 			continue;
 		}
-		checkOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.gif" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)}</a><td>${formatNumber(boss.chance)}`);
+		checkOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.webp" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)}</a><td>${formatNumber(boss.chance)}`);
 	}
 	checkOutput.push('</table></div>');
 	killedOutput.push('</table></div>');

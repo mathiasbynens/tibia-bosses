@@ -52,8 +52,9 @@
 			"killed": true
 		},
 		{
-			"name": "Hairman The Huge",
-			"chance": 13.93
+			"name": "Hairman the Huge",
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -122,11 +123,6 @@
 		},
 		{
 			"name": "Grorlam",
-			"chance": 0,
-			"killed": true
-		},
-		{
-			"name": "Hairman the Huge",
 			"chance": 0,
 			"killed": true
 		},

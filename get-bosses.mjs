@@ -30,8 +30,11 @@ const bossesToCheck = await page.evaluate(() => {
 	]);
 
 	const toPrettyName = (upstreamName) => {
-		const prettyName = NAME_MAPPINGS.get(upstreamName);
-		return prettyName || upstreamName;
+		const prettyName = NAME_MAPPINGS.get(upstreamName) ?? upstreamName;
+		const prettierName = prettyName
+			.replaceAll(' The ', ' the ')
+			.replaceAll(' Of ', ' of ');
+		return prettierName;
 	};
 
 	const rows = document.querySelectorAll('#myTable tr:has(span[style="color: green; font-weight: bold"])');

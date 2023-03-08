@@ -25,7 +25,11 @@ const render = (data) => {
 	let includeKilledOutput = false;
 	for (const boss of data.bosses) {
 		const wikiSlug = slugify(boss.name);
-		const imageSlug = wikiSlug.toLowerCase().replaceAll('_', '-');
+		const imageSlug = wikiSlug
+			.toLowerCase()
+			.replaceAll('_', '-')
+			.replaceAll('\'', '')
+			.replaceAll('.', '');
 		const niceName = boss.name
 			.replaceAll(' The ', ' the ')
 			.replaceAll(' Of ', ' of ');

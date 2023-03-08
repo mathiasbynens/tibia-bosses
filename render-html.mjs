@@ -22,6 +22,7 @@ const formatNumber = (number) => {
 const render = (data) => {
 	const checkOutput = ['<h2>Bosses to check</h2><div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
 	const killedOutput = ['<h2>Recently killed bosses</h2><div class="table-wrapper"><table><thead><tr><th>Boss<th>Confidence<tbody>'];
+	let includeCheckOutput = false;
 	let includeKilledOutput = false;
 	for (const boss of data.bosses) {
 		const wikiSlug = slugify(boss.name);
@@ -38,13 +39,14 @@ const render = (data) => {
 			killedOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.webp" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)} (killed)</a><td><s>${boss.chance ? formatNumber(boss.chance) : '?'}</s>`);
 			continue;
 		}
+		includeCheckOutput = true;
 		checkOutput.push(`<tr><td><a href="https://tibia.fandom.com/wiki/${wikiSlug}"><img src="_img/${imageSlug}.webp" width="64" height="64" decoding="async" alt=""> ${escapeHtml(niceName)}</a><td>${formatNumber(boss.chance)}`);
 	}
 	checkOutput.push('</table></div>');
 	killedOutput.push('</table></div>');
 	const output = [
 		includeKilledOutput ? killedOutput.join('') : '',
-		checkOutput.join(''),
+		includeCheckOutput ? checkOutput.join('') : '',
 		`<p>Last updated on <time>${escapeHtml(data.timestamp)}</time>.`,
 	];
 	const html = output.join('');

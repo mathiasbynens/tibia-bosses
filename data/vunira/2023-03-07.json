@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-07T09:32:32.166Z",
+	"timestamp": "2023-03-08T03:34:45.532Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 14.12
+			"chance": 14.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman The Huge",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.04
+			"chance": 9.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +119,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.24
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

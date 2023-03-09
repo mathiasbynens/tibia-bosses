@@ -53,11 +53,15 @@ const render = (data) => {
 	return html;
 };
 
-const json = await fs.readFile('./data/vunira/latest.json', 'utf8');
+const world = process.argv[2] ?? 'Vunira';
+const worldSlug = world.toLowerCase();
+const json = await fs.readFile(`./data/${worldSlug}/latest.json`, 'utf8');
 const data = JSON.parse(json);
 
 const htmlTemplate = await fs.readFile('./templates/index.html', 'utf8');
-const html = htmlTemplate.toString().replace('%%%DATA%%%', render(data));
+const html = htmlTemplate.toString()
+	.replaceAll('%%%WORLD%%%', world)
+	.replace('%%%DATA%%%', render(data));
 const minifiedHtml = await minifyHtml(html, {
 	collapseBooleanAttributes: true,
 	collapseInlineTagWhitespace: false,
@@ -80,4 +84,4 @@ const minifiedHtml = await minifyHtml(html, {
 	sortAttributes: true,
 	sortClassName: true,
 });
-await fs.writeFile('./dist/index.html', minifiedHtml);
+await fs.writeFile(`./dist/${worldSlug}.html`, minifiedHtml);

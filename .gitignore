@@ -1,4 +1,4 @@
-dist/index.html
+dist/*.html
 
 # Installed npm modules
 node_modules

@@ -3,8 +3,8 @@
 	"scripts": {
 		"build": "npm run scrape-bosses && npm run render",
 		"scrape-bosses": "./scrape-bosses.sh",
-		"scrape-kills": "node --no-warnings scrape-kills.mjs",
-		"render": "node render-html.mjs"
+		"scrape-kills": "./scrape-kills.sh",
+		"render": "./render-html.sh"
 	},
 	"devDependencies": {
 		"html-minifier-terser": "^7.0.0",

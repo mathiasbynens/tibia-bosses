@@ -4,7 +4,8 @@
 import * as fs from 'node:fs/promises';
 import {toPrettyName} from './normalize-kill-stats-names.mjs';
 
-const latestBossDataPath = './data/vunira/latest.json';
+const world = process.argv[2] ?? 'Vunira';
+const latestBossDataPath = `./data/${world.toLowerCase()}/latest.json`;
 const json = await fs.readFile(latestBossDataPath, 'utf8');
 const bossData = JSON.parse(json);
 
@@ -94,8 +95,8 @@ const INTERESTING_BOSSES = new Set([
 	'Zushuka',
 ]);
 
-const getCreaturesKilledSinceServerSave = async () => {
-	const response = await fetch('https://api.tibiadata.com/v3/killstatistics/Vunira');
+const getCreaturesKilledSinceServerSave = async (world) => {
+	const response = await fetch(`https://api.tibiadata.com/v3/killstatistics/${world}`);
 	const data = await response.json();
 	const entries = data.killstatistics.entries;
 	const creaturesKilledSinceServerSave = new Set();
@@ -110,7 +111,7 @@ const getCreaturesKilledSinceServerSave = async () => {
 };
 
 const handledBosses = new Set();
-const creaturesKilledSinceServerSave = await getCreaturesKilledSinceServerSave();
+const creaturesKilledSinceServerSave = await getCreaturesKilledSinceServerSave(world);
 for (const boss of bossData.bosses) {
 	const name = boss.name;
 	if (creaturesKilledSinceServerSave.has(name)) {

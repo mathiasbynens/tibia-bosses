@@ -2,7 +2,8 @@ import puppeteer from 'puppeteer';
 
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
-await page.goto('https://guildstats.eu/bosses?rook=0&world=Vunira');
+const world = process.argv[2] ?? 'Vunira';
+await page.goto(`https://guildstats.eu/bosses?rook=0&world=${encodeURIComponent(world)}`);
 
 const bossesToCheck = await page.evaluate(() => {
 	const UNINTERESTING_BOSSES = new Set([

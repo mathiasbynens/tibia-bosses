@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-08T09:32:15.469Z",
+	"timestamp": "2023-03-09T03:34:50.384Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.06
+			"chance": 38.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,11 +77,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

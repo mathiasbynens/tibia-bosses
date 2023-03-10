@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-09T09:32:21.155Z",
+	"timestamp": "2023-03-10T03:36:14.928Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 43
+			"chance": 43,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.58
+			"chance": 33.58,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 13.16
+			"chance": 13.16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -128,6 +131,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.27
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

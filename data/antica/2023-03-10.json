@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-10T09:32:14.116Z",
+	"timestamp": "2023-03-11T03:30:44.060Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-11T09:31:52.335Z",
+	"timestamp": "2023-03-12T03:31:03.843Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
-			"chance": 25.1
+			"chance": 25.1,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.81
+			"chance": 19.81,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.82
+			"chance": 18.82,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.74
+			"chance": 15.74,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 12.34
+			"chance": 12.34,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -148,6 +155,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.63
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

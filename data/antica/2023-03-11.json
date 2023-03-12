@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-11T09:31:49.100Z",
+	"timestamp": "2023-03-12T03:31:03.028Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.42
+			"chance": 79.42,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.87
+			"chance": 28.87,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13
+			"chance": 13,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 7.11
+			"chance": 7.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +109,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 1.92
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-12T09:32:06.666Z",
+	"timestamp": "2023-03-13T03:30:50.530Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 27.94
+			"chance": 27.94,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.37
+			"chance": 24.37,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.64
+			"chance": 17.64,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 13.46
+			"chance": 13.46,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.32
+			"chance": 9.32,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.21
+			"chance": 7.21,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -115,7 +121,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 4.6
+			"chance": 4.6,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +135,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.18
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

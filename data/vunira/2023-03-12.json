@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-12T09:32:11.330Z",
+	"timestamp": "2023-03-13T03:30:51.338Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.55
+			"chance": 22.55,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -116,6 +118,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.04
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

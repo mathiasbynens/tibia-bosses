@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-12T09:32:01.768Z",
+	"timestamp": "2023-03-13T03:30:49.942Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 16.1
+			"chance": 16.1,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 12.69
+			"chance": 12.69,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -95,7 +98,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 1.63
+			"chance": 1.63,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

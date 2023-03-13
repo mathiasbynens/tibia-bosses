@@ -27,7 +27,9 @@ const INTERESTING_BOSSES = new Set([
 	'Big Boss Trolliver',
 	'Burster',
 	'Captain Jones',
+	'Chizzoron the Distorter',
 	'Countess Sorrow',
+	'Cublarc the Plunderer',
 	'Devovorga',
 	'Dharalion',
 	'Diblis the Fair',
@@ -92,6 +94,7 @@ const INTERESTING_BOSSES = new Set([
 	'Yakchal',
 	'Zarabustor',
 	'Zevelon Duskbringer',
+	'Zulazza the Corruptor',
 	'Zushuka',
 ]);
 

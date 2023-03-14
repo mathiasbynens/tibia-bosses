@@ -3,7 +3,8 @@
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 42.14
+			"chance": 42.14,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.25
+			"chance": 27.25,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

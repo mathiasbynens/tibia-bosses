@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-03-13T09:32:14.304Z",
+	"timestamp": "2023-03-14T03:31:24.499Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 73.83
+			"chance": 73.83,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.27
+			"chance": 64.27,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 46.74
+			"chance": 46.74,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.63
+			"chance": 16.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.47
+			"chance": 12.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -87,11 +92,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.1
+			"chance": 9.1,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.5
+			"chance": 8.5,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.86
+			"chance": 6.86,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -111,7 +119,18 @@
 		},
 		{
 			"name": "Feroxa",
-			"chance": 4.98
+			"chance": 4.98,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

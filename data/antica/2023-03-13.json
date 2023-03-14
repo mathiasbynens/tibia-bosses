@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-13T09:32:04.522Z",
+	"timestamp": "2023-03-14T03:31:23.112Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "Feroxa",
-			"chance": 4.98
+			"chance": 4.98,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +114,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 1.32
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

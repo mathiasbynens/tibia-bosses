@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-14T09:33:11.156Z",
+	"timestamp": "2023-03-15T03:30:58.592Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 31.3
+			"chance": 31.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.87
+			"chance": 28.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 26.98
+			"chance": 26.98,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20
+			"chance": 20,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.49
+			"chance": 19.49,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.27
+			"chance": 11.27,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.28
+			"chance": 6.28,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +119,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

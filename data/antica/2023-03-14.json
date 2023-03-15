@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-14T09:33:07.502Z",
+	"timestamp": "2023-03-15T03:30:57.819Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 59.47
+			"chance": 59.47,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.1
+			"chance": 58.1,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 27.75
+			"chance": 27.75,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.46
+			"chance": 23.46,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -140,6 +145,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

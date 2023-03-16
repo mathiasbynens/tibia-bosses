@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-15T09:32:03.691Z",
+	"timestamp": "2023-03-16T03:30:51.759Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 37.64
+			"chance": 37.64,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 26.86
+			"chance": 26.86,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.89
+			"chance": 20.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,23 +60,28 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.53
+			"chance": 13.53,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.45
+			"chance": 13.45,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 13.42
+			"chance": 13.42,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +105,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 8.51
+			"chance": 8.51,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -111,7 +122,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.37
+			"chance": 6.37,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -132,6 +144,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-15T09:32:11.747Z",
+	"timestamp": "2023-03-16T03:30:53.767Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.81
+			"chance": 28.81,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.67
+			"chance": 11.67,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 11.35
+			"chance": 11.35,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 9.89
+			"chance": 9.89,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +101,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

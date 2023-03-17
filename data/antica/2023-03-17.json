@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-03-17T09:32:14.486Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.91
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.45
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 27.02
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 23.85
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.04
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 17.87
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.11
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.12
+		},
+		{
+			"name": "midnight panther",
+			"chance": 14.73
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 13.97
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 13.92
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 11.77
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.47
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.38
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.32
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.48
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.31
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 7.34
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.19
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 6.8
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.32
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.42
+		},
+		{
+			"name": "Omrafir",
+			"chance": 5.01
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.97
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.71
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.65
+		}
+	]
+}

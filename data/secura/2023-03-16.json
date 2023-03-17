@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-16T09:32:12.196Z",
+	"timestamp": "2023-03-17T03:30:55.538Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.08
+			"chance": 62.08,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.64
+			"chance": 34.64,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.35
+			"chance": 6.35,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.32
+			"chance": 6.32,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +90,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.24
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

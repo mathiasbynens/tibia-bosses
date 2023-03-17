@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-03-16T09:32:07.766Z",
+	"timestamp": "2023-03-17T03:30:54.716Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 49.09
+			"chance": 49.09,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.63
+			"chance": 33.63,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 28.66
+			"chance": 28.66,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.54
+			"chance": 7.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +112,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.25
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

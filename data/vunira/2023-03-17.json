@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-17T09:32:21.698Z",
+	"timestamp": "2023-03-18T03:30:45.180Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.17
+			"chance": 60.17,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 19.55
+			"chance": 19.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.87
+			"chance": 18.87,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +112,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

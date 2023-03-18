@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-17T09:32:18.385Z",
+	"timestamp": "2023-03-18T03:30:44.512Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.06
+			"chance": 52.06,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -23,15 +26,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.74
+			"chance": 15.74,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +45,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 7.95
+			"chance": 7.95,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -84,6 +91,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

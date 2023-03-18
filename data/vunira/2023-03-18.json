@@ -1,0 +1,89 @@
+{
+	"timestamp": "2023-03-18T09:32:01.102Z",
+	"bosses": [
+		{
+			"name": "The Welter",
+			"chance": 38.6
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.33
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.91
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.52
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.55
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.16
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 16.43
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.89
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 12.34
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.64
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.5
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.42
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.32
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.18
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.55
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.16
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.47
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.89
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.03
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.01
+		}
+	]
+}

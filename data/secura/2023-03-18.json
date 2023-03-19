@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-18T09:31:57.887Z",
+	"timestamp": "2023-03-19T03:30:54.878Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 28.27
+			"chance": 28.27,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 20
+			"chance": 20,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.14
+			"chance": 7.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.86
+			"chance": 6.86,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.03
+			"chance": 5.03,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +97,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.73
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-18T09:32:01.102Z",
+	"timestamp": "2023-03-19T03:30:55.805Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.91
+			"chance": 20.91,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.34
+			"chance": 12.34,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +87,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.01
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

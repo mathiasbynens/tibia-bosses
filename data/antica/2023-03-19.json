@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-03-19T09:31:50.717Z",
+	"timestamp": "2023-03-20T03:30:54.760Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72
+			"chance": 72,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.27
+			"chance": 22.27,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.97
+			"chance": 20.97,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.01
+			"chance": 11.01,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -100,6 +104,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

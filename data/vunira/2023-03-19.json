@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-19T09:31:57.926Z",
+	"timestamp": "2023-03-20T03:30:56.207Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.98
+			"chance": 64.98,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.59
+			"chance": 34.59,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.48
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

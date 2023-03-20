@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-03-20T10:53:15.753Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.9
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.56
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 18.73
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.09
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.48
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.17
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.86
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.83
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.58
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.99
+		},
+		{
+			"name": "midnight panther",
+			"chance": 14.74
+		},
+		{
+			"name": "yeti",
+			"chance": 13.57
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.72
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.5
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 11.21
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.66
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.64
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.45
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 7.92
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.3
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.18
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.37
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.13
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.06
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.44
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.23
+		}
+	]
+}

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-20T10:53:15.753Z",
+	"timestamp": "2023-03-21T03:30:45.688Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.56
+			"chance": 20.56,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.48
+			"chance": 17.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.5
+			"chance": 11.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.06
+			"chance": 5.06,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +114,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.23
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

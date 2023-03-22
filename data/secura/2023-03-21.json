@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-21T09:32:00.662Z",
+	"timestamp": "2023-03-22T03:30:50.934Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 13.21
+			"chance": 13.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,11 +99,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.12
+			"chance": 6.12,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 5.22
+			"chance": 5.22,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +122,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.28
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

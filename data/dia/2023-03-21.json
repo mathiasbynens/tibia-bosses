@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-21T09:31:57.750Z",
+	"timestamp": "2023-03-22T03:30:50.139Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 21
+			"chance": 21,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -75,11 +77,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.2
+			"chance": 7.2,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 6.83
+			"chance": 6.83,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +96,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-22T09:31:59.758Z",
+	"timestamp": "2023-03-23T03:30:46.085Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.03
+			"chance": 52.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.59
+			"chance": 34.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.06
+			"chance": 33.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 10.32
+			"chance": 10.32,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.12
+			"chance": 6.12,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +97,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.86
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

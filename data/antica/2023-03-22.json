@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-22T09:31:55.396Z",
+	"timestamp": "2023-03-23T03:30:44.785Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.24
+			"chance": 39.24,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.54
+			"chance": 18.54,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.57
+			"chance": 17.57,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 8.85
+			"chance": 8.85,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +126,31 @@
 		{
 			"name": "The Abomination",
 			"chance": 1.83
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

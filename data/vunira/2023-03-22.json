@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-22T09:32:06.201Z",
+	"timestamp": "2023-03-23T03:30:48.384Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.39
+			"chance": 62.39,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.26
+			"chance": 15.26,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -123,11 +127,22 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.76
+			"chance": 2.76,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 2.61
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

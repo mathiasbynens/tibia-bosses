@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-23T09:32:11.676Z",
+	"timestamp": "2023-03-24T03:30:50.289Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.07
+			"chance": 52.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.22
+			"chance": 11.22,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -127,7 +129,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.22
+			"chance": 6.22,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -143,7 +146,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.32
+			"chance": 4.32,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -152,6 +156,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.83
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

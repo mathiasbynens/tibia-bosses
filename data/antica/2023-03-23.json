@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-03-23T09:31:58.908Z",
+	"timestamp": "2023-03-24T03:30:47.547Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.1
+			"chance": 69.1,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 51.06
+			"chance": 51.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.64
+			"chance": 33.64,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.52
+			"chance": 10.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 7.75
+			"chance": 7.75,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +123,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.81
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-23T09:32:03.221Z",
+	"timestamp": "2023-03-24T03:30:48.568Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 71.96
+			"chance": 71.96,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 15.81
+			"chance": 15.81,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 8.98
+			"chance": 8.98,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.14
+			"chance": 6.14,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +93,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

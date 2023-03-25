@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-24T09:32:12.535Z",
+	"timestamp": "2023-03-25T03:30:47.885Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.61
+			"chance": 22.61,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 13.83
+			"chance": 13.83,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +106,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.81
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

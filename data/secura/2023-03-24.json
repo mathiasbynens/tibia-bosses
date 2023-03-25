@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-24T09:32:21.634Z",
+	"timestamp": "2023-03-25T03:30:49.774Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.1
+			"chance": 62.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 39.04
+			"chance": 39.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.43
+			"chance": 27.43,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.8
+			"chance": 26.8,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -84,6 +88,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.6
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

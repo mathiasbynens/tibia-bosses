@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-25T09:32:04.394Z",
+	"timestamp": "2023-03-26T03:30:48.976Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 15.5
+			"chance": 15.5,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -71,15 +72,27 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 5.75
+			"chance": 5.75,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.08
+			"chance": 5.08,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

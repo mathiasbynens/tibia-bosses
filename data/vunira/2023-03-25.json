@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-25T09:32:08.563Z",
+	"timestamp": "2023-03-26T03:30:50.137Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.08
+			"chance": 38.08,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.1
+			"chance": 27.1,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.73
+			"chance": 20.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.41
+			"chance": 9.41,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -124,6 +128,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

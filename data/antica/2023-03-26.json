@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-03-26T09:31:59.698Z",
+	"timestamp": "2023-03-27T03:31:22.744Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.83
+			"chance": 41.83,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 27.8
+			"chance": 27.8,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 22.05
+			"chance": 22.05,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -95,7 +99,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 1.76
+			"chance": 1.76,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

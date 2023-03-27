@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-26T09:32:03.841Z",
+	"timestamp": "2023-03-27T03:31:24.141Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.51
+			"chance": 17.51,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -76,6 +78,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.31
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

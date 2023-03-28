@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-03-28T08:40:48.342Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 23.34
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.75
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.11
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.91
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.3
+		},
+		{
+			"name": "Omrafir",
+			"chance": 19.64
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 16.74
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.49
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.11
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 14.81
+		},
+		{
+			"name": "midnight panther",
+			"chance": 14.73
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.09
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 12.13
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 11.77
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.21
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 9.32
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.1
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.6
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 7.35
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.3
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.59
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.37
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.18
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.73
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.02
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.58
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-28T08:40:39.616Z",
+	"timestamp": "2023-03-29T02:45:52.845Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.53
+			"chance": 11.53,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6
+			"chance": 6,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

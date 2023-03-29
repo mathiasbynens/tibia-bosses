@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-28T08:40:48.342Z",
+	"timestamp": "2023-03-29T02:45:54.539Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 21.11
+			"chance": 21.11,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.49
+			"chance": 16.49,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +110,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

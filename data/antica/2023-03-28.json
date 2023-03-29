@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-03-28T08:40:35.541Z",
+	"timestamp": "2023-03-29T02:45:51.873Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 21.39
+			"chance": 21.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.91
+			"chance": 20.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 12.03
+			"chance": 12.03,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.73
+			"chance": 10.73,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 8.86
+			"chance": 8.86,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +119,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

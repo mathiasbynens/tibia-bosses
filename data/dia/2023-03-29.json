@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-03-29T08:34:01.277Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.64
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.89
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 26.9
+		},
+		{
+			"name": "Shlorg",
+			"chance": 22.28
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.73
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 16.86
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.66
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.24
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.02
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.74
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.61
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.2
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 8.98
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 7.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.35
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.14
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.58
+		}
+	]
+}

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-03-29T08:33:57.002Z",
+	"timestamp": "2023-03-30T02:41:32.715Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.21
+			"chance": 15.21,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.92
+			"chance": 9.92,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 5.27
+			"chance": 5.27,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -107,11 +113,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.08
+			"chance": 3.08,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.82
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

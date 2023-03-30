@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-29T08:34:08.373Z",
+	"timestamp": "2023-03-30T02:41:35.470Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.54
+			"chance": 23.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,19 +24,23 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.99
+			"chance": 19.99,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.94
+			"chance": 15.94,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 14.72
+			"chance": 14.72,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +87,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 11
+			"chance": 11,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",

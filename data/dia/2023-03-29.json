@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-29T08:34:01.277Z",
+	"timestamp": "2023-03-30T02:41:33.568Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.64
+			"chance": 33.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.24
+			"chance": 15.24,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.61
+			"chance": 10.61,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +82,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

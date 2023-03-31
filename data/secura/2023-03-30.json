@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-30T08:34:05.477Z",
+	"timestamp": "2023-03-31T02:41:28.657Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 79.94
+			"chance": 79.94,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.54
+			"chance": 17.54,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.45
+			"chance": 16.45,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 9.4
+			"chance": 9.4,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.1
+			"chance": 5.1,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

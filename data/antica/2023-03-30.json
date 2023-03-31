@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-30T08:33:56.589Z",
+	"timestamp": "2023-03-31T02:41:27.135Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.31
+			"chance": 11.31,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -92,6 +94,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.31
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

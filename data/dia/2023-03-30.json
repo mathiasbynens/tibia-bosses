@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-30T08:34:00.747Z",
+	"timestamp": "2023-03-31T02:41:28.055Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.83
+			"chance": 41.83,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.95
+			"chance": 4.95,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

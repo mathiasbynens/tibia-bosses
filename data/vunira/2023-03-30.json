@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-30T08:34:10.106Z",
+	"timestamp": "2023-03-31T02:41:29.634Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.35
+			"chance": 39.35,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.91
+			"chance": 28.91,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.53
+			"chance": 7.53,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -111,11 +115,32 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.9
+			"chance": 2.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.8
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

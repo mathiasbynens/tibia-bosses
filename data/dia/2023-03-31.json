@@ -1,0 +1,77 @@
+{
+	"timestamp": "2023-03-31T08:33:20.512Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 39.13
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.22
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.91
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 20.53
+		},
+		{
+			"name": "White Pale",
+			"chance": 19.55
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.59
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.84
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.19
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 10.94
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.33
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.45
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.84
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 7.37
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.13
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.52
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.97
+		}
+	]
+}

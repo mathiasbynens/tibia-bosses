@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-31T08:33:16.533Z",
+	"timestamp": "2023-04-01T02:38:44.778Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.89
+			"chance": 15.89,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -79,15 +81,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 8.17
+			"chance": 8.17,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.13
+			"chance": 7.13,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -120,6 +126,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.17
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

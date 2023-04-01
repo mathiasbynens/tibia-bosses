@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-03-31T08:33:23.533Z",
+	"timestamp": "2023-04-01T02:38:46.317Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 51.24
+			"chance": 51.24,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.37
+			"chance": 39.37,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.49
+			"chance": 18.49,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -115,7 +118,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 4.75
+			"chance": 4.75,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -124,6 +128,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.33
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

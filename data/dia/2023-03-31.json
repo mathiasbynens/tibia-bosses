@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-03-31T08:33:20.512Z",
+	"timestamp": "2023-04-01T02:38:45.695Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 39.13
+			"chance": 39.13,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.44
+			"chance": 6.44,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,11 +69,22 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.52
+			"chance": 3.52,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

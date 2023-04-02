@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-01T08:32:12.692Z",
+	"timestamp": "2023-04-02T02:38:38.783Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 43.69
+			"chance": 43.69,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.17
+			"chance": 27.17,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -112,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.88
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

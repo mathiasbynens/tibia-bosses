@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-01T08:32:19.583Z",
+	"timestamp": "2023-04-02T02:38:40.224Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 43.69
+			"chance": 43.69,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.75
+			"chance": 23.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.17
+			"chance": 18.17,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.47
+			"chance": 17.47,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.01
+			"chance": 11.01,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +117,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

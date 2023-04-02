@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-01T08:32:16.462Z",
+	"timestamp": "2023-04-02T02:38:39.608Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.53
+			"chance": 17.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.18
+			"chance": 6.18,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -92,6 +95,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-04-02T08:32:14.835Z",
+	"timestamp": "2023-04-03T02:37:35.452Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.85
+			"chance": 40.85,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.71
+			"chance": 40.71,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 36.75
+			"chance": 36.75,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.8
+			"chance": 29.8,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.73
+			"chance": 8.73,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +110,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.74
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

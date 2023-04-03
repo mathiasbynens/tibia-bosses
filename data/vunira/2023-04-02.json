@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-02T08:32:18.140Z",
+	"timestamp": "2023-04-03T02:37:36.277Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.41
+			"chance": 36.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 7.34
+			"chance": 7.34,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +120,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.29
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

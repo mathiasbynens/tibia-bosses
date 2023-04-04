@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-03T08:32:51.877Z",
+	"timestamp": "2023-04-04T02:39:09.771Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.21
+			"chance": 60.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.59
+			"chance": 37.59,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 24.69
+			"chance": 24.69,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 15.65
+			"chance": 15.65,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.52
+			"chance": 7.52,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -112,6 +119,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

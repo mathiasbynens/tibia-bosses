@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-03T08:32:47.875Z",
+	"timestamp": "2023-04-04T02:39:08.864Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -103,7 +105,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.2
+			"chance": 3.2,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -111,7 +114,23 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 1.81
+			"chance": 1.81,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

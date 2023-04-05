@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-04T08:32:50.997Z",
+	"timestamp": "2023-04-05T02:34:04.810Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

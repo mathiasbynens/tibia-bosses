@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-05T08:34:24.948Z",
+	"timestamp": "2023-04-06T02:38:31.847Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.88
+			"chance": 11.88,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.22
+			"chance": 10.22,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -108,6 +110,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

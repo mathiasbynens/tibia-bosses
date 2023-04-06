@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-05T08:34:28.723Z",
+	"timestamp": "2023-04-06T02:38:32.769Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58
+			"chance": 58,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.82
+			"chance": 41.82,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 28.62
+			"chance": 28.62,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 16.59
+			"chance": 16.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -112,6 +117,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.21
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

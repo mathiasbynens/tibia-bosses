@@ -1,0 +1,125 @@
+{
+	"timestamp": "2023-04-07T08:32:24.724Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 80
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 27.25
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.8
+		},
+		{
+			"name": "Shlorg",
+			"chance": 20.09
+		},
+		{
+			"name": "Dracola",
+			"chance": 17.26
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.85
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 16.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.17
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.37
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.07
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.99
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 11.89
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 11.74
+		},
+		{
+			"name": "Barbaria",
+			"chance": 11.53
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.37
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 11.14
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 10.75
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.86
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.72
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 7.87
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.81
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.48
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 7.22
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.56
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.94
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.14
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.23
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 2.85
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.41
+		}
+	]
+}

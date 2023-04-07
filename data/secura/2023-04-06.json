@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-06T08:32:57.510Z",
+	"timestamp": "2023-04-07T02:37:57.738Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.98
+			"chance": 37.98,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.32
+			"chance": 23.32,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.54
+			"chance": 22.54,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.93
+			"chance": 20.93,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.7
+			"chance": 20.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.61
+			"chance": 6.61,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -116,6 +122,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.88
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

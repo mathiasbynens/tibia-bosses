@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-06T08:32:52.989Z",
+	"timestamp": "2023-04-07T02:37:56.972Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 51.41
+			"chance": 51.41,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.47
+			"chance": 36.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.93
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -104,6 +109,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.82
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-06T08:33:01.674Z",
+	"timestamp": "2023-04-07T02:37:58.877Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.11
+			"chance": 52.11,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 27.33
+			"chance": 27.33,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 14.15
+			"chance": 14.15,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -83,11 +90,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 5.65
+			"chance": 5.65,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 5.09
+			"chance": 5.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

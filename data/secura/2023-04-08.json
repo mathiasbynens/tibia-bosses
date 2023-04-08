@@ -1,0 +1,101 @@
+{
+	"timestamp": "2023-04-08T08:32:11.089Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 37.65
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 23.63
+		},
+		{
+			"name": "White Pale",
+			"chance": 19.74
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.32
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.18
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.06
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.76
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.55
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 13.95
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 13.51
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 13.48
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.57
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 11.55
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.41
+		},
+		{
+			"name": "Barbaria",
+			"chance": 11.36
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.2
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.65
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.66
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 6.94
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.15
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 2.94
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.64
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 1.81
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-07T08:32:21.629Z",
+	"timestamp": "2023-04-08T02:36:15.161Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.05
+			"chance": 72.05,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20
+			"chance": 20,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -88,6 +93,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.76
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

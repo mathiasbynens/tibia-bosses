@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-07T08:32:27.884Z",
+	"timestamp": "2023-04-08T02:36:17.566Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 22.23
+			"chance": 22.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.01
+			"chance": 5.01,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +84,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-07T22:12:13.793Z",
+	"timestamp": "2023-04-08T02:36:16.726Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.05
+			"chance": 72.05,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.69
+			"chance": 5.69,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -120,6 +123,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

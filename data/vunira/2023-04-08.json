@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-08T08:32:16.440Z",
+	"timestamp": "2023-04-09T02:38:53.007Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -68,6 +71,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.22
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

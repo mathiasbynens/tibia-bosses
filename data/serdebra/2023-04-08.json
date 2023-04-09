@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-04-08T08:32:13.829Z",
+	"timestamp": "2023-04-09T02:38:52.061Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.22
+			"chance": 60.22,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.09
+			"chance": 52.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.22
+			"chance": 39.22,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.92
+			"chance": 20.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 5.07
+			"chance": 5.07,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +126,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.9
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

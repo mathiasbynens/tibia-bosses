@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-08T08:32:08.294Z",
+	"timestamp": "2023-04-09T02:38:50.568Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.09
+			"chance": 69.09,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.44
+			"chance": 33.44,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.19
+			"chance": 6.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +104,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.84
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-08T08:32:11.089Z",
+	"timestamp": "2023-04-09T02:38:51.176Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 37.65
+			"chance": 37.65,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 19.74
+			"chance": 19.74,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -55,11 +60,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -96,6 +103,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

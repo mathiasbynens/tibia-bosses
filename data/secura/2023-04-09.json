@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-09T08:32:10.969Z",
+	"timestamp": "2023-04-10T02:37:52.570Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 14.89
+			"chance": 14.89,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.63
+			"chance": 11.63,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.85
+			"chance": 9.85,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -84,6 +89,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

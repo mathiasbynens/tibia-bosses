@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-09T08:32:14.075Z",
+	"timestamp": "2023-04-10T02:37:53.543Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.09
+			"chance": 15.09,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5
+			"chance": 5,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-09T08:32:07.840Z",
+	"timestamp": "2023-04-10T02:37:51.823Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.69
+			"chance": 12.69,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.28
+			"chance": 6.28,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +111,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.22
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

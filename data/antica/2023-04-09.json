@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-09T08:32:04.103Z",
+	"timestamp": "2023-04-10T02:37:50.911Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.11
+			"chance": 52.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.45
+			"chance": 33.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 16.63
+			"chance": 16.63,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.86
+			"chance": 11.86,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 5
+			"chance": 5,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +122,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

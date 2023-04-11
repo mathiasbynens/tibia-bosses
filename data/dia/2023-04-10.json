@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-10T08:32:24.708Z",
+	"timestamp": "2023-04-11T02:38:58.264Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.99
+			"chance": 37.99,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +114,21 @@
 		{
 			"name": "Feroxa",
 			"chance": 0
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

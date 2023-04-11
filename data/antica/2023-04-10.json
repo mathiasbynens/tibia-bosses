@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-10T08:32:21.663Z",
+	"timestamp": "2023-04-11T02:38:57.513Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 10.39
+			"chance": 10.39,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -115,7 +121,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.23
+			"chance": 3.23,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +131,16 @@
 		{
 			"name": "Feroxa",
 			"chance": 0
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

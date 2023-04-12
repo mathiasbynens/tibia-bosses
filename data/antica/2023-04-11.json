@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-04-11T08:32:57.594Z",
+	"timestamp": "2023-04-12T02:39:10.757Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.47
+			"chance": 36.47,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 21.24
+			"chance": 21.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.9
+			"chance": 19.9,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.02
+			"chance": 15.02,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 11.62
+			"chance": 11.62,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -112,6 +118,16 @@
 		{
 			"name": "Feroxa",
 			"chance": 0
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

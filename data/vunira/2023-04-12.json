@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-12T08:33:07.363Z",
+	"timestamp": "2023-04-13T02:38:36.590Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.09
+			"chance": 62.09,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.28
+			"chance": 60.28,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 24.85
+			"chance": 24.85,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 23.59
+			"chance": 23.59,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -140,6 +145,11 @@
 		{
 			"name": "Feroxa",
 			"chance": 0
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

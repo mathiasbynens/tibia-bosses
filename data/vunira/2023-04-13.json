@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-13T08:32:53.172Z",
+	"timestamp": "2023-04-14T02:38:29.049Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.65
+			"chance": 33.65,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -136,6 +141,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-13T08:32:50.249Z",
+	"timestamp": "2023-04-14T02:38:28.295Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.02
+			"chance": 58.02,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 39.14
+			"chance": 39.14,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 24.47
+			"chance": 24.47,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.55
+			"chance": 17.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.2
+			"chance": 14.2,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.5
+			"chance": 9.5,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +119,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.87
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

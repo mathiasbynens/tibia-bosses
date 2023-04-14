@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-13T08:32:44.718Z",
+	"timestamp": "2023-04-14T02:38:26.828Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.47
+			"chance": 36.47,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.68
+			"chance": 7.68,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -116,6 +120,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

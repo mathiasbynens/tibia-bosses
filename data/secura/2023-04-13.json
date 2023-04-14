@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-13T08:32:47.477Z",
+	"timestamp": "2023-04-14T02:38:27.396Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.1
+			"chance": 72.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,15 +25,18 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.48
+			"chance": 23.48,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.21
+			"chance": 22.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.54
+			"chance": 7.54,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -123,11 +130,22 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 2.62
+			"chance": 2.62,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

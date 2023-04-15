@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-14T08:32:38.663Z",
+	"timestamp": "2023-04-15T02:38:58.824Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 37.82
+			"chance": 37.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.53
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

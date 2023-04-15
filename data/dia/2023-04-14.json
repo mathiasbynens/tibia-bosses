@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-04-14T08:32:28.776Z",
+	"timestamp": "2023-04-15T02:38:57.160Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 70.82
+			"chance": 70.82,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 70.29
+			"chance": 70.29,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.81
+			"chance": 41.81,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.18
+			"chance": 39.18,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -116,6 +120,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

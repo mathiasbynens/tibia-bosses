@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-15T08:32:12.232Z",
+	"timestamp": "2023-04-16T02:42:02.178Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.1
+			"chance": 69.1,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 61.18
+			"chance": 61.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +103,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.52
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-15T08:32:23.636Z",
+	"timestamp": "2023-04-16T02:42:05.453Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.76
+			"chance": 16.76,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -55,19 +56,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.89
+			"chance": 10.89,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,11 +84,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +119,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.85
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

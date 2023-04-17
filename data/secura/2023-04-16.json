@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-04-16T08:32:09.778Z",
+	"timestamp": "2023-04-17T02:39:48.121Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 73.67
+			"chance": 73.67,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.42
+			"chance": 33.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.6
+			"chance": 29.6,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.78
+			"chance": 19.78,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.88
+			"chance": 11.88,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 11.52
+			"chance": 11.52,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.95
+			"chance": 9.95,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +116,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.22
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-16T08:32:06.314Z",
+	"timestamp": "2023-04-17T02:39:47.453Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 10.87
+			"chance": 10.87,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.45
+			"chance": 9.45,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +111,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

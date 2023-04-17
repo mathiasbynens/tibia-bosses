@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-16T08:32:03.040Z",
+	"timestamp": "2023-04-17T02:39:46.785Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 38.51
+			"chance": 38.51,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.2
+			"chance": 27.2,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 21.55
+			"chance": 21.55,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.78
+			"chance": 19.78,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.16
+			"chance": 11.16,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +110,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.06
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

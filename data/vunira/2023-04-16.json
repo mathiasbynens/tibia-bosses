@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-16T08:32:16.131Z",
+	"timestamp": "2023-04-17T02:39:50.471Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 65.23
+			"chance": 65.23,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.29
+			"chance": 27.29,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 25.28
+			"chance": 25.28,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 16.79
+			"chance": 16.79,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.85
+			"chance": 15.85,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.44
+			"chance": 12.44,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -108,6 +114,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.81
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

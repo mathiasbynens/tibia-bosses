@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-17T08:33:34.855Z",
+	"timestamp": "2023-04-18T02:38:58.858Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 37.84
+			"chance": 37.84,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 22.65
+			"chance": 22.65,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.41
+			"chance": 6.41,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +97,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

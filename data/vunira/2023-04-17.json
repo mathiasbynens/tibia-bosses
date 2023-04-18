@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-17T08:33:44.024Z",
+	"timestamp": "2023-04-18T02:39:00.976Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.62
+			"chance": 26.62,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -84,6 +85,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.93
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

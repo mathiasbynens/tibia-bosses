@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-17T08:33:26.030Z",
+	"timestamp": "2023-04-18T02:38:56.990Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.1
+			"chance": 69.1,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.16
+			"chance": 52.16,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.42
+			"chance": 28.42,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.53
+			"chance": 25.53,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -59,11 +64,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 11.2
+			"chance": 11.2,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.34
+			"chance": 10.34,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +107,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

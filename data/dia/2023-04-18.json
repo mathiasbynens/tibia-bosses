@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-18T08:32:52.312Z",
+	"timestamp": "2023-04-19T02:39:54.769Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.31
+			"chance": 27.31,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.86
+			"chance": 20.86,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.78
+			"chance": 12.78,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -108,6 +111,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.29
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

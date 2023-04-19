@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-18T08:32:58.598Z",
+	"timestamp": "2023-04-19T02:39:56.653Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 9.12
+			"chance": 9.12,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +113,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.5
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

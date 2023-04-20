@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-19T08:32:57.321Z",
+	"timestamp": "2023-04-20T02:39:20.528Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.09
+			"chance": 83.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.86
+			"chance": 20.86,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.13
+			"chance": 14.13,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -100,6 +106,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.27
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

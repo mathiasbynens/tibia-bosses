@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-19T08:33:11.770Z",
+	"timestamp": "2023-04-20T02:39:23.143Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.1
+			"chance": 72.1,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.26
+			"chance": 27.26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.22
+			"chance": 22.22,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.26
+			"chance": 20.26,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.96
+			"chance": 9.96,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.51
+			"chance": 7.51,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +102,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

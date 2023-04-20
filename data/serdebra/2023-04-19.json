@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-19T08:33:08.396Z",
+	"timestamp": "2023-04-20T02:39:22.469Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.22
+			"chance": 22.22,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -83,11 +85,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.52
+			"chance": 9.52,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,11 +107,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.24
+			"chance": 7.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -120,6 +126,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.2
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-20T08:33:08.037Z",
+	"timestamp": "2023-04-21T02:39:35.394Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -87,7 +87,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +109,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.65
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

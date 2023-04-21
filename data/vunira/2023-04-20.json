@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-20T08:33:12.391Z",
+	"timestamp": "2023-04-21T02:39:36.393Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.43
+			"chance": 21.43,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.6
+			"chance": 11.6,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.33
+			"chance": 10.33,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 7.13
+			"chance": 7.13,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +115,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.38
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

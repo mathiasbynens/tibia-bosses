@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-20T08:33:03.646Z",
+	"timestamp": "2023-04-21T02:39:34.327Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.95
+			"chance": 37.95,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -96,6 +97,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.55
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

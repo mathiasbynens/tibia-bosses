@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-20T08:32:56.233Z",
+	"timestamp": "2023-04-21T02:39:32.179Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.11
+			"chance": 15.11,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 14.89
+			"chance": 14.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -96,6 +99,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.92
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

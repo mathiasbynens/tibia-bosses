@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-20T08:33:00.496Z",
+	"timestamp": "2023-04-21T02:39:33.223Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.18
+			"chance": 64.18,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.39
+			"chance": 38.39,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.67
+			"chance": 7.67,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

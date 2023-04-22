@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-21T08:32:27.883Z",
+	"timestamp": "2023-04-22T02:39:25.098Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 51.63
+			"chance": 51.63,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -104,6 +105,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.61
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

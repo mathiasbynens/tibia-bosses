@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-22T08:32:20.409Z",
+	"timestamp": "2023-04-23T02:43:21.746Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.13
+			"chance": 72.13,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.13
+			"chance": 69.13,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.2
+			"chance": 62.2,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.25
+			"chance": 13.25,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -87,11 +91,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 6.92
+			"chance": 6.92,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.77
+			"chance": 6.77,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -100,6 +106,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.9
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

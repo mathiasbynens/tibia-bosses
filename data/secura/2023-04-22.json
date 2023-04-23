@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-22T08:32:24.910Z",
+	"timestamp": "2023-04-23T02:43:22.512Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.09
+			"chance": 83.09,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.13
+			"chance": 69.13,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.06
+			"chance": 58.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.79
+			"chance": 25.79,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.41
+			"chance": 24.41,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,11 +48,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.79
+			"chance": 16.79,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -132,6 +139,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.88
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

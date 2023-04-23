@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-22T08:32:29.530Z",
+	"timestamp": "2023-04-23T02:43:23.436Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 31.17
+			"chance": 31.17,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.24
+			"chance": 27.24,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 21.06
+			"chance": 21.06,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -79,11 +83,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.94
+			"chance": 15.94,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.29
+			"chance": 12.29,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -132,6 +139,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

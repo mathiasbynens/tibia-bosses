@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-23T08:32:02.157Z",
+	"timestamp": "2023-04-24T02:40:24.247Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

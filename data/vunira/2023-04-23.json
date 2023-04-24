@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-23T08:32:11.802Z",
+	"timestamp": "2023-04-24T02:40:26.903Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 27.41
+			"chance": 27.41,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.32
+			"chance": 11.32,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -107,7 +110,23 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 1.23
+			"chance": 1.23,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

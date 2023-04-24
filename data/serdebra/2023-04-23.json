@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-23T08:32:08.484Z",
+	"timestamp": "2023-04-24T02:40:26.060Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.46
+			"chance": 79.46,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.13
+			"chance": 69.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 43.82
+			"chance": 43.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.47
+			"chance": 30.47,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.28
+			"chance": 30.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 25.09
+			"chance": 25.09,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -59,11 +65,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.87
+			"chance": 15.87,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 5.47
+			"chance": 5.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +129,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-23T08:31:57.927Z",
+	"timestamp": "2023-04-24T02:40:23.415Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.36
+			"chance": 10.36,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +118,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.22
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

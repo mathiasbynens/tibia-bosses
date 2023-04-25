@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-24T08:33:14.534Z",
+	"timestamp": "2023-04-25T02:39:40.861Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.59
+			"chance": 17.59,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -108,6 +109,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.55
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

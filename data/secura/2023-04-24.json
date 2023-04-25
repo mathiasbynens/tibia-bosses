@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-24T08:33:18.938Z",
+	"timestamp": "2023-04-25T02:39:41.546Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.06
+			"chance": 15.06,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.32
+			"chance": 7.32,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

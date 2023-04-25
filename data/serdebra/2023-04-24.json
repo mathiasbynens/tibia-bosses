@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-24T08:33:21.992Z",
+	"timestamp": "2023-04-25T02:39:42.287Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.53
+			"chance": 39.53,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.35
+			"chance": 39.35,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.86
+			"chance": 27.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.28
+			"chance": 11.28,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -92,6 +97,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

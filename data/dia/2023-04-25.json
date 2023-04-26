@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-25T08:32:47.950Z",
+	"timestamp": "2023-04-26T02:39:44.356Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.11
+			"chance": 28.11,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.5
+			"chance": 13.5,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.98
+			"chance": 10.98,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -136,6 +139,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.24
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-25T08:32:58.447Z",
+	"timestamp": "2023-04-26T02:39:46.757Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19
+			"chance": 19,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +122,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.24
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

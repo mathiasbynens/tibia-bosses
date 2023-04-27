@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-26T08:32:40.562Z",
+	"timestamp": "2023-04-27T02:40:10.312Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 25.05
+			"chance": 25.05,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7
+			"chance": 7,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 6.56
+			"chance": 6.56,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +98,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

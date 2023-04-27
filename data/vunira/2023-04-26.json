@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-26T08:32:43.634Z",
+	"timestamp": "2023-04-27T02:40:11.144Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 61.23
+			"chance": 61.23,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.52
+			"chance": 20.52,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 19.73
+			"chance": 19.73,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -63,19 +68,23 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.84
+			"chance": 11.84,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.76
+			"chance": 10.76,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +117,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

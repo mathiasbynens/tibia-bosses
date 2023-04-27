@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-26T08:32:30.561Z",
+	"timestamp": "2023-04-27T02:40:07.669Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 25.05
+			"chance": 25.05,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 24.8
+			"chance": 24.8,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 21.12
+			"chance": 21.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.94
+			"chance": 15.94,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 15.09
+			"chance": 15.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -124,6 +132,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

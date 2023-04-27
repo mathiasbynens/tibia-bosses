@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-26T08:32:37.488Z",
+	"timestamp": "2023-04-27T02:40:09.368Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.4
+			"chance": 23.4,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -63,11 +64,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.76
+			"chance": 10.76,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.01
+			"chance": 7.01,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +121,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-27T08:32:30.121Z",
+	"timestamp": "2023-04-28T02:40:04.012Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.95
+			"chance": 15.95,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.13
+			"chance": 14.13,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.39
+			"chance": 6.39,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,11 +91,27 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 2.54
+			"chance": 2.54,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.5
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

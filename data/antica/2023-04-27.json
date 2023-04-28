@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-27T08:32:19.774Z",
+	"timestamp": "2023-04-28T02:40:01.082Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.1
+			"chance": 79.1,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -116,6 +117,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.29
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

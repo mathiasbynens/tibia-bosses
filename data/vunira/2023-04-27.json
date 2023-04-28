@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-04-27T08:32:33.409Z",
+	"timestamp": "2023-04-28T02:40:05.036Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.09
+			"chance": 72.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.24
+			"chance": 64.24,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.91
+			"chance": 37.91,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 15.4
+			"chance": 15.4,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.25
+			"chance": 14.25,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +101,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

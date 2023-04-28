@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-27T08:32:23.568Z",
+	"timestamp": "2023-04-28T02:40:02.150Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.09
+			"chance": 58.09,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.24
+			"chance": 19.24,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -124,6 +126,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.5
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

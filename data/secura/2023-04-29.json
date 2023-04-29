@@ -1,0 +1,85 @@
+{
+	"timestamp": "2023-04-29T08:32:25.940Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.19
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 41.81
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 36.48
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 24.76
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.24
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 19.81
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.81
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.44
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.15
+		},
+		{
+			"name": "Shlorg",
+			"chance": 13.33
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.45
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.14
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.82
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.13
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 8.48
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 7.27
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.76
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.05
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 1.97
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-28T08:32:16.992Z",
+	"timestamp": "2023-04-29T02:38:28.600Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.67
+			"chance": 16.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.28
+			"chance": 14.28,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -59,15 +62,18 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.03
+			"chance": 11.03,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.37
+			"chance": 10.37,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -120,6 +126,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

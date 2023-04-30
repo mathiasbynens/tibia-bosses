@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-04-29T08:32:25.940Z",
+	"timestamp": "2023-04-30T02:39:07.404Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.81
+			"chance": 41.81,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.76
+			"chance": 24.76,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.27
+			"chance": 7.27,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +84,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.97
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

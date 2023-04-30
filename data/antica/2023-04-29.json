@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-29T08:32:18.179Z",
+	"timestamp": "2023-04-30T02:39:05.664Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.38
+			"chance": 14.38,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.84
+			"chance": 11.84,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.55
+			"chance": 10.55,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.82
+			"chance": 7.82,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.15
+			"chance": 7.15,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +120,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.6
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

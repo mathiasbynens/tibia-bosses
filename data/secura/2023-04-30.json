@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-04-30T08:32:18.445Z",
+	"timestamp": "2023-05-01T02:40:07.903Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.12
+			"chance": 58.12,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.66
+			"chance": 17.66,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.05
+			"chance": 13.05,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -80,6 +84,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

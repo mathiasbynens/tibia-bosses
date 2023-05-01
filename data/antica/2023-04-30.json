@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-30T08:32:12.121Z",
+	"timestamp": "2023-05-01T02:40:06.681Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.93
+			"chance": 28.93,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.11
+			"chance": 7.11,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +106,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.29
+			"chance": 3.29,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

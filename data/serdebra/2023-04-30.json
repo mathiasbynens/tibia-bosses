@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-30T08:32:21.358Z",
+	"timestamp": "2023-05-01T02:40:08.725Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 37.97
+			"chance": 37.97,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -112,6 +114,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.3
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

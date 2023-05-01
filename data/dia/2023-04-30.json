@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-04-30T08:32:15.535Z",
+	"timestamp": "2023-05-01T02:40:07.276Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

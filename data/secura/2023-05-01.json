@@ -1,0 +1,77 @@
+{
+	"timestamp": "2023-05-01T08:32:19.653Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 52.21
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.28
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.67
+		},
+		{
+			"name": "Shlorg",
+			"chance": 20.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.94
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.61
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 12.53
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 11.75
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.42
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.35
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.77
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.17
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.92
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 5.37
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.19
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.92
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.33
+		}
+	]
+}

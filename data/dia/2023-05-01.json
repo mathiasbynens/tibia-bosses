@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-01T08:32:16.633Z",
+	"timestamp": "2023-05-02T02:40:18.738Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -88,6 +89,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.3
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

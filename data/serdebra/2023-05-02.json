@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-02T08:32:34.611Z",
+	"timestamp": "2023-05-03T02:38:56.180Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 51.76
+			"chance": 51.76,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 43.95
+			"chance": 43.95,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.07
+			"chance": 25.07,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.92
+			"chance": 6.92,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -128,6 +133,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.53
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

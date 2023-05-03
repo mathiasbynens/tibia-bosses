@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-02T08:32:37.949Z",
+	"timestamp": "2023-05-03T02:38:57.584Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -108,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.53
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

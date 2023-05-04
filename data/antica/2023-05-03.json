@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-03T08:32:16.596Z",
+	"timestamp": "2023-05-04T02:39:10.320Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 43.95
+			"chance": 43.95,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.17
+			"chance": 17.17,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -124,6 +127,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.86
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

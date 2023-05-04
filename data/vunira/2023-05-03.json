@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-03T08:32:32.936Z",
+	"timestamp": "2023-05-04T02:39:13.887Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -91,7 +91,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.89
+			"chance": 8.89,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +108,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 7.47
+			"chance": 7.47,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -140,6 +142,16 @@
 		{
 			"name": "Yaga the Crone",
 			"chance": 5.25
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

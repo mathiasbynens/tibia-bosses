@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-03T08:32:20.561Z",
+	"timestamp": "2023-05-04T02:39:11.336Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.65
+			"chance": 33.65,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.51
+			"chance": 10.51,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +99,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

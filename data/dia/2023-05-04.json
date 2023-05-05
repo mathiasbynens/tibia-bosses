@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-04T08:32:32.746Z",
+	"timestamp": "2023-05-05T02:38:10.592Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.49
+			"chance": 23.49,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.63
+			"chance": 17.63,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +103,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

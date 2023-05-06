@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-05-05T08:32:14.988Z",
+	"timestamp": "2023-05-06T02:37:07.879Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.08
+			"chance": 72.08,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 39.99
+			"chance": 39.99,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.19
+			"chance": 22.19,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.63
+			"chance": 17.63,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -111,11 +119,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.1
+			"chance": 3.1,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.01
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

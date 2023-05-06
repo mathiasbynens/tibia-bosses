@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-05T08:32:12.247Z",
+	"timestamp": "2023-05-06T02:37:05.540Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -83,7 +83,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.73
+			"chance": 10.73,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -132,6 +133,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.94
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

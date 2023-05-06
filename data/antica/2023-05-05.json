@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-05T08:32:02.638Z",
+	"timestamp": "2023-05-06T02:36:59.686Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 42.06
+			"chance": 42.06,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.66
+			"chance": 22.66,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 21.05
+			"chance": 21.05,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.28
+			"chance": 16.28,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.56
+			"chance": 8.56,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.99
+			"chance": 6.99,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -127,7 +133,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.29
+			"chance": 2.29,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

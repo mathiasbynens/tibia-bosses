@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-05T08:32:06.603Z",
+	"timestamp": "2023-05-06T02:37:02.689Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.24
+			"chance": 69.24,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.16
+			"chance": 58.16,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

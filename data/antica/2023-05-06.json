@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-06T08:32:12.425Z",
+	"timestamp": "2023-05-07T02:42:05.947Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.21
+			"chance": 64.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.2
+			"chance": 15.2,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -91,11 +93,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.72
+			"chance": 6.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +128,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.96
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-06T08:32:30.684Z",
+	"timestamp": "2023-05-07T02:42:09.122Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.95
+			"chance": 31.95,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 25.5
+			"chance": 25.5,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +103,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

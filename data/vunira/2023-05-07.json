@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-07T08:32:20.840Z",
+	"timestamp": "2023-05-08T02:39:47.507Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.16
+			"chance": 39.16,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

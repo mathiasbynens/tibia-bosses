@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-07T08:32:07.599Z",
+	"timestamp": "2023-05-08T02:39:37.453Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.55
+			"chance": 60.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 29.12
+			"chance": 29.12,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.26
+			"chance": 12.26,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -120,6 +123,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.32
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

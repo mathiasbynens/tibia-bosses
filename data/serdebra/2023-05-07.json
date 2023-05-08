@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-07T08:32:17.528Z",
+	"timestamp": "2023-05-08T02:39:40.910Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 47.83
+			"chance": 47.83,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 38.84
+			"chance": 38.84,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.29
+			"chance": 22.29,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.26
+			"chance": 15.26,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -128,6 +134,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

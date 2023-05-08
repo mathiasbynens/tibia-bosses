@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-07T08:32:14.260Z",
+	"timestamp": "2023-05-08T02:39:39.676Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.84
+			"chance": 16.84,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -84,6 +87,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.01
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

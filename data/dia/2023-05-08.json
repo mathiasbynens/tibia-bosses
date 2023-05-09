@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-08T08:32:41.517Z",
+	"timestamp": "2023-05-09T02:39:56.095Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.38
+			"chance": 9.38,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -92,6 +94,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.52
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

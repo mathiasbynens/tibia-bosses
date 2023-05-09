@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-08T08:32:51.987Z",
+	"timestamp": "2023-05-09T02:39:59.016Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.85
+			"chance": 11.85,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

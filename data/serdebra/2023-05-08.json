@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-08T08:32:48.373Z",
+	"timestamp": "2023-05-09T02:39:57.999Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.25
+			"chance": 69.25,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.73
+			"chance": 14.73,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 13.91
+			"chance": 13.91,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 9.43
+			"chance": 9.43,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +121,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

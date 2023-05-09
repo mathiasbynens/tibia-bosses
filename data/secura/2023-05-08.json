@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-08T08:32:45.001Z",
+	"timestamp": "2023-05-09T02:39:57.057Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.39
+			"chance": 16.39,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.17
+			"chance": 7.17,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.11
+			"chance": 7.11,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.84
+			"chance": 5.84,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -84,6 +90,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

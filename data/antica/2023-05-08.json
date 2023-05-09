@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-08T08:32:37.874Z",
+	"timestamp": "2023-05-09T02:39:55.092Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.09
+			"chance": 72.09,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.25
+			"chance": 69.25,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 24.34
+			"chance": 24.34,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

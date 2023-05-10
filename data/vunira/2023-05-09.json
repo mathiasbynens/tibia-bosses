@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-09T08:32:26.187Z",
+	"timestamp": "2023-05-10T02:39:08.565Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.89
+			"chance": 52.89,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.1
+			"chance": 13.1,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -120,6 +125,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.45
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

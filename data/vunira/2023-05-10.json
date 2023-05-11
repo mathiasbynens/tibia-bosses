@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-10T08:32:25.511Z",
+	"timestamp": "2023-05-11T02:38:55.348Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 39.24
+			"chance": 39.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 30.94
+			"chance": 30.94,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.27
+			"chance": 13.27,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.72
+			"chance": 7.72,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +126,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

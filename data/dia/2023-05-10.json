@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-10T08:32:12.854Z",
+	"timestamp": "2023-05-11T02:38:53.100Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 32.64
+			"chance": 32.64,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.81
+			"chance": 11.81,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -88,6 +90,21 @@
 		{
 			"name": "White Pale",
 			"chance": 6.28
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

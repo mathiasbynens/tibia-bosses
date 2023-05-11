@@ -1,0 +1,65 @@
+{
+	"timestamp": "2023-05-11T08:32:13.132Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 47.85
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 33.78
+		},
+		{
+			"name": "General Murius",
+			"chance": 28.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.33
+		},
+		{
+			"name": "Massacre",
+			"chance": 19.51
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.92
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.93
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.92
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 12.95
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.62
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.19
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 10.76
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.68
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.18
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 4.73
+		}
+	]
+}

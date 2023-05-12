@@ -1,0 +1,61 @@
+{
+	"timestamp": "2023-05-12T08:32:26.754Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 44.08
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.95
+		},
+		{
+			"name": "Massacre",
+			"chance": 23.95
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.66
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.94
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.95
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.44
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 15.42
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.15
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.38
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 4.86
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.66
+		}
+	]
+}

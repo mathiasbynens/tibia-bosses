@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-11T08:32:20.837Z",
+	"timestamp": "2023-05-12T02:38:14.465Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.5
+			"chance": 16.5,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.21
+			"chance": 16.21,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -103,7 +106,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.15
+			"chance": 3.15,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +116,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.99
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

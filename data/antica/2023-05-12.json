@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-12T08:32:21.687Z",
+	"timestamp": "2023-05-13T02:37:40.999Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 44.05
+			"chance": 44.05,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.54
+			"chance": 23.54,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.18
+			"chance": 7.18,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +108,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-12T08:32:26.754Z",
+	"timestamp": "2023-05-13T02:37:41.774Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 44.08
+			"chance": 44.08,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.66
+			"chance": 20.66,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -56,6 +58,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.66
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

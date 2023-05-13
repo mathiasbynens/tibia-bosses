@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-12T08:32:29.967Z",
+	"timestamp": "2023-05-13T02:37:42.575Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.78
+			"chance": 22.78,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.95
+			"chance": 20.95,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

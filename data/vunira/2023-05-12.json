@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-12T08:32:39.962Z",
+	"timestamp": "2023-05-13T02:37:45.376Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 34.61
+			"chance": 34.61,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -39,15 +40,18 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.35
+			"chance": 19.35,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.68
+			"chance": 17.68,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.71
+			"chance": 16.71,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -112,6 +116,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.95
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

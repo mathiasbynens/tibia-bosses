@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-12T08:32:36.550Z",
+	"timestamp": "2023-05-13T02:37:44.408Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.51
+			"chance": 62.51,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 17.75
+			"chance": 17.75,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.79
+			"chance": 14.79,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.18
+			"chance": 7.18,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +100,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.35
+			"chance": 2.35,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

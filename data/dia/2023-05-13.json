@@ -1,0 +1,129 @@
+{
+	"timestamp": "2023-05-13T08:32:18.603Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Dharalion",
+			"chance": 80.17
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 41.86
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.21
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 33.89
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 25.79
+		},
+		{
+			"name": "Massacre",
+			"chance": 23.78
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.68
+		},
+		{
+			"name": "The Imperor",
+			"chance": 20.06
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 18.39
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.9
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.65
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 15.16
+		},
+		{
+			"name": "midnight panther",
+			"chance": 14.83
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 14.69
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.44
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.27
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 13.72
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.92
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 11.42
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.68
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.64
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.74
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 7.28
+		},
+		{
+			"name": "Dracola",
+			"chance": 6.77
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.36
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.69
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.48
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.21
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 5.13
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.03
+		}
+	]
+}

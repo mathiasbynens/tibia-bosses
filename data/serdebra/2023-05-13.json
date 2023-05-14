@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-13T08:32:25.583Z",
+	"timestamp": "2023-05-14T02:39:44.579Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 79.38
+			"chance": 79.38,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.31
+			"chance": 12.31,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -92,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

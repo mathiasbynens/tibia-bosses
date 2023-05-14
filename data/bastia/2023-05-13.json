@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-13T08:32:14.976Z",
+	"timestamp": "2023-05-14T02:39:41.972Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.86
+			"chance": 41.86,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -76,6 +77,16 @@
 		{
 			"name": "Xenia",
 			"chance": 5.69
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

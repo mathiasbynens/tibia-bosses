@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-13T08:32:21.951Z",
+	"timestamp": "2023-05-14T02:39:43.626Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.31
+			"chance": 69.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.51
+			"chance": 36.51,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -31,19 +34,23 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.73
+			"chance": 20.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.14
+			"chance": 20.14,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 19.47
+			"chance": 19.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +58,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.8
+			"chance": 18.8,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 17.9
+			"chance": 17.9,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,7 +80,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.22
+			"chance": 15.22,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -116,6 +126,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 1.92
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-05-13T08:32:11.118Z",
+	"timestamp": "2023-05-14T02:39:41.150Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.46
+			"chance": 67.46,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 67.17
+			"chance": 67.17,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 11.42
+			"chance": 11.42,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +108,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

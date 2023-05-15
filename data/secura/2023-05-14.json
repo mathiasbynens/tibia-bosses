@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-14T08:32:14.840Z",
+	"timestamp": "2023-05-15T02:40:46.058Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.58
+			"chance": 60.58,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +92,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

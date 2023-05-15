@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-14T08:32:05.004Z",
+	"timestamp": "2023-05-15T02:40:43.375Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 38.31
+			"chance": 38.31,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.93
+			"chance": 28.93,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.14
+			"chance": 27.14,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.51
+			"chance": 26.51,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 19.5
+			"chance": 19.5,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.11
+			"chance": 7.11,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -100,6 +106,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.59
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

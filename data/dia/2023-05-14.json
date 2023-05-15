@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-14T08:32:11.612Z",
+	"timestamp": "2023-05-15T02:40:45.160Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 28.39
+			"chance": 28.39,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.26
+			"chance": 16.26,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.25
+			"chance": 15.25,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -55,19 +59,23 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.48
+			"chance": 11.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.29
+			"chance": 11.29,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.88
+			"chance": 10.88,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +96,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

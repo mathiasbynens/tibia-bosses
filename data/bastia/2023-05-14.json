@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-14T08:32:08.720Z",
+	"timestamp": "2023-05-15T02:40:44.171Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.83
+			"chance": 16.83,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -103,7 +104,18 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.47
+			"chance": 4.47,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

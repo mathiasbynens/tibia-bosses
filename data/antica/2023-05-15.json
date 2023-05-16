@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-15T08:32:34.841Z",
+	"timestamp": "2023-05-16T02:39:37.663Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.2
+			"chance": 64.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.71
+			"chance": 28.71,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -103,7 +106,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 1.94
+			"chance": 1.94,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

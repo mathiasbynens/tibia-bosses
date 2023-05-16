@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-15T08:32:48.027Z",
+	"timestamp": "2023-05-16T02:39:40.490Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.32
+			"chance": 69.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.27
+			"chance": 58.27,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.71
+			"chance": 28.71,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 16.53
+			"chance": 16.53,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -96,6 +100,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.05
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

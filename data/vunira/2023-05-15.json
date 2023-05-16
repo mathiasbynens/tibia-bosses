@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-15T08:32:51.232Z",
+	"timestamp": "2023-05-16T02:39:41.258Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.3
+			"chance": 79.3,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.78
+			"chance": 18.78,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 14.31
+			"chance": 14.31,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.44
+			"chance": 6.44,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -96,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.65
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

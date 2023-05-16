@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-15T08:32:41.871Z",
+	"timestamp": "2023-05-16T02:39:39.090Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 7.74
+			"chance": 7.74,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +86,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.83
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

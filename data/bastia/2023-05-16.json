@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-16T08:32:25.424Z",
+	"timestamp": "2023-05-17T02:39:37.240Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.24
+			"chance": 39.24,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 34.81
+			"chance": 34.81,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 22.84
+			"chance": 22.84,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",

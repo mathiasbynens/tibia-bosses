@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-16T08:32:29.271Z",
+	"timestamp": "2023-05-17T02:39:38.241Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.57
+			"chance": 60.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 26.84
+			"chance": 26.84,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26
+			"chance": 26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -88,6 +91,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.88
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

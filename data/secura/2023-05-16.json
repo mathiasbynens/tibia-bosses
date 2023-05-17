@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-16T08:32:33.069Z",
+	"timestamp": "2023-05-17T02:39:39.024Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 71.88
+			"chance": 71.88,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 71.76
+			"chance": 71.76,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.69
+			"chance": 20.69,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.91
+			"chance": 14.91,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.83
+			"chance": 9.83,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -108,6 +114,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

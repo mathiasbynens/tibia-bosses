@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-17T08:32:12.206Z",
+	"timestamp": "2023-05-18T02:39:08.738Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 49.64
+			"chance": 49.64,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.91
+			"chance": 33.91,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.84
+			"chance": 22.84,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.8
+			"chance": 14.8,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +105,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

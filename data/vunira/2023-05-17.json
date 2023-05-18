@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-17T08:32:31.627Z",
+	"timestamp": "2023-05-18T02:39:13.183Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.01
+			"chance": 26.01,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -92,6 +94,11 @@
 		{
 			"name": "Omrafir",
 			"chance": 5.08
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

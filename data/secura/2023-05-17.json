@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-05-17T08:32:24.795Z",
+	"timestamp": "2023-05-18T02:39:11.174Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 61.56
+			"chance": 61.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.83
+			"chance": 41.83,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.68
+			"chance": 15.68,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.14
+			"chance": 6.14,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +107,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.35
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

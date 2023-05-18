@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-17T08:32:18.288Z",
+	"timestamp": "2023-05-18T02:39:09.467Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 16.93
+			"chance": 16.93,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.53
+			"chance": 8.53,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -88,6 +90,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

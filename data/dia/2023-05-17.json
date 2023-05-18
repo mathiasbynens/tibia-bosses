@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-17T08:32:21.436Z",
+	"timestamp": "2023-05-18T02:39:10.269Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 6.72
+			"chance": 6.72,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +89,23 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 4.26
+			"chance": 4.26,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

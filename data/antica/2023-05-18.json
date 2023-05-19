@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-18T08:32:25.928Z",
+	"timestamp": "2023-05-19T02:39:28.836Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.3
+			"chance": 58.3,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.3
+			"chance": 13.3,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,11 +92,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.22
+			"chance": 6.22,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.7
+			"chance": 5.7,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +111,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.09
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

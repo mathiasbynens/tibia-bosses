@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-18T08:32:42.621Z",
+	"timestamp": "2023-05-19T02:39:31.007Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.66
+			"chance": 17.66,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.59
+			"chance": 7.59,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.53
+			"chance": 4.53,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +91,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.09
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

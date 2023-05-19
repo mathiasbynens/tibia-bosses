@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-18T08:32:52.949Z",
+	"timestamp": "2023-05-19T02:39:32.604Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 38.37
+			"chance": 38.37,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,15 +32,18 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.32
+			"chance": 15.32,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.31
+			"chance": 15.31,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 14.25
+			"chance": 14.25,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.77
+			"chance": 11.77,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 9.01
+			"chance": 9.01,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -100,6 +107,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.03
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

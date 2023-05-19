@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-18T08:32:48.654Z",
+	"timestamp": "2023-05-19T02:39:31.830Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.14
+			"chance": 72.14,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -76,6 +78,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.98
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

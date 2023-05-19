@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-18T08:32:31.628Z",
+	"timestamp": "2023-05-19T02:39:29.458Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.7
+			"chance": 20.7,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -96,6 +98,11 @@
 		{
 			"name": "Ferumbras",
 			"chance": 4.65
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

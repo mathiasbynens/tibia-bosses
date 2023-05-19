@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-05-19T08:32:09.207Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 24.39
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.15
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 22.95
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.85
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.01
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.9
+		},
+		{
+			"name": "The Welter",
+			"chance": 14.77
+		},
+		{
+			"name": "The Imperor",
+			"chance": 12.84
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.92
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.9
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.42
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.96
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.88
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.65
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 9.56
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.09
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.57
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.5
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 3.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.66
+		}
+	]
+}

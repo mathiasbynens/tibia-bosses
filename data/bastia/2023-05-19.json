@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-05-19T08:32:13.775Z",
+	"timestamp": "2023-05-20T02:38:24.088Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 38.35
+			"chance": 38.35,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.61
+			"chance": 33.61,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 33.21
+			"chance": 33.21,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.22
+			"chance": 13.22,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +96,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

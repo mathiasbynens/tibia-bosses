@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-19T08:32:27.646Z",
+	"timestamp": "2023-05-20T02:38:29.122Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.95
+			"chance": 31.95,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.76
+			"chance": 28.76,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.87
+			"chance": 18.87,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.56
+			"chance": 17.56,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.24
+			"chance": 13.24,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -83,11 +88,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 7.59
+			"chance": 7.59,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.38
+			"chance": 7.38,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -112,6 +119,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.08
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

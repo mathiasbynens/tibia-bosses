@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-19T08:32:17.299Z",
+	"timestamp": "2023-05-20T02:38:25.334Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.33
+			"chance": 58.33,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 51.84
+			"chance": 51.84,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.56
+			"chance": 25.56,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.81
+			"chance": 23.81,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 16.65
+			"chance": 16.65,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 13.86
+			"chance": 13.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -124,6 +130,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.44
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

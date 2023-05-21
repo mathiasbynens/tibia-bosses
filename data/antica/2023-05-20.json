@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-20T08:32:04.005Z",
+	"timestamp": "2023-05-21T02:41:54.301Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 13.91
+			"chance": 13.91,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.84
+			"chance": 12.84,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -100,6 +103,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.19
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

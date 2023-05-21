@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-20T08:32:11.369Z",
+	"timestamp": "2023-05-21T02:41:56.393Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.37
+			"chance": 69.37,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.82
+			"chance": 41.82,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.86
+			"chance": 20.86,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -124,6 +127,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.36
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

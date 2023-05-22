@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-21T08:32:08.962Z",
+	"timestamp": "2023-05-22T02:42:09.928Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.68
+			"chance": 20.68,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.29
+			"chance": 15.29,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.18
+			"chance": 7.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.48
+			"chance": 5.48,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -108,6 +114,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

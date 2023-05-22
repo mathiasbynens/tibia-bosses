@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-21T08:32:31.719Z",
+	"timestamp": "2023-05-22T02:42:14.094Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 34.77
+			"chance": 34.77,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.77
+			"chance": 28.77,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,15 +25,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.68
+			"chance": 21.68,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

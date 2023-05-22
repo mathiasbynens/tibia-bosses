@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-05-21T08:32:24.951Z",
+	"timestamp": "2023-05-22T02:42:13.152Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.18
+			"chance": 80.18,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 34.77
+			"chance": 34.77,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 29.07
+			"chance": 29.07,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.59
+			"chance": 25.59,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.4
+			"chance": 9.4,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.13
+			"chance": 6.13,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +108,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.05
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

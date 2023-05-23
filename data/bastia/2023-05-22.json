@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-22T08:32:32.637Z",
+	"timestamp": "2023-05-23T02:39:47.455Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 25.41
+			"chance": 25.41,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,11 +84,27 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

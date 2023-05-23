@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-22T08:32:39.202Z",
+	"timestamp": "2023-05-23T02:39:49.037Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.81
+			"chance": 11.81,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +85,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

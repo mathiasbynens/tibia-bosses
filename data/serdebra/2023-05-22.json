@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-22T08:32:42.495Z",
+	"timestamp": "2023-05-23T02:39:49.935Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.11
+			"chance": 38.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.58
+			"chance": 36.58,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.44
+			"chance": 19.44,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -112,6 +117,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-05-23T08:32:35.511Z",
+	"timestamp": "2023-05-24T02:42:05.606Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.61
+			"chance": 67.61,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.59
+			"chance": 60.59,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.32
+			"chance": 52.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.98
+			"chance": 20.98,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +114,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

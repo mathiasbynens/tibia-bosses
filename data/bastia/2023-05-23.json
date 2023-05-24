@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-23T08:32:26.846Z",
+	"timestamp": "2023-05-24T02:42:03.891Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 9.57
+			"chance": 9.57,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",

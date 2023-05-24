@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-23T08:32:22.476Z",
+	"timestamp": "2023-05-24T02:42:02.908Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 34.97
+			"chance": 34.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 20.28
+			"chance": 20.28,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.53
+			"chance": 8.53,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.25
+			"chance": 7.25,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -108,6 +113,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.61
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

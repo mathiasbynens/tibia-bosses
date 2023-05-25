@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-24T08:32:30.749Z",
+	"timestamp": "2023-05-25T02:39:38.868Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 15.03
+			"chance": 15.03,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.48
+			"chance": 14.48,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.41
+			"chance": 10.41,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.61
+			"chance": 7.61,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +104,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.46
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

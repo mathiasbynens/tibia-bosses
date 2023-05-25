@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-05-24T08:32:34.045Z",
+	"timestamp": "2023-05-25T02:39:39.463Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 40.33
+			"chance": 40.33,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 39.28
+			"chance": 39.28,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.55
+			"chance": 19.55,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 16.9
+			"chance": 16.9,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -76,6 +80,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.28
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

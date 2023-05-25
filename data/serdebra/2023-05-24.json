@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-24T08:32:41.052Z",
+	"timestamp": "2023-05-25T02:39:40.809Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.11
+			"chance": 22.11,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.87
+			"chance": 7.87,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

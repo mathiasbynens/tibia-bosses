@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-05-25T08:32:29.301Z",
+	"timestamp": "2023-05-26T02:39:37.009Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.14
+			"chance": 72.14,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.15
+			"chance": 64.15,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 23.02
+			"chance": 23.02,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.45
+			"chance": 16.45,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 7.92
+			"chance": 7.92,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.04
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

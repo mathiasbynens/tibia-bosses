@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-25T08:32:37.347Z",
+	"timestamp": "2023-05-26T02:39:38.994Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.78
+			"chance": 28.78,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.74
+			"chance": 23.74,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.7
+			"chance": 18.7,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.45
+			"chance": 16.45,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -120,6 +126,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

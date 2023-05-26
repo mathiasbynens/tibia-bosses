@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-25T08:32:20.914Z",
+	"timestamp": "2023-05-26T02:39:35.202Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 23.52
+			"chance": 23.52,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,7 +97,23 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.5
+			"chance": 5.5,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

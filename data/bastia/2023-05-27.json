@@ -1,0 +1,69 @@
+{
+	"timestamp": "2023-05-27T08:32:28.305Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.91
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.78
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.84
+		},
+		{
+			"name": "Xenia",
+			"chance": 19.39
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.23
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 17.64
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 16.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 16.07
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.35
+		},
+		{
+			"name": "Omrafir",
+			"chance": 14.04
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 13.01
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 11.24
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.17
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.91
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.23
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.68
+		}
+	]
+}

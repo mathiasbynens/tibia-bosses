@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-05-26T08:32:13.530Z",
+	"timestamp": "2023-05-27T02:39:04.310Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 41.99
+			"chance": 41.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.69
+			"chance": 33.69,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.98
+			"chance": 28.98,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 27.4
+			"chance": 27.4,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

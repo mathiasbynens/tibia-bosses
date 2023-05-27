@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-26T08:32:26.557Z",
+	"timestamp": "2023-05-27T02:39:06.543Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.14
+			"chance": 72.14,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.31
+			"chance": 26.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.69
+			"chance": 15.69,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -111,7 +118,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.68
+			"chance": 4.68,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-26T08:32:30.307Z",
+	"timestamp": "2023-05-27T02:39:07.161Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.33
+			"chance": 69.33,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

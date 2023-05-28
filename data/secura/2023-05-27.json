@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-27T08:32:37.180Z",
+	"timestamp": "2023-05-28T02:45:23.810Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.38
+			"chance": 58.38,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.11
+			"chance": 35.11,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.46
+			"chance": 26.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.78
+			"chance": 25.78,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -115,7 +120,28 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.12
+			"chance": 2.12,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

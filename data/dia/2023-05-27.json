@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-27T08:32:32.790Z",
+	"timestamp": "2023-05-28T02:45:22.617Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.35
+			"chance": 69.35,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.38
+			"chance": 58.38,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 19.4
+			"chance": 19.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -92,6 +96,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.52
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

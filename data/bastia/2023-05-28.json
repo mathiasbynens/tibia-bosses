@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-28T08:32:19.893Z",
+	"timestamp": "2023-05-29T02:42:42.849Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.36
+			"chance": 69.36,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.2
+			"chance": 39.2,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -72,6 +74,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

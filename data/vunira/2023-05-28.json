@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-28T08:32:35.815Z",
+	"timestamp": "2023-05-29T02:42:48.300Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.16
+			"chance": 72.16,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 23.77
+			"chance": 23.77,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 14.13
+			"chance": 14.13,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.38
+			"chance": 13.38,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.14
+			"chance": 8.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.78
+			"chance": 7.78,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -128,6 +135,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-28T08:32:26.421Z",
+	"timestamp": "2023-05-29T02:42:44.941Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.99
+			"chance": 28.99,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

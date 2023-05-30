@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-29T08:32:28.390Z",
+	"timestamp": "2023-05-30T02:42:22.270Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.93
+			"chance": 19.93,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 16.94
+			"chance": 16.94,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -92,6 +94,16 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 5.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

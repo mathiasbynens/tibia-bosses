@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-29T08:32:34.614Z",
+	"timestamp": "2023-05-30T02:42:24.087Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.32
+			"chance": 52.32,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -100,6 +102,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.62
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

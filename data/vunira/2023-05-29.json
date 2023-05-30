@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-29T08:32:43.824Z",
+	"timestamp": "2023-05-30T02:42:26.605Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 31.04
+			"chance": 31.04,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.43
+			"chance": 13.43,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -120,6 +124,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.22
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

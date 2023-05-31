@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-30T08:32:36.982Z",
+	"timestamp": "2023-05-31T02:48:59.663Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.08
+			"chance": 38.08,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.6
+			"chance": 16.6,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.32
+			"chance": 7.32,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -72,6 +77,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.2
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

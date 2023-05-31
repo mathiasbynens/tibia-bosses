@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-30T08:32:28.762Z",
+	"timestamp": "2023-05-31T02:48:57.602Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 5.86
+			"chance": 5.86,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -96,6 +98,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

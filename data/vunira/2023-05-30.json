@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-30T08:32:41.122Z",
+	"timestamp": "2023-05-31T02:49:00.707Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.34
+			"chance": 39.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 31.26
+			"chance": 31.26,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 16.35
+			"chance": 16.35,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.16
+			"chance": 8.16,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -112,6 +116,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.66
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

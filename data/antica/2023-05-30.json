@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-05-30T08:32:16.990Z",
+	"timestamp": "2023-05-31T02:48:54.763Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.14
+			"chance": 72.14,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 27.91
+			"chance": 27.91,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 22.97
+			"chance": 22.97,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-30T08:32:21.329Z",
+	"timestamp": "2023-05-31T02:48:55.631Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.69
+			"chance": 17.69,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -88,6 +89,26 @@
 		{
 			"name": "The Welter",
 			"chance": 4.46
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

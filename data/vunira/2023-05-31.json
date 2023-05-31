@@ -1,0 +1,109 @@
+{
+	"timestamp": "2023-05-31T08:32:30.009Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 60.6
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 58.33
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.78
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 22.64
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 20.94
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.4
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.95
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 17.29
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 14.41
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.72
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.7
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.47
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.42
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 11.16
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.33
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.39
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.53
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.39
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.49
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.12
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.04
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.65
+		}
+	]
+}

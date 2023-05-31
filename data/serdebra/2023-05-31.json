@@ -1,0 +1,73 @@
+{
+	"timestamp": "2023-05-31T08:32:26.765Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 80.21
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 51.95
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 19.74
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 17.08
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.94
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.72
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 10.45
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.4
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.11
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.56
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.98
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.79
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.77
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.97
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.07
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-31T08:32:30.009Z",
+	"timestamp": "2023-06-01T03:02:44.310Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.33
+			"chance": 58.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.78
+			"chance": 28.78,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.4
+			"chance": 20.4,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.12
+			"chance": 6.12,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +109,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.65
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-05-31T08:32:22.740Z",
+	"timestamp": "2023-06-01T03:02:41.018Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.35
+			"chance": 52.35,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.97
+			"chance": 28.97,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.69
+			"chance": 20.69,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.83
+			"chance": 16.83,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.31
+			"chance": 15.31,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.17
+			"chance": 9.17,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -79,11 +85,17 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.66
+			"chance": 2.66,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

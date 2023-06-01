@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-31T08:32:15.271Z",
+	"timestamp": "2023-06-01T03:02:38.125Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.83
+			"chance": 11.83,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

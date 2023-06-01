@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-31T08:32:07.131Z",
+	"timestamp": "2023-06-01T03:02:35.048Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.8
+			"chance": 28.8,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +117,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.61
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

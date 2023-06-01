@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-05-31T08:32:26.765Z",
+	"timestamp": "2023-06-01T03:02:42.140Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.21
+			"chance": 80.21,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 51.95
+			"chance": 51.95,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.74
+			"chance": 19.74,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 10.45
+			"chance": 10.45,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -68,6 +72,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.07
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

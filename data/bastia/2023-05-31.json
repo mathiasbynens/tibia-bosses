@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-05-31T08:32:11.084Z",
+	"timestamp": "2023-06-01T03:02:36.066Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.83
+			"chance": 21.83,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -99,11 +100,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.5
+			"chance": 5.5,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.39
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

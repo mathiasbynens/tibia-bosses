@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-06-01T08:32:16.068Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.19
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.96
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.32
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.69
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.14
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 15.22
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 12.63
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.35
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.31
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.53
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.84
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 7.35
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.52
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.03
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.21
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.39
+		}
+	]
+}

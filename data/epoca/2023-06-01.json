@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-01T08:32:09.729Z",
+	"timestamp": "2023-06-02T02:47:29.379Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.36
+			"chance": 64.36,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -96,6 +97,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

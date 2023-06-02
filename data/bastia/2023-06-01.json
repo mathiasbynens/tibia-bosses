@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-01T08:32:03.562Z",
+	"timestamp": "2023-06-02T02:47:28.078Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.13
+			"chance": 64.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.96
+			"chance": 28.96,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,11 +83,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -108,6 +114,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.21
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

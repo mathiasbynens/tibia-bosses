@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-01T08:32:13.027Z",
+	"timestamp": "2023-06-02T02:47:30.000Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
-			"chance": 24.21
+			"chance": 24.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.29
+			"chance": 11.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -84,6 +87,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

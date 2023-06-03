@@ -1,0 +1,129 @@
+{
+	"timestamp": "2023-06-03T08:32:18.250Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 39.35
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 28.88
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 27.95
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 27.1
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 26.7
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.45
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.32
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.43
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 17.86
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.67
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.43
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.22
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.36
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.86
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 11.11
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.4
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 9.88
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 9.59
+		},
+		{
+			"name": "Barbaria",
+			"chance": 8.23
+		},
+		{
+			"name": "Xenia",
+			"chance": 8.17
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 7.94
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.75
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.19
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.98
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.93
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.49
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.01
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.9
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.18
+		}
+	]
+}

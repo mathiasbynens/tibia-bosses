@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-02T08:32:31.924Z",
+	"timestamp": "2023-06-03T02:46:38.612Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.71
+			"chance": 18.71,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.34
+			"chance": 7.34,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +87,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.65
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

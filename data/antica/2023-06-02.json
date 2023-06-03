@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-02T08:32:27.404Z",
+	"timestamp": "2023-06-03T02:46:38.029Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +89,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.61
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

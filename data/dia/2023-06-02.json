@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-02T08:32:36.512Z",
+	"timestamp": "2023-06-03T02:46:39.366Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.36
+			"chance": 52.36,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.1
+			"chance": 27.1,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -96,6 +100,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

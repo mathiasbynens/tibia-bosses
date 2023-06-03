@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-02T08:32:50.146Z",
+	"timestamp": "2023-06-03T02:46:41.134Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.46
+			"chance": 26.46,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -88,6 +89,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.19
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-02T08:32:54.838Z",
+	"timestamp": "2023-06-03T02:46:41.850Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 10.5
+			"chance": 10.5,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +106,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.51
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

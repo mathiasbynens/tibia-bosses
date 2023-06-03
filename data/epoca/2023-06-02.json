@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-02T08:32:40.712Z",
+	"timestamp": "2023-06-03T02:46:39.876Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.61
+			"chance": 60.61,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.87
+			"chance": 38.87,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +106,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

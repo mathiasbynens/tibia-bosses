@@ -1,0 +1,97 @@
+{
+	"timestamp": "2023-06-04T08:32:14.304Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.55
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 58.34
+		},
+		{
+			"name": "Dracola",
+			"chance": 41.78
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 26.85
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.69
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 19.05
+		},
+		{
+			"name": "The Imperor",
+			"chance": 18.82
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 18.15
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.87
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.86
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 15.07
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.58
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 11.53
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 11.31
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.31
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.4
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 8.6
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.91
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.75
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.94
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.41
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 1.62
+		}
+	]
+}

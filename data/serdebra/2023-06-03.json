@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-03T08:32:21.856Z",
+	"timestamp": "2023-06-04T07:38:39.303Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.14
+			"chance": 72.14,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -104,6 +105,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.71
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

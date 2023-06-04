@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-03T08:32:10.647Z",
+	"timestamp": "2023-06-04T07:38:36.994Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.65
+			"chance": 36.65,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -87,11 +89,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.32
+			"chance": 7.32,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.02
+			"chance": 7.02,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -100,6 +104,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

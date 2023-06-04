@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-03T08:32:06.334Z",
+	"timestamp": "2023-06-04T07:38:35.931Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 20.11
+			"chance": 20.11,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",

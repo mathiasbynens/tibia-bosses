@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-03T08:32:18.250Z",
+	"timestamp": "2023-06-04T07:38:38.427Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 28.88
+			"chance": 28.88,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.32
+			"chance": 22.32,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.43
+			"chance": 21.43,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.67
+			"chance": 16.67,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 9.59
+			"chance": 9.59,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -91,11 +96,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.19
+			"chance": 7.19,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.98
+			"chance": 6.98,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +131,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.18
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-03T08:32:02.504Z",
+	"timestamp": "2023-06-04T07:38:35.249Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.21
+			"chance": 39.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.35
+			"chance": 35.35,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.66
+			"chance": 22.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.74
+			"chance": 19.74,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.67
+			"chance": 16.67,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.6
+			"chance": 14.6,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -96,6 +102,31 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.61
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

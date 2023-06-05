@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-04T08:32:21.111Z",
+	"timestamp": "2023-06-05T02:48:14.669Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 38.62
+			"chance": 38.62,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.9
+			"chance": 14.9,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -128,6 +131,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

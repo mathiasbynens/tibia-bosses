@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-04T08:32:02.929Z",
+	"timestamp": "2023-06-05T02:48:10.542Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.39
+			"chance": 28.39,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 20.03
+			"chance": 20.03,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.97
+			"chance": 7.97,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 7.96
+			"chance": 7.96,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,11 +93,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.18
+			"chance": 2.18,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
 			"chance": 1.61
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

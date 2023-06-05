@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-04T08:32:17.673Z",
+	"timestamp": "2023-06-05T02:48:13.741Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.68
+			"chance": 62.68,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.69
+			"chance": 20.69,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -115,11 +121,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.99
+			"chance": 3.99,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.71
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-04T08:32:10.767Z",
+	"timestamp": "2023-06-05T02:48:12.329Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.41
+			"chance": 10.41,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -111,7 +113,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.08
+			"chance": 2.08,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,129 @@
+{
+	"timestamp": "2023-06-06T08:32:18.575Z",
+	"bosses": [
+		{
+			"name": "Zushuka",
+			"chance": 42.05
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.52
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.78
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.02
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 26.16
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.49
+		},
+		{
+			"name": "yeti",
+			"chance": 18.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.69
+		},
+		{
+			"name": "Barbaria",
+			"chance": 17.17
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 17.09
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.91
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.78
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.77
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 16.66
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 15.04
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.18
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.31
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 11.82
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.43
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 10.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.17
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 8.89
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.14
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.08
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.52
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.23
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.21
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.05
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.58
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.35
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.2
+		}
+	]
+}

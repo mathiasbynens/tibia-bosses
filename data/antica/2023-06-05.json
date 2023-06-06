@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-05T08:32:13.567Z",
+	"timestamp": "2023-06-06T02:50:09.259Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50
+			"chance": 50,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.93
+			"chance": 28.93,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.57
+			"chance": 6.57,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -100,6 +103,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.61
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

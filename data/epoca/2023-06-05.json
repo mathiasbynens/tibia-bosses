@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-05T08:32:23.369Z",
+	"timestamp": "2023-06-06T02:50:13.297Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

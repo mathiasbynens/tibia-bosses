@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-05T08:32:30.477Z",
+	"timestamp": "2023-06-06T02:50:15.142Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.45
+			"chance": 64.45,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.7
+			"chance": 62.7,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.36
+			"chance": 58.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.3
+			"chance": 19.3,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -132,6 +139,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

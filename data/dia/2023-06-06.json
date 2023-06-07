@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-06T08:32:06.439Z",
+	"timestamp": "2023-06-07T02:49:20.259Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.19
+			"chance": 72.19,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.89
+			"chance": 39.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.1
+			"chance": 38.1,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,11 +39,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.5
+			"chance": 17.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.95
+			"chance": 6.95,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -107,7 +115,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 5.31
+			"chance": 5.31,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +129,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.38
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

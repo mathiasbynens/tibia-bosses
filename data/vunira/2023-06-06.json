@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-06T08:32:18.575Z",
+	"timestamp": "2023-06-07T02:49:25.503Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 42.05
+			"chance": 42.05,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.92
+			"chance": 10.92,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -124,6 +130,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.2
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

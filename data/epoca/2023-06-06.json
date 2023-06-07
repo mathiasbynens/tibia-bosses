@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-06T08:32:09.616Z",
+	"timestamp": "2023-06-07T02:49:21.003Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.38
+			"chance": 52.38,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.55
+			"chance": 17.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -76,6 +79,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.62
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

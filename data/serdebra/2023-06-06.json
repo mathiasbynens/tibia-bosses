@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-06T08:32:15.453Z",
+	"timestamp": "2023-06-07T02:49:24.188Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 19.41
+			"chance": 19.41,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -63,19 +65,23 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.46
+			"chance": 11.46,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.07
+			"chance": 11.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -111,7 +117,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.59
+			"chance": 6.59,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

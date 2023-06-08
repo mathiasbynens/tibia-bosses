@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-07T08:32:25.350Z",
+	"timestamp": "2023-06-08T02:48:55.003Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 27.97
+			"chance": 27.97,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.17
+			"chance": 27.17,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -80,6 +82,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-07T08:32:37.474Z",
+	"timestamp": "2023-06-08T02:48:57.988Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.86
+			"chance": 15.86,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -76,6 +77,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.77
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-07T08:32:29.728Z",
+	"timestamp": "2023-06-08T02:48:56.460Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.42
+			"chance": 14.42,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

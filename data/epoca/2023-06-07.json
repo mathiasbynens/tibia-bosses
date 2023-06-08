@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-07T08:32:33.534Z",
+	"timestamp": "2023-06-08T02:48:57.174Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 21.6
+			"chance": 21.6,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -84,6 +85,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

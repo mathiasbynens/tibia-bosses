@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-07T08:32:20.088Z",
+	"timestamp": "2023-06-08T02:48:54.212Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.72
+			"chance": 33.72,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 30.96
+			"chance": 30.96,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -136,6 +141,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.61
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

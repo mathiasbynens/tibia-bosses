@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-07T08:32:41.376Z",
+	"timestamp": "2023-06-08T02:48:58.935Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.54
+			"chance": 79.54,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.54
+			"chance": 35.54,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +109,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.04
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

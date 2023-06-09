@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-08T08:32:19.731Z",
+	"timestamp": "2023-06-09T02:50:27.366Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
-			"chance": 23.16
+			"chance": 23.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.6
+			"chance": 9.6,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -108,6 +111,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.41
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

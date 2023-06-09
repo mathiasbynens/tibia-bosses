@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-08T08:32:16.293Z",
+	"timestamp": "2023-06-09T02:50:26.489Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.41
+			"chance": 10.41,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

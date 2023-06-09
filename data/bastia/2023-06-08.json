@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-08T08:32:10.224Z",
+	"timestamp": "2023-06-09T02:50:24.982Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.36
+			"chance": 7.36,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -100,6 +103,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.37
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

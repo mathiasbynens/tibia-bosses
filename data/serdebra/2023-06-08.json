@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-08T08:32:22.966Z",
+	"timestamp": "2023-06-09T02:50:28.130Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.64
+			"chance": 60.64,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.17
+			"chance": 7.17,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.36
+			"chance": 6.36,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -100,6 +103,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.29
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

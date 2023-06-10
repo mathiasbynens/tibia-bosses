@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-09T08:32:28.985Z",
+	"timestamp": "2023-06-10T02:46:15.826Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +101,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.61
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

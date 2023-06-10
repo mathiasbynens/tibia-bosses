@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-09T08:32:32.451Z",
+	"timestamp": "2023-06-10T02:46:16.408Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.66
+			"chance": 35.66,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.81
+			"chance": 18.81,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -83,11 +85,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.79
+			"chance": 8.79,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 7.65
+			"chance": 7.65,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -116,6 +120,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.92
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

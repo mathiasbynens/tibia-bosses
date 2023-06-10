@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-09T08:32:19.070Z",
+	"timestamp": "2023-06-10T02:46:13.831Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.38
+			"chance": 58.38,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.56
+			"chance": 17.56,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.4
+			"chance": 15.4,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -123,7 +127,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 7.01
+			"chance": 7.01,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -140,6 +145,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.77
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

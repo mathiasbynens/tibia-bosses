@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-09T08:32:35.553Z",
+	"timestamp": "2023-06-10T02:46:16.981Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -108,6 +109,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.69
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

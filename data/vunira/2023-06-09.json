@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-09T08:32:38.749Z",
+	"timestamp": "2023-06-10T02:46:17.588Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 38.76
+			"chance": 38.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.32
+			"chance": 25.32,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.45
+			"chance": 9.45,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -104,6 +108,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.41
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

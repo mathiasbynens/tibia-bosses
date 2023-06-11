@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-06-11T08:32:20.085Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 60.64
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 36.63
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 34.93
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.37
+		},
+		{
+			"name": "Barbaria",
+			"chance": 24.34
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.25
+		},
+		{
+			"name": "yeti",
+			"chance": 22.03
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 20.05
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.78
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.47
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.27
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 15.27
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 13.96
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.29
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.64
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.32
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.67
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 9.64
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 9.63
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.34
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.56
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.07
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.04
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.69
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.59
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.43
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.45
+		}
+	]
+}

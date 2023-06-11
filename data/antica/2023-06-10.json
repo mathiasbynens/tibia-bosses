@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-10T08:32:12.431Z",
+	"timestamp": "2023-06-11T02:55:27.495Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 29.14
+			"chance": 29.14,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 13.37
+			"chance": 13.37,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

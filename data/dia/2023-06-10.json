@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-10T08:32:18.633Z",
+	"timestamp": "2023-06-11T02:55:29.192Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.67
+			"chance": 17.67,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -104,6 +105,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

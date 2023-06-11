@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-10T08:32:15.726Z",
+	"timestamp": "2023-06-11T02:55:28.349Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.09
+			"chance": 64.09,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -100,6 +102,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.38
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

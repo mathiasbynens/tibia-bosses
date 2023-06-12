@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-11T08:32:07.881Z",
+	"timestamp": "2023-06-12T02:49:01.029Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.02
+			"chance": 12.02,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -104,6 +108,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

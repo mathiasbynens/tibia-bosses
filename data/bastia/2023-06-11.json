@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-11T08:32:12.210Z",
+	"timestamp": "2023-06-12T02:49:01.912Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 14.31
+			"chance": 14.31,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.01
+			"chance": 7.01,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -104,6 +106,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

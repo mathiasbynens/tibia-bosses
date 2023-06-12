@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-11T08:32:28.076Z",
+	"timestamp": "2023-06-12T02:49:05.641Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.36
+			"chance": 7.36,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

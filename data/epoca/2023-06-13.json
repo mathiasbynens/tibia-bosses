@@ -1,0 +1,109 @@
+{
+	"timestamp": "2023-06-13T08:32:23.065Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "yeti",
+			"chance": 37.13
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 36.96
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.7
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.05
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 27.71
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 27.15
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 23.97
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 22.6
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.06
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.57
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.59
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 14.86
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.9
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.39
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 10.61
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.49
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.41
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.19
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.04
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.65
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.99
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.7
+		}
+	]
+}

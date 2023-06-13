@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-12T08:32:54.870Z",
+	"timestamp": "2023-06-13T02:44:43.651Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 19.74
+			"chance": 19.74,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.17
+			"chance": 17.17,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -116,6 +119,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

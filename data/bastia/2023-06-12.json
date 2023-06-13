@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-12T08:32:34.731Z",
+	"timestamp": "2023-06-13T02:44:38.935Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.32
+			"chance": 40.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -116,6 +118,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.96
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

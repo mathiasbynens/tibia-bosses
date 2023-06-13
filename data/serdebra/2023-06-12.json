@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-12T08:32:50.915Z",
+	"timestamp": "2023-06-13T02:44:42.454Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.37
+			"chance": 83.37,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 25.58
+			"chance": 25.58,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -111,7 +115,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.41
+			"chance": 8.41,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -123,7 +128,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 7.66
+			"chance": 7.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -131,11 +137,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.86
+			"chance": 5.86,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 5.72
+			"chance": 5.72,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -144,6 +152,21 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 3.05
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

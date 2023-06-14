@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-13T08:32:20.003Z",
+	"timestamp": "2023-06-14T02:44:26.122Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.5
+			"chance": 27.5,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -111,7 +114,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 9.97
+			"chance": 9.97,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -131,11 +135,22 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.56
+			"chance": 5.56,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 4.09
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

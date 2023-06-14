@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-13T08:32:32.976Z",
+	"timestamp": "2023-06-14T02:44:29.095Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -75,11 +77,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12
+			"chance": 12,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -128,6 +132,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

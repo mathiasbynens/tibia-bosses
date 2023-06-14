@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-13T08:32:13.362Z",
+	"timestamp": "2023-06-14T02:44:24.777Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.1
+			"chance": 64.1,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 9.93
+			"chance": 9.93,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -108,6 +113,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.44
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

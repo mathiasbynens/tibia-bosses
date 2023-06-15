@@ -1,0 +1,77 @@
+{
+	"timestamp": "2023-06-15T08:32:20.331Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 42.25
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 42.12
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 40.41
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.9
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.76
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 22.72
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.44
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.23
+		},
+		{
+			"name": "Zushuka",
+			"chance": 14.75
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.02
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 12.96
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.39
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.32
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.13
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.08
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.59
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 8.47
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.38
+		}
+	]
+}

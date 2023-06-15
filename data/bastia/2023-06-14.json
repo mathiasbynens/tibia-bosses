@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-14T08:32:17.336Z",
+	"timestamp": "2023-06-15T02:45:06.939Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.21
+			"chance": 27.21,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.84
+			"chance": 9.84,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.45
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

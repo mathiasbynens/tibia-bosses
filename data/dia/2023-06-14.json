@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-14T08:32:20.435Z",
+	"timestamp": "2023-06-15T02:45:07.937Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.1
+			"chance": 72.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.11
+			"chance": 38.11,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.76
+			"chance": 28.76,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.68
+			"chance": 15.68,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.43
+			"chance": 12.43,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -116,6 +122,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.01
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

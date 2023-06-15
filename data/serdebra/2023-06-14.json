@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-14T08:32:30.372Z",
+	"timestamp": "2023-06-15T02:45:59.863Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.28
+			"chance": 80.28,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 42.56
+			"chance": 42.56,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.61
+			"chance": 34.61,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.33
+			"chance": 28.33,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,19 +47,23 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.4
+			"chance": 21.4,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 21.29
+			"chance": 21.29,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 20.63
+			"chance": 20.63,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 19.48
+			"chance": 19.48,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -108,6 +116,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.44
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

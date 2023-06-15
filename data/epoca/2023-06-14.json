@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-14T08:32:23.802Z",
+	"timestamp": "2023-06-15T02:45:08.536Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.42
+			"chance": 52.42,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.79
+			"chance": 27.79,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -92,6 +94,11 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 6.28
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

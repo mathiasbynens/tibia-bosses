@@ -1,33 +1,40 @@
 {
-	"timestamp": "2023-06-14T08:32:27.219Z",
+	"timestamp": "2023-06-15T02:45:58.897Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.1
+			"chance": 72.1,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 57.13
+			"chance": 57.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.42
+			"chance": 52.42,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.11
+			"chance": 38.11,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 34.63
+			"chance": 34.63,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.42
+			"chance": 25.42,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 23.27
+			"chance": 23.27,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.2
+			"chance": 15.2,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +79,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.05
+			"chance": 13.05,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +88,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.43
+			"chance": 12.43,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -136,6 +146,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

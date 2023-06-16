@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-06-15T08:32:09.890Z",
+	"timestamp": "2023-06-16T02:44:34.496Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.38
+			"chance": 69.38,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.24
+			"chance": 67.24,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 67.08
+			"chance": 67.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.44
+			"chance": 52.44,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.69
+			"chance": 15.69,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -116,6 +123,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

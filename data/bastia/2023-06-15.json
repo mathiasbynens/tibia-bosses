@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-15T08:32:13.208Z",
+	"timestamp": "2023-06-16T02:44:35.172Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.4
+			"chance": 83.4,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 48.12
+			"chance": 48.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.23
+			"chance": 19.23,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

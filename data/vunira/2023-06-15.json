@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-15T08:32:30.819Z",
+	"timestamp": "2023-06-16T02:44:38.845Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.38
+			"chance": 58.38,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.43
+			"chance": 21.43,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.51
+			"chance": 5.51,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +124,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.75
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

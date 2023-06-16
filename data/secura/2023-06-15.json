@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-15T08:32:23.631Z",
+	"timestamp": "2023-06-16T02:44:37.308Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.9
+			"chance": 35.9,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.6
+			"chance": 30.6,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.42
+			"chance": 30.42,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 17.51
+			"chance": 17.51,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 14.27
+			"chance": 14.27,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 13.73
+			"chance": 13.73,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 9.53
+			"chance": 9.53,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -111,7 +119,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.67
+			"chance": 2.67,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

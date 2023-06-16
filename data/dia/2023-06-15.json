@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-15T08:32:16.762Z",
+	"timestamp": "2023-06-16T02:44:36.069Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.6
+			"chance": 14.6,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -103,7 +104,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 5.27
+			"chance": 5.27,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +114,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.67
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

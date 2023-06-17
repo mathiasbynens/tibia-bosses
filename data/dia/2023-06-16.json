@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-16T08:32:21.676Z",
+	"timestamp": "2023-06-17T02:41:28.120Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.38
+			"chance": 69.38,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 44.36
+			"chance": 44.36,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.63
+			"chance": 30.63,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.43
+			"chance": 30.43,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +117,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-16T08:32:14.473Z",
+	"timestamp": "2023-06-17T02:41:26.863Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.92
+			"chance": 35.92,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.31
+			"chance": 26.31,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.32
+			"chance": 22.32,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 21
+			"chance": 21,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.53
+			"chance": 12.53,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -96,6 +103,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.48
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

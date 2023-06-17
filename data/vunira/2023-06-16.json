@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-16T08:32:35.696Z",
+	"timestamp": "2023-06-17T02:41:30.955Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.63
+			"chance": 79.63,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.38
+			"chance": 69.38,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.48
+			"chance": 15.48,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.24
+			"chance": 10.24,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -128,6 +134,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.44
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-16T08:32:18.445Z",
+	"timestamp": "2023-06-17T02:41:27.466Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 38.85
+			"chance": 38.85,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.98
+			"chance": 18.98,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.97
+			"chance": 18.97,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.2
+			"chance": 10.2,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

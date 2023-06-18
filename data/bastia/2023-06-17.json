@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-17T08:32:08.504Z",
+	"timestamp": "2023-06-18T02:48:47.115Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.4
+			"chance": 69.4,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.38
+			"chance": 28.38,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.33
+			"chance": 11.33,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -76,6 +80,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.49
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-17T08:32:20.665Z",
+	"timestamp": "2023-06-18T02:48:51.568Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.65
+			"chance": 36.65,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -84,6 +87,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.75
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

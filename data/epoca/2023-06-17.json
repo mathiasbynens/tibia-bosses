@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-17T08:32:16.751Z",
+	"timestamp": "2023-06-18T02:48:50.662Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 38.84
+			"chance": 38.84,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 24.95
+			"chance": 24.95,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 17.64
+			"chance": 17.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.16
+			"chance": 11.16,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

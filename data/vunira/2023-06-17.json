@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-17T08:32:28.498Z",
+	"timestamp": "2023-06-18T02:48:53.844Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,11 +60,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

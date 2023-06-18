@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-17T08:32:24.467Z",
+	"timestamp": "2023-06-18T02:48:52.783Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -99,7 +102,33 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.13
+			"chance": 2.13,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

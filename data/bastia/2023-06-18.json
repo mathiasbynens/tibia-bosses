@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-18T08:32:12.689Z",
+	"timestamp": "2023-06-19T02:45:32.870Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 16.84
+			"chance": 16.84,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13
+			"chance": 13,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +75,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.22
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

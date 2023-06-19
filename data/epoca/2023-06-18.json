@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-18T08:32:20.398Z",
+	"timestamp": "2023-06-19T02:45:34.924Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 28.77
+			"chance": 28.77,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.47
+			"chance": 4.47,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-18T08:32:23.948Z",
+	"timestamp": "2023-06-19T02:45:35.883Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,19 +11,23 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.42
+			"chance": 26.42,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.22
+			"chance": 22.22,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.9
+			"chance": 21.9,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.66
+			"chance": 4.66,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -100,6 +105,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.43
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

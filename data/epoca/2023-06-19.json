@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-19T08:32:43.874Z",
+	"timestamp": "2023-06-20T02:41:56.581Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 20.32
+			"chance": 20.32,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

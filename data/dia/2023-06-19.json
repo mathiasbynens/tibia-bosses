@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-19T08:32:40.693Z",
+	"timestamp": "2023-06-20T02:41:56.010Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.52
+			"chance": 7.52,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +81,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.74
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

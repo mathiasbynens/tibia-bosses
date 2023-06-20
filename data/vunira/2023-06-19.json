@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-19T08:32:53.965Z",
+	"timestamp": "2023-06-20T02:41:59.434Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.67
+			"chance": 60.67,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.16
+			"chance": 44.16,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 16.77
+			"chance": 16.77,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.68
+			"chance": 12.68,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 5.94
+			"chance": 5.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +85,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.56
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-19T08:32:37.570Z",
+	"timestamp": "2023-06-20T02:41:55.122Z",
 	"bosses": [
 		{
 			"name": "yeti",
-			"chance": 37.19
+			"chance": 37.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.01
+			"chance": 36.01,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.75
+			"chance": 22.75,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -76,6 +79,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

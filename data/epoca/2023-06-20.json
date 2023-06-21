@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-20T08:32:37.521Z",
+	"timestamp": "2023-06-21T02:42:25.650Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 32.07
+			"chance": 32.07,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.76
+			"chance": 11.76,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -84,6 +87,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.74
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

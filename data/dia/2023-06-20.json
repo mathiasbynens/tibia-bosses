@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-20T08:32:34.451Z",
+	"timestamp": "2023-06-21T02:42:25.002Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -87,11 +89,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.14
+			"chance": 8.14,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -108,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.43
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

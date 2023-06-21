@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-20T08:32:43.419Z",
+	"timestamp": "2023-06-21T02:42:28.176Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 38.86
+			"chance": 38.86,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -100,6 +104,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.3
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

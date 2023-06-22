@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-21T08:32:22.721Z",
+	"timestamp": "2023-06-22T02:45:04.712Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.71
+			"chance": 33.71,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 30.98
+			"chance": 30.98,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.24
+			"chance": 27.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -92,6 +95,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.89
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

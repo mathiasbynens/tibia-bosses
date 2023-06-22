@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-21T08:32:41.445Z",
+	"timestamp": "2023-06-22T02:45:09.561Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.77
+			"chance": 62.77,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.8
+			"chance": 10.8,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -112,6 +116,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.5
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

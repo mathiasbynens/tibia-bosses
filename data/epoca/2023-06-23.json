@@ -1,0 +1,109 @@
+{
+	"timestamp": "2023-06-23T08:34:29.691Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 44.19
+		},
+		{
+			"name": "The Imperor",
+			"chance": 29.98
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 27.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 26
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.87
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.58
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 21.43
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.65
+		},
+		{
+			"name": "Dracola",
+			"chance": 19.81
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.09
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.71
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 15.61
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.27
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.76
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.75
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.37
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.48
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.25
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 10.03
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.92
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.26
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 5.55
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.2
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.76
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.55
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 1.95
+		}
+	]
+}

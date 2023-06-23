@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-22T08:32:18.475Z",
+	"timestamp": "2023-06-23T02:51:44.573Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.82
+			"chance": 41.82,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

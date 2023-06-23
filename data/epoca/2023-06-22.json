@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-22T08:32:25.059Z",
+	"timestamp": "2023-06-23T02:51:45.910Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -91,11 +91,17 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.59
+			"chance": 4.59,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

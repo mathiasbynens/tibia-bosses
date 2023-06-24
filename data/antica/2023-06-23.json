@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-23T08:34:17.725Z",
+	"timestamp": "2023-06-24T02:51:44.561Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -39,11 +39,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.17
+			"chance": 6.17,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +95,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.73
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

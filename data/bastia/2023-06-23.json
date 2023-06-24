@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-23T08:34:22.726Z",
+	"timestamp": "2023-06-24T02:51:45.283Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.38
+			"chance": 58.38,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 53.13
+			"chance": 53.13,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

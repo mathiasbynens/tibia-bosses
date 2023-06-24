@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-23T08:34:36.319Z",
+	"timestamp": "2023-06-24T02:51:49.350Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 16.71
+			"chance": 16.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -96,6 +99,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.41
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

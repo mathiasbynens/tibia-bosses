@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-24T08:33:51.970Z",
+	"timestamp": "2023-06-25T03:01:53.162Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.44
+			"chance": 22.44,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.7
+			"chance": 19.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.75
+			"chance": 17.75,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.17
+			"chance": 13.17,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -71,11 +75,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.26
+			"chance": 11.26,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +114,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.28
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

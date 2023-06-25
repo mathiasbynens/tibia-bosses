@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-24T08:34:04.849Z",
+	"timestamp": "2023-06-25T03:01:58.855Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.68
+			"chance": 60.68,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.18
+			"chance": 39.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.56
+			"chance": 17.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.68
+			"chance": 12.68,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.03
+			"chance": 12.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.91
+			"chance": 7.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

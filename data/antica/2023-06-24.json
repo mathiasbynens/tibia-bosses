@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-24T08:33:43.405Z",
+	"timestamp": "2023-06-25T03:01:51.543Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 29.65
+			"chance": 29.65,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 12.54
+			"chance": 12.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +92,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.41
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

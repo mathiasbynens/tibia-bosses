@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-25T08:33:54.670Z",
+	"timestamp": "2023-06-26T02:57:04.007Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.9
+			"chance": 16.9,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.13
+			"chance": 10.13,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.29
+			"chance": 9.29,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +103,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.41
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

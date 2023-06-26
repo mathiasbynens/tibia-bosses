@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-25T08:33:45.498Z",
+	"timestamp": "2023-06-26T02:57:01.167Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 57.5
+			"chance": 57.5,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.65
+			"chance": 36.65,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.98
+			"chance": 4.98,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

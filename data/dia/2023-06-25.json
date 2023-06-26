@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-25T08:33:42.466Z",
+	"timestamp": "2023-06-26T02:57:00.472Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.46
+			"chance": 58.46,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.5
+			"chance": 52.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8
+			"chance": 8,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +105,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.76
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

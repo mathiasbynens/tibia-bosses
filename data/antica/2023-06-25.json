@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-25T08:33:35.427Z",
+	"timestamp": "2023-06-26T02:56:58.876Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.46
+			"chance": 58.46,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.4
+			"chance": 21.4,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 8.44
+			"chance": 8.44,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.28
+			"chance": 8.28,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -87,11 +91,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 5.82
+			"chance": 5.82,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3
+			"chance": 3,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -100,6 +106,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.13
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

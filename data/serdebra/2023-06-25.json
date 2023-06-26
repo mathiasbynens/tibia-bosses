@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-25T08:33:51.715Z",
+	"timestamp": "2023-06-26T02:57:03.086Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.5
+			"chance": 52.5,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 24.83
+			"chance": 24.83,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.86
+			"chance": 14.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -107,7 +111,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.13
+			"chance": 2.13,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

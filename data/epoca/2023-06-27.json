@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-06-27T08:34:42.890Z",
+	"bosses": [
+		{
+			"name": "White Pale",
+			"chance": 55.79
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.92
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 28.14
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 27.91
+		},
+		{
+			"name": "Tyrn",
+			"chance": 24.93
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 22.71
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 20.92
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.83
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.16
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 14.12
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 11.49
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 11.37
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.79
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 8.94
+		},
+		{
+			"name": "Hirintror",
+			"chance": 7.16
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.57
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.44
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.48
+		}
+	]
+}

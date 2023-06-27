@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-26T08:37:08.293Z",
+	"timestamp": "2023-06-27T02:53:15.568Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 48.03
+			"chance": 48.03,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.71
+			"chance": 25.71,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 15.2
+			"chance": 15.2,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -108,6 +113,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 6.17
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

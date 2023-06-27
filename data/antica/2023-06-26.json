@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-26T08:36:52.553Z",
+	"timestamp": "2023-06-27T02:53:12.156Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.16
+			"chance": 72.16,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -100,6 +104,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.51
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

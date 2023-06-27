@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-26T08:37:12.643Z",
+	"timestamp": "2023-06-27T02:53:16.470Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.74
+			"chance": 79.74,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 42.15
+			"chance": 42.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.84
+			"chance": 41.84,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.63
+			"chance": 6.63,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -136,6 +141,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

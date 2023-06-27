@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-26T08:36:56.170Z",
+	"timestamp": "2023-06-27T02:53:12.960Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 28.72
+			"chance": 28.72,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.61
+			"chance": 17.61,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.16
+			"chance": 8.16,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

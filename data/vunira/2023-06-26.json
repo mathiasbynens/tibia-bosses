@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-26T08:37:16.569Z",
+	"timestamp": "2023-06-27T02:53:17.461Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.32
+			"chance": 36.32,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 31.68
+			"chance": 31.68,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.43
+			"chance": 26.43,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.38
+			"chance": 11.38,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.85
+			"chance": 7.85,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +121,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.93
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

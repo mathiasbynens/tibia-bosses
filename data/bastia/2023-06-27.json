@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-27T08:34:34.118Z",
+	"timestamp": "2023-06-28T02:51:21.502Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.1
+			"chance": 7.1,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

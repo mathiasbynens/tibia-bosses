@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-27T08:34:42.890Z",
+	"timestamp": "2023-06-28T02:51:23.509Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 24.93
+			"chance": 24.93,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

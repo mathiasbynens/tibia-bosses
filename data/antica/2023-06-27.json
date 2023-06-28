@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-27T08:34:29.618Z",
+	"timestamp": "2023-06-28T02:51:20.652Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.48
+			"chance": 15.48,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.43
+			"chance": 8.43,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.22
+			"chance": 7.22,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +115,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-27T08:34:49.558Z",
+	"timestamp": "2023-06-28T02:51:25.827Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 48.46
+			"chance": 48.46,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.52
+			"chance": 23.52,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.83
+			"chance": 20.83,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.63
+			"chance": 8.63,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.22
+			"chance": 7.22,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +129,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.51
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

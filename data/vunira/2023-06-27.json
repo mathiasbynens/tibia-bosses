@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-27T08:34:52.976Z",
+	"timestamp": "2023-06-28T02:51:26.885Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.39
+			"chance": 25.39,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +114,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.68
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

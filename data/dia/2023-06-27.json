@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-27T08:34:37.461Z",
+	"timestamp": "2023-06-28T02:51:22.556Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.07
+			"chance": 25.07,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.21
+			"chance": 15.21,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +109,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

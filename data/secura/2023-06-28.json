@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-28T08:34:57.497Z",
+	"timestamp": "2023-06-29T02:49:30.584Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.31
+			"chance": 20.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -108,6 +109,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-06-28T08:34:54.322Z",
+	"timestamp": "2023-06-29T02:49:29.880Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.82
+			"chance": 41.82,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.39
+			"chance": 40.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.39
+			"chance": 10.39,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +92,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.47
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

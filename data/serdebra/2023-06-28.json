@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-28T08:35:01.020Z",
+	"timestamp": "2023-06-29T02:49:31.420Z",
 	"bosses": [
 		{
 			"name": "Hirintror",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 24.91
+			"chance": 24.91,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 19.38
+			"chance": 19.38,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 6.87
+			"chance": 6.87,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

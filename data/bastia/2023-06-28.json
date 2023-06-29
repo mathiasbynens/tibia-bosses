@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-28T08:34:46.448Z",
+	"timestamp": "2023-06-29T02:49:28.698Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.31
+			"chance": 27.31,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 25.78
+			"chance": 25.78,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.63
+			"chance": 6.63,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

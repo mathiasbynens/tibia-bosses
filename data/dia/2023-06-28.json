@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-28T08:34:50.074Z",
+	"timestamp": "2023-06-29T02:49:29.372Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -100,6 +100,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.22
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

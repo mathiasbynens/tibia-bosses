@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-29T08:35:11.986Z",
+	"timestamp": "2023-06-30T02:48:18.217Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-06-29T08:35:28.512Z",
+	"timestamp": "2023-06-30T02:48:20.940Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.42
+			"chance": 69.42,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 15.57
+			"chance": 15.57,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -120,6 +123,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

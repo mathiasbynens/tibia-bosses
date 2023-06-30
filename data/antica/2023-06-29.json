@@ -1,25 +1,30 @@
 {
-	"timestamp": "2023-06-29T08:35:07.411Z",
+	"timestamp": "2023-06-30T02:48:17.582Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.54
+			"chance": 52.54,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.2
+			"chance": 50.2,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 41.11
+			"chance": 41.11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 39
+			"chance": 39,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.09
+			"chance": 25.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.36
+			"chance": 15.36,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -112,6 +120,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.2
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

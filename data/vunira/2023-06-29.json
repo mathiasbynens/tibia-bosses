@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-29T08:35:32.246Z",
+	"timestamp": "2023-06-30T02:48:22.400Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.8
+			"chance": 17.8,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.85
+			"chance": 15.85,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -124,6 +130,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.79
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

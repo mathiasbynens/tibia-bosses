@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-30T08:33:32.975Z",
+	"timestamp": "2023-07-01T02:59:27.923Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.45
+			"chance": 83.45,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.91
+			"chance": 39.91,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.93
+			"chance": 25.93,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.01
+			"chance": 10.01,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +102,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.14
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

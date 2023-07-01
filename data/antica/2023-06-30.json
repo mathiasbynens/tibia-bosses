@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-30T08:33:26.672Z",
+	"timestamp": "2023-07-01T02:58:50.685Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 9.54
+			"chance": 9.54,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 9.44
+			"chance": 9.44,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -96,6 +99,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.74
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-30T08:33:38.782Z",
+	"timestamp": "2023-07-01T02:59:29.563Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.79
+			"chance": 62.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.21
+			"chance": 39.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 29.85
+			"chance": 29.85,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.04
+			"chance": 27.04,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.29
+			"chance": 21.29,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.54
+			"chance": 12.54,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -143,7 +149,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.95
+			"chance": 2.95,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

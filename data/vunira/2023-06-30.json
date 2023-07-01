@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-06-30T08:33:44.745Z",
+	"timestamp": "2023-07-01T02:59:31.565Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.42
+			"chance": 69.42,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.09
+			"chance": 64.09,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.9
+			"chance": 11.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 8.38
+			"chance": 8.38,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.01
+			"chance": 5.01,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -116,6 +121,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.46
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

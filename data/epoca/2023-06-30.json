@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-06-30T08:33:35.831Z",
+	"timestamp": "2023-07-01T02:59:28.679Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -76,6 +76,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.19
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-01T08:33:03.557Z",
+	"timestamp": "2023-07-02T02:55:44.352Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.69
+			"chance": 60.69,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.54
+			"chance": 52.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.5
+			"chance": 19.5,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.55
+			"chance": 16.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.47
+			"chance": 15.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -115,7 +121,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -156,6 +163,31 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

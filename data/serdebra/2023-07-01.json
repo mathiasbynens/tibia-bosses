@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-01T08:33:07.020Z",
+	"timestamp": "2023-07-02T02:55:45.036Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 29.64
+			"chance": 29.64,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,27 +20,33 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.12
+			"chance": 25.12,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.52
+			"chance": 21.52,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.45
+			"chance": 20.45,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.74
+			"chance": 18.74,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.44
+			"chance": 16.44,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -79,7 +87,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -87,11 +96,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.79
+			"chance": 7.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.18
+			"chance": 7.18,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +127,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.24
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

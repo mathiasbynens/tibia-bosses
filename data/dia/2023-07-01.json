@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-01T08:32:55.412Z",
+	"timestamp": "2023-07-02T02:55:43.209Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.1
+			"chance": 64.1,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 52
+			"chance": 52,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.44
+			"chance": 40.44,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.08
+			"chance": 25.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.52
+			"chance": 11.52,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -83,11 +89,17 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.52
+			"chance": 2.52,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 1.88
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

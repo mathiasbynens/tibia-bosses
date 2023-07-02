@@ -1,0 +1,89 @@
+{
+	"timestamp": "2023-07-02T08:33:08.098Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.13
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 36.63
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.71
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 31.06
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 28.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 21.11
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 17.42
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.12
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.78
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 13.41
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.57
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.33
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 7.39
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.11
+		},
+		{
+			"name": "Dracola",
+			"chance": 6.72
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.49
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.34
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.45
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.53
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 1.73
+		}
+	]
+}

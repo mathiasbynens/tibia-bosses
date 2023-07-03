@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-02T08:33:12.245Z",
+	"timestamp": "2023-07-03T02:51:33.005Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.83
+			"chance": 27.83,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 10.08
+			"chance": 10.08,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +91,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

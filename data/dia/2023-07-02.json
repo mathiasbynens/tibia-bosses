@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-02T08:33:08.098Z",
+	"timestamp": "2023-07-03T02:51:32.158Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.71
+			"chance": 33.71,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -84,6 +85,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.73
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-02T08:33:24.901Z",
+	"timestamp": "2023-07-03T02:51:35.911Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.15
+			"chance": 72.15,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 47.78
+			"chance": 47.78,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.75
+			"chance": 36.75,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.89
+			"chance": 28.89,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

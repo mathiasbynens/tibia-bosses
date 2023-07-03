@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-02T08:33:03.966Z",
+	"timestamp": "2023-07-03T02:51:31.056Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -76,6 +76,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.02
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

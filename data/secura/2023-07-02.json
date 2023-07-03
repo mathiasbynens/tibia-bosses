@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-02T08:33:16.252Z",
+	"timestamp": "2023-07-03T02:51:33.906Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.42
+			"chance": 69.42,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 42.93
+			"chance": 42.93,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.63
+			"chance": 36.63,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -27,15 +30,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 29.68
+			"chance": 29.68,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.42
+			"chance": 26.42,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 25.19
+			"chance": 25.19,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 23.16
+			"chance": 23.16,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 16.12
+			"chance": 16.12,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -136,6 +144,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.24
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

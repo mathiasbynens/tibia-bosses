@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-03T08:34:37.921Z",
+	"timestamp": "2023-07-04T05:09:31.268Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.56
+			"chance": 52.56,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 42.95
+			"chance": 42.95,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,15 +43,18 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 13.15
+			"chance": 13.15,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -124,6 +131,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

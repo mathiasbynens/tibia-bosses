@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-03T08:34:24.076Z",
+	"timestamp": "2023-07-04T05:09:27.774Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.77
+			"chance": 79.77,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.55
+			"chance": 58.55,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 39.07
+			"chance": 39.07,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.71
+			"chance": 7.71,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.2
+			"chance": 7.2,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-03T08:34:20.765Z",
+	"timestamp": "2023-07-04T05:09:26.953Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -76,6 +77,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.71
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

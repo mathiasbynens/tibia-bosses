@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-03T08:34:27.399Z",
+	"timestamp": "2023-07-04T05:09:28.464Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.55
+			"chance": 58.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -96,6 +98,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.33
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

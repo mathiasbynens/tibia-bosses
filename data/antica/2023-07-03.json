@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-07-03T08:34:17.155Z",
+	"timestamp": "2023-07-04T05:09:26.170Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
-			"chance": 25.54
+			"chance": 25.54,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 19.73
+			"chance": 19.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.38
+			"chance": 7.38,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +106,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.45
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

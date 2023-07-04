@@ -1,0 +1,85 @@
+{
+	"timestamp": "2023-07-04T08:35:23.951Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 44.32
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 36.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.13
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.05
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 16.72
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.54
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.18
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 10.05
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 9.33
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.79
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 8.76
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.58
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.55
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.25
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 7.01
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.77
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.69
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.73
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.55
+		}
+	]
+}

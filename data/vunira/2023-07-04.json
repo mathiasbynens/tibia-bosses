@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-04T08:35:28.068Z",
+	"timestamp": "2023-07-05T02:52:08.584Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.78
+			"chance": 25.78,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.28
+			"chance": 17.28,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.14
+			"chance": 14.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

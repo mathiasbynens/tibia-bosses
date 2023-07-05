@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-04T08:35:01.660Z",
+	"timestamp": "2023-07-05T02:52:02.172Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.83
+			"chance": 36.83,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.56
+			"chance": 22.56,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.25
+			"chance": 22.25,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.63
+			"chance": 20.63,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.19
+			"chance": 5.19,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +106,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.12
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

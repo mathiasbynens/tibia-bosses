@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-04T08:35:15.607Z",
+	"timestamp": "2023-07-05T02:52:05.303Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +96,31 @@
 		{
 			"name": "The Welter",
 			"chance": 4.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

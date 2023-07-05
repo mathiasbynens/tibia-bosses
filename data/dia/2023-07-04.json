@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-04T08:35:11.387Z",
+	"timestamp": "2023-07-05T02:52:04.604Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 29.91
+			"chance": 29.91,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -76,6 +77,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.28
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-04T08:35:06.932Z",
+	"timestamp": "2023-07-05T02:52:03.416Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.8
+			"chance": 41.8,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.14
+			"chance": 14.14,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -100,6 +104,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.45
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

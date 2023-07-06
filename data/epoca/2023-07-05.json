@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-05T08:35:36.680Z",
+	"timestamp": "2023-07-06T02:53:56.142Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-05T08:35:26.305Z",
+	"timestamp": "2023-07-06T02:53:54.281Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.45
+			"chance": 69.45,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.68
+			"chance": 34.68,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -103,7 +106,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.13
+			"chance": 4.13,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +116,26 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.74
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

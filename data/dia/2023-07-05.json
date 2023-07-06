@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-05T08:35:33.104Z",
+	"timestamp": "2023-07-06T02:53:55.569Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.45
+			"chance": 69.45,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.8
+			"chance": 20.8,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.6
+			"chance": 19.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 16.72
+			"chance": 16.72,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.43
+			"chance": 11.43,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -92,6 +98,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.49
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

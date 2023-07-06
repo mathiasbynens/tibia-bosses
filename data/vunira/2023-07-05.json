@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-05T08:35:46.767Z",
+	"timestamp": "2023-07-06T02:53:58.361Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
-			"chance": 25.38
+			"chance": 25.38,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 23.82
+			"chance": 23.82,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

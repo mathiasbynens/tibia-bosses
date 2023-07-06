@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-05T08:35:40.043Z",
+	"timestamp": "2023-07-06T02:53:56.750Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.18
+			"chance": 64.18,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.92
+			"chance": 28.92,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.41
+			"chance": 21.41,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.81
+			"chance": 14.81,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.49
+			"chance": 5.49,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -80,6 +86,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-06T08:36:14.030Z",
+	"timestamp": "2023-07-07T02:51:03.617Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.66
+			"chance": 36.66,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.53
+			"chance": 12.53,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +103,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.82
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

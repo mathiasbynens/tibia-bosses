@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-06T08:35:51.500Z",
+	"timestamp": "2023-07-07T02:51:00.047Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 52.06
+			"chance": 52.06,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +101,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.26
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

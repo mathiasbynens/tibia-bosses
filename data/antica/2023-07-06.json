@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-06T08:35:46.493Z",
+	"timestamp": "2023-07-07T02:50:59.462Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.71
+			"chance": 33.71,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.26
+			"chance": 27.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.55
+			"chance": 21.55,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.75
+			"chance": 12.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-06T08:36:01.272Z",
+	"timestamp": "2023-07-07T02:51:01.352Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.08
+			"chance": 72.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

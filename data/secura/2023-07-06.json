@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-06T08:36:05.754Z",
+	"timestamp": "2023-07-07T02:51:01.948Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 41.77
+			"chance": 41.77,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.45
+			"chance": 6.45,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -72,6 +75,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.68
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

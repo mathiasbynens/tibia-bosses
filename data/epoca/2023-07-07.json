@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-07T08:34:36.706Z",
+	"timestamp": "2023-07-08T02:51:59.034Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.41
+			"chance": 9.41,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +83,16 @@
 		{
 			"name": "Captain Jones",
 			"chance": 3.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

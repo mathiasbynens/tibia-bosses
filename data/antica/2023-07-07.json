@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-07T08:34:25.049Z",
+	"timestamp": "2023-07-08T02:51:56.778Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 13.76
+			"chance": 13.76,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -104,6 +107,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.25
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

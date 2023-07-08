@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-07T08:34:44.071Z",
+	"timestamp": "2023-07-08T02:52:00.644Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.46
+			"chance": 11.46,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.43
+			"chance": 11.43,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.81
+			"chance": 9.81,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.44
+			"chance": 6.44,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +99,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

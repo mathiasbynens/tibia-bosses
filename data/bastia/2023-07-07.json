@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-07T08:34:29.104Z",
+	"timestamp": "2023-07-08T02:51:57.613Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.58
+			"chance": 40.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.09
+			"chance": 28.09,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.15
+			"chance": 16.15,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -124,6 +127,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

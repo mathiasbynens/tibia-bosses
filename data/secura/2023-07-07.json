@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-07T08:34:40.002Z",
+	"timestamp": "2023-07-08T02:51:59.859Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 24.63
+			"chance": 24.63,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.73
+			"chance": 19.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -92,6 +96,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.18
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

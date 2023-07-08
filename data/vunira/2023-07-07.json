@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-07T08:34:47.467Z",
+	"timestamp": "2023-07-08T02:52:01.576Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.43
+			"chance": 69.43,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.79
+			"chance": 27.79,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

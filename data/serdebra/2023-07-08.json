@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-07-08T08:33:25.210Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 67.45
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.17
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.63
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.89
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.84
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 15.71
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.92
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.17
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 10.98
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.17
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.2
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.92
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.4
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.85
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.69
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.32
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.32
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.43
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.29
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.99
+		}
+	]
+}

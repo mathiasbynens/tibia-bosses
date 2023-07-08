@@ -1,0 +1,69 @@
+{
+	"timestamp": "2023-07-08T08:33:18.579Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.74
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.82
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.55
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.39
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.3
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.06
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.92
+		},
+		{
+			"name": "Dracola",
+			"chance": 12.28
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.81
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.28
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 10.02
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.89
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.77
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.49
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.85
+		}
+	]
+}

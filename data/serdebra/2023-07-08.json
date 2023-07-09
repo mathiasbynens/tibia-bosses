@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-08T08:33:25.210Z",
+	"timestamp": "2023-07-09T02:58:38.722Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.17
+			"chance": 10.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +91,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

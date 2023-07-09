@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-08T08:33:18.579Z",
+	"timestamp": "2023-07-09T02:58:36.821Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.74
+			"chance": 33.74,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.39
+			"chance": 21.39,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

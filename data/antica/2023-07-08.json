@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-08T08:33:06.614Z",
+	"timestamp": "2023-07-09T02:58:34.723Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 39.05
+			"chance": 39.05,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.21
+			"chance": 12.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.18
+			"chance": 10.18,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +117,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.95
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-08T08:33:12.325Z",
+	"timestamp": "2023-07-09T02:58:35.338Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.89
+			"chance": 39.89,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.29
+			"chance": 24.29,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

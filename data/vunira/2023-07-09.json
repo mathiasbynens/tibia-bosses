@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-09T08:33:18.230Z",
+	"timestamp": "2023-07-10T02:54:39.451Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.92
+			"chance": 28.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.11
+			"chance": 21.11,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.7
+			"chance": 19.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +107,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.44
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-09T08:33:03.394Z",
+	"timestamp": "2023-07-10T02:54:34.422Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -96,6 +97,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.24
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

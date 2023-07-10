@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-09T08:33:14.617Z",
+	"timestamp": "2023-07-10T02:54:38.484Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.21
+			"chance": 25.21,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -96,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.18
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

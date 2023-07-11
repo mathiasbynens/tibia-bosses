@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-10T08:35:00.400Z",
+	"timestamp": "2023-07-11T02:48:06.603Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -95,15 +96,22 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.34
+			"chance": 8.34,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.16
+			"chance": 7.16,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

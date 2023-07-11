@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-10T08:35:04.700Z",
+	"timestamp": "2023-07-11T02:48:07.563Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.74
+			"chance": 37.74,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.72
+			"chance": 36.72,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +103,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

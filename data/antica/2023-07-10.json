@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-10T08:34:56.710Z",
+	"timestamp": "2023-07-11T02:48:05.872Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.14
+			"chance": 72.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.65
+			"chance": 58.65,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,15 +78,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 11.67
+			"chance": 11.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 9.38
+			"chance": 9.38,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -115,11 +121,28 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.71
+			"chance": 2.71,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.54
+			"chance": 2.54,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

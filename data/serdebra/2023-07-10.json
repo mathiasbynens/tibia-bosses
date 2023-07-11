@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-10T08:35:14.838Z",
+	"timestamp": "2023-07-11T02:48:10.034Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.27
+			"chance": 27.27,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -100,6 +102,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.54
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

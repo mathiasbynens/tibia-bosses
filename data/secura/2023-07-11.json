@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-11T08:35:07.344Z",
+	"timestamp": "2023-07-12T02:50:29.397Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.69
+			"chance": 22.69,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.25
+			"chance": 18.25,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.21
+			"chance": 16.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -112,6 +116,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.31
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

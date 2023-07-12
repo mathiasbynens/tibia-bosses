@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-11T08:35:11.208Z",
+	"timestamp": "2023-07-12T02:50:30.441Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,15 +29,18 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.28
+			"chance": 23.28,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.51
+			"chance": 22.51,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 17.72
+			"chance": 17.72,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.79
+			"chance": 9.79,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +115,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.28
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

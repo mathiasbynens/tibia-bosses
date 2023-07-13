@@ -1,0 +1,109 @@
+{
+	"timestamp": "2023-07-13T08:34:38.914Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.09
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 44.47
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 36.75
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.99
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 22.69
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.83
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.71
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.1
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 13.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.17
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 12.34
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 12.33
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.05
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.03
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.01
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.92
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 8.31
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.35
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.25
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.15
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.4
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.35
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.96
+		}
+	]
+}

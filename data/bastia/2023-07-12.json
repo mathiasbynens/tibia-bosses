@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-12T08:34:23.460Z",
+	"timestamp": "2023-07-13T02:53:25.746Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.83
+			"chance": 26.83,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.02
+			"chance": 12.02,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -95,7 +99,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.63
+			"chance": 3.63,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

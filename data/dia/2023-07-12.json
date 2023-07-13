@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-12T08:34:26.835Z",
+	"timestamp": "2023-07-13T02:53:26.525Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 39.05
+			"chance": 39.05,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 24.85
+			"chance": 24.85,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -92,6 +96,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.19
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-12T08:34:33.684Z",
+	"timestamp": "2023-07-13T02:53:27.760Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.83
+			"chance": 41.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.28
+			"chance": 39.28,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 31.76
+			"chance": 31.76,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.76
+			"chance": 20.76,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 20.38
+			"chance": 20.38,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,11 +40,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +54,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.9
+			"chance": 14.9,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,7 +67,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.13
+			"chance": 13.13,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -71,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +118,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

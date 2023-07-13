@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-12T08:34:20.061Z",
+	"timestamp": "2023-07-13T02:53:25.106Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.49
+			"chance": 19.49,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.12
+			"chance": 7.12,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +91,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

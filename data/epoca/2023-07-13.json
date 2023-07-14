@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-13T08:34:30.851Z",
+	"timestamp": "2023-07-14T02:52:31.177Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.52
+			"chance": 16.52,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

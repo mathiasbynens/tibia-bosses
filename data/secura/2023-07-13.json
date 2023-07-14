@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-13T08:34:34.929Z",
+	"timestamp": "2023-07-14T02:52:31.939Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.4
+			"chance": 39.4,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.59
+			"chance": 19.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,11 +72,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +99,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

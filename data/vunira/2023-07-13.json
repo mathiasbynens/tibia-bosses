@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-13T08:34:42.953Z",
+	"timestamp": "2023-07-14T02:52:33.841Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

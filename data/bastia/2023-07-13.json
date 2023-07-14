@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-13T08:34:22.477Z",
+	"timestamp": "2023-07-14T02:52:29.391Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 42.08
+			"chance": 42.08,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -68,6 +70,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

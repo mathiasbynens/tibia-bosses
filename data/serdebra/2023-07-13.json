@@ -1,25 +1,30 @@
 {
-	"timestamp": "2023-07-13T08:34:38.914Z",
+	"timestamp": "2023-07-14T02:52:32.864Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.09
+			"chance": 62.09,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 44.47
+			"chance": 44.47,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.75
+			"chance": 36.75,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.99
+			"chance": 28.99,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.28
+			"chance": 6.28,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

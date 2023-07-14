@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-13T08:34:17.567Z",
+	"timestamp": "2023-07-14T02:52:28.494Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 80.4
+			"chance": 80.4,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 41.89
+			"chance": 41.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -104,6 +107,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

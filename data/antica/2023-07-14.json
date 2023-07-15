@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-14T08:34:03.468Z",
+	"timestamp": "2023-07-15T02:54:24.694Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -104,6 +105,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

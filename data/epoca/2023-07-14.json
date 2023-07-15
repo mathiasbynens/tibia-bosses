@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-14T08:34:13.849Z",
+	"timestamp": "2023-07-15T02:54:27.414Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.15
+			"chance": 72.15,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.75
+			"chance": 28.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -124,6 +127,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

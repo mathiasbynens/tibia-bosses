@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-14T08:34:17.518Z",
+	"timestamp": "2023-07-15T02:54:28.195Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.3
+			"chance": 27.3,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 14.94
+			"chance": 14.94,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.21
+			"chance": 12.21,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -80,6 +83,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.57
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

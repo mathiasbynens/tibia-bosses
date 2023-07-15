@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-14T08:34:06.789Z",
+	"timestamp": "2023-07-15T02:54:25.607Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -80,6 +80,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

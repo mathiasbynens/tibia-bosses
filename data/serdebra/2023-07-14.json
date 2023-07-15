@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-14T08:34:21.138Z",
+	"timestamp": "2023-07-15T02:54:29.391Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -99,11 +100,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.7
+			"chance": 3.7,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

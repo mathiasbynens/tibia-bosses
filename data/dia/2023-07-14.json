@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-14T08:34:10.222Z",
+	"timestamp": "2023-07-15T02:54:26.605Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.84
+			"chance": 13.84,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.17
+			"chance": 11.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.12
+			"chance": 7.12,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +109,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.32
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-07-15T08:32:56.668Z",
+	"timestamp": "2023-07-16T03:01:22.753Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.79
+			"chance": 60.79,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.39
+			"chance": 44.39,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.87
+			"chance": 37.87,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 25.7
+			"chance": 25.7,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.48
+			"chance": 22.48,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -128,6 +133,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.73
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

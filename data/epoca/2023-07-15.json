@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-15T08:33:07.665Z",
+	"timestamp": "2023-07-16T03:01:26.946Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 42.12
+			"chance": 42.12,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.63
+			"chance": 20.63,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

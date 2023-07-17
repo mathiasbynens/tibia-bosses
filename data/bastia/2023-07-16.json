@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-16T08:32:56.366Z",
+	"timestamp": "2023-07-17T02:56:26.617Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.47
+			"chance": 69.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.16
+			"chance": 53.16,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.38
+			"chance": 28.38,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.91
+			"chance": 7.91,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -84,6 +88,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.2
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

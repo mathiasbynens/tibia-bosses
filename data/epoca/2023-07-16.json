@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-16T08:33:03.959Z",
+	"timestamp": "2023-07-17T02:56:28.532Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 36.16
+			"chance": 36.16,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.92
+			"chance": 10.92,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -116,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.92
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

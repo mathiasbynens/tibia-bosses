@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-16T08:32:51.637Z",
+	"timestamp": "2023-07-17T02:56:25.717Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.01
+			"chance": 19.01,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.01
+			"chance": 19.01,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -128,6 +132,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-17T08:35:06.010Z",
+	"timestamp": "2023-07-18T02:53:03.405Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

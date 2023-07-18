@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-17T08:35:01.421Z",
+	"timestamp": "2023-07-18T02:53:02.475Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.33
+			"chance": 24.33,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.8
+			"chance": 19.8,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-18T08:33:20.673Z",
+	"timestamp": "2023-07-19T03:18:45.358Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.14
+			"chance": 72.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.73
+			"chance": 58.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.09
+			"chance": 29.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.39
+			"chance": 23.39,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,15 +47,18 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.8
+			"chance": 17.8,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 16.32
+			"chance": 16.32,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -71,15 +79,18 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.2
+			"chance": 12.2,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.19
+			"chance": 12.19,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -128,6 +139,16 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 3.2
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

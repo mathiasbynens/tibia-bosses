@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-18T08:33:45.894Z",
+	"timestamp": "2023-07-19T03:18:49.807Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.47
+			"chance": 69.47,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.73
+			"chance": 33.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 31.25
+			"chance": 31.25,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.86
+			"chance": 19.86,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -83,15 +88,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 10.98
+			"chance": 10.98,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.41
+			"chance": 9.41,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 7.79
+			"chance": 7.79,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +133,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-18T08:33:50.990Z",
+	"timestamp": "2023-07-19T03:18:50.816Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.79
+			"chance": 62.79,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 23.9
+			"chance": 23.9,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.23
+			"chance": 23.23,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -124,6 +130,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

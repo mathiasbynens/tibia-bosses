@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-19T08:32:22.667Z",
+	"timestamp": "2023-07-20T02:39:37.294Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.69
+			"chance": 26.69,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 13.46
+			"chance": 13.46,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -108,6 +112,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.19
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

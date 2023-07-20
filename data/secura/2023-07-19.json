@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-19T08:32:40.372Z",
+	"timestamp": "2023-07-20T02:39:40.682Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.2
+			"chance": 20.2,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.67
+			"chance": 19.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.73
+			"chance": 18.73,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.29
+			"chance": 12.29,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.67
+			"chance": 11.67,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +106,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.24
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

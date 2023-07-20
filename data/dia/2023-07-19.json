@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-19T08:32:32.639Z",
+	"timestamp": "2023-07-20T02:39:38.920Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.55
+			"chance": 52.55,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.87
+			"chance": 19.87,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -92,6 +96,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.19
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

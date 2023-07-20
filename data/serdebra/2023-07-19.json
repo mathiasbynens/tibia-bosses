@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-19T08:32:44.119Z",
+	"timestamp": "2023-07-20T02:39:41.402Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.65
+			"chance": 40.65,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.63
+			"chance": 40.63,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.97
+			"chance": 28.97,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.69
+			"chance": 26.69,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.41
+			"chance": 22.41,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -51,15 +56,18 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.74
+			"chance": 14.74,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -112,6 +120,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

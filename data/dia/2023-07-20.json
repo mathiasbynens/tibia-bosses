@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-20T08:32:37.318Z",
+	"timestamp": "2023-07-21T02:40:36.576Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.9
+			"chance": 19.9,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.79
+			"chance": 7.79,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.95
+			"chance": 6.95,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +106,23 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.57
+			"chance": 2.57,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-20T08:32:48.439Z",
+	"timestamp": "2023-07-21T02:40:39.904Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.23
+			"chance": 50.23,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.77
+			"chance": 36.77,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 30.84
+			"chance": 30.84,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

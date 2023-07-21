@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-20T08:32:40.993Z",
+	"timestamp": "2023-07-21T02:40:37.195Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,11 +67,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.73
+			"chance": 13.73,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -108,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

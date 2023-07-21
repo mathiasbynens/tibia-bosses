@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-20T08:32:33.522Z",
+	"timestamp": "2023-07-21T02:40:35.744Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.57
+			"chance": 34.57,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.31
+			"chance": 15.31,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +86,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.53
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-20T08:32:52.337Z",
+	"timestamp": "2023-07-21T02:40:40.773Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.54
+			"chance": 52.54,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 36.46
+			"chance": 36.46,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,19 +21,23 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 31.6
+			"chance": 31.6,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 29.08
+			"chance": 29.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.13
+			"chance": 21.13,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.27
+			"chance": 20.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 8.36
+			"chance": 8.36,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

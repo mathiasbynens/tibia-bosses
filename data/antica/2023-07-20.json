@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-20T08:32:29.401Z",
+	"timestamp": "2023-07-21T02:40:34.898Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.47
+			"chance": 69.47,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 29.08
+			"chance": 29.08,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.47
+			"chance": 15.47,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 11.2
+			"chance": 11.2,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.4
+			"chance": 9.4,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -104,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

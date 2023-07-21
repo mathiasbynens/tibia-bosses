@@ -1,0 +1,109 @@
+{
+	"timestamp": "2023-07-21T08:32:19.148Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 38
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.27
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.03
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.87
+		},
+		{
+			"name": "Massacre",
+			"chance": 16.5
+		},
+		{
+			"name": "Xenia",
+			"chance": 15.55
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.9
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.17
+		},
+		{
+			"name": "The Imperor",
+			"chance": 12.96
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 11.69
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.68
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.58
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.13
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 10.98
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 9.91
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.66
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.58
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.91
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.6
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5.36
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.19
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.02
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.99
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.75
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.32
+		}
+	]
+}

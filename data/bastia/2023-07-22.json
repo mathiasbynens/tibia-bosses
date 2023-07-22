@@ -1,0 +1,77 @@
+{
+	"timestamp": "2023-07-22T08:32:06.480Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.26
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.92
+		},
+		{
+			"name": "The Welter",
+			"chance": 28.36
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 19.78
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.04
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 15.99
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 14.18
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.11
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.87
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.67
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.67
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.3
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 7.75
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.24
+		}
+	]
+}

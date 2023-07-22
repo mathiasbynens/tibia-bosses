@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-21T08:32:34.395Z",
+	"timestamp": "2023-07-22T02:39:08.217Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.9
+			"chance": 14.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -115,7 +119,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -132,6 +137,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

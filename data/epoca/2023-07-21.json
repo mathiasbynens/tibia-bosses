@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-21T08:32:30.817Z",
+	"timestamp": "2023-07-22T02:39:07.419Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.77
+			"chance": 62.77,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.83
+			"chance": 41.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.26
+			"chance": 39.26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -96,6 +99,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

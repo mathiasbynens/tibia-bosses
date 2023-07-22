@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-21T08:32:42.786Z",
+	"timestamp": "2023-07-22T02:39:10.702Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.48
+			"chance": 69.48,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.85
+			"chance": 60.85,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

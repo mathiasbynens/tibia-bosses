@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-21T08:32:19.148Z",
+	"timestamp": "2023-07-22T02:39:03.477Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.9
+			"chance": 14.9,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -104,6 +108,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

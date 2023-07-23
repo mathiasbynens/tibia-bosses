@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-22T08:32:02.448Z",
+	"timestamp": "2023-07-23T02:42:27.731Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 31.45
+			"chance": 31.45,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.29
+			"chance": 15.29,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -104,6 +107,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.86
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

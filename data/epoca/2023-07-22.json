@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-22T08:32:13.484Z",
+	"timestamp": "2023-07-23T02:42:30.413Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 23.89
+			"chance": 23.89,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -84,6 +86,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.86
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

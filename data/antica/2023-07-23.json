@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-23T08:32:23.465Z",
+	"timestamp": "2023-07-24T02:41:13.255Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -120,6 +122,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

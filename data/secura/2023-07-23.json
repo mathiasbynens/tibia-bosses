@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-23T08:32:42.164Z",
+	"timestamp": "2023-07-24T02:41:17.680Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.84
+			"chance": 60.84,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.6
+			"chance": 40.6,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.46
+			"chance": 39.46,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.83
+			"chance": 25.83,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.62
+			"chance": 25.62,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.51
+			"chance": 22.51,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.28
+			"chance": 10.28,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -128,6 +135,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.26
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

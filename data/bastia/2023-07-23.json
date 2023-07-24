@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-23T08:32:29.077Z",
+	"timestamp": "2023-07-24T02:41:14.457Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.49
+			"chance": 69.49,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -68,6 +69,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.41
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

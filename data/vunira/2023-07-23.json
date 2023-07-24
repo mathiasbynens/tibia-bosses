@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-07-23T08:32:51.186Z",
+	"timestamp": "2023-07-24T02:41:21.080Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 39.19
+			"chance": 39.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.07
+			"chance": 20.07,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -84,6 +88,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.44
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

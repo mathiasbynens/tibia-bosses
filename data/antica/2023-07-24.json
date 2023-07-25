@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-24T08:32:47.778Z",
+	"timestamp": "2023-07-25T02:47:06.363Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 23.77
+			"chance": 23.77,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 16.16
+			"chance": 16.16,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.03
+			"chance": 9.03,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -136,6 +141,16 @@
 		{
 			"name": "High Templar Cobrass",
 			"chance": 5.32
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

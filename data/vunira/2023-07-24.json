@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-24T08:33:12.514Z",
+	"timestamp": "2023-07-25T02:47:12.848Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.69
+			"chance": 19.69,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.42
+			"chance": 6.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -80,6 +82,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.12
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

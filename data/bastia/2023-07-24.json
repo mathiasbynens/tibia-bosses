@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-24T08:32:52.726Z",
+	"timestamp": "2023-07-25T02:47:07.293Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -84,6 +84,16 @@
 		{
 			"name": "Ocyakao",
 			"chance": 5.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

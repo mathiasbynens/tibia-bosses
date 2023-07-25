@@ -1,37 +1,45 @@
 {
-	"timestamp": "2023-07-24T08:33:05.128Z",
+	"timestamp": "2023-07-25T02:47:10.412Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.5
+			"chance": 80.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.04
+			"chance": 62.04,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.85
+			"chance": 36.85,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.77
+			"chance": 33.77,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.98
+			"chance": 26.98,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 20.06
+			"chance": 20.06,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 19.76
+			"chance": 19.76,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -43,7 +51,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +68,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -116,6 +126,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

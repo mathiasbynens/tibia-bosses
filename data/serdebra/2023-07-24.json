@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-24T08:33:08.984Z",
+	"timestamp": "2023-07-25T02:47:11.543Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.59
+			"chance": 40.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.25
+			"chance": 39.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.69
+			"chance": 19.69,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +116,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

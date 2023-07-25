@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-24T08:33:00.954Z",
+	"timestamp": "2023-07-25T02:47:09.348Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.24
+			"chance": 64.24,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.34
+			"chance": 54.34,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.27
+			"chance": 29.27,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -88,6 +91,11 @@
 		{
 			"name": "Fleabringer",
 			"chance": 7.02
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-25T08:32:52.712Z",
+	"timestamp": "2023-07-26T02:41:28.619Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.86
+			"chance": 36.86,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.71
+			"chance": 25.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -104,6 +106,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.27
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

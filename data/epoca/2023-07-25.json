@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-25T08:32:56.668Z",
+	"timestamp": "2023-07-26T02:41:29.802Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.72
+			"chance": 64.72,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.86
+			"chance": 36.86,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.31
+			"chance": 15.31,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -72,6 +77,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.47
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

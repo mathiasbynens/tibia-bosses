@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-25T08:33:09.709Z",
+	"timestamp": "2023-07-26T02:41:33.336Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.11
+			"chance": 20.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.29
+			"chance": 10.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.03
+			"chance": 8.03,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +97,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

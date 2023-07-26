@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-07-25T08:33:04.825Z",
+	"timestamp": "2023-07-26T02:41:32.194Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.49
+			"chance": 69.49,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.77
+			"chance": 33.77,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 31.44
+			"chance": 31.44,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.71
+			"chance": 25.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.68
+			"chance": 13.68,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 9.94
+			"chance": 9.94,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +124,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.33
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

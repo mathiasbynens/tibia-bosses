@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-25T08:33:00.754Z",
+	"timestamp": "2023-07-26T02:41:31.072Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
-			"chance": 23.87
+			"chance": 23.87,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.78
+			"chance": 9.78,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 9.09
+			"chance": 9.09,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -84,6 +88,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-26T08:32:32.428Z",
+	"timestamp": "2023-07-27T02:35:54.113Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 37.48
+			"chance": 37.48,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

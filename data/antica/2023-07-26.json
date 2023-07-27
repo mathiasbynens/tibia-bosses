@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-26T08:32:22.101Z",
+	"timestamp": "2023-07-27T02:35:46.883Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.15
+			"chance": 20.15,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.71
+			"chance": 19.71,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -96,6 +101,16 @@
 		{
 			"name": "The Plasmother",
 			"chance": 5.47
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

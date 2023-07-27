@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-26T08:32:29.207Z",
+	"timestamp": "2023-07-27T02:35:49.019Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.52
+			"chance": 80.52,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 68.74
+			"chance": 68.74,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.78
+			"chance": 33.78,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.07
+			"chance": 20.07,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.87
+			"chance": 7.87,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -108,6 +114,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

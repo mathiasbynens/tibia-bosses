@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-26T08:32:38.628Z",
+	"timestamp": "2023-07-27T02:36:58.273Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.8
+			"chance": 41.8,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.8
+			"chance": 17.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 5.47
+			"chance": 5.47,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -104,6 +107,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

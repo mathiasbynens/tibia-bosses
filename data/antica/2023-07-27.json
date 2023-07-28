@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-27T08:32:09.697Z",
+	"timestamp": "2023-07-28T02:37:42.702Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.47
+			"chance": 69.47,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.92
+			"chance": 17.92,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.27
+			"chance": 10.27,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +105,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

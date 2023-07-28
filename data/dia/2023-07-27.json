@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-27T08:32:17.937Z",
+	"timestamp": "2023-07-28T02:37:46.807Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 28.41
+			"chance": 28.41,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -107,7 +108,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -120,6 +122,16 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.1
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-27T08:32:21.340Z",
+	"timestamp": "2023-07-28T02:37:47.811Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.79
+			"chance": 28.79,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.05
+			"chance": 10.05,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-27T08:32:31.385Z",
+	"timestamp": "2023-07-28T02:37:51.557Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.83
+			"chance": 58.83,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.06
+			"chance": 38.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.16
+			"chance": 11.16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.06
+			"chance": 10.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.46
+			"chance": 5.46,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.94
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

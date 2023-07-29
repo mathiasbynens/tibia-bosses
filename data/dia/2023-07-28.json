@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-28T08:32:15.585Z",
+	"timestamp": "2023-07-29T02:35:43.621Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.17
+			"chance": 38.17,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.11
+			"chance": 21.11,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.6
+			"chance": 8.6,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -136,6 +141,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.01
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-28T08:32:25.642Z",
+	"timestamp": "2023-07-29T02:35:50.831Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 52.25
+			"chance": 52.25,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.81
+			"chance": 22.81,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.88
+			"chance": 10.88,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +104,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-28T08:32:22.500Z",
+	"timestamp": "2023-07-29T02:35:48.500Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.17
+			"chance": 38.17,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.83
+			"chance": 19.83,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -104,6 +106,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.61
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

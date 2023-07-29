@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-28T08:32:28.794Z",
+	"timestamp": "2023-07-29T02:35:52.465Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.45
+			"chance": 69.45,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.62
+			"chance": 52.62,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -112,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.74
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

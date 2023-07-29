@@ -1,0 +1,65 @@
+{
+	"timestamp": "2023-07-29T08:32:26.811Z",
+	"bosses": [
+		{
+			"name": "Shlorg",
+			"chance": 66.59
+		},
+		{
+			"name": "Xenia",
+			"chance": 25.69
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 24
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 19.77
+		},
+		{
+			"name": "Massacre",
+			"chance": 15.44
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.01
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 12.82
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.38
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.17
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.78
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 8.57
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 6.93
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.47
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.79
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.85
+		}
+	]
+}

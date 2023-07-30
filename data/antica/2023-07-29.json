@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-29T08:32:15.057Z",
+	"timestamp": "2023-07-30T02:36:55.280Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 54.5
+			"chance": 54.5,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 39.9
+			"chance": 39.9,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.27
+			"chance": 22.27,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.72
+			"chance": 14.72,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.73
+			"chance": 12.73,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,11 +56,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.56
+			"chance": 11.56,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.06
+			"chance": 10.06,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.22
+			"chance": 3.22,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +96,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.73
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-29T08:32:23.328Z",
+	"timestamp": "2023-07-30T02:36:57.283Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.72
+			"chance": 40.72,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.7
+			"chance": 40.7,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 29.24
+			"chance": 29.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 23.87
+			"chance": 23.87,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.35
+			"chance": 20.35,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.84
+			"chance": 14.84,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.5
+			"chance": 11.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -132,6 +139,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

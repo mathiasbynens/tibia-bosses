@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-29T08:32:30.172Z",
+	"timestamp": "2023-07-30T02:37:02.401Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 57.24
+			"chance": 57.24,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.85
+			"chance": 25.85,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 13.07
+			"chance": 13.07,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -128,6 +132,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.94
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

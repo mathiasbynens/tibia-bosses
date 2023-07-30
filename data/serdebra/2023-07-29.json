@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-29T08:32:33.674Z",
+	"timestamp": "2023-07-30T02:37:03.640Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.83
+			"chance": 60.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.36
+			"chance": 21.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -104,6 +106,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.97
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

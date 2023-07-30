@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-29T08:32:20.024Z",
+	"timestamp": "2023-07-30T02:36:56.090Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.24
+			"chance": 39.24,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +83,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.31
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

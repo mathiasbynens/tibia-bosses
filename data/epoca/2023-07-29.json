@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-29T08:32:26.811Z",
+	"timestamp": "2023-07-30T02:36:58.151Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -60,6 +60,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.85
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-07-30T08:32:30.568Z",
+	"timestamp": "2023-07-31T02:39:05.768Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.25
+			"chance": 39.25,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.15
+			"chance": 38.15,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.59
+			"chance": 34.59,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.15
+			"chance": 15.15,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.73
+			"chance": 13.73,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +117,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.97
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-30T08:32:34.796Z",
+	"timestamp": "2023-07-31T02:39:06.355Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.36
+			"chance": 15.36,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -72,6 +73,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 6.35
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

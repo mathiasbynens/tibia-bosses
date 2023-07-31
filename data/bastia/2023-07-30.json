@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-07-30T08:32:26.707Z",
+	"timestamp": "2023-07-31T02:39:04.971Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.27
+			"chance": 64.27,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.86
+			"chance": 58.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -63,11 +66,27 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.52
+			"chance": 6.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.83
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-30T08:32:47.870Z",
+	"timestamp": "2023-07-31T02:39:09.243Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 26.38
+			"chance": 26.38,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.94
+			"chance": 21.94,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 20.78
+			"chance": 20.78,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.02
+			"chance": 9.02,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.52
+			"chance": 5.52,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +93,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

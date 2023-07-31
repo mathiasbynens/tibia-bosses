@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-30T08:32:39.459Z",
+	"timestamp": "2023-07-31T02:39:07.024Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.82
+			"chance": 28.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.06
+			"chance": 28.06,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,23 +34,28 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.52
+			"chance": 22.52,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.05
+			"chance": 22.05,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.97
+			"chance": 18.97,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -115,7 +123,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.02
+			"chance": 9.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -132,6 +141,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.76
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

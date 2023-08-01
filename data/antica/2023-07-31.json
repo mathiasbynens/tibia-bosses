@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-31T08:32:33.696Z",
+	"timestamp": "2023-08-01T02:41:44.465Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.08
+			"chance": 22.08,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 14.8
+			"chance": 14.8,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.72
+			"chance": 7.72,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -84,6 +87,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

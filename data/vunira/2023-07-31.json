@@ -1,25 +1,30 @@
 {
-	"timestamp": "2023-07-31T08:32:58.083Z",
+	"timestamp": "2023-08-01T02:41:49.272Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.54
+			"chance": 83.54,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 79.81
+			"chance": 79.81,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.5
+			"chance": 50.5,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.84
+			"chance": 38.84,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.43
+			"chance": 28.43,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 19.71
+			"chance": 19.71,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.58
+			"chance": 12.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -100,6 +107,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.51
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

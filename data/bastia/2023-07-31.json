@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-07-31T08:32:38.536Z",
+	"timestamp": "2023-08-01T02:41:45.192Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

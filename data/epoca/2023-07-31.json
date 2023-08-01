@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-07-31T08:32:46.221Z",
+	"timestamp": "2023-08-01T02:41:46.922Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,11 +81,22 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.9
+			"chance": 6.9,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
 			"chance": 6.85
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

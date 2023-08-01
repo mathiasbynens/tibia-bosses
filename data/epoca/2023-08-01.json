@@ -1,0 +1,97 @@
+{
+	"timestamp": "2023-08-01T08:32:21.323Z",
+	"bosses": [
+		{
+			"name": "Xenia",
+			"chance": 49.15
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 42.15
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.47
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 36.85
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.92
+		},
+		{
+			"name": "Massacre",
+			"chance": 26.64
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 23.39
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.35
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 20.41
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.87
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.22
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 15.96
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.16
+		},
+		{
+			"name": "Barbaria",
+			"chance": 14.49
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.63
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.12
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.46
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.54
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.47
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 5.79
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.94
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 3.99
+		}
+	]
+}

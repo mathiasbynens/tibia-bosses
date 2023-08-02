@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-01T08:32:28.182Z",
+	"timestamp": "2023-08-02T02:35:38.458Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.21
+			"chance": 29.21,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.65
+			"chance": 15.65,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.7
+			"chance": 13.7,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -123,7 +127,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.38
+			"chance": 5.38,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -136,6 +141,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.69
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

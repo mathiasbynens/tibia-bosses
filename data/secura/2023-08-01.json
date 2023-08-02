@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-01T08:32:24.985Z",
+	"timestamp": "2023-08-02T02:35:37.841Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.78
+			"chance": 79.78,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.94
+			"chance": 58.94,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.53
+			"chance": 25.53,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.74
+			"chance": 7.74,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +113,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.72
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-01T08:32:14.805Z",
+	"timestamp": "2023-08-02T02:35:35.317Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.94
+			"chance": 16.94,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.11
+			"chance": 11.11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -112,6 +114,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

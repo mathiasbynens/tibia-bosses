@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-02T08:32:30.431Z",
+	"timestamp": "2023-08-03T02:36:39.417Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.24
+			"chance": 64.24,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.96
+			"chance": 58.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.79
+			"chance": 28.79,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +89,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.51
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

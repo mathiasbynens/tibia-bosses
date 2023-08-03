@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-02T08:32:39.829Z",
+	"timestamp": "2023-08-03T02:36:42.159Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.34
+			"chance": 38.34,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.65
+			"chance": 12.65,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

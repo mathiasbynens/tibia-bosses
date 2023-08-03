@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-02T08:32:36.894Z",
+	"timestamp": "2023-08-03T02:36:41.367Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.59
+			"chance": 80.59,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.64
+			"chance": 52.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.83
+			"chance": 41.83,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -127,7 +130,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.32
+			"chance": 3.32,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -136,6 +140,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.33
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

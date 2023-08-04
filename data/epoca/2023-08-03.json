@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-03T08:32:37.243Z",
+	"timestamp": "2023-08-04T02:37:10.312Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.2
+			"chance": 72.2,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.44
+			"chance": 22.44,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -76,6 +79,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.21
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

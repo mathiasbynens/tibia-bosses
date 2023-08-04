@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-03T08:32:41.107Z",
+	"timestamp": "2023-08-04T02:37:11.285Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.86
+			"chance": 41.86,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.3
+			"chance": 38.3,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 30.34
+			"chance": 30.34,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,15 +38,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.7
+			"chance": 13.7,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.59
+			"chance": 11.59,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -92,6 +99,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

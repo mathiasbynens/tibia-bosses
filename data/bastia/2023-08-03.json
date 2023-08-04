@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-03T08:32:29.303Z",
+	"timestamp": "2023-08-04T02:37:08.174Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.2
+			"chance": 72.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 63.13
+			"chance": 63.13,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.06
+			"chance": 12.06,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.95
+			"chance": 6.95,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -112,6 +117,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

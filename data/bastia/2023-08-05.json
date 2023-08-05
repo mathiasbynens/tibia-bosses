@@ -1,0 +1,97 @@
+{
+	"timestamp": "2023-08-05T08:32:25.916Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 69.46
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 64.65
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 39.41
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 29.6
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.53
+		},
+		{
+			"name": "Massacre",
+			"chance": 22.39
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.59
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.32
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.65
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.34
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.09
+		},
+		{
+			"name": "Zushuka",
+			"chance": 14.74
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 14.07
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 13.75
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12.36
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.56
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.4
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.02
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.73
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.71
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.67
+		}
+	]
+}

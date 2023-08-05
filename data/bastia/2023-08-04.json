@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-04T08:32:26.231Z",
+	"timestamp": "2023-08-05T02:35:27.659Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.67
+			"chance": 52.67,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 52.21
+			"chance": 52.21,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.47
+			"chance": 24.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.96
+			"chance": 14.96,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.89
+			"chance": 10.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +113,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.49
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

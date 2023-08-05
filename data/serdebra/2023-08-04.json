@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-04T08:32:46.172Z",
+	"timestamp": "2023-08-05T02:35:30.987Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.96
+			"chance": 58.96,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.87
+			"chance": 25.87,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.82
+			"chance": 22.82,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.82
+			"chance": 22.82,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.99
+			"chance": 12.99,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -99,11 +107,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.39
+			"chance": 7.39,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.93
+			"chance": 6.93,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -128,6 +138,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-04T08:32:21.137Z",
+	"timestamp": "2023-08-05T02:35:26.962Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.58
+			"chance": 80.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 79.8
+			"chance": 79.8,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.34
+			"chance": 27.34,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 17.71
+			"chance": 17.71,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 15.94
+			"chance": 15.94,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.42
+			"chance": 13.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -111,11 +117,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.39
+			"chance": 6.39,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.43
+			"chance": 5.43,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -128,6 +136,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.19
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

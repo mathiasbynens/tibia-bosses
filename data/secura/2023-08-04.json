@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-04T08:32:41.415Z",
+	"timestamp": "2023-08-05T02:35:30.000Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -47,11 +47,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 9.63
+			"chance": 9.63,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.44
+			"chance": 6.44,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -84,6 +87,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.49
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

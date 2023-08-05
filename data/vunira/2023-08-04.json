@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-04T08:32:51.225Z",
+	"timestamp": "2023-08-05T02:35:31.980Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.96
+			"chance": 58.96,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.77
+			"chance": 33.77,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -120,6 +123,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.21
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

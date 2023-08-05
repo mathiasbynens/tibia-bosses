@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-04T08:32:36.187Z",
+	"timestamp": "2023-08-05T02:35:29.395Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -68,6 +69,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.7
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

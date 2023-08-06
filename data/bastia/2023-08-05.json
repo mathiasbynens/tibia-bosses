@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-05T08:32:25.916Z",
+	"timestamp": "2023-08-06T02:34:08.577Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.46
+			"chance": 69.46,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.65
+			"chance": 64.65,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 39.41
+			"chance": 39.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.39
+			"chance": 22.39,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +97,28 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.67
+			"chance": 2.67,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

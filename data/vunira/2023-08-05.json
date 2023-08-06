@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-05T08:32:47.844Z",
+	"timestamp": "2023-08-06T02:34:13.654Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.63
+			"chance": 80.63,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.73
+			"chance": 25.73,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 13.55
+			"chance": 13.55,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +124,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

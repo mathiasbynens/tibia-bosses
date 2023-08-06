@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-05T08:32:30.119Z",
+	"timestamp": "2023-08-06T02:34:09.547Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.39
+			"chance": 16.39,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 15.68
+			"chance": 15.68,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -100,6 +102,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.55
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

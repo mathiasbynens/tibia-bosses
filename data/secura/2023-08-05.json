@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-08-05T08:32:39.113Z",
+	"timestamp": "2023-08-06T02:34:10.967Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 28.79
+			"chance": 28.79,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.77
+			"chance": 27.77,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.3
+			"chance": 7.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +94,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

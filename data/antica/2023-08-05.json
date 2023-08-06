@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-05T08:32:21.164Z",
+	"timestamp": "2023-08-06T02:34:07.692Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.91
+			"chance": 25.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.83
+			"chance": 14.83,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.73
+			"chance": 13.73,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +104,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.21
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

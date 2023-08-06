@@ -1,0 +1,77 @@
+{
+	"timestamp": "2023-08-06T08:32:09.941Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.13
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 42.6
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 36.83
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.36
+		},
+		{
+			"name": "Zushuka",
+			"chance": 17.84
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.42
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 17.14
+		},
+		{
+			"name": "Hirintror",
+			"chance": 15.18
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.19
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 12.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.41
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.31
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.31
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.5
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.81
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 3.98
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 1.97
+		}
+	]
+}

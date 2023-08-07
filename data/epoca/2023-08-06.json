@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-06T08:32:17.097Z",
+	"timestamp": "2023-08-07T07:31:01.215Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -72,6 +73,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.91
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

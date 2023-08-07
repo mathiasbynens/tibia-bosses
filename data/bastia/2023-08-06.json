@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-06T08:32:09.941Z",
+	"timestamp": "2023-08-07T07:31:00.023Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -72,6 +75,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.97
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

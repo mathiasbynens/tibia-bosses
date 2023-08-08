@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-07T08:32:32.446Z",
+	"timestamp": "2023-08-08T02:37:12.262Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.26
+			"chance": 28.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.32
+			"chance": 27.32,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -71,11 +74,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.66
+			"chance": 6.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.48
+			"chance": 6.48,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,11 +92,27 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.03
+			"chance": 5.03,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.18
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

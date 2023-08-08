@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-07T08:32:40.853Z",
+	"timestamp": "2023-08-08T02:37:14.534Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.27
+			"chance": 39.27,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.9
+			"chance": 18.9,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -116,6 +119,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.9
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

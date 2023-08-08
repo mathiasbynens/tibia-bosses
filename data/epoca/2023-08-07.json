@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-07T08:32:27.950Z",
+	"timestamp": "2023-08-08T02:37:11.345Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.76
+			"chance": 14.76,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -76,6 +78,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

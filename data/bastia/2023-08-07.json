@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-07T08:32:20.404Z",
+	"timestamp": "2023-08-08T02:37:09.526Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.23
+			"chance": 10.23,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

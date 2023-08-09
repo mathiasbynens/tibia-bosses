@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-08T08:32:46.812Z",
+	"timestamp": "2023-08-09T02:37:20.061Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.66
+			"chance": 64.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.78
+			"chance": 13.78,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -72,6 +77,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.73
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

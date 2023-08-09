@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-08T08:32:42.875Z",
+	"timestamp": "2023-08-09T02:37:18.666Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.84
+			"chance": 36.84,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 36.81
+			"chance": 36.81,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +110,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

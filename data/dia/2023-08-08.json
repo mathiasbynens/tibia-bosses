@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-08T08:32:33.606Z",
+	"timestamp": "2023-08-09T02:37:17.441Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.45
+			"chance": 69.45,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.91
+			"chance": 60.91,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.89
+			"chance": 41.89,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

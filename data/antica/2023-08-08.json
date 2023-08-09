@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-08T08:32:23.973Z",
+	"timestamp": "2023-08-09T02:37:15.942Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.84
+			"chance": 36.84,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.25
+			"chance": 18.25,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -124,6 +128,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

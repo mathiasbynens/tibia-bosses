@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-09T08:32:50.280Z",
+	"timestamp": "2023-08-10T02:43:07.828Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,15 +36,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 17.88
+			"chance": 17.88,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +112,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-09T08:32:55.067Z",
+	"timestamp": "2023-08-10T02:43:08.545Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.85
+			"chance": 36.85,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.77
+			"chance": 12.77,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.6
+			"chance": 7.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -84,6 +88,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

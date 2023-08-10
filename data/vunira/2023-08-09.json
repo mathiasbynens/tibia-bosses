@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-09T08:33:06.032Z",
+	"timestamp": "2023-08-10T02:43:11.413Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 32.05
+			"chance": 32.05,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 21.05
+			"chance": 21.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.8
+			"chance": 12.8,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 7.95
+			"chance": 7.95,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",

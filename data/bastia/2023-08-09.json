@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-09T08:32:45.672Z",
+	"timestamp": "2023-08-10T02:43:06.808Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -79,7 +79,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.33
+			"chance": 4.33,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -92,6 +93,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.73
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

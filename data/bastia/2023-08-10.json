@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-10T08:32:49.349Z",
+	"timestamp": "2023-08-11T02:33:50.317Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 66.64
+			"chance": 66.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.89
+			"chance": 41.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.36
+			"chance": 17.36,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.22
+			"chance": 16.22,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 2.55
+			"chance": 2.55,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -116,6 +121,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.35
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

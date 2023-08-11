@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-10T08:33:11.074Z",
+	"timestamp": "2023-08-11T02:33:57.304Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 52.21
+			"chance": 52.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.14
+			"chance": 23.14,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.69
+			"chance": 18.69,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.41
+			"chance": 17.41,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.79
+			"chance": 7.79,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -124,6 +131,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.4
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

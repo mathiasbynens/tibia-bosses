@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-10T08:32:45.158Z",
+	"timestamp": "2023-08-11T02:33:49.463Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.81
+			"chance": 39.81,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.11
+			"chance": 20.11,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.86
+			"chance": 19.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.5
+			"chance": 15.5,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -111,7 +116,28 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.2
+			"chance": 2.2,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

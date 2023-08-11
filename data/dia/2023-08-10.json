@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-10T08:32:53.362Z",
+	"timestamp": "2023-08-11T02:33:53.565Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.98
+			"chance": 58.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.81
+			"chance": 27.81,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 27.07
+			"chance": 27.07,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.86
+			"chance": 22.86,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.95
+			"chance": 7.95,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -119,7 +124,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.92
+			"chance": 2.92,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

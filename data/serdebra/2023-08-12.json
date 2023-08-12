@@ -1,0 +1,101 @@
+{
+	"timestamp": "2023-08-12T08:32:42.278Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 28.75
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 26.11
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 23.72
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.83
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 20.6
+		},
+		{
+			"name": "Zushuka",
+			"chance": 17.92
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.86
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.6
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.83
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 14.55
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 13.95
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 12.2
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 12.13
+		},
+		{
+			"name": "Barbaria",
+			"chance": 11.42
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.3
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.53
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.51
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 8.11
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.94
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.81
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.67
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 6.74
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.26
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.79
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-11T08:32:20.971Z",
+	"timestamp": "2023-08-12T02:33:46.812Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.78
+			"chance": 30.78,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.57
+			"chance": 30.57,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.36
+			"chance": 27.36,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 20.04
+			"chance": 20.04,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 19.94
+			"chance": 19.94,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.88
+			"chance": 17.88,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.41
+			"chance": 10.41,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -104,6 +112,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.21
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

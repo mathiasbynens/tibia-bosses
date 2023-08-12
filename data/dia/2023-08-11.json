@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-11T08:32:28.725Z",
+	"timestamp": "2023-08-12T02:33:48.299Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 20.04
+			"chance": 20.04,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,11 +77,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.88
+			"chance": 11.88,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 8.98
+			"chance": 8.98,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 6.75
+			"chance": 6.75,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -120,6 +126,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.21
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

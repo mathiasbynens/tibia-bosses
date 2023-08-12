@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-11T08:32:25.219Z",
+	"timestamp": "2023-08-12T02:33:47.475Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +114,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.78
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-12T08:32:38.319Z",
+	"timestamp": "2023-08-13T02:33:57.400Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.43
+			"chance": 28.43,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.11
+			"chance": 26.11,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 26
+			"chance": 26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18
+			"chance": 18,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -92,6 +97,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.18
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

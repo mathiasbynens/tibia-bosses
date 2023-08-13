@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-12T08:32:42.278Z",
+	"timestamp": "2023-08-13T02:33:58.368Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.94
+			"chance": 7.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +97,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.79
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-12T08:32:31.201Z",
+	"timestamp": "2023-08-13T02:33:55.380Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 30.31
+			"chance": 30.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.75
+			"chance": 28.75,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.44
+			"chance": 15.44,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.43
+			"chance": 15.43,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 5.54
+			"chance": 5.54,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +121,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-12T08:32:22.918Z",
+	"timestamp": "2023-08-13T02:33:51.822Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 21.69
+			"chance": 21.69,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.41
+			"chance": 8.41,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -96,6 +99,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.74
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

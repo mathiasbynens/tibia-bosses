@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-12T08:32:27.380Z",
+	"timestamp": "2023-08-13T02:33:52.788Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.7
+			"chance": 52.7,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.46
+			"chance": 50.46,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 32.18
+			"chance": 32.18,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.08
+			"chance": 28.08,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.56
+			"chance": 8.56,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -100,6 +106,21 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 3.19
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

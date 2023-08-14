@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-13T08:32:37.694Z",
+	"timestamp": "2023-08-14T02:33:59.856Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.64
+			"chance": 44.64,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -92,6 +94,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.26
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

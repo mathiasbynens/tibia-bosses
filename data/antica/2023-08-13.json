@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-13T08:32:16.702Z",
+	"timestamp": "2023-08-14T02:33:52.929Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.24
+			"chance": 64.24,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.77
+			"chance": 33.77,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.78
+			"chance": 25.78,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.03
+			"chance": 15.03,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.89
+			"chance": 14.89,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

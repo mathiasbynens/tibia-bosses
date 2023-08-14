@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-13T08:32:27.431Z",
+	"timestamp": "2023-08-14T02:33:56.603Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 67.72
+			"chance": 67.72,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 30.42
+			"chance": 30.42,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.68
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

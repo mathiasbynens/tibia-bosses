@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-13T08:32:30.782Z",
+	"timestamp": "2023-08-14T02:33:57.437Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.47
+			"chance": 69.47,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.58
+			"chance": 9.58,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -99,11 +103,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.28
+			"chance": 3.28,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
 			"chance": 2.68
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

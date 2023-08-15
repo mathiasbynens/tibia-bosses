@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-14T08:32:34.596Z",
+	"timestamp": "2023-08-15T02:33:52.752Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.19
+			"chance": 20.19,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.5
+			"chance": 19.5,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -112,6 +115,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.99
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

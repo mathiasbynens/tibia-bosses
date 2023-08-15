@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-14T08:32:16.080Z",
+	"timestamp": "2023-08-15T02:33:48.040Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 15.99
+			"chance": 15.99,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.19
+			"chance": 15.19,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.93
+			"chance": 7.93,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -103,7 +107,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.92
+			"chance": 2.92,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-14T08:32:31.078Z",
+	"timestamp": "2023-08-15T02:33:51.899Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.11
+			"chance": 38.11,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.89
+			"chance": 28.89,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.38
+			"chance": 27.38,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,11 +56,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.25
+			"chance": 14.25,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -136,6 +143,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.99
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

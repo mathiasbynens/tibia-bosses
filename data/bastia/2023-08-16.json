@@ -1,0 +1,85 @@
+{
+	"timestamp": "2023-08-16T08:32:45.056Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 59.01
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 21.7
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.43
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.29
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 14.84
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.6
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.57
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.56
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.86
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 12.32
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.88
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.87
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 10.88
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.66
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 10.46
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.44
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.25
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.67
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 1.67
+		}
+	]
+}

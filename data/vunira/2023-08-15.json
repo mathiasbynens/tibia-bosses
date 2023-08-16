@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-15T08:32:45.069Z",
+	"timestamp": "2023-08-16T02:33:56.736Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -87,11 +87,37 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.53
+			"chance": 5.53,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
 			"chance": 5.44
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

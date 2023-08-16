@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-15T08:32:37.929Z",
+	"timestamp": "2023-08-16T02:33:55.001Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.77
+			"chance": 33.77,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.56
+			"chance": 22.56,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.34
+			"chance": 21.34,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.45
+			"chance": 12.45,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.98
+			"chance": 6.98,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -119,7 +125,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.96
+			"chance": 4.96,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -132,6 +139,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-15T08:32:41.576Z",
+	"timestamp": "2023-08-16T02:33:55.842Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.83
+			"chance": 79.83,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.33
+			"chance": 28.33,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.76
+			"chance": 12.76,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -108,6 +114,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

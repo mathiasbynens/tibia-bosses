@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-16T08:32:45.056Z",
+	"timestamp": "2023-08-17T02:33:51.972Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.01
+			"chance": 59.01,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +82,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.67
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

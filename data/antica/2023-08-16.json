@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-16T08:32:40.149Z",
+	"timestamp": "2023-08-17T02:33:51.175Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.98
+			"chance": 12.98,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -96,6 +100,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.72
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

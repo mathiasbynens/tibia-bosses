@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-17T08:32:44.004Z",
+	"timestamp": "2023-08-18T02:33:50.208Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 52.33
+			"chance": 52.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.78
+			"chance": 20.78,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.29
+			"chance": 9.29,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.94
+			"chance": 6.94,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -132,6 +136,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

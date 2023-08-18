@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-17T08:32:39.555Z",
+	"timestamp": "2023-08-18T02:33:49.614Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 30.31
+			"chance": 30.31,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,11 +81,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.47
+			"chance": 12.47,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-18T08:32:30.292Z",
+	"timestamp": "2023-08-19T02:33:56.917Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 30.64
+			"chance": 30.64,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 20.99
+			"chance": 20.99,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13
+			"chance": 13,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -132,6 +136,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

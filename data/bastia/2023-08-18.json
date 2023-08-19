@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-18T08:32:19.837Z",
+	"timestamp": "2023-08-19T02:33:53.953Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +79,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 1.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

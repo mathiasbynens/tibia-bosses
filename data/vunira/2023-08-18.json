@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-18T08:32:37.176Z",
+	"timestamp": "2023-08-19T02:33:58.528Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.03
+			"chance": 59.03,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.53
+			"chance": 50.53,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -112,6 +115,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.98
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

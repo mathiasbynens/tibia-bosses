@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-19T08:32:12.254Z",
+	"timestamp": "2023-08-20T02:33:51.682Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 24.1
+			"chance": 24.1,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.94
+			"chance": 16.94,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.1
+			"chance": 13.1,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +109,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

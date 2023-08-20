@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-19T08:32:19.567Z",
+	"timestamp": "2023-08-20T02:33:52.854Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.19
+			"chance": 26.19,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -71,11 +72,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.3
+			"chance": 7.3,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.31
+			"chance": 5.31,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.31
+			"chance": 5.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +121,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

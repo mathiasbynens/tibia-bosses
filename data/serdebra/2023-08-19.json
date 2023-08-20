@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-19T08:32:30.602Z",
+	"timestamp": "2023-08-20T02:34:55.879Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.45
+			"chance": 17.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13
+			"chance": 13,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 11.85
+			"chance": 11.85,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

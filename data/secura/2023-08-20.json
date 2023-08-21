@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-20T08:55:44.693Z",
+	"timestamp": "2023-08-21T02:33:51.929Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.7
+			"chance": 62.7,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 27.3
+			"chance": 27.3,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 23.94
+			"chance": 23.94,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.76
+			"chance": 12.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.93
+			"chance": 6.93,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +122,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.05
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

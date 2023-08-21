@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-20T08:55:29.281Z",
+	"timestamp": "2023-08-21T02:33:47.819Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.28
+			"chance": 19.28,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.36
+			"chance": 10.36,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.5
+			"chance": 5.5,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +119,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.83
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

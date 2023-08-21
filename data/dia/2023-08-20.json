@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-20T08:55:37.494Z",
+	"timestamp": "2023-08-21T02:33:50.270Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.21
+			"chance": 62.21,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 15.48
+			"chance": 15.48,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.16
+			"chance": 11.16,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.54
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

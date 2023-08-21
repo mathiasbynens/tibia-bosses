@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-20T08:55:40.887Z",
+	"timestamp": "2023-08-21T02:33:51.113Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 21
+			"chance": 21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 14.78
+			"chance": 14.78,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.31
+			"chance": 6.31,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -92,6 +95,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.38
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

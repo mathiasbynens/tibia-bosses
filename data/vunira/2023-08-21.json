@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-21T08:32:47.403Z",
+	"timestamp": "2023-08-22T02:33:59.617Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 23.52
+			"chance": 23.52,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.77
+			"chance": 12.77,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 12.72
+			"chance": 12.72,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

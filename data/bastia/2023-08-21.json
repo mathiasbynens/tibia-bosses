@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-21T08:32:26.692Z",
+	"timestamp": "2023-08-22T02:33:50.861Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.72
+			"chance": 62.72,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 26.04
+			"chance": 26.04,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.27
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

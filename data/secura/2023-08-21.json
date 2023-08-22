@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-21T08:32:38.854Z",
+	"timestamp": "2023-08-22T02:33:55.193Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.6
+			"chance": 80.6,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.85
+			"chance": 41.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.05
+			"chance": 27.05,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 17.96
+			"chance": 17.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 15.28
+			"chance": 15.28,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.72
+			"chance": 8.72,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

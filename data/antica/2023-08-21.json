@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-08-21T08:32:22.760Z",
+	"timestamp": "2023-08-22T02:33:49.931Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 74.03
+			"chance": 74.03,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 42.98
+			"chance": 42.98,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.89
+			"chance": 28.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.53
+			"chance": 20.53,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.44
+			"chance": 20.44,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.67
+			"chance": 14.67,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -120,6 +128,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.28
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

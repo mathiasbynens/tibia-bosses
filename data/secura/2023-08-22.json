@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-08-22T08:32:40.560Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.26
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.76
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 30.8
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 30.59
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.3
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 23.47
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.72
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 20.04
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 19.2
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.72
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 13.71
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.59
+		},
+		{
+			"name": "Dracola",
+			"chance": 12.49
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.38
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.04
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.87
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.42
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 5.84
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.5
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.37
+		}
+	]
+}

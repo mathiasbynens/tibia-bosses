@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-22T08:32:26.930Z",
+	"timestamp": "2023-08-23T02:33:52.523Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 72.1
+			"chance": 72.1,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.9
+			"chance": 64.9,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.31
+			"chance": 38.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.72
+			"chance": 18.72,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.54
+			"chance": 18.54,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.9
+			"chance": 11.9,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.5
+			"chance": 6.5,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -116,6 +124,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.24
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

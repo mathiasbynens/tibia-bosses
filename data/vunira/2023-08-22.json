@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-22T08:32:49.550Z",
+	"timestamp": "2023-08-23T02:33:58.562Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 23.63
+			"chance": 23.63,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -63,15 +67,18 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 11.35
+			"chance": 11.35,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 9.78
+			"chance": 9.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -120,6 +127,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

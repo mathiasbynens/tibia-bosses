@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-22T08:32:36.288Z",
+	"timestamp": "2023-08-23T02:33:55.524Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.56
+			"chance": 39.56,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.72
+			"chance": 18.72,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +106,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.71
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

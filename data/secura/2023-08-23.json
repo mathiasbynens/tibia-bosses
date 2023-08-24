@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-23T08:32:40.079Z",
+	"timestamp": "2023-08-24T02:33:55.276Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 20.48
+			"chance": 20.48,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.38
+			"chance": 12.38,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.45
+			"chance": 8.45,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -108,6 +112,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

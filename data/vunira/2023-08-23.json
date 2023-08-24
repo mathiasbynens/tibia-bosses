@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-23T08:32:47.988Z",
+	"timestamp": "2023-08-24T02:33:58.161Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.89
+			"chance": 28.89,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",

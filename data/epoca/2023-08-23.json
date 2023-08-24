@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-23T08:32:33.368Z",
+	"timestamp": "2023-08-24T02:33:53.534Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 76.62
+			"chance": 76.62,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 40.07
+			"chance": 40.07,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.4
+			"chance": 21.4,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -111,7 +114,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		}
 	]
 }

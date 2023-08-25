@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-24T08:32:16.471Z",
+	"timestamp": "2023-08-25T02:33:50.707Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.17
+			"chance": 15.17,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 9.42
+			"chance": 9.42,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.41
+			"chance": 7.41,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.47
+			"chance": 6.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -104,6 +109,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.05
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

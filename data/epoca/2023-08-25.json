@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-25T08:32:33.891Z",
+	"timestamp": "2023-08-26T02:33:49.465Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 40.16
+			"chance": 40.16,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,15 +36,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.4
+			"chance": 20.4,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.92
+			"chance": 17.92,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

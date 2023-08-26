@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-25T08:32:44.604Z",
+	"timestamp": "2023-08-26T02:34:03.881Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 40.07
+			"chance": 40.07,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.33
+			"chance": 38.33,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.95
+			"chance": 17.95,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.05
+			"chance": 10.05,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +113,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

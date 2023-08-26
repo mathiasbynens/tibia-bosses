@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-25T08:32:25.949Z",
+	"timestamp": "2023-08-26T02:33:45.998Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 69.49
+			"chance": 69.49,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.44
+			"chance": 27.44,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -80,6 +82,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.55
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-25T08:32:47.839Z",
+	"timestamp": "2023-08-26T02:34:04.741Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -47,11 +47,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.8
+			"chance": 19.8,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.28
+			"chance": 12.28,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -128,6 +133,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.24
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

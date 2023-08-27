@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-26T08:32:16.031Z",
+	"timestamp": "2023-08-27T02:33:56.787Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.88
+			"chance": 11.88,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +90,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.96
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

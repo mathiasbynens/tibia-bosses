@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-26T08:32:21.303Z",
+	"timestamp": "2023-08-27T02:33:57.641Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
-			"chance": 32.55
+			"chance": 32.55,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.05
+			"chance": 20.05,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.43
+			"chance": 8.43,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -96,6 +99,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.53
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

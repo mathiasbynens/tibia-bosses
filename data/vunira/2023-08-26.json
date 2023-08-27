@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-08-26T08:32:47.574Z",
+	"timestamp": "2023-08-27T02:34:03.145Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.47
+			"chance": 69.47,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.09
+			"chance": 59.09,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 45.15
+			"chance": 45.15,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,19 +30,23 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 36.87
+			"chance": 36.87,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 31
+			"chance": 31,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 26.58
+			"chance": 26.58,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.38
+			"chance": 26.38,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -51,7 +58,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 20.02
+			"chance": 20.02,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -99,7 +107,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.09
+			"chance": 6.09,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -116,6 +125,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

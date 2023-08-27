@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-26T08:32:25.845Z",
+	"timestamp": "2023-08-27T02:33:58.388Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 49.09
+			"chance": 49.09,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -111,7 +114,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.55
+			"chance": 5.55,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

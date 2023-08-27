@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-26T08:32:33.933Z",
+	"timestamp": "2023-08-27T02:34:00.156Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -8,6 +8,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.54
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

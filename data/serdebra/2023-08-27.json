@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-27T08:32:52.776Z",
+	"timestamp": "2023-08-28T02:33:54.044Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -95,7 +95,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.62
+			"chance": 3.62,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

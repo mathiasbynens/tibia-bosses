@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-27T08:32:35.830Z",
+	"timestamp": "2023-08-28T02:33:52.134Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8
+			"chance": 8,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -80,6 +81,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.71
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

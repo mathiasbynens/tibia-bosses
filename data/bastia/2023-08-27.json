@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-27T08:32:25.299Z",
+	"timestamp": "2023-08-28T02:33:50.785Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.4
+			"chance": 9.4,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -84,6 +85,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.19
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

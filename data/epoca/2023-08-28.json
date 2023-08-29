@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-28T08:32:40.848Z",
+	"timestamp": "2023-08-29T02:47:54.422Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.3
+			"chance": 64.3,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.34
+			"chance": 12.34,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -92,6 +94,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-28T08:32:55.806Z",
+	"timestamp": "2023-08-29T02:47:57.026Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.8
+			"chance": 22.8,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.39
+			"chance": 21.39,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.08
+			"chance": 19.08,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.53
+			"chance": 7.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +118,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

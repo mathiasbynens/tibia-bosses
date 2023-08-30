@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-29T08:32:56.291Z",
+	"timestamp": "2023-08-30T02:33:52.521Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.28
+			"chance": 18.28,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.04
+			"chance": 11.04,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -112,6 +116,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

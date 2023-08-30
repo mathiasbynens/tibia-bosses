@@ -1,9 +1,14 @@
 {
-	"timestamp": "2023-08-29T08:32:47.055Z",
+	"timestamp": "2023-08-30T02:33:50.873Z",
 	"bosses": [
 		{
 			"name": "White Pale",
 			"chance": 7.53
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-29T08:32:32.286Z",
+	"timestamp": "2023-08-30T02:33:48.780Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -88,6 +88,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

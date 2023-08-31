@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-30T08:32:57.030Z",
+	"timestamp": "2023-08-31T02:33:47.333Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.77
+			"chance": 41.77,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 32.89
+			"chance": 32.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 32.21
+			"chance": 32.21,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.42
+			"chance": 17.42,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -104,6 +109,21 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 3.11
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

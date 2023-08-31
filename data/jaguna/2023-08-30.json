@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-30T08:32:45.814Z",
+	"timestamp": "2023-08-31T02:33:45.785Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -32,6 +32,16 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 6.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

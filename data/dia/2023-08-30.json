@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-30T08:32:35.131Z",
+	"timestamp": "2023-08-31T02:33:44.546Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.58
+			"chance": 22.58,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.45
+			"chance": 12.45,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.03
+			"chance": 12.03,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -79,11 +82,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 7.35
+			"chance": 7.35,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -104,6 +109,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.4
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

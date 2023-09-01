@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-31T08:32:47.578Z",
+	"timestamp": "2023-09-01T02:35:04.086Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.72
+			"chance": 33.72,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 32.94
+			"chance": 32.94,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -88,6 +90,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.28
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

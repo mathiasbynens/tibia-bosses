@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-08-31T08:32:25.510Z",
+	"timestamp": "2023-09-01T02:34:59.406Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 58.99
+			"chance": 58.99,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.98
+			"chance": 19.98,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 13.99
+			"chance": 13.99,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.32
+			"chance": 10.32,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +125,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

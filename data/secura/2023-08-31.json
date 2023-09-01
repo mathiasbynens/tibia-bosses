@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-31T08:32:42.970Z",
+	"timestamp": "2023-09-01T02:35:03.037Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.23
+			"chance": 54.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.2
+			"chance": 10.2,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 7.45
+			"chance": 7.45,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.21
+			"chance": 7.21,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -83,7 +87,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.4
+			"chance": 2.4,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

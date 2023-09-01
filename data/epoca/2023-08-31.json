@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-08-31T08:32:34.934Z",
+	"timestamp": "2023-09-01T02:35:01.297Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -100,6 +101,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,41 @@
+{
+	"timestamp": "2023-09-01T08:32:39.965Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 71.98
+		},
+		{
+			"name": "General Murius",
+			"chance": 44.62
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 23.7
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.39
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.95
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.78
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.78
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.3
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.48
+		}
+	]
+}

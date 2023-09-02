@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-01T08:32:44.732Z",
+	"timestamp": "2023-09-02T02:34:07.818Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20
+			"chance": 20,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.09
+			"chance": 15.09,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.87
+			"chance": 6.87,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -96,6 +99,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.31
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

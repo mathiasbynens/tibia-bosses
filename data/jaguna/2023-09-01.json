@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-01T08:32:39.965Z",
+	"timestamp": "2023-09-02T02:34:06.932Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -36,6 +36,21 @@
 		{
 			"name": "White Pale",
 			"chance": 6.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

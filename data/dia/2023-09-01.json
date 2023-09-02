@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-01T08:32:27.856Z",
+	"timestamp": "2023-09-02T02:34:04.936Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.27
+			"chance": 39.27,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.42
+			"chance": 18.42,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +115,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.82
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

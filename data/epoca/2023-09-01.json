@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-01T08:32:34.866Z",
+	"timestamp": "2023-09-02T02:34:06.014Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.13
+			"chance": 38.13,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.92
+			"chance": 28.92,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.59
+			"chance": 22.59,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

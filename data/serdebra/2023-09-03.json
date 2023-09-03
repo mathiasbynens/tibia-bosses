@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-09-03T08:32:39.401Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 59
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 24.47
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.5
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 18.75
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 17.94
+		},
+		{
+			"name": "Xenia",
+			"chance": 15.67
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 14.33
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.07
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.17
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.45
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.03
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 8.29
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 7.87
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.52
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 5.86
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.93
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.09
+		}
+	]
+}

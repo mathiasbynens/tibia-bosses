@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-02T08:32:18.246Z",
+	"timestamp": "2023-09-03T02:33:48.998Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.13
+			"chance": 38.13,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 30.95
+			"chance": 30.95,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 16.84
+			"chance": 16.84,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -75,11 +78,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 13.96
+			"chance": 13.96,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -132,6 +137,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

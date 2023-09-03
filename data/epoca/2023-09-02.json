@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-02T08:32:21.643Z",
+	"timestamp": "2023-09-03T02:33:49.802Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 42.29
+			"chance": 42.29,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

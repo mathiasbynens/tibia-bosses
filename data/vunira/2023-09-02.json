@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-02T08:32:35.240Z",
+	"timestamp": "2023-09-03T02:33:53.198Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.28
+			"chance": 17.28,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,11 +78,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.36
+			"chance": 7.36,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.52
+			"chance": 6.52,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +97,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

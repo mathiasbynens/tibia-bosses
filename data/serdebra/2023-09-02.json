@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-02T08:32:31.829Z",
+	"timestamp": "2023-09-03T02:33:51.923Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.34
+			"chance": 28.34,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 23.5
+			"chance": 23.5,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.25
+			"chance": 15.25,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.55
+			"chance": 13.55,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.52
+			"chance": 8.52,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -88,6 +95,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

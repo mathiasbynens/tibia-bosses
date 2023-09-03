@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-02T08:32:25.027Z",
+	"timestamp": "2023-09-03T02:33:50.494Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.28
+			"chance": 83.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.81
+			"chance": 28.81,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.78
+			"chance": 22.78,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,11 +34,22 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
 			"chance": 6.52
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

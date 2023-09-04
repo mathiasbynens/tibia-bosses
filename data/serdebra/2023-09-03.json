@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-03T08:32:39.401Z",
+	"timestamp": "2023-09-04T02:33:58.696Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -76,6 +76,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

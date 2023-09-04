@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-03T08:32:31.490Z",
+	"timestamp": "2023-09-04T02:33:56.806Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -20,6 +20,26 @@
 		{
 			"name": "White Pale",
 			"chance": 6.9
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

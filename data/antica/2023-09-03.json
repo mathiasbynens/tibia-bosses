@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-03T08:32:19.079Z",
+	"timestamp": "2023-09-04T02:33:53.533Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.53
+			"chance": 79.53,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.78
+			"chance": 41.78,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.72
+			"chance": 39.72,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.71
+			"chance": 33.71,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -47,15 +51,18 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 14.6
+			"chance": 14.6,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.23
+			"chance": 14.23,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.78
+			"chance": 13.78,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

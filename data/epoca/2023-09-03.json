@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-03T08:32:27.320Z",
+	"timestamp": "2023-09-04T02:33:55.950Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -100,6 +100,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.63
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

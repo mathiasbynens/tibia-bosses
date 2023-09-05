@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-04T08:32:36.314Z",
+	"timestamp": "2023-09-05T02:33:59.148Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -20,6 +20,16 @@
 		{
 			"name": "White Pale",
 			"chance": 7.53
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

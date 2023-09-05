@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-04T08:32:39.620Z",
+	"timestamp": "2023-09-05T02:33:59.857Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 23.69
+			"chance": 23.69,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 21
+			"chance": 21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.82
+			"chance": 18.82,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.24
+			"chance": 18.24,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -112,6 +119,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.34
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

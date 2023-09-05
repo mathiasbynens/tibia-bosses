@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-04T08:32:29.610Z",
+	"timestamp": "2023-09-05T02:33:56.873Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.51
+			"chance": 20.51,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.32
+			"chance": 20.32,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.45
+			"chance": 10.45,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.97
+			"chance": 9.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -96,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.66
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

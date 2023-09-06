@@ -1,0 +1,33 @@
+{
+	"timestamp": "2023-09-06T08:32:40.064Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 20.57
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.24
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.01
+		},
+		{
+			"name": "White Pale",
+			"chance": 7
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.82
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.92
+		}
+	]
+}

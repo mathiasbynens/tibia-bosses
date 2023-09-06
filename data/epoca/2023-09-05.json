@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-05T08:32:34.951Z",
+	"timestamp": "2023-09-06T02:33:53.682Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.41
+			"chance": 69.41,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.33
+			"chance": 9.33,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

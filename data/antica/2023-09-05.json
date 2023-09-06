@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-05T08:32:27.092Z",
+	"timestamp": "2023-09-06T02:33:51.874Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.93
+			"chance": 19.93,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.34
+			"chance": 4.34,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +98,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.44
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

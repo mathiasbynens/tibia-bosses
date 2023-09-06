@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-05T08:32:38.491Z",
+	"timestamp": "2023-09-06T02:33:54.684Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -24,6 +25,16 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 4.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

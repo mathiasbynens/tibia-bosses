@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-05T08:32:41.922Z",
+	"timestamp": "2023-09-06T02:33:55.614Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.3
+			"chance": 83.3,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.48
+			"chance": 30.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 10.88
+			"chance": 10.88,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.53
+			"chance": 5.53,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +117,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.74
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

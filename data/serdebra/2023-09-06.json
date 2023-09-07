@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-06T08:32:48.518Z",
+	"timestamp": "2023-09-07T02:34:17.205Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 39.77
+			"chance": 39.77,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 24.2
+			"chance": 24.2,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.99
+			"chance": 19.99,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -112,6 +116,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.76
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

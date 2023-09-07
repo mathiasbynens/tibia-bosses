@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-06T08:32:44.414Z",
+	"timestamp": "2023-09-07T02:34:16.474Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 32.02
+			"chance": 32.02,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 27.06
+			"chance": 27.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -111,11 +114,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.35
+			"chance": 3.35,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.44
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-06T08:32:40.064Z",
+	"timestamp": "2023-09-07T02:34:15.825Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -28,6 +28,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.92
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

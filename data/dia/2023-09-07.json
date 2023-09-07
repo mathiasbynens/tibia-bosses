@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-09-07T08:32:29.564Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 64.21
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 40.06
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 24.04
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 23.59
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.55
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 18.56
+		},
+		{
+			"name": "Massacre",
+			"chance": 16.42
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 16.15
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.78
+		},
+		{
+			"name": "Dracola",
+			"chance": 12.55
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 11.55
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.16
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.56
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.55
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.37
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.73
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.85
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.84
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.69
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.3
+		}
+	]
+}

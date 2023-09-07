@@ -1,0 +1,53 @@
+{
+	"timestamp": "2023-09-07T08:32:37.085Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 28.35
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.35
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.22
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.96
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.89
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.37
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.42
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 7.91
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.56
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.2
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 5.7
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.71
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-07T08:32:47.222Z",
+	"timestamp": "2023-09-08T02:33:51.810Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.71
+			"chance": 33.71,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 26
+			"chance": 26,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,11 +80,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.84
+			"chance": 11.84,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -103,11 +110,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.07
+			"chance": 3.07,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
 			"chance": 2.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

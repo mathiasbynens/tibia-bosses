@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-07T08:32:25.151Z",
+	"timestamp": "2023-09-08T02:33:47.936Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.21
+			"chance": 64.21,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.87
+			"chance": 20.87,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +100,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

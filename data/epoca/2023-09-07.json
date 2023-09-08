@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-07T08:32:33.199Z",
+	"timestamp": "2023-09-08T02:33:49.331Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.24
+			"chance": 14.24,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.47
+			"chance": 12.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +98,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

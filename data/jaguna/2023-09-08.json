@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-08T08:32:40.386Z",
+	"timestamp": "2023-09-09T02:33:52.686Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.94
+			"chance": 28.94,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +50,23 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.85
+			"chance": 4.85,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

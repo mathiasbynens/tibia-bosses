@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-08T08:32:32.394Z",
+	"timestamp": "2023-09-09T02:33:51.350Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.28
+			"chance": 15.28,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.22
+			"chance": 15.22,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.63
+			"chance": 9.63,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.63
+			"chance": 9.63,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.04
+			"chance": 5.04,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +114,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

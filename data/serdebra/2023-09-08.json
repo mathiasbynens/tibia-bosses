@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-08T08:32:48.917Z",
+	"timestamp": "2023-09-09T02:33:54.543Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.7
+			"chance": 62.7,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.73
+			"chance": 52.73,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.63
+			"chance": 30.63,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -124,6 +128,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

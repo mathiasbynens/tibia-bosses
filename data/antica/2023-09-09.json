@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-09T08:32:16.055Z",
+	"timestamp": "2023-09-10T02:33:53.408Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.41
+			"chance": 12.41,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.42
+			"chance": 6.42,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -112,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

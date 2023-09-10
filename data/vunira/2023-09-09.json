@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-09T08:32:41.280Z",
+	"timestamp": "2023-09-10T02:34:11.330Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.9
+			"chance": 16.9,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -99,11 +102,37 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.58
+			"chance": 4.58,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-09T08:32:21.016Z",
+	"timestamp": "2023-09-10T02:33:57.081Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 52.2
+			"chance": 52.2,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.4
+			"chance": 27.4,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.56
+			"chance": 5.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +105,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

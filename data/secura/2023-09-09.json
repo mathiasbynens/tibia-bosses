@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-09T08:32:33.064Z",
+	"timestamp": "2023-09-10T02:34:08.305Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 28.35
+			"chance": 28.35,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 26.11
+			"chance": 26.11,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.73
+			"chance": 22.73,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.62
+			"chance": 16.62,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.17
+			"chance": 15.17,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -95,11 +101,17 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.8
+			"chance": 3.8,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

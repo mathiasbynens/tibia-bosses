@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-09T08:32:24.971Z",
+	"timestamp": "2023-09-10T02:34:01.586Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 76
+			"chance": 76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.14
+			"chance": 38.14,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -84,6 +86,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

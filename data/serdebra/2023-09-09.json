@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-09T08:32:37.486Z",
+	"timestamp": "2023-09-10T02:34:09.110Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.9
+			"chance": 23.9,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.49
+			"chance": 12.49,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +127,11 @@
 		{
 			"name": "Ferumbras",
 			"chance": 4.62
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

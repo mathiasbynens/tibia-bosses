@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-10T08:32:25.049Z",
+	"timestamp": "2023-09-11T02:33:50.952Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -40,6 +40,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.71
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

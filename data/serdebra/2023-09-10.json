@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-10T08:32:31.085Z",
+	"timestamp": "2023-09-11T02:33:52.567Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.37
+			"chance": 17.37,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -83,11 +85,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.26
+			"chance": 7.26,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -128,6 +133,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.98
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

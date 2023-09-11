@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-10T08:32:22.068Z",
+	"timestamp": "2023-09-11T02:33:50.224Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.43
+			"chance": 10.43,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

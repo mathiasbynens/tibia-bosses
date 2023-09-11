@@ -1,0 +1,105 @@
+{
+	"timestamp": "2023-09-11T08:33:09.505Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 41.55
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.6
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.55
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 20.18
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 18.51
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 18.5
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 17.98
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.61
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.38
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 17.26
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.21
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 17.18
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 14.79
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 14.62
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 14.03
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.39
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 11.42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.44
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.99
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.73
+		},
+		{
+			"name": "Xenia",
+			"chance": 7.9
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.71
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.26
+		}
+	]
+}

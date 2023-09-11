@@ -1,0 +1,45 @@
+{
+	"timestamp": "2023-09-11T08:32:54.760Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 69.4
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 59.07
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 39.85
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 21.53
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 21
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.24
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.22
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 12.34
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.84
+		}
+	]
+}

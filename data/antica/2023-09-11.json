@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-11T08:32:42.084Z",
+	"timestamp": "2023-09-12T02:33:44.673Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.52
+			"chance": 31.52,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.24
+			"chance": 15.24,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.93
+			"chance": 10.93,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +115,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

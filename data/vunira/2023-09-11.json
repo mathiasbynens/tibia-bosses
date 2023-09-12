@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-11T08:33:09.505Z",
+	"timestamp": "2023-09-12T02:33:50.524Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.18
+			"chance": 20.18,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.79
+			"chance": 14.79,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +104,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.26
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

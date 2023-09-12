@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-11T08:32:50.473Z",
+	"timestamp": "2023-09-12T02:33:46.291Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -80,6 +84,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.78
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-09-11T08:32:46.505Z",
+	"timestamp": "2023-09-12T02:33:45.623Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 71.97
+			"chance": 71.97,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.4
+			"chance": 69.4,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.07
+			"chance": 59.07,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.83
+			"chance": 22.83,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,11 +27,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.27
+			"chance": 20.27,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.05
+			"chance": 5.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +119,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.98
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

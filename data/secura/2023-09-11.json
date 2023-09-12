@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-11T08:32:58.888Z",
+	"timestamp": "2023-09-12T02:33:47.794Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -111,11 +115,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.74
+			"chance": 2.74,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 1.85
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

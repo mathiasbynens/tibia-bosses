@@ -1,0 +1,41 @@
+{
+	"timestamp": "2023-09-13T08:32:34.190Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.54
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.02
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.97
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.55
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 14.08
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.75
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.57
+		}
+	]
+}

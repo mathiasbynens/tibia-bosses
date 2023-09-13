@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-09-13T08:32:24.474Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 39.87
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.29
+		},
+		{
+			"name": "Massacre",
+			"chance": 26.68
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 24.76
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 21.12
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.9
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.54
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.44
+		},
+		{
+			"name": "The Imperor",
+			"chance": 18.86
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.21
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.35
+		},
+		{
+			"name": "The Welter",
+			"chance": 14.74
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.43
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.2
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.73
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.57
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.08
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.7
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 6.68
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.19
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.81
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.43
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.08
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.77
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.65
+		}
+	]
+}

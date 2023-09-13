@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-12T08:32:52.810Z",
+	"timestamp": "2023-09-13T02:34:56.959Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.42
+			"chance": 69.42,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.9
+			"chance": 17.9,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.71
+			"chance": 7.71,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -88,6 +92,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.4
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

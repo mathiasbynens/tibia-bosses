@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-12T08:32:32.444Z",
+	"timestamp": "2023-09-13T02:33:51.554Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 83.37
+			"chance": 83.37,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.87
+			"chance": 27.87,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 26.89
+			"chance": 26.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.03
+			"chance": 10.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.02
+			"chance": 6.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +121,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.85
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

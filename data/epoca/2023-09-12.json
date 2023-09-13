@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-12T08:32:40.476Z",
+	"timestamp": "2023-09-13T02:34:53.929Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.42
+			"chance": 69.42,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -59,11 +60,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.26
+			"chance": 7.26,
+			"killed": true
 		}
 	]
 }

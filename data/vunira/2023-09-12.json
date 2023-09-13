@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-12T08:32:56.897Z",
+	"timestamp": "2023-09-13T02:34:57.589Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -92,6 +93,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.77
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

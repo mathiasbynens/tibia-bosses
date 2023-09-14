@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-13T08:32:40.879Z",
+	"timestamp": "2023-09-14T02:33:47.658Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.94
+			"chance": 28.94,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.15
+			"chance": 14.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.8
+			"chance": 7.8,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +101,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

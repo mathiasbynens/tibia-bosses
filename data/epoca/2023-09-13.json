@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-13T08:32:31.051Z",
+	"timestamp": "2023-09-14T02:33:45.572Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.02
+			"chance": 17.02,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -56,6 +58,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 9.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

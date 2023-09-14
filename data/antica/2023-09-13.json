@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-13T08:32:24.474Z",
+	"timestamp": "2023-09-14T02:33:44.218Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 39.87
+			"chance": 39.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.29
+			"chance": 39.29,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 21.12
+			"chance": 21.12,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -108,6 +113,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

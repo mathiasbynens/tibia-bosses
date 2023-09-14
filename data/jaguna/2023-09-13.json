@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-13T08:32:34.190Z",
+	"timestamp": "2023-09-14T02:33:46.277Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -36,6 +38,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

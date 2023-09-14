@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-13T08:32:27.755Z",
+	"timestamp": "2023-09-14T02:33:44.974Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.8
+			"chance": 7.8,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.3
+			"chance": 7.3,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -116,6 +122,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

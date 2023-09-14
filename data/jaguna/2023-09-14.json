@@ -1,0 +1,33 @@
+{
+	"timestamp": "2023-09-14T08:32:32.268Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 28.96
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.36
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.35
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.98
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.24
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.57
+		}
+	]
+}

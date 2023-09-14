@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-09-14T08:32:25.798Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 44.68
+		},
+		{
+			"name": "Xenia",
+			"chance": 25.4
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.92
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.7
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 21.37
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.9
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 20.19
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.41
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 16.97
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 16.13
+		},
+		{
+			"name": "The Imperor",
+			"chance": 15.41
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 11.98
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.41
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.18
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.33
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.79
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.74
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.38
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.55
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.57
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 5.42
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.05
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.61
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.47
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.02
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.39
+		}
+	]
+}

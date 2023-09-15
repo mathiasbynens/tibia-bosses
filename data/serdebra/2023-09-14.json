@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-14T08:32:38.477Z",
+	"timestamp": "2023-09-15T02:34:50.476Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.32
+			"chance": 39.32,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -92,6 +93,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

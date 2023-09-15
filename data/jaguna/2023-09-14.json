@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-14T08:32:32.268Z",
+	"timestamp": "2023-09-15T02:34:46.757Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.35
+			"chance": 21.35,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.98
+			"chance": 16.98,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -28,6 +30,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.57
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

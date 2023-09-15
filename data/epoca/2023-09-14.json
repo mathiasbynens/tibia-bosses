@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-14T08:32:28.910Z",
+	"timestamp": "2023-09-15T02:34:46.016Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.02
+			"chance": 25.02,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -68,6 +70,26 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 6.17
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

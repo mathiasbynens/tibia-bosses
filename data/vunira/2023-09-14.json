@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-14T08:32:41.614Z",
+	"timestamp": "2023-09-15T02:34:51.350Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.66
+			"chance": 40.66,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 28.96
+			"chance": 28.96,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.55
+			"chance": 12.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +115,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.22
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

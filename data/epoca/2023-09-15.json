@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-15T08:32:35.930Z",
+	"timestamp": "2023-09-16T02:33:52.830Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 41.76
+			"chance": 41.76,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.25
+			"chance": 16.25,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -68,6 +72,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

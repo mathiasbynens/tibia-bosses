@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-15T08:32:32.802Z",
+	"timestamp": "2023-09-16T02:33:52.062Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 27.99
+			"chance": 27.99,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.09
+			"chance": 10.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -115,11 +117,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.8
+			"chance": 2.8,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

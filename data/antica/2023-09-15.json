@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-15T08:32:28.882Z",
+	"timestamp": "2023-09-16T02:33:50.543Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.44
+			"chance": 38.44,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.92
+			"chance": 36.92,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 31.01
+			"chance": 31.01,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.73
+			"chance": 12.73,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

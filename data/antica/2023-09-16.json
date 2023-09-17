@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-16T08:32:24.687Z",
+	"timestamp": "2023-09-17T02:33:41.736Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -104,6 +106,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

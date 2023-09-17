@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-16T08:32:52.418Z",
+	"timestamp": "2023-09-17T02:33:49.131Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.13
+			"chance": 15.13,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.15
+			"chance": 5.15,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +108,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

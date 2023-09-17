@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-16T08:32:42.046Z",
+	"timestamp": "2023-09-17T02:33:45.878Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.87
+			"chance": 30.87,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 23.53
+			"chance": 23.53,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.41
+			"chance": 7.41,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -84,6 +89,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

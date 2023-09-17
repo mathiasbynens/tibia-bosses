@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-16T08:32:37.506Z",
+	"timestamp": "2023-09-17T02:33:45.284Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -40,6 +41,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.33
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

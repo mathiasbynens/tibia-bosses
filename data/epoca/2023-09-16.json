@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-16T08:32:33.223Z",
+	"timestamp": "2023-09-17T02:33:44.558Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.51
+			"chance": 23.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.53
+			"chance": 13.53,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -68,6 +70,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-17T08:32:32.277Z",
+	"timestamp": "2023-09-18T02:33:53.360Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.11
+			"chance": 38.11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -76,6 +77,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 3.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

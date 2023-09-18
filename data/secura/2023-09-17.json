@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-17T08:32:40.545Z",
+	"timestamp": "2023-09-18T02:33:54.925Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.38
+			"chance": 39.38,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.26
+			"chance": 15.26,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.02
+			"chance": 8.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.55
+			"chance": 7.55,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +93,33 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.47
+			"chance": 2.47,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

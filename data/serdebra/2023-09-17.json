@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-17T08:32:44.767Z",
+	"timestamp": "2023-09-18T02:33:56.469Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.39
+			"chance": 38.39,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.51
+			"chance": 23.51,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 13.98
+			"chance": 13.98,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.43
+			"chance": 5.43,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

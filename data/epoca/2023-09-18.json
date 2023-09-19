@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-18T08:32:45.976Z",
+	"timestamp": "2023-09-19T02:34:21.233Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.92
+			"chance": 66.92,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.6
+			"chance": 66.6,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.69
+			"chance": 33.69,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.38
+			"chance": 28.38,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -80,6 +84,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.44
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

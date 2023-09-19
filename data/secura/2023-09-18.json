@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-18T08:32:53.385Z",
+	"timestamp": "2023-09-19T02:34:26.467Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.56
+			"chance": 28.56,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 16.39
+			"chance": 16.39,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -104,6 +106,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.49
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-18T08:32:57.337Z",
+	"timestamp": "2023-09-19T02:34:30.178Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -128,6 +128,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

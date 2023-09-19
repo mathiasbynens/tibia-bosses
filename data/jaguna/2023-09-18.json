@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-18T08:32:49.633Z",
+	"timestamp": "2023-09-19T02:34:25.636Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -48,6 +48,11 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 6.69
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

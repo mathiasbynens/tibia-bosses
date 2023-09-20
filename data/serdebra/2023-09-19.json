@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-19T08:33:00.894Z",
+	"timestamp": "2023-09-20T04:28:18.816Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 43.29
+			"chance": 43.29,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.35
+			"chance": 29.35,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,15 +33,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.07
+			"chance": 24.07,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 23.76
+			"chance": 23.76,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.37
+			"chance": 21.37,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -47,23 +52,28 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.15
+			"chance": 14.15,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -91,7 +101,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.59
+			"chance": 8.59,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -132,6 +143,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

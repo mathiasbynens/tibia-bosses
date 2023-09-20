@@ -1,0 +1,69 @@
+{
+	"timestamp": "2023-09-20T08:32:57.223Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.34
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 32.91
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.91
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.71
+		},
+		{
+			"name": "Dracola",
+			"chance": 20.42
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 20.28
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 19.66
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.62
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.16
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.76
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.16
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.3
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.85
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 8.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.58
+		}
+	]
+}

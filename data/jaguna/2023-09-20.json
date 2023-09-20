@@ -1,0 +1,69 @@
+{
+	"timestamp": "2023-09-20T08:33:00.438Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 39.96
+		},
+		{
+			"name": "Massacre",
+			"chance": 26.7
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.33
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.9
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.16
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.96
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.16
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.82
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.59
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.11
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.76
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.69
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.26
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.63
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.93
+		}
+	]
+}

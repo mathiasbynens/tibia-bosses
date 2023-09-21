@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-20T08:32:49.884Z",
+	"timestamp": "2023-09-21T02:33:46.885Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.89
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

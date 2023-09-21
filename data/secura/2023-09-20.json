@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-09-20T08:33:03.915Z",
+	"timestamp": "2023-09-21T02:33:50.851Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.63
+			"chance": 52.63,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 49
+			"chance": 49,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 30.57
+			"chance": 30.57,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 24.65
+			"chance": 24.65,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 17.97
+			"chance": 17.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,11 +48,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.16
+			"chance": 16.16,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -104,6 +112,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.56
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

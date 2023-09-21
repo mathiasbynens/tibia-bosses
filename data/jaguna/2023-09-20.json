@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-20T08:33:00.438Z",
+	"timestamp": "2023-09-21T02:33:49.877Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 39.96
+			"chance": 39.96,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -64,6 +65,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.93
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

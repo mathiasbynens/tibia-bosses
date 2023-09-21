@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-20T08:33:10.581Z",
+	"timestamp": "2023-09-21T02:33:53.192Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 14.48
+			"chance": 14.48,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.79
+			"chance": 13.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-20T08:32:57.223Z",
+	"timestamp": "2023-09-21T02:33:48.924Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.34
+			"chance": 39.34,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

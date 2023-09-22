@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-09-22T08:32:50.662Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 69.45
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 52.08
+		},
+		{
+			"name": "General Murius",
+			"chance": 43.23
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.01
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.38
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 19.95
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.5
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.03
+		},
+		{
+			"name": "The Imperor",
+			"chance": 15.42
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.27
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.77
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.25
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 12.9
+		},
+		{
+			"name": "Dracola",
+			"chance": 12.51
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.39
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 11.82
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.12
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.3
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.8
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.68
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 7.93
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.98
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.54
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.18
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.35
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.79
+		}
+	]
+}

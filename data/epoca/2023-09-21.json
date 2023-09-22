@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-21T08:32:54.345Z",
+	"timestamp": "2023-09-22T02:33:54.036Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.56
+			"chance": 28.56,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -72,6 +73,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

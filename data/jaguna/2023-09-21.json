@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-21T08:32:57.604Z",
+	"timestamp": "2023-09-22T02:33:55.970Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 19.64
+			"chance": 19.64,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -72,6 +73,16 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 5.79
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

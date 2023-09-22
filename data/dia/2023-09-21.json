@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-21T08:32:48.156Z",
+	"timestamp": "2023-09-22T02:33:53.378Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.69
+			"chance": 33.69,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.92
+			"chance": 20.92,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -88,6 +91,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

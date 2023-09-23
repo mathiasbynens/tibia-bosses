@@ -1,0 +1,109 @@
+{
+	"timestamp": "2023-09-23T08:32:30.940Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.76
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 44.94
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 39.55
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.81
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.95
+		},
+		{
+			"name": "The Imperor",
+			"chance": 18.86
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.63
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.51
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.83
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 16.34
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.9
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.44
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.36
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 14.34
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12.78
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 12.24
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.43
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.28
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.6
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.67
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.37
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.98
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.39
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.39
+		}
+	]
+}

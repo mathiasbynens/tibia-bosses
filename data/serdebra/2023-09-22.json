@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-22T08:32:46.956Z",
+	"timestamp": "2023-09-23T02:33:49.659Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.86
+			"chance": 22.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.06
+			"chance": 12.06,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.81
+			"chance": 11.81,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +114,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.55
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

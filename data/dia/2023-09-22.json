@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-22T08:32:31.956Z",
+	"timestamp": "2023-09-23T02:33:46.523Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.41
+			"chance": 15.41,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +99,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.56
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

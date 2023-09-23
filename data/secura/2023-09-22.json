@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-22T08:32:43.123Z",
+	"timestamp": "2023-09-23T02:33:48.685Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 33.33
+			"chance": 33.33,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.68
+			"chance": 20.68,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.52
+			"chance": 12.52,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -116,6 +119,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.12
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

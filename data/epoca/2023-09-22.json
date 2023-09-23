@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-22T08:32:35.813Z",
+	"timestamp": "2023-09-23T02:33:47.249Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.09
+			"chance": 59.09,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -64,6 +66,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.36
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

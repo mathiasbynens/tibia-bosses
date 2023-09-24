@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-23T08:32:24.658Z",
+	"timestamp": "2023-09-24T02:33:57.018Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.34
+			"chance": 39.34,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.55
+			"chance": 20.55,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.5
+			"chance": 11.5,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -112,6 +117,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.91
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

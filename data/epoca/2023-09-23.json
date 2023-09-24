@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-23T08:32:18.506Z",
+	"timestamp": "2023-09-24T02:33:54.178Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.71
+			"chance": 62.71,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -68,6 +71,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 7.18
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

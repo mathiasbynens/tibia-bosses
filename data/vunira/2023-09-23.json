@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-23T08:32:30.940Z",
+	"timestamp": "2023-09-24T02:34:00.470Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.76
+			"chance": 53.76,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 44.94
+			"chance": 44.94,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.44
+			"chance": 15.44,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -104,6 +108,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

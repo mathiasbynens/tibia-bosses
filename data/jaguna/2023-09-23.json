@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-23T08:32:21.488Z",
+	"timestamp": "2023-09-24T02:33:56.193Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 44.71
+			"chance": 44.71,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.41
+			"chance": 39.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -75,7 +77,18 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 6.08
+			"chance": 6.08,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

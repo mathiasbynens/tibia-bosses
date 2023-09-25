@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-24T13:33:07.828Z",
+	"timestamp": "2023-09-25T02:34:07.563Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.39
+			"chance": 21.39,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.63
+			"chance": 18.63,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.92
+			"chance": 11.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.53
+			"chance": 11.53,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -100,6 +104,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.64
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

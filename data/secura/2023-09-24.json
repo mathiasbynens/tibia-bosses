@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-24T13:33:20.241Z",
+	"timestamp": "2023-09-25T02:34:11.483Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.39
+			"chance": 80.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.8
+			"chance": 62.8,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 34.53
+			"chance": 34.53,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.34
+			"chance": 18.34,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.37
+			"chance": 15.37,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.75
+			"chance": 12.75,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.31
+			"chance": 11.31,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -83,7 +91,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.31
+			"chance": 7.31,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -112,6 +121,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.58
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

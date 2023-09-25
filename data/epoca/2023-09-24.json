@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-24T13:33:10.936Z",
+	"timestamp": "2023-09-25T02:34:08.853Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -64,6 +64,16 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 6.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

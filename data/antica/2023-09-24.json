@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-24T13:33:03.988Z",
+	"timestamp": "2023-09-25T02:34:06.445Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 22.42
+			"chance": 22.42,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.99
+			"chance": 19.99,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 9.5
+			"chance": 9.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.45
+			"chance": 7.45,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

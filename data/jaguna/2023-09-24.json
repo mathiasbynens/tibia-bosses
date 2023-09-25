@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-24T13:33:13.996Z",
+	"timestamp": "2023-09-25T02:34:09.768Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.61
+			"chance": 7.61,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -68,6 +69,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.96
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

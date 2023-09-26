@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-25T08:33:05.594Z",
+	"timestamp": "2023-09-26T02:34:16.715Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.08
+			"chance": 20.08,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.74
+			"chance": 15.74,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.36
+			"chance": 15.36,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.76
+			"chance": 6.76,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +112,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.61
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

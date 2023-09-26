@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-25T08:33:09.205Z",
+	"timestamp": "2023-09-26T02:34:17.512Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 30.93
+			"chance": 30.93,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.38
+			"chance": 27.38,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 16.98
+			"chance": 16.98,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.72
+			"chance": 4.72,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -120,6 +126,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.24
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

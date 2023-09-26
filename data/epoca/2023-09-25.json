@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-25T08:32:55.199Z",
+	"timestamp": "2023-09-26T02:34:14.599Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.97
+			"chance": 23.97,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -71,15 +73,27 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.34
+			"chance": 5.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.34
+			"chance": 5.34,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

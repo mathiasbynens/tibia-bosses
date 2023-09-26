@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-25T08:32:46.800Z",
+	"timestamp": "2023-09-26T02:34:13.069Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.43
+			"chance": 69.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.19
+			"chance": 38.19,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 23.04
+			"chance": 23.04,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,15 +38,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.23
+			"chance": 14.23,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -92,6 +98,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.52
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

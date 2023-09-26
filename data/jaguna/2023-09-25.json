@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-09-25T08:32:58.495Z",
+	"timestamp": "2023-09-26T02:34:15.308Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.08
+			"chance": 59.08,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.57
+			"chance": 39.57,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -76,6 +80,26 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

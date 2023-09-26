@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-09-25T08:32:51.418Z",
+	"timestamp": "2023-09-26T02:34:13.900Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.43
+			"chance": 69.43,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.81
+			"chance": 60.81,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 56.29
+			"chance": 56.29,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.89
+			"chance": 11.89,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -92,6 +97,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.21
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

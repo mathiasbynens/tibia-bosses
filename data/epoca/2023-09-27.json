@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-09-27T08:32:53.012Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 64.22
+		},
+		{
+			"name": "General Murius",
+			"chance": 44.76
+		},
+		{
+			"name": "Zushuka",
+			"chance": 42
+		},
+		{
+			"name": "Massacre",
+			"chance": 39.81
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 28.6
+		},
+		{
+			"name": "Hirintror",
+			"chance": 24.22
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.06
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.28
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.29
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.28
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.88
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.54
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.67
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 12.15
+		},
+		{
+			"name": "Barbaria",
+			"chance": 8.71
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.81
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.8
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.68
+		}
+	]
+}

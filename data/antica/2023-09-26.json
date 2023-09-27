@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-26T08:32:45.842Z",
+	"timestamp": "2023-09-27T02:33:56.676Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 32.12
+			"chance": 32.12,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 26.29
+			"chance": 26.29,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.84
+			"chance": 9.84,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.36
+			"chance": 3.36,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -80,6 +85,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-26T08:33:05.961Z",
+	"timestamp": "2023-09-27T02:34:00.865Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -107,7 +107,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.8
+			"chance": 5.8,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-27T08:32:49.179Z",
+	"timestamp": "2023-09-28T02:33:47.451Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 21.35
+			"chance": 21.35,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.68
+			"chance": 12.68,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.44
+			"chance": 5.44,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +111,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

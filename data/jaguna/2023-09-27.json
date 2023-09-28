@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-27T08:32:56.549Z",
+	"timestamp": "2023-09-28T02:33:48.828Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.16
+			"chance": 16.16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -64,6 +65,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.84
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

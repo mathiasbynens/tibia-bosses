@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-27T08:32:45.464Z",
+	"timestamp": "2023-09-28T02:33:46.584Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.51
+			"chance": 15.51,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 15.36
+			"chance": 15.36,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.98
+			"chance": 12.98,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.43
+			"chance": 7.43,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +100,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.96
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

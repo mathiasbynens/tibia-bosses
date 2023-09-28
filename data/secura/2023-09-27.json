@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-27T08:33:04.268Z",
+	"timestamp": "2023-09-28T02:33:50.598Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.19
+			"chance": 31.19,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.26
+			"chance": 10.26,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +110,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

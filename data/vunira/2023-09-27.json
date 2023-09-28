@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-27T08:33:08.012Z",
+	"timestamp": "2023-09-28T02:33:51.387Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.33
+			"chance": 29.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.56
+			"chance": 20.56,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 19.59
+			"chance": 19.59,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.98
+			"chance": 13.98,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -111,7 +116,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.68
+			"chance": 7.68,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -131,7 +137,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.64
+			"chance": 3.64,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

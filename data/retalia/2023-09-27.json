@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-27T08:33:00.414Z",
+	"timestamp": "2023-09-28T02:33:49.733Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -100,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.03
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

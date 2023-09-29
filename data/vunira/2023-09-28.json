@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-28T08:33:17.378Z",
+	"timestamp": "2023-09-29T02:34:05.878Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.74
+			"chance": 40.74,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 25.4
+			"chance": 25.4,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -103,7 +106,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -128,6 +132,16 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 3.27
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-28T08:33:04.101Z",
+	"timestamp": "2023-09-29T02:34:02.391Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 28.63
+			"chance": 28.63,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 23.05
+			"chance": 23.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +86,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

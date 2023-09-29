@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-28T08:33:08.905Z",
+	"timestamp": "2023-09-29T02:34:03.658Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -92,6 +93,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

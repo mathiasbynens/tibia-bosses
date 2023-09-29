@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-28T08:33:12.971Z",
+	"timestamp": "2023-09-29T02:34:04.677Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 28.73
+			"chance": 28.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 24.7
+			"chance": 24.7,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 13.99
+			"chance": 13.99,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +117,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.05
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

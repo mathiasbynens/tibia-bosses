@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-28T08:32:59.667Z",
+	"timestamp": "2023-09-29T02:34:01.377Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 65.49
+			"chance": 65.49,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.32
+			"chance": 29.32,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.83
+			"chance": 22.83,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.3
+			"chance": 13.3,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -84,6 +89,21 @@
 		{
 			"name": "White Pale",
 			"chance": 6.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

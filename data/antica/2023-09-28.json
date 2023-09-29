@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-28T08:32:48.653Z",
+	"timestamp": "2023-09-29T02:33:59.099Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.26
+			"chance": 79.26,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.23
+			"chance": 31.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.84
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

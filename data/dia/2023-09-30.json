@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-09-30T08:32:19.237Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 29.06
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.79
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 22.93
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.45
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.61
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.17
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.07
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.51
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 14.29
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.43
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.91
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.07
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.61
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 7.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 7.16
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.36
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.63
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.61
+		}
+	]
+}

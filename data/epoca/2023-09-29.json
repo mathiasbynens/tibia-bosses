@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-09-29T08:32:36.273Z",
+	"timestamp": "2023-09-30T02:33:57.805Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 36.97
+			"chance": 36.97,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.81
+			"chance": 29.81,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

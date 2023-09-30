@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-29T08:32:40.415Z",
+	"timestamp": "2023-09-30T02:34:00.213Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.05
+			"chance": 17.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.72
+			"chance": 16.72,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -80,6 +82,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

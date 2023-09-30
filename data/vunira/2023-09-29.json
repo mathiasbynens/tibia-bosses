@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-29T08:32:54.490Z",
+	"timestamp": "2023-09-30T02:34:04.119Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.26
+			"chance": 31.26,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -120,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.44
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

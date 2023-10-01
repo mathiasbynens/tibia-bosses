@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-10-01T08:32:23.432Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 53.37
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 39.99
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 39.54
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.92
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 26.48
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.54
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 21.94
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.4
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.39
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 19.07
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 18.33
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 16.33
+		},
+		{
+			"name": "General Murius",
+			"chance": 15.1
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.66
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.29
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.51
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.43
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.76
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.58
+		}
+	]
+}

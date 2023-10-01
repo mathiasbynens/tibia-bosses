@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-09-30T08:32:25.511Z",
+	"timestamp": "2023-10-01T02:36:18.742Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.23
+			"chance": 38.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +78,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

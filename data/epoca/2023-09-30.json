@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-30T08:32:22.392Z",
+	"timestamp": "2023-10-01T02:36:16.274Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.11
+			"chance": 23.11,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.45
+			"chance": 20.45,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +70,21 @@
 		{
 			"name": "White Pale",
 			"chance": 6.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

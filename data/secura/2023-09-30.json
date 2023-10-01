@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-09-30T08:32:31.846Z",
+	"timestamp": "2023-10-01T02:36:23.832Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.22
+			"chance": 38.22,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.35
+			"chance": 28.35,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.86
+			"chance": 14.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.83
+			"chance": 6.83,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -108,6 +113,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

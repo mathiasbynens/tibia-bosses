@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-09-30T08:32:19.237Z",
+	"timestamp": "2023-10-01T02:36:13.652Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 22.93
+			"chance": 22.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -76,6 +77,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.61
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

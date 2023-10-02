@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-01T08:32:26.982Z",
+	"timestamp": "2023-10-02T02:34:10.108Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -84,6 +85,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

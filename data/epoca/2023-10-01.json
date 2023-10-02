@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-01T08:32:23.432Z",
+	"timestamp": "2023-10-02T02:34:09.190Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.29
+			"chance": 10.29,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -71,11 +72,17 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.76
+			"chance": 6.76,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.58
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

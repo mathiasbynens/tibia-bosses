@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-01T08:32:15.883Z",
+	"timestamp": "2023-10-02T02:34:07.251Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.68
+			"chance": 52.68,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 23.65
+			"chance": 23.65,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.2
+			"chance": 20.2,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.62
+			"chance": 12.62,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -120,6 +126,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

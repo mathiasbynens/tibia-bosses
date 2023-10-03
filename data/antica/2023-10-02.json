@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-02T08:32:38.973Z",
+	"timestamp": "2023-10-03T02:33:55.751Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.45
+			"chance": 69.45,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.88
+			"chance": 18.88,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.73
+			"chance": 12.73,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -116,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

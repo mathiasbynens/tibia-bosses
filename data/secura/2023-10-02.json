@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-02T08:33:00.077Z",
+	"timestamp": "2023-10-03T02:34:00.114Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.86
+			"chance": 13.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.06
+			"chance": 13.06,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.78
+			"chance": 8.78,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -104,6 +108,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

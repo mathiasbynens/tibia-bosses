@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-02T08:32:49.994Z",
+	"timestamp": "2023-10-03T02:33:57.658Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.45
+			"chance": 69.45,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.75
+			"chance": 62.75,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.3
+			"chance": 16.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -80,6 +83,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

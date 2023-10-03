@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-02T08:32:56.531Z",
+	"timestamp": "2023-10-03T02:33:59.407Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 27.57
+			"chance": 27.57,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -104,6 +106,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

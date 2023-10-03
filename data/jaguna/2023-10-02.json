@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-02T08:32:53.182Z",
+	"timestamp": "2023-10-03T02:33:58.536Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.45
+			"chance": 69.45,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.19
+			"chance": 64.19,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.43
+			"chance": 18.43,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.3
+			"chance": 18.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.78
+			"chance": 8.78,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.47
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

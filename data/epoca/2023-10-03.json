@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-03T08:32:48.728Z",
+	"timestamp": "2023-10-04T02:34:22.479Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 43.02
+			"chance": 43.02,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.35
+			"chance": 39.35,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,11 +61,17 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 6.81
+			"chance": 6.81,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

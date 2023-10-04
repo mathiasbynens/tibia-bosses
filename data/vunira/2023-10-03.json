@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-03T08:33:02.481Z",
+	"timestamp": "2023-10-04T02:34:26.282Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.05
+			"chance": 62.05,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 49.21
+			"chance": 49.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.8
+			"chance": 25.8,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.25
+			"chance": 18.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 16.5
+			"chance": 16.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +107,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.66
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-03T08:32:45.313Z",
+	"timestamp": "2023-10-04T02:34:20.186Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.28
+			"chance": 79.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.24
+			"chance": 38.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -128,6 +131,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-10-04T08:33:24.279Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 60.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 39.78
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.89
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 22.89
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.65
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 18.51
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.1
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12.62
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.42
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.1
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.95
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 6.77
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.07
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 4.13
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.18
+		}
+	]
+}

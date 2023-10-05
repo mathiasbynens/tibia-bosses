@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-10-05T08:33:07.869Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.66
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.8
+		},
+		{
+			"name": "The Imperor",
+			"chance": 23.54
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.34
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 22.88
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.44
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.52
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.87
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 12.77
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.49
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 10.45
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.6
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.18
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.94
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.8
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.77
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.3
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.07
+		}
+	]
+}

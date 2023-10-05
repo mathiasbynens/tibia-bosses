@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-04T08:33:24.279Z",
+	"timestamp": "2023-10-05T02:35:40.680Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,15 +19,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.65
+			"chance": 22.65,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 18.51
+			"chance": 18.51,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.42
+			"chance": 11.42,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -76,6 +80,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.18
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

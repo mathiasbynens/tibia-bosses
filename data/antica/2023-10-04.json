@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-04T08:32:58.353Z",
+	"timestamp": "2023-10-05T02:35:35.752Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.92
+			"chance": 60.92,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 39.76
+			"chance": 39.76,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 30.89
+			"chance": 30.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 19.93
+			"chance": 19.93,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -124,6 +129,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

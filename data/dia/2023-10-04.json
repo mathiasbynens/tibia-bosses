@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-04T08:33:02.895Z",
+	"timestamp": "2023-10-05T02:35:36.659Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.53
+			"chance": 39.53,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -136,6 +138,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

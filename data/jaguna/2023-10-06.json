@@ -1,0 +1,61 @@
+{
+	"timestamp": "2023-10-06T08:32:41.922Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.35
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 28.68
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 28.53
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.59
+		},
+		{
+			"name": "Massacre",
+			"chance": 20.04
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 17.44
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.19
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 12.52
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 9.32
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.04
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.51
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.5
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.02
+		}
+	]
+}

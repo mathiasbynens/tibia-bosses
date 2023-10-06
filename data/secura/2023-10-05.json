@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-05T08:33:16.470Z",
+	"timestamp": "2023-10-06T02:34:15.832Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.22
+			"chance": 27.22,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -120,6 +123,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.65
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

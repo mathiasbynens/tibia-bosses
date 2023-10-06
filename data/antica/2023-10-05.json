@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-05T08:32:54.646Z",
+	"timestamp": "2023-10-06T02:34:09.917Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.89
+			"chance": 27.89,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.61
+			"chance": 26.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.19
+			"chance": 15.19,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -128,6 +132,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.64
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

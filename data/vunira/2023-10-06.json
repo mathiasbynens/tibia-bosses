@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-06T08:32:51.710Z",
+	"timestamp": "2023-10-07T02:33:58.555Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 40.1
+			"chance": 40.1,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -84,6 +86,36 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

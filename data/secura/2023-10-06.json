@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-06T08:32:48.550Z",
+	"timestamp": "2023-10-07T02:33:57.466Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.04
+			"chance": 67.04,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.73
+			"chance": 66.73,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.67
+			"chance": 33.67,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 26
+			"chance": 26,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -128,6 +132,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.17
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-06T08:32:31.407Z",
+	"timestamp": "2023-10-07T02:33:51.382Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.07
+			"chance": 62.07,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.63
+			"chance": 18.63,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18
+			"chance": 18,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 15.85
+			"chance": 15.85,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -128,6 +133,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

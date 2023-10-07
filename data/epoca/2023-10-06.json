@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-06T08:32:38.634Z",
+	"timestamp": "2023-10-07T02:33:53.685Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 33.09
+			"chance": 33.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -76,6 +77,16 @@
 		{
 			"name": "The Imperor",
 			"chance": 7.31
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-06T08:32:45.342Z",
+	"timestamp": "2023-10-07T02:33:56.406Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.17
+			"chance": 38.17,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +113,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.86
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

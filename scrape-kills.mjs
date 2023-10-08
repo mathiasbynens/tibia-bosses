@@ -99,7 +99,7 @@ const INTERESTING_BOSSES = new Set([
 ]);
 
 const getCreaturesKilledSinceServerSave = async (world) => {
-	const response = await fetch(`https://api.tibiadata.com/v3/killstatistics/${world}`);
+	const response = await fetch(`https://api.tibiadata.com/v4/killstatistics/${world}`);
 	const data = await response.json();
 	const entries = data.killstatistics.entries;
 	const creaturesKilledSinceServerSave = new Set();

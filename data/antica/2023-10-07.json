@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-07T08:32:13.575Z",
+	"timestamp": "2023-10-08T02:34:40.133Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.21
+			"chance": 35.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 25.48
+			"chance": 25.48,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.69
+			"chance": 18.69,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -120,6 +124,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

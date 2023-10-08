@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-07T08:32:26.252Z",
+	"timestamp": "2023-10-08T02:34:42.841Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.06
+			"chance": 62.06,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.13
+			"chance": 40.13,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -76,6 +78,26 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.83
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

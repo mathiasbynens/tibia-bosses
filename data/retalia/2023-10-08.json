@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-08T08:32:43.048Z",
+	"timestamp": "2023-10-09T02:33:59.662Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 26.47
+			"chance": 26.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -100,6 +102,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-08T08:32:39.491Z",
+	"timestamp": "2023-10-09T02:33:58.881Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.27
+			"chance": 38.27,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.23
+			"chance": 38.23,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.96
+			"chance": 9.96,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +84,31 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 3.3
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

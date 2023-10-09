@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-08T08:32:49.968Z",
+	"timestamp": "2023-10-09T02:34:01.364Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 53.33
+			"chance": 53.33,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.23
+			"chance": 38.23,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 27.78
+			"chance": 27.78,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.55
+			"chance": 26.55,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.83
+			"chance": 11.83,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -112,6 +117,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

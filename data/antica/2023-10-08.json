@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-08T08:32:28.781Z",
+	"timestamp": "2023-10-09T02:33:55.740Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.21
+			"chance": 64.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 28.78
+			"chance": 28.78,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.31
+			"chance": 27.31,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.7
+			"chance": 17.7,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.51
+			"chance": 10.51,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

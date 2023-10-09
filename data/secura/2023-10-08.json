@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-10-08T08:32:46.405Z",
+	"timestamp": "2023-10-09T02:34:00.425Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.53
+			"chance": 93.53,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.15
+			"chance": 40.15,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.22
+			"chance": 35.22,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.4
+			"chance": 31.4,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.42
+			"chance": 7.42,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +120,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

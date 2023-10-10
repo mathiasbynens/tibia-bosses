@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-09T08:34:05.015Z",
+	"timestamp": "2023-10-10T02:34:03.712Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.2
+			"chance": 64.2,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37
+			"chance": 37,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.76
+			"chance": 28.76,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.71
+			"chance": 17.71,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 16.3
+			"chance": 16.3,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -87,11 +93,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.51
+			"chance": 4.51,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

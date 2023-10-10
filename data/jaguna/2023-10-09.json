@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-09T08:33:57.092Z",
+	"timestamp": "2023-10-10T02:34:01.612Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.5
+			"chance": 69.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

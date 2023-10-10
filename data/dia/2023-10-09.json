@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-09T08:33:49.186Z",
+	"timestamp": "2023-10-10T02:33:59.870Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -124,6 +125,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.89
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

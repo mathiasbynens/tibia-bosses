@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-10T08:32:58.055Z",
+	"timestamp": "2023-10-11T02:34:10.009Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.16
+			"chance": 59.16,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 53.6
+			"chance": 53.6,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 17.28
+			"chance": 17.28,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -136,6 +142,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.66
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

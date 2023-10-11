@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-10T08:33:07.874Z",
+	"timestamp": "2023-10-11T02:34:12.060Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 23.65
+			"chance": 23.65,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -68,6 +69,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.87
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

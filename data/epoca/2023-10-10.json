@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-10T08:33:02.966Z",
+	"timestamp": "2023-10-11T02:34:10.906Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.69
+			"chance": 33.69,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.03
+			"chance": 9.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +78,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.43
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

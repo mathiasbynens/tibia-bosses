@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-11T08:32:48.528Z",
+	"timestamp": "2023-10-12T02:33:55.765Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.21
+			"chance": 74.21,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.18
+			"chance": 59.18,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 24.3
+			"chance": 24.3,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -68,6 +71,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.72
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

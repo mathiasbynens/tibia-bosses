@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-11T08:32:41.437Z",
+	"timestamp": "2023-10-12T02:33:53.449Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 10.9
+			"chance": 10.9,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.48
+			"chance": 7.48,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -120,6 +124,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.17
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

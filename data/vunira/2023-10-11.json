@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-11T08:32:58.442Z",
+	"timestamp": "2023-10-12T02:33:59.325Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.18
+			"chance": 59.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 29.8
+			"chance": 29.8,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.5
+			"chance": 14.5,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -120,6 +124,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.09
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

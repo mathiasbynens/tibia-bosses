@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-11T08:32:44.666Z",
+	"timestamp": "2023-10-12T02:33:54.528Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.44
+			"chance": 25.44,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.67
+			"chance": 18.67,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -80,6 +84,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 5.16
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,85 @@
+{
+	"timestamp": "2023-10-13T08:33:15.392Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 32.17
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.77
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 28.6
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.41
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 27.99
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 20.86
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.02
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 17.81
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 17.49
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 16.54
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12.48
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.98
+		},
+		{
+			"name": "Xenia",
+			"chance": 9.07
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.26
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.05
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.94
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.84
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.47
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.95
+		}
+	]
+}

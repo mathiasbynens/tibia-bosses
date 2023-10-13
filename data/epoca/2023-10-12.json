@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-12T08:32:43.840Z",
+	"timestamp": "2023-10-13T02:36:09.643Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.34
+			"chance": 79.34,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 43.56
+			"chance": 43.56,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.68
+			"chance": 28.68,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

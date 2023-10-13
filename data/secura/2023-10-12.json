@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-12T08:32:53.968Z",
+	"timestamp": "2023-10-13T02:36:13.617Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 65.61
+			"chance": 65.61,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.77
+			"chance": 62.77,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 24.76
+			"chance": 24.76,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.51
+			"chance": 15.51,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -100,6 +105,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

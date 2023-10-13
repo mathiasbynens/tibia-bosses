@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-12T08:32:57.217Z",
+	"timestamp": "2023-10-13T02:36:14.972Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.84
+			"chance": 14.84,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 13.11
+			"chance": 13.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.02
+			"chance": 11.02,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.57
+			"chance": 5.57,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -124,6 +128,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.91
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

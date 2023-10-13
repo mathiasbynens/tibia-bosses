@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-12T08:32:47.092Z",
+	"timestamp": "2023-10-13T02:36:11.233Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.39
+			"chance": 21.39,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -76,6 +78,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

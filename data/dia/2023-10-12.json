@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-12T08:32:40.231Z",
+	"timestamp": "2023-10-13T02:36:08.532Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 60.99
+			"chance": 60.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.63
+			"chance": 26.63,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.47
+			"chance": 25.47,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.86
+			"chance": 22.86,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -116,6 +122,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

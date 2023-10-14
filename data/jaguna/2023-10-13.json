@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-10-13T08:33:09.775Z",
+	"timestamp": "2023-10-14T02:33:50.265Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.35
+			"chance": 81.35,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.71
+			"chance": 52.71,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,11 +39,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.84
+			"chance": 16.84,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -63,11 +70,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +96,43 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.43
+			"chance": 5.43,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

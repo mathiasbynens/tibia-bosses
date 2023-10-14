@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-13T08:33:26.126Z",
+	"timestamp": "2023-10-14T02:33:53.307Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 43.05
+			"chance": 43.05,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 23.51
+			"chance": 23.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -132,6 +135,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

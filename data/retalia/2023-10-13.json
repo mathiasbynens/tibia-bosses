@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-13T08:33:15.392Z",
+	"timestamp": "2023-10-14T02:33:51.128Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 32.17
+			"chance": 32.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.99
+			"chance": 27.99,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -80,6 +83,11 @@
 		{
 			"name": "Omrafir",
 			"chance": 4.95
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

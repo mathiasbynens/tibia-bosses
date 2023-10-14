@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-10-13T08:32:59.485Z",
+	"timestamp": "2023-10-14T02:33:48.525Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.04
+			"chance": 65.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.82
+			"chance": 44.82,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.1
+			"chance": 6.1,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -96,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.91
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

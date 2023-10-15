@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-14T08:32:28.146Z",
+	"timestamp": "2023-10-15T02:34:52.168Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.23
+			"chance": 38.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -80,6 +81,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

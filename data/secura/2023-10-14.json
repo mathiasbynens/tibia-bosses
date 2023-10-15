@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-14T08:32:34.774Z",
+	"timestamp": "2023-10-15T02:34:53.884Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.62
+			"chance": 19.62,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.92
+			"chance": 11.92,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.83
+			"chance": 9.83,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.33
+			"chance": 9.33,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +102,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

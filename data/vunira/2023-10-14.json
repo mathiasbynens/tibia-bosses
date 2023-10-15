@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-14T08:32:37.926Z",
+	"timestamp": "2023-10-15T02:34:55.041Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.41
+			"chance": 15.41,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.56
+			"chance": 9.56,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",

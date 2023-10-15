@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-14T08:32:17.848Z",
+	"timestamp": "2023-10-15T02:34:49.289Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.1
+			"chance": 62.1,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.37
+			"chance": 19.37,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.58
+			"chance": 8.58,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

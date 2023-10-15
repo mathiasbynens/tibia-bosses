@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-14T08:32:31.494Z",
+	"timestamp": "2023-10-15T02:34:52.978Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 11.68
+			"chance": 11.68,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 9.78
+			"chance": 9.78,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.75
+			"chance": 7.75,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +96,31 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.32
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

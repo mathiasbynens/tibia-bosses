@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-14T08:32:24.968Z",
+	"timestamp": "2023-10-15T02:34:51.078Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.13
+			"chance": 23.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -72,6 +74,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

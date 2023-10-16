@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-15T08:32:16.338Z",
+	"timestamp": "2023-10-16T02:34:53.140Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.15
+			"chance": 21.15,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.71
+			"chance": 8.71,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 7.09
+			"chance": 7.09,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.45
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

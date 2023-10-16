@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-15T08:32:34.713Z",
+	"timestamp": "2023-10-16T02:34:58.795Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.68
+			"chance": 18.68,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.73
+			"chance": 8.73,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.38
+			"chance": 6.38,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -108,6 +112,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.08
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

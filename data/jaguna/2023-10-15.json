@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-15T08:32:27.280Z",
+	"timestamp": "2023-10-16T02:34:56.764Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.62
+			"chance": 31.62,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.56
+			"chance": 22.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.56
+			"chance": 20.56,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -80,6 +84,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.89
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

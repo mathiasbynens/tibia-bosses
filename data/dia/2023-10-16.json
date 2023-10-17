@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-16T08:33:12.529Z",
+	"timestamp": "2023-10-17T02:34:34.761Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -96,6 +96,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

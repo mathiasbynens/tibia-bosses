@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-16T08:33:16.034Z",
+	"timestamp": "2023-10-17T02:34:36.020Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -80,6 +81,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-16T08:33:09.130Z",
+	"timestamp": "2023-10-17T02:34:33.438Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.13
+			"chance": 38.13,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.82
+			"chance": 17.82,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.16
+			"chance": 11.16,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -96,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.58
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

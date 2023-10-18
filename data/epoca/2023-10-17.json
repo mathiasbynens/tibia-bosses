@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-17T08:32:58.019Z",
+	"timestamp": "2023-10-18T02:34:25.662Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.73
+			"chance": 33.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

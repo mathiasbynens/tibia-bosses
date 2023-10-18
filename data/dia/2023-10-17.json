@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-17T08:32:54.879Z",
+	"timestamp": "2023-10-18T02:34:24.682Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.01
+			"chance": 37.01,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.76
+			"chance": 28.76,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.86
+			"chance": 22.86,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -112,6 +117,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

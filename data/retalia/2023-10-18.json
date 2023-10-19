@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-18T08:32:50.180Z",
+	"timestamp": "2023-10-19T02:34:13.522Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 21.92
+			"chance": 21.92,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -88,6 +90,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.86
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

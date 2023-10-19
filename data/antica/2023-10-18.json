@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-18T08:32:36.481Z",
+	"timestamp": "2023-10-19T02:34:08.549Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.58
+			"chance": 17.58,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -92,6 +94,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

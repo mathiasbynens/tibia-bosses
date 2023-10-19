@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-18T08:32:43.802Z",
+	"timestamp": "2023-10-19T02:34:10.789Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -79,7 +79,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.86
+			"chance": 9.86,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -100,6 +101,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.88
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-18T08:32:47.008Z",
+	"timestamp": "2023-10-19T02:34:12.162Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -88,6 +90,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

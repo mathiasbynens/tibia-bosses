@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-18T08:32:57.802Z",
+	"timestamp": "2023-10-19T02:34:16.523Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.73
+			"chance": 52.73,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.01
+			"chance": 37.01,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 19.37
+			"chance": 19.37,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.57
+			"chance": 10.57,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.01
+			"chance": 8.01,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -124,6 +130,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.84
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

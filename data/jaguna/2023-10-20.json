@@ -1,0 +1,105 @@
+{
+	"timestamp": "2023-10-20T08:32:42.285Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.11
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 49.76
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 38.18
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.71
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 28.72
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 27.99
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 27.97
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 26.51
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.8
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.98
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.31
+		},
+		{
+			"name": "The Imperor",
+			"chance": 12.88
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.17
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.05
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.57
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.85
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.68
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.51
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.96
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.48
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.32
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.32
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.22
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.25
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.58
+		}
+	]
+}

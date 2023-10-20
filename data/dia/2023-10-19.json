@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-19T08:32:48.912Z",
+	"timestamp": "2023-10-20T02:34:06.681Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.71
+			"chance": 31.71,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.39
+			"chance": 16.39,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.8
+			"chance": 6.8,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +105,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.44
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-19T08:32:56.371Z",
+	"timestamp": "2023-10-20T02:34:09.784Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.78
+			"chance": 26.78,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

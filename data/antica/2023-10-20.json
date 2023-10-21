@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-20T08:32:29.979Z",
+	"timestamp": "2023-10-21T02:33:50.347Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.74
+			"chance": 22.74,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -88,6 +91,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.88
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

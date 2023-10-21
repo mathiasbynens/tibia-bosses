@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-20T08:32:45.926Z",
+	"timestamp": "2023-10-21T02:33:53.900Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -88,6 +88,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.58
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

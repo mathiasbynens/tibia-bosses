@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-20T08:32:35.133Z",
+	"timestamp": "2023-10-21T02:33:51.300Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 30.8
+			"chance": 30.8,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.89
+			"chance": 11.89,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.38
+			"chance": 11.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.91
+			"chance": 3.91,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +101,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-20T08:32:42.285Z",
+	"timestamp": "2023-10-21T02:33:52.847Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 49.76
+			"chance": 49.76,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.18
+			"chance": 38.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -100,6 +103,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

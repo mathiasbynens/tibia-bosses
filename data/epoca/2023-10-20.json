@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-20T08:32:38.682Z",
+	"timestamp": "2023-10-21T02:33:52.094Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.91
+			"chance": 13.91,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -92,6 +94,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.23
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

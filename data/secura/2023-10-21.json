@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-21T08:32:44.620Z",
+	"timestamp": "2023-10-22T02:34:55.222Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.09
+			"chance": 62.09,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.45
+			"chance": 14.45,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

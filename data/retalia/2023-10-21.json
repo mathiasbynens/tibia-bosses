@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-21T08:32:41.586Z",
+	"timestamp": "2023-10-22T02:34:53.907Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -100,6 +100,26 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.97
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-10-21T08:32:35.060Z",
+	"timestamp": "2023-10-22T02:34:52.370Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.46
+			"chance": 79.46,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 64.97
+			"chance": 64.97,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.33
+			"chance": 40.33,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.84
+			"chance": 6.84,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

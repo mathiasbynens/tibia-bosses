@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-22T08:32:11.320Z",
+	"timestamp": "2023-10-23T02:34:26.487Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.51
+			"chance": 69.51,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.91
+			"chance": 44.91,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.9
+			"chance": 18.9,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.9
+			"chance": 18.9,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -51,11 +56,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -120,6 +127,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.88
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

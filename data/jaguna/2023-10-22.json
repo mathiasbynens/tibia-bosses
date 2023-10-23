@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-10-22T08:32:17.707Z",
+	"timestamp": "2023-10-23T02:34:28.151Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.79
+			"chance": 62.79,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.29
+			"chance": 53.29,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.91
+			"chance": 44.91,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.85
+			"chance": 12.85,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.95
+			"chance": 6.95,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -128,6 +134,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.78
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

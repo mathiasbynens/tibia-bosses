@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-22T08:32:20.771Z",
+	"timestamp": "2023-10-23T02:34:29.154Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -95,11 +96,22 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.96
+			"chance": 6.96,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 6.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-10-22T08:32:27.034Z",
+	"timestamp": "2023-10-23T02:34:31.186Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 65.4
+			"chance": 65.4,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.04
+			"chance": 61.04,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.1
+			"chance": 40.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.08
+			"chance": 40.08,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.44
+			"chance": 20.44,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.92
+			"chance": 17.92,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -119,7 +126,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.94
+			"chance": 4.94,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +136,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

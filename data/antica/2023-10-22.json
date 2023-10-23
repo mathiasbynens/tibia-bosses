@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-22T08:32:07.978Z",
+	"timestamp": "2023-10-23T02:34:25.364Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.29
+			"chance": 38.29,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.43
+			"chance": 15.43,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -80,6 +82,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.22
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

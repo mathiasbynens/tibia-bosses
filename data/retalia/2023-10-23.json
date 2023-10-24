@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-23T08:32:59.329Z",
+	"timestamp": "2023-10-24T02:34:18.935Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.32
+			"chance": 39.32,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.77
+			"chance": 17.77,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 15.22
+			"chance": 15.22,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -124,6 +130,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.74
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

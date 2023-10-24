@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-23T08:33:05.853Z",
+	"timestamp": "2023-10-24T02:34:21.186Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.06
+			"chance": 62.06,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.93
+			"chance": 16.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

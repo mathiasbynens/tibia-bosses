@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-23T08:33:02.518Z",
+	"timestamp": "2023-10-24T02:34:19.985Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.69
+			"chance": 30.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.45
+			"chance": 30.45,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.33
+			"chance": 13.33,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +92,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.01
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

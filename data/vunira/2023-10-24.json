@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-24T08:32:47.218Z",
+	"timestamp": "2023-10-25T02:34:11.842Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.26
+			"chance": 64.26,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.47
+			"chance": 42.47,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,15 +29,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.68
+			"chance": 18.68,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.51
+			"chance": 18.51,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 5.21
+			"chance": 5.21,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.77
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

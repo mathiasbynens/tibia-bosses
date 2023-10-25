@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-24T08:32:33.315Z",
+	"timestamp": "2023-10-25T02:34:06.839Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.83
+			"chance": 62.83,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.06
+			"chance": 12.06,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -84,6 +87,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.83
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

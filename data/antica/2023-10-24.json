@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-24T08:32:25.250Z",
+	"timestamp": "2023-10-25T02:34:04.686Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.7
+			"chance": 52.7,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.47
+			"chance": 42.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.04
+			"chance": 24.04,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,15 +46,18 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.84
+			"chance": 13.84,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.74
+			"chance": 13.74,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -103,7 +109,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.38
+			"chance": 3.38,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,25 +1,30 @@
 {
-	"timestamp": "2023-10-24T08:32:40.503Z",
+	"timestamp": "2023-10-25T02:34:09.812Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.5
+			"chance": 69.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.83
+			"chance": 62.83,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.7
+			"chance": 52.7,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 40
+			"chance": 40,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +32,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.26
+			"chance": 27.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +45,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 20.55
+			"chance": 20.55,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -95,7 +103,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.1
+			"chance": 7.1,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -112,6 +121,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

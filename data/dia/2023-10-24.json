@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-24T08:32:29.952Z",
+	"timestamp": "2023-10-25T02:34:05.890Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.27
+			"chance": 24.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.86
+			"chance": 22.86,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +119,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.24
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

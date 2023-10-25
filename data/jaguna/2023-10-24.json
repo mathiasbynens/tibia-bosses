@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-24T08:32:36.850Z",
+	"timestamp": "2023-10-25T02:34:07.759Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.5
+			"chance": 69.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.47
+			"chance": 42.47,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.87
+			"chance": 20.87,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.46
+			"chance": 10.46,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

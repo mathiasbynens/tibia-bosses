@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-24T22:13:42.720Z",
+	"timestamp": "2023-10-25T02:34:08.809Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 19.73
+			"chance": 19.73,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,11 +88,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 7.93
+			"chance": 7.93,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.67
+			"chance": 7.67,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -120,6 +127,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.77
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

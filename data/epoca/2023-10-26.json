@@ -1,0 +1,97 @@
+{
+	"timestamp": "2023-10-26T08:32:47.447Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 45.01
+		},
+		{
+			"name": "The Welter",
+			"chance": 28.73
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 25.71
+		},
+		{
+			"name": "Shlorg",
+			"chance": 21.92
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.67
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.42
+		},
+		{
+			"name": "Dracola",
+			"chance": 21.22
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.61
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 18.68
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.22
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.88
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.57
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.73
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.46
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.02
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.26
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.08
+		},
+		{
+			"name": "Omrafir",
+			"chance": 9.08
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.66
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.46
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.49
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 3.01
+		}
+	]
+}

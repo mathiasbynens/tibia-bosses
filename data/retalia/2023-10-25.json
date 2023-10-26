@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-25T08:33:12.111Z",
+	"timestamp": "2023-10-26T02:34:00.962Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.61
+			"chance": 19.61,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -100,6 +101,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.04
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

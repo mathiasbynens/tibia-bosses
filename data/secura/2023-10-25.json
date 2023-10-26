@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-25T08:33:15.267Z",
+	"timestamp": "2023-10-26T02:34:02.080Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.32
+			"chance": 27.32,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.65
+			"chance": 11.65,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.61
+			"chance": 10.61,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.21
+			"chance": 8.21,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +101,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

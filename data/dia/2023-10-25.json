@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-25T08:32:59.021Z",
+	"timestamp": "2023-10-26T02:33:55.604Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.34
+			"chance": 28.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.81
+			"chance": 20.81,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 17.97
+			"chance": 17.97,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.28
+			"chance": 14.28,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -120,6 +126,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

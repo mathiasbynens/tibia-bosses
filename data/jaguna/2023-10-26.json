@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-10-26T08:32:51.792Z",
+	"timestamp": "2023-10-27T02:33:54.567Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.42
+			"chance": 38.42,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.73
+			"chance": 28.73,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -104,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.5
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

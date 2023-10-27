@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-26T08:32:47.447Z",
+	"timestamp": "2023-10-27T02:33:53.613Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.73
+			"chance": 28.73,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.46
+			"chance": 6.46,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -92,6 +95,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.01
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

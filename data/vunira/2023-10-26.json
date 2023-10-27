@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-10-26T08:33:18.959Z",
+	"timestamp": "2023-10-27T02:33:59.053Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.51
+			"chance": 69.51,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 57.11
+			"chance": 57.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.42
+			"chance": 38.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 22.19
+			"chance": 22.19,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.46
+			"chance": 10.46,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +94,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.85
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

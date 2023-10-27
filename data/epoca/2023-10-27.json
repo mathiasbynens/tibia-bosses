@@ -1,0 +1,101 @@
+{
+	"timestamp": "2023-10-27T08:32:29.860Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 28.75
+		},
+		{
+			"name": "Shlorg",
+			"chance": 28.35
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 27.97
+		},
+		{
+			"name": "Dracola",
+			"chance": 22.96
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.97
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 19.78
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.9
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 18.5
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.07
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.99
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.18
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 16.01
+		},
+		{
+			"name": "Barbaria",
+			"chance": 13.9
+		},
+		{
+			"name": "The Imperor",
+			"chance": 12.9
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.6
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.64
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.5
+		},
+		{
+			"name": "General Murius",
+			"chance": 11.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.42
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.94
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.79
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 5.32
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.85
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 3.11
+		}
+	]
+}

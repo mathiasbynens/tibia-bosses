@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-27T08:32:40.520Z",
+	"timestamp": "2023-10-28T02:34:03.503Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.04
+			"chance": 30.04,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 19.51
+			"chance": 19.51,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

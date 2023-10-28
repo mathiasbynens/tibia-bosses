@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-27T08:32:29.860Z",
+	"timestamp": "2023-10-28T02:34:00.521Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.35
+			"chance": 28.35,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.97
+			"chance": 20.97,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +101,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.11
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

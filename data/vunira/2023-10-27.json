@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-27T08:32:47.410Z",
+	"timestamp": "2023-10-28T02:34:05.470Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.45
+			"chance": 10.45,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.16
+			"chance": 5.16,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -84,6 +89,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.14
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

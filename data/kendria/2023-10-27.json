@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-27T08:32:37.132Z",
+	"timestamp": "2023-10-28T02:34:02.559Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 49.88
+			"chance": 49.88,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.8
+			"chance": 26.8,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.68
+			"chance": 12.68,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.92
+			"chance": 6.92,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

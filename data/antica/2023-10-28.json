@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-28T08:32:24.409Z",
+	"timestamp": "2023-10-29T02:34:16.489Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.51
+			"chance": 38.51,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 24.97
+			"chance": 24.97,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.46
+			"chance": 7.46,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

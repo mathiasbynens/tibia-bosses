@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-28T08:32:52.154Z",
+	"timestamp": "2023-10-29T02:34:22.357Z",
 	"bosses": [
 		{
 			"name": "Xenia",
-			"chance": 25.54
+			"chance": 25.54,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.37
+			"chance": 10.37,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.69
+			"chance": 8.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +87,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.91
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

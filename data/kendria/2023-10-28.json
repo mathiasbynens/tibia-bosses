@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-28T08:32:40.077Z",
+	"timestamp": "2023-10-29T02:34:19.871Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.34
+			"chance": 28.34,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.92
+			"chance": 8.92,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -99,7 +102,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 1.91
+			"chance": 1.91,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

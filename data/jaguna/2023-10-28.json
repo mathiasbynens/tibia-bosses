@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-28T08:32:36.272Z",
+	"timestamp": "2023-10-29T02:34:19.008Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 41.98
+			"chance": 41.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.98
+			"chance": 27.98,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.76
+			"chance": 13.76,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +105,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.33
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

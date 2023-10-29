@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-28T08:32:47.493Z",
+	"timestamp": "2023-10-29T02:34:21.513Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.04
+			"chance": 37.04,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.63
+			"chance": 20.63,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -91,11 +97,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.35
+			"chance": 9.35,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.78
+			"chance": 8.78,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +128,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

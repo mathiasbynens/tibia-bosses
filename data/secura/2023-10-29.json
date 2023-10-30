@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-29T11:55:37.239Z",
+	"timestamp": "2023-10-30T02:34:31.637Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.03
+			"chance": 62.03,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 32.64
+			"chance": 32.64,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.96
+			"chance": 28.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,11 +64,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.38
+			"chance": 14.38,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +116,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.25
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

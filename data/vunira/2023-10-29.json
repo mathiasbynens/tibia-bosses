@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-29T11:55:40.502Z",
+	"timestamp": "2023-10-30T02:34:32.472Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.82
+			"chance": 18.82,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.38
+			"chance": 14.38,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -107,11 +109,32 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.98
+			"chance": 2.98,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-29T11:55:17.238Z",
+	"timestamp": "2023-10-30T02:34:25.406Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.03
+			"chance": 62.03,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.18
+			"chance": 59.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.37
+			"chance": 34.37,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.1
+			"chance": 30.1,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.73
+			"chance": 7.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -119,11 +126,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.88
+			"chance": 2.88,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

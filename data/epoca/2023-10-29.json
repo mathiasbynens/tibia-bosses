@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-29T11:55:23.519Z",
+	"timestamp": "2023-10-30T02:34:27.395Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.72
+			"chance": 64.72,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.03
+			"chance": 62.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -79,11 +82,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.3
+			"chance": 5.3,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.3
+			"chance": 5.3,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +105,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

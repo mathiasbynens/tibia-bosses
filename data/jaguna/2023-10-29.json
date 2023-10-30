@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-29T11:55:27.249Z",
+	"timestamp": "2023-10-30T02:34:28.250Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,15 +19,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.68
+			"chance": 22.68,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.99
+			"chance": 20.99,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.06
+			"chance": 12.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.83
+			"chance": 11.83,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -108,6 +113,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

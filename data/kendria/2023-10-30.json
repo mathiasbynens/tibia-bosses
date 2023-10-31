@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-30T09:31:55.414Z",
+	"timestamp": "2023-10-31T03:33:22.511Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.2
+			"chance": 74.2,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.25
+			"chance": 15.25,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 6.62
+			"chance": 6.62,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -112,6 +118,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

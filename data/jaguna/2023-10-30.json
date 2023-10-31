@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-30T09:31:51.036Z",
+	"timestamp": "2023-10-31T03:33:21.506Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 43.33
+			"chance": 43.33,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.33
+			"chance": 39.33,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.32
+			"chance": 27.32,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -100,6 +105,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.99
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

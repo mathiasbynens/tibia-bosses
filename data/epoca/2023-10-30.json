@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-30T09:31:46.944Z",
+	"timestamp": "2023-10-31T03:33:20.589Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.2
+			"chance": 74.2,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.51
+			"chance": 69.51,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.8
+			"chance": 11.8,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.33
+			"chance": 10.33,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -88,6 +93,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

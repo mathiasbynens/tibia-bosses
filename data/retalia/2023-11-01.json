@@ -1,0 +1,69 @@
+{
+	"timestamp": "2023-11-01T09:31:53.756Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 52.74
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 39.5
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 26.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.32
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.1
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.1
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 15.36
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.2
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.04
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 11.63
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.45
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.48
+		},
+		{
+			"name": "Omrafir",
+			"chance": 9.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.74
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.5
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.86
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-31T09:31:31.807Z",
+	"timestamp": "2023-11-01T03:33:15.831Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.68
+			"chance": 18.68,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.23
+			"chance": 18.23,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.27
+			"chance": 3.27,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -76,6 +79,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.44
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

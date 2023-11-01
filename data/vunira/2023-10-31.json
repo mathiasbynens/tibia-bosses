@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-31T09:31:47.979Z",
+	"timestamp": "2023-11-01T03:33:20.365Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.46
+			"chance": 42.46,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.08
+			"chance": 37.08,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.51
+			"chance": 17.51,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 16.11
+			"chance": 16.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -136,6 +141,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

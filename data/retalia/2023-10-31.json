@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-10-31T09:31:41.688Z",
+	"timestamp": "2023-11-01T03:33:18.667Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.52
+			"chance": 69.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.07
+			"chance": 62.07,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.75
+			"chance": 18.75,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -88,6 +91,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.86
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

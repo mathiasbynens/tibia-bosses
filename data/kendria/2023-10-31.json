@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-10-31T09:31:38.173Z",
+	"timestamp": "2023-11-01T03:33:17.787Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -91,15 +94,22 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 3.97
+			"chance": 3.97,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.95
+			"chance": 2.95,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

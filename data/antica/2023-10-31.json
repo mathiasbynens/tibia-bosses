@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-31T09:31:24.895Z",
+	"timestamp": "2023-11-01T03:33:14.154Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.7
+			"chance": 50.7,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -88,6 +90,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

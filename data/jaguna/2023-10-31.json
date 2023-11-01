@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-10-31T09:31:34.891Z",
+	"timestamp": "2023-11-01T03:33:16.950Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.52
+			"chance": 69.52,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 45.02
+			"chance": 45.02,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.36
+			"chance": 39.36,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.21
+			"chance": 38.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.56
+			"chance": 22.56,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -88,6 +94,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.79
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

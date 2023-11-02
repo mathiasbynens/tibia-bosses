@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-01T09:31:53.756Z",
+	"timestamp": "2023-11-02T03:35:26.929Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.74
+			"chance": 52.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.45
+			"chance": 11.45,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -64,6 +67,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.86
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

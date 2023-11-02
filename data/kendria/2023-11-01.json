@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-01T09:31:50.396Z",
+	"timestamp": "2023-11-02T03:35:25.422Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.34
+			"chance": 39.34,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.63
+			"chance": 38.63,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.19
+			"chance": 20.19,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.96
+			"chance": 6.96,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +100,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-01T09:31:45.839Z",
+	"timestamp": "2023-11-02T03:35:23.259Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 73.66
+			"chance": 73.66,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.95
+			"chance": 25.95,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -68,6 +70,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.98
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

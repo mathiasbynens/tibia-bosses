@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-01T09:32:00.426Z",
+	"timestamp": "2023-11-02T03:35:30.260Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 65.36
+			"chance": 65.36,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.63
+			"chance": 38.63,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.77
+			"chance": 33.77,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.09
+			"chance": 18.09,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.28
+			"chance": 14.28,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.61
+			"chance": 7.61,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -107,7 +114,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +128,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

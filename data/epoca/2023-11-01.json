@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-01T09:31:42.213Z",
+	"timestamp": "2023-11-02T03:35:22.046Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.33
+			"chance": 27.33,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

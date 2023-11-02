@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-01T09:31:57.087Z",
+	"timestamp": "2023-11-02T03:35:28.353Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.22
+			"chance": 14.22,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.86
+			"chance": 8.86,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -92,6 +95,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.58
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

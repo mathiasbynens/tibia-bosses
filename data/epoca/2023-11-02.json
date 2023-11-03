@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-02T09:31:38.137Z",
+	"timestamp": "2023-11-03T03:33:17.581Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.66
+			"chance": 38.66,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +74,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

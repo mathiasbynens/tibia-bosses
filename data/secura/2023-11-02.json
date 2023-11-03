@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-02T09:31:53.169Z",
+	"timestamp": "2023-11-03T03:33:22.192Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 27.96
+			"chance": 27.96,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.79
+			"chance": 23.79,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.37
+			"chance": 19.37,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 16.42
+			"chance": 16.42,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -107,11 +112,22 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.88
+			"chance": 3.88,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

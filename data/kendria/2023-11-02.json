@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-02T09:31:45.883Z",
+	"timestamp": "2023-11-03T03:33:19.533Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 5.73
+			"chance": 5.73,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

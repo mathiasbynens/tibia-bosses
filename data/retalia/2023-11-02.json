@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-02T09:31:49.635Z",
+	"timestamp": "2023-11-03T03:33:21.069Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,11 +51,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.71
+			"chance": 8.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.22
+			"chance": 7.22,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -64,6 +66,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.3
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

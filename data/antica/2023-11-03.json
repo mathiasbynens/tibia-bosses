@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-03T09:31:30.591Z",
+	"timestamp": "2023-11-04T03:33:06.717Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.54
+			"chance": 69.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -84,6 +85,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.61
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

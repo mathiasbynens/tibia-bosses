@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-11-03T09:31:55.830Z",
+	"timestamp": "2023-11-04T03:33:13.690Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.79
+			"chance": 62.79,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 42.06
+			"chance": 42.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.35
+			"chance": 39.35,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.55
+			"chance": 31.55,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -116,6 +120,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.9
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

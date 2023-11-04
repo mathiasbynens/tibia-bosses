@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-03T09:31:37.533Z",
+	"timestamp": "2023-11-04T03:33:08.530Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.77
+			"chance": 10.77,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -64,6 +65,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.06
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

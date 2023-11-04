@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-03T09:31:48.002Z",
+	"timestamp": "2023-11-04T03:33:11.324Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.54
+			"chance": 10.54,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +93,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.17
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

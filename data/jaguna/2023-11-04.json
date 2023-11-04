@@ -1,0 +1,85 @@
+{
+	"timestamp": "2023-11-04T09:31:40.774Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 26.86
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.81
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.47
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.01
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 17.75
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.17
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.47
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.74
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.84
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.74
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.9
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.34
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.64
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.93
+		},
+		{
+			"name": "White Pale",
+			"chance": 9
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.35
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.52
+		},
+		{
+			"name": "yeti",
+			"chance": 5.69
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.05
+		}
+	]
+}

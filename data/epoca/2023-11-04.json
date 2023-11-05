@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-04T09:31:37.761Z",
+	"timestamp": "2023-11-05T03:33:28.740Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.26
+			"chance": 64.26,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 43.33
+			"chance": 43.33,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +90,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

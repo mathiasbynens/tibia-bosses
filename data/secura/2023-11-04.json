@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-04T09:31:50.482Z",
+	"timestamp": "2023-11-05T03:33:33.744Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.76
+			"chance": 52.76,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.64
+			"chance": 38.64,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.19
+			"chance": 27.19,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.93
+			"chance": 22.93,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -92,6 +96,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

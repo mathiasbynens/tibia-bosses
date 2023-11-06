@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-05T09:31:28.332Z",
+	"timestamp": "2023-11-06T03:33:14.524Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.22
+			"chance": 32.22,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -100,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

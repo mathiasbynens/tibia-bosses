@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-05T09:31:21.541Z",
+	"timestamp": "2023-11-06T03:33:12.224Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.14
+			"chance": 79.14,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.08
+			"chance": 28.08,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 25.18
+			"chance": 25.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,15 +46,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -79,11 +86,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.5
+			"chance": 10.5,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -91,7 +100,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.8
+			"chance": 7.8,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +122,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

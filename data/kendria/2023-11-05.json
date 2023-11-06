@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-05T09:31:35.282Z",
+	"timestamp": "2023-11-06T03:33:16.930Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 31.19
+			"chance": 31.19,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.85
+			"chance": 28.85,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.87
+			"chance": 7.87,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -115,7 +122,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.6
+			"chance": 2.6,
+			"killed": true
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

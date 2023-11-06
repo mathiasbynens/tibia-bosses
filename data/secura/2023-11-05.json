@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-05T09:31:41.845Z",
+	"timestamp": "2023-11-06T03:33:19.186Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 40.11
+			"chance": 40.11,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 36.4
+			"chance": 36.4,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 29.18
+			"chance": 29.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.19
+			"chance": 7.19,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +108,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.81
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

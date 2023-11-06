@@ -1,0 +1,89 @@
+{
+	"timestamp": "2023-11-06T09:31:40.103Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.38
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.87
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 23.54
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 22.06
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.62
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 19.92
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.91
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.26
+		},
+		{
+			"name": "The Imperor",
+			"chance": 15.62
+		},
+		{
+			"name": "yeti",
+			"chance": 14.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.79
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 12.58
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.42
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.46
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.46
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.17
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.58
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.16
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.79
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.45
+		}
+	]
+}

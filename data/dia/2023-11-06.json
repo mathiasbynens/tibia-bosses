@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-06T09:31:32.463Z",
+	"timestamp": "2023-11-07T03:33:21.543Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,19 +27,23 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 27.97
+			"chance": 27.97,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.93
+			"chance": 7.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -124,6 +130,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

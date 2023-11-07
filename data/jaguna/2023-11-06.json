@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-06T09:31:40.103Z",
+	"timestamp": "2023-11-07T03:33:23.624Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.26
+			"chance": 16.26,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.42
+			"chance": 11.42,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -83,7 +87,33 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.45
+			"chance": 4.45,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

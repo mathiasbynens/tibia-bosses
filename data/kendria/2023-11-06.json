@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-06T09:31:43.724Z",
+	"timestamp": "2023-11-07T03:33:25.182Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -88,6 +90,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

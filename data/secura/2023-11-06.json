@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-06T09:31:50.598Z",
+	"timestamp": "2023-11-07T03:33:27.527Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 12.86
+			"chance": 12.86,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.62
+			"chance": 10.62,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.57
+			"chance": 6.57,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +129,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.89
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

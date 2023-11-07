@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-06T09:31:28.546Z",
+	"timestamp": "2023-11-07T03:33:20.332Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.21
+			"chance": 59.21,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 55.97
+			"chance": 55.97,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 14.99
+			"chance": 14.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -96,6 +100,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.04
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,85 @@
+{
+	"timestamp": "2023-11-07T09:31:34.265Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.04
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.79
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 30.95
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 18.84
+		},
+		{
+			"name": "The Imperor",
+			"chance": 18.73
+		},
+		{
+			"name": "yeti",
+			"chance": 17.72
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 16.62
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 15.04
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.49
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.72
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.32
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.88
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.66
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.53
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.06
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.32
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.39
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-07T09:31:45.252Z",
+	"timestamp": "2023-11-08T03:33:22.424Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,19 +23,23 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 27.34
+			"chance": 27.34,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.93
+			"chance": 22.93,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 22.88
+			"chance": 22.88,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.67
+			"chance": 21.67,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.62
+			"chance": 5.62,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +109,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.61
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-07T09:31:31.598Z",
+	"timestamp": "2023-11-08T03:33:16.542Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.33
+			"chance": 35.33,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 19.21
+			"chance": 19.21,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.33
+			"chance": 13.33,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +115,36 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

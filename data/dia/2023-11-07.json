@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-07T09:31:29.056Z",
+	"timestamp": "2023-11-08T03:33:15.608Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.75
+			"chance": 52.75,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -103,11 +104,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.44
+			"chance": 3.44,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.33
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

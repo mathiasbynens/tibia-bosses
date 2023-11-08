@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-07T09:31:42.803Z",
+	"timestamp": "2023-11-08T03:33:20.954Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 32.03
+			"chance": 32.03,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.12
+			"chance": 30.12,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.48
+			"chance": 21.48,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18
+			"chance": 18,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -124,6 +129,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.88
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

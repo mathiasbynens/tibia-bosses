@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-11-09T09:31:40.697Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.05
+		},
+		{
+			"name": "yeti",
+			"chance": 27.32
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 20.26
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.54
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.69
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.39
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.42
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.34
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.9
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.43
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.75
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.29
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 8.05
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 7.9
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.55
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 5.75
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.42
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.52
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.34
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 1.93
+		}
+	]
+}

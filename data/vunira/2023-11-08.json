@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-08T09:31:44.481Z",
+	"timestamp": "2023-11-09T03:33:19.355Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.2
+			"chance": 74.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.03
+			"chance": 61.03,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.22
+			"chance": 59.22,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 32.99
+			"chance": 32.99,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.2
+			"chance": 18.2,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.88
+			"chance": 8.88,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +104,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.03
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

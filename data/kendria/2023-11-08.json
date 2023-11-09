@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-08T09:31:36.006Z",
+	"timestamp": "2023-11-09T03:33:15.118Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.7
+			"chance": 50.7,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.94
+			"chance": 20.94,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.85
+			"chance": 12.85,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.42
+			"chance": 6.42,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -92,6 +96,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

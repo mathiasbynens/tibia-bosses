@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-08T09:31:24.617Z",
+	"timestamp": "2023-11-09T03:33:09.880Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 62.76
+			"chance": 62.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.56
+			"chance": 22.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.67
+			"chance": 21.67,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.83
+			"chance": 9.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -108,6 +115,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.34
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

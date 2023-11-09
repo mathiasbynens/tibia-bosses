@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-08T09:31:41.677Z",
+	"timestamp": "2023-11-09T03:33:18.021Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.5
+			"chance": 24.5,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,11 +59,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -91,15 +97,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.35
+			"chance": 8.35,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.07
+			"chance": 8.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -112,6 +121,31 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

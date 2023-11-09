@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-08T09:31:38.982Z",
+	"timestamp": "2023-11-09T03:33:16.376Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
-			"chance": 59.38
+			"chance": 59.38,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.14
+			"chance": 37.14,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.44
+			"chance": 21.44,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

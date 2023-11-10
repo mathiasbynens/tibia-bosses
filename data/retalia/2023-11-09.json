@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-09T09:31:43.753Z",
+	"timestamp": "2023-11-10T03:33:04.509Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.76
+			"chance": 52.76,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 16.56
+			"chance": 16.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.39
+			"chance": 8.39,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -84,6 +87,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-09T09:31:34.432Z",
+	"timestamp": "2023-11-10T03:33:01.657Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.28
+			"chance": 38.28,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.43
+			"chance": 11.43,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-09T09:31:40.697Z",
+	"timestamp": "2023-11-10T03:33:03.578Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.69
+			"chance": 18.69,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.9
+			"chance": 11.9,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

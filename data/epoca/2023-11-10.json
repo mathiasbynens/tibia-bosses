@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-10T09:31:40.380Z",
+	"timestamp": "2023-11-11T03:33:14.767Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-10T09:31:48.031Z",
+	"timestamp": "2023-11-11T03:33:16.818Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.3
+			"chance": 79.3,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 37.53
+			"chance": 37.53,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.13
+			"chance": 16.13,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.46
+			"chance": 11.46,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.56
+			"chance": 5.56,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -88,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

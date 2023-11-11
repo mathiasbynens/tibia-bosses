@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-10T09:31:51.380Z",
+	"timestamp": "2023-11-11T03:33:18.096Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.92
+			"chance": 18.92,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.43
+			"chance": 14.43,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.63
+			"chance": 11.63,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -96,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

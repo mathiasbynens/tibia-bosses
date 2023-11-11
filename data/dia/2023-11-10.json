@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-10T09:31:36.571Z",
+	"timestamp": "2023-11-11T03:33:13.810Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 44.18
+			"chance": 44.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 21.52
+			"chance": 21.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 13.61
+			"chance": 13.61,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.85
+			"chance": 12.85,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +88,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.04
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

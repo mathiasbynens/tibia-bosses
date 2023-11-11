@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-10T09:31:43.920Z",
+	"timestamp": "2023-11-11T03:33:15.772Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 28.86
+			"chance": 28.86,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28
+			"chance": 28,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.44
+			"chance": 15.44,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -72,6 +75,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.28
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

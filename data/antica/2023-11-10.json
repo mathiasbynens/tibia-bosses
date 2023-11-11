@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-10T09:31:32.489Z",
+	"timestamp": "2023-11-11T03:33:12.889Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.61
+			"chance": 69.61,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -84,6 +87,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.89
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

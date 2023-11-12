@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-11T09:31:46.698Z",
+	"timestamp": "2023-11-12T03:33:18.617Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.24
+			"chance": 59.24,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 40.99
+			"chance": 40.99,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.23
+			"chance": 38.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 20.94
+			"chance": 20.94,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +94,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.03
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

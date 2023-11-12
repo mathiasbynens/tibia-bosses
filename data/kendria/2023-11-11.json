@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-11T09:31:38.948Z",
+	"timestamp": "2023-11-12T03:33:16.915Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
-			"chance": 33.15
+			"chance": 33.15,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -92,6 +95,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

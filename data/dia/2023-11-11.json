@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-11T09:31:29.199Z",
+	"timestamp": "2023-11-12T03:33:14.027Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.43
+			"chance": 11.43,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +99,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.64
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

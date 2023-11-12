@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-11T09:31:32.498Z",
+	"timestamp": "2023-11-12T03:33:15.089Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -96,6 +96,36 @@
 		{
 			"name": "The Abomination",
 			"chance": 1.26
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

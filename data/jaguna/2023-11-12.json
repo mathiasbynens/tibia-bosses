@@ -1,0 +1,89 @@
+{
+	"timestamp": "2023-11-12T09:31:21.978Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.5
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.46
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.93
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.89
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.61
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.48
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 18.52
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.11
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.01
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.27
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.23
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.79
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.83
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.18
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.59
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.32
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.58
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.8
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.71
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.52
+		}
+	]
+}

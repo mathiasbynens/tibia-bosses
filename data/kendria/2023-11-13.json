@@ -1,0 +1,105 @@
+{
+	"timestamp": "2023-11-13T09:31:46.886Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "General Murius",
+			"chance": 52.79
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 31.45
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.31
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 26.81
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.86
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21.75
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.93
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.6
+		},
+		{
+			"name": "Dracola",
+			"chance": 17.39
+		},
+		{
+			"name": "Massacre",
+			"chance": 16.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.3
+		},
+		{
+			"name": "Barbaria",
+			"chance": 14.65
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.72
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.32
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.73
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.58
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.2
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.99
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 6.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.87
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.33
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.35
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.73
+		}
+	]
+}

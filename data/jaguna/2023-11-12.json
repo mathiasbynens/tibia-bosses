@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-12T09:31:21.978Z",
+	"timestamp": "2023-11-13T03:33:15.985Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 11.79
+			"chance": 11.79,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -84,6 +86,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

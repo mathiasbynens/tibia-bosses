@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-12T09:31:32.002Z",
+	"timestamp": "2023-11-13T03:33:18.812Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.33
+			"chance": 27.33,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.7
+			"chance": 18.7,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.87
+			"chance": 8.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.84
+			"chance": 6.84,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +89,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-12T09:31:28.674Z",
+	"timestamp": "2023-11-13T03:33:17.917Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 22.81
+			"chance": 22.81,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -104,6 +105,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

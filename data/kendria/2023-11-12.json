@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-12T09:31:25.269Z",
+	"timestamp": "2023-11-13T03:33:16.886Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 35.89
+			"chance": 35.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +99,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

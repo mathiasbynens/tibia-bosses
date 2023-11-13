@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-12T09:31:35.137Z",
+	"timestamp": "2023-11-13T03:33:19.772Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 28.17
+			"chance": 28.17,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -92,6 +94,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

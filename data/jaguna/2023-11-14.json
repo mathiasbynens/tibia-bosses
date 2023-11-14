@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-11-14T09:31:29.772Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 80.49
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.4
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.32
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.73
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.13
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.91
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.94
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.13
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.39
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.74
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.64
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.32
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.8
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 8.13
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.92
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.43
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.15
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.12
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.04
+		}
+	]
+}

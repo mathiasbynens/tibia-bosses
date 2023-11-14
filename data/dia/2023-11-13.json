@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-13T09:31:38.436Z",
+	"timestamp": "2023-11-14T03:33:04.662Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.53
+			"chance": 22.53,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.74
+			"chance": 18.74,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.02
+			"chance": 15.02,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.39
+			"chance": 5.39,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -112,6 +119,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.77
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

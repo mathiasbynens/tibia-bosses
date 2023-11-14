@@ -1,25 +1,30 @@
 {
-	"timestamp": "2023-11-13T09:31:35.479Z",
+	"timestamp": "2023-11-14T03:33:03.862Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62
+			"chance": 62,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.79
+			"chance": 52.79,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.2
+			"chance": 37.2,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.53
+			"chance": 24.53,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.76
+			"chance": 8.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +107,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.95
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-13T09:31:52.394Z",
+	"timestamp": "2023-11-14T03:33:08.306Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.62
+			"chance": 69.62,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.47
+			"chance": 42.47,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 31.96
+			"chance": 31.96,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.09
+			"chance": 13.09,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -108,6 +113,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-13T09:31:49.586Z",
+	"timestamp": "2023-11-14T03:33:07.640Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.42
+			"chance": 93.42,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 43.59
+			"chance": 43.59,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 42.09
+			"chance": 42.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -116,6 +121,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.33
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-14T09:31:24.173Z",
+	"timestamp": "2023-11-15T03:33:11.202Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.04
+			"chance": 37.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.55
+			"chance": 11.55,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 9.02
+			"chance": 9.02,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +116,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.21
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

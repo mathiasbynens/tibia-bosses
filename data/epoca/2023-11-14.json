@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-14T09:31:26.920Z",
+	"timestamp": "2023-11-15T03:33:12.083Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 62.1
+			"chance": 62.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 61.95
+			"chance": 61.95,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 57.22
+			"chance": 57.22,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 23.88
+			"chance": 23.88,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +109,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.14
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

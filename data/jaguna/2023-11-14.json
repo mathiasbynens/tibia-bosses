@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-14T09:31:29.772Z",
+	"timestamp": "2023-11-15T03:33:12.979Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.49
+			"chance": 80.49,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.4
+			"chance": 39.4,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.32
+			"chance": 39.32,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.13
+			"chance": 13.13,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.8
+			"chance": 8.8,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -76,6 +82,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.04
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

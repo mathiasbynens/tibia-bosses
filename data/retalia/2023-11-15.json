@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-15T09:31:51.343Z",
+	"timestamp": "2023-11-16T03:33:33.396Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.3
+			"chance": 16.3,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 6.99
+			"chance": 6.99,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +120,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

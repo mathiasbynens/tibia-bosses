@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-15T09:31:40.600Z",
+	"timestamp": "2023-11-16T03:33:17.724Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 65.62
+			"chance": 65.62,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

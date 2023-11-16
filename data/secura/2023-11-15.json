@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-15T09:31:54.607Z",
+	"timestamp": "2023-11-16T03:33:47.826Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.77
+			"chance": 26.77,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.56
+			"chance": 7.56,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -88,6 +90,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.79
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

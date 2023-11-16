@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-15T09:31:33.925Z",
+	"timestamp": "2023-11-16T03:33:08.124Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 38.85
+			"chance": 38.85,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.35
+			"chance": 18.35,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 6.92
+			"chance": 6.92,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -92,6 +96,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.28
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

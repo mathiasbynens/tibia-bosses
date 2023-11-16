@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-15T09:31:44.544Z",
+	"timestamp": "2023-11-16T03:33:24.099Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.94
+			"chance": 11.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.53
+			"chance": 7.53,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -68,6 +70,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

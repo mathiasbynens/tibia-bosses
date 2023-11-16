@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-15T09:31:58.123Z",
+	"timestamp": "2023-11-16T03:33:48.693Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.34
+			"chance": 27.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.29
+			"chance": 23.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.62
+			"chance": 15.62,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

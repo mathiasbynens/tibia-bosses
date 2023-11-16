@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-11-16T09:31:27.081Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 59.27
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 34.63
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.02
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.37
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 26.41
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 21.38
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 20.89
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.58
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.98
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.33
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.73
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.61
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.23
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.87
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.71
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.07
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 8.05
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 7.77
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.15
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.28
+		},
+		{
+			"name": "The Abomination",
+			"chance": 2.83
+		}
+	]
+}

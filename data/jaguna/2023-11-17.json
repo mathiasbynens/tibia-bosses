@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-11-17T09:31:32.203Z",
+	"bosses": [
+		{
+			"name": "Xenia",
+			"chance": 23.4
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 22.96
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 22.85
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.27
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 21.49
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.24
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.54
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.14
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.22
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.58
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12.51
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 12.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.59
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.07
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.98
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.55
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.52
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5.82
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.7
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.98
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.04
+		}
+	]
+}

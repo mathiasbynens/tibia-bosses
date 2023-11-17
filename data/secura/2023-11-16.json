@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-16T09:31:39.021Z",
+	"timestamp": "2023-11-17T03:34:31.877Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -96,6 +100,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.37
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

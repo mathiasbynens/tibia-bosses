@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-17T09:31:34.916Z",
+	"timestamp": "2023-11-18T03:33:13.156Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.04
+			"chance": 61.04,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -108,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.13
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

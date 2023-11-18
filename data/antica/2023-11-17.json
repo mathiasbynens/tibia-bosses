@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-17T09:31:23.621Z",
+	"timestamp": "2023-11-18T03:33:08.588Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.63
+			"chance": 69.63,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.67
+			"chance": 12.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.47
+			"chance": 12.47,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.58
+			"chance": 7.58,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.6
+			"chance": 5.6,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +91,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.91
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

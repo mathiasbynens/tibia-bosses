@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-17T09:31:37.549Z",
+	"timestamp": "2023-11-18T03:33:13.883Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -116,6 +118,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

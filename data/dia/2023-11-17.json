@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-17T09:31:26.432Z",
+	"timestamp": "2023-11-18T03:33:10.417Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.14
+			"chance": 13.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.67
+			"chance": 12.67,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.17
+			"chance": 6.17,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +101,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.97
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

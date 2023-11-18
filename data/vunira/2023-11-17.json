@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-17T09:31:43.184Z",
+	"timestamp": "2023-11-18T03:33:15.828Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.63
+			"chance": 69.63,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -120,6 +122,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

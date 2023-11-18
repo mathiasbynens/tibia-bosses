@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-17T09:31:32.203Z",
+	"timestamp": "2023-11-18T03:33:12.241Z",
 	"bosses": [
 		{
 			"name": "Xenia",
-			"chance": 23.4
+			"chance": 23.4,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.54
+			"chance": 17.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.51
+			"chance": 12.51,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.82
+			"chance": 5.82,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +92,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

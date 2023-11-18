@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-17T09:31:29.347Z",
+	"timestamp": "2023-11-18T03:33:11.373Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.28
+			"chance": 28.28,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 26.93
+			"chance": 26.93,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.7
+			"chance": 5.7,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +92,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.91
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

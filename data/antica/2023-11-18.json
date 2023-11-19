@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-18T09:31:17.521Z",
+	"timestamp": "2023-11-19T03:33:13.054Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.4
+			"chance": 14.4,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -67,11 +70,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.99
+			"chance": 2.99,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

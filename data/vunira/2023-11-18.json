@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-18T09:31:40.958Z",
+	"timestamp": "2023-11-19T03:33:20.838Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 45.2
+			"chance": 45.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.93
+			"chance": 19.93,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -128,6 +130,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.81
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-18T09:31:27.697Z",
+	"timestamp": "2023-11-19T03:33:16.151Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.45
+			"chance": 20.45,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.67
+			"chance": 18.67,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.09
+			"chance": 10.09,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.36
+			"chance": 6.36,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.81
+			"chance": 2.81,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

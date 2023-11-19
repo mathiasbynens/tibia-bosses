@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-18T09:31:37.577Z",
+	"timestamp": "2023-11-19T03:33:19.919Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.08
+			"chance": 61.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.85
+			"chance": 52.85,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 28.76
+			"chance": 28.76,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.68
+			"chance": 28.68,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 13.45
+			"chance": 13.45,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,11 +72,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.58
+			"chance": 9.58,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.58
+			"chance": 9.58,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,15 +94,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.8
+			"chance": 7.8,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +122,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.17
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

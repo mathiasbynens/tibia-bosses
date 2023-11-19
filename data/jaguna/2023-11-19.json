@@ -1,0 +1,89 @@
+{
+	"timestamp": "2023-11-19T09:31:35.010Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 40.55
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.29
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.34
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 34.72
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.32
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.47
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 20.88
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.7
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.31
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 17.17
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.82
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.65
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.9
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.56
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.37
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.26
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.61
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 1.9
+		}
+	]
+}

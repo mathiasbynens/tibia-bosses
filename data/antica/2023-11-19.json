@@ -1,0 +1,93 @@
+{
+	"timestamp": "2023-11-19T09:31:19.956Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 32.22
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 27.08
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.81
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.76
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.28
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.7
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.9
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.18
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.62
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.53
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.76
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.64
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.91
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.29
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.21
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.8
+		},
+		{
+			"name": "Omrafir",
+			"chance": 5.06
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.46
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.17
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.13
+		}
+	]
+}

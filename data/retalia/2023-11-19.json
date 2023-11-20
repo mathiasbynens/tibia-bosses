@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-19T09:31:44.068Z",
+	"timestamp": "2023-11-20T03:33:16.503Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.55
+			"chance": 40.55,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.99
+			"chance": 3.99,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +108,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.05
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

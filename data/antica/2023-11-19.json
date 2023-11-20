@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-19T09:31:19.956Z",
+	"timestamp": "2023-11-20T03:33:10.903Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.28
+			"chance": 18.28,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.91
+			"chance": 6.91,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +91,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.13
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

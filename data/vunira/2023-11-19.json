@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-19T09:31:54.785Z",
+	"timestamp": "2023-11-20T03:33:18.863Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.38
+			"chance": 39.38,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.06
+			"chance": 39.06,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 25.77
+			"chance": 25.77,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.7
+			"chance": 21.7,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.28
+			"chance": 18.28,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -71,19 +76,23 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 16.22
+			"chance": 16.22,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.22
+			"chance": 15.22,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -111,7 +120,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -140,6 +150,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-19T09:31:39.340Z",
+	"timestamp": "2023-11-20T03:33:15.611Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 28.95
+			"chance": 28.95,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.51
+			"chance": 20.51,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.62
+			"chance": 14.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.17
+			"chance": 7.17,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -92,6 +97,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.05
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

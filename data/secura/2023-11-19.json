@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-19T09:31:49.388Z",
+	"timestamp": "2023-11-20T03:33:17.800Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.3
+			"chance": 59.3,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 37.92
+			"chance": 37.92,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.47
+			"chance": 21.47,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.27
+			"chance": 20.27,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.89
+			"chance": 7.89,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -99,11 +104,37 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.86
+			"chance": 3.86,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 1.9
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

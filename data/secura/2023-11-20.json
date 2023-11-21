@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-20T09:31:38.189Z",
+	"timestamp": "2023-11-21T03:33:37.548Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.44
+			"chance": 42.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.11
+			"chance": 39.11,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 23.59
+			"chance": 23.59,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -87,11 +90,27 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 3.35
+			"chance": 3.35,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

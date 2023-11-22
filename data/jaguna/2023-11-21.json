@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-21T09:31:41.175Z",
+	"timestamp": "2023-11-22T06:45:12.341Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.2
+			"chance": 74.2,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.62
+			"chance": 69.62,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.24
+			"chance": 3.24,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

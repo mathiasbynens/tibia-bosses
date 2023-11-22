@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-21T09:31:47.451Z",
+	"timestamp": "2023-11-22T06:45:13.569Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 21.33
+			"chance": 21.33,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.48
+			"chance": 13.48,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.11
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

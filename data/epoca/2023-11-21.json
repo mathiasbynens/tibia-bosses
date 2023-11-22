@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-21T09:31:37.415Z",
+	"timestamp": "2023-11-22T06:45:11.527Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.79
+			"chance": 26.79,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +119,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.19
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

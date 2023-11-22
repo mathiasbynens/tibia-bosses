@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-21T09:31:53.783Z",
+	"timestamp": "2023-11-22T06:45:15.241Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.66
+			"chance": 30.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.47
+			"chance": 30.47,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.66
+			"chance": 24.66,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,15 +39,18 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.36
+			"chance": 19.36,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +58,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 16.38
+			"chance": 16.38,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -59,7 +67,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -75,7 +84,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -83,7 +93,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.8
+			"chance": 10.8,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +106,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -120,6 +132,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

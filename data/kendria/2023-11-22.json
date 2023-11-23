@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-22T09:31:46.236Z",
+	"timestamp": "2023-11-23T03:33:05.213Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.66
+			"chance": 18.66,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,15 +48,18 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.29
+			"chance": 11.29,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 10.88
+			"chance": 10.88,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -108,6 +112,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-22T09:31:56.295Z",
+	"timestamp": "2023-11-23T03:33:07.873Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 40.2
+			"chance": 40.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.39
+			"chance": 27.39,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.74
+			"chance": 18.74,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.54
+			"chance": 12.54,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.92
+			"chance": 6.92,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

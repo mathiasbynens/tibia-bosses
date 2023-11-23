@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-22T09:31:39.492Z",
+	"timestamp": "2023-11-23T03:33:03.642Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 34.42
+			"chance": 34.42,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -116,6 +117,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

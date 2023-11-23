@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-22T09:31:32.325Z",
+	"timestamp": "2023-11-23T03:33:02.269Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -120,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.26
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

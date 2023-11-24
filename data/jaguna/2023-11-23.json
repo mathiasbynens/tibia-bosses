@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-23T09:31:40.715Z",
+	"timestamp": "2023-11-24T03:33:32.634Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.2
+			"chance": 64.2,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.01
+			"chance": 8.01,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +94,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

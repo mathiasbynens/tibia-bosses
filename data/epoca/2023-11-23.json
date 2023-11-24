@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-23T09:31:37.502Z",
+	"timestamp": "2023-11-24T03:33:19.594Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.55
+			"chance": 13.55,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 8.95
+			"chance": 8.95,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -120,6 +122,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.33
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

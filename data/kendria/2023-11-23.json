@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-23T09:31:44.108Z",
+	"timestamp": "2023-11-24T03:33:33.641Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.25
+			"chance": 37.25,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.65
+			"chance": 24.65,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.44
+			"chance": 19.44,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +109,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.25
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

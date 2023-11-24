@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-23T09:31:34.351Z",
+	"timestamp": "2023-11-24T03:33:11.281Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.04
+			"chance": 41.04,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.34
+			"chance": 39.34,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.97
+			"chance": 19.97,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -116,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

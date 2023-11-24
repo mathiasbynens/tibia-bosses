@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-23T09:31:53.976Z",
+	"timestamp": "2023-11-24T03:33:45.197Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.7
+			"chance": 25.7,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.34
+			"chance": 21.34,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,15 +45,18 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 16.29
+			"chance": 16.29,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 12.99
+			"chance": 12.99,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

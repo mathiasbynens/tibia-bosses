@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-23T09:31:50.869Z",
+	"timestamp": "2023-11-24T03:33:44.224Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.01
+			"chance": 65.01,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.63
+			"chance": 22.63,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-23T09:31:30.661Z",
+	"timestamp": "2023-11-24T03:33:10.338Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 63.74
+			"chance": 63.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.77
+			"chance": 26.77,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.55
+			"chance": 13.55,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -83,15 +87,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.99
+			"chance": 9.99,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 9.41
+			"chance": 9.41,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 9.02
+			"chance": 9.02,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -131,7 +138,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.95
+			"chance": 3.95,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -140,6 +148,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

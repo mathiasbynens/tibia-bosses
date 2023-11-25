@@ -1,0 +1,105 @@
+{
+	"timestamp": "2023-11-25T09:31:34.761Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 45.29
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.42
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 40.86
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 33.18
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.28
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.45
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.55
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.36
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.39
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 19.05
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.13
+		},
+		{
+			"name": "Massacre",
+			"chance": 16.57
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.58
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.83
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.44
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 12.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.01
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.96
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.72
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 11.71
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 11.5
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.1
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5.94
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 3.96
+		}
+	]
+}

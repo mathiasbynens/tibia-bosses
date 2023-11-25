@@ -1,0 +1,97 @@
+{
+	"timestamp": "2023-11-25T09:31:41.531Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.78
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.32
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 21.51
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.45
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.61
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.13
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 15.59
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.14
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.91
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 13.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 11.96
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.56
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.56
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.7
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.85
+		},
+		{
+			"name": "Xenia",
+			"chance": 7.85
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.92
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.27
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.59
+		},
+		{
+			"name": "Omrafir",
+			"chance": 5.04
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.73
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.41
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.24
+		}
+	]
+}

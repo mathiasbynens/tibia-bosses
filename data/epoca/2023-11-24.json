@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-24T09:31:24.005Z",
+	"timestamp": "2023-11-25T03:33:04.067Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.37
+			"chance": 66.37,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.79
+			"chance": 33.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -115,11 +120,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.45
+			"chance": 4.45,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
 			"chance": 2.76
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

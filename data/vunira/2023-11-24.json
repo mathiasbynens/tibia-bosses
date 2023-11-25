@@ -1,25 +1,30 @@
 {
-	"timestamp": "2023-11-24T09:31:38.454Z",
+	"timestamp": "2023-11-25T03:33:08.199Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.64
+			"chance": 69.64,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.68
+			"chance": 18.68,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.53
+			"chance": 17.53,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -92,6 +97,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

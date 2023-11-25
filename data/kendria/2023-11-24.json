@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-24T09:31:29.895Z",
+	"timestamp": "2023-11-25T03:33:05.740Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.56
+			"chance": 6.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -115,11 +117,17 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 4.84
+			"chance": 4.84,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

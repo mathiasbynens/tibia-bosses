@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-24T09:31:32.774Z",
+	"timestamp": "2023-11-25T03:33:06.623Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +110,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.45
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

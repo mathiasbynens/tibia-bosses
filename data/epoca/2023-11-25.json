@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-25T09:31:25.296Z",
+	"timestamp": "2023-11-26T03:33:34.216Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.11
+			"chance": 61.11,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.36
+			"chance": 39.36,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -112,6 +115,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.44
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

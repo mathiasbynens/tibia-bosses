@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-25T09:31:31.704Z",
+	"timestamp": "2023-11-26T03:33:36.340Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 24.39
+			"chance": 24.39,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,15 +32,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 22.01
+			"chance": 22.01,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.51
+			"chance": 18.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,11 +83,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.56
+			"chance": 11.56,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +119,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.24
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

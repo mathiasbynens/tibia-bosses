@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-25T09:31:22.081Z",
+	"timestamp": "2023-11-26T03:33:25.813Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 29.57
+			"chance": 29.57,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.89
+			"chance": 26.89,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.74
+			"chance": 8.74,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -120,6 +125,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

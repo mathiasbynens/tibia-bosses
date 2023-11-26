@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-25T09:31:41.531Z",
+	"timestamp": "2023-11-26T03:34:12.657Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.32
+			"chance": 29.32,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -92,6 +93,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.24
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

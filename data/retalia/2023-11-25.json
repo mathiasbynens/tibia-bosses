@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-25T09:31:34.761Z",
+	"timestamp": "2023-11-26T03:33:55.220Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.42
+			"chance": 42.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 40.86
+			"chance": 40.86,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.18
+			"chance": 33.18,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 11.5
+			"chance": 11.5,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +104,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.96
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

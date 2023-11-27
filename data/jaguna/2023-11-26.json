@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-26T09:31:24.152Z",
+	"timestamp": "2023-11-27T03:33:10.424Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,15 +19,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.33
+			"chance": 17.33,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.32
+			"chance": 16.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +107,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 1.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

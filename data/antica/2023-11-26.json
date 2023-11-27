@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-26T09:31:16.052Z",
+	"timestamp": "2023-11-27T03:33:08.082Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 14.86
+			"chance": 14.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.09
+			"chance": 9.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +114,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.84
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

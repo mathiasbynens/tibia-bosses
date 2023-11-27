@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-26T09:31:21.548Z",
+	"timestamp": "2023-11-27T03:33:09.663Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.25
+			"chance": 64.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 23.6
+			"chance": 23.6,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 16.55
+			"chance": 16.55,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.96
+			"chance": 6.96,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -95,11 +99,32 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

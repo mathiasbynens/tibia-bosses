@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-26T09:31:32.104Z",
+	"timestamp": "2023-11-27T03:33:13.344Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.56
+			"chance": 64.56,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.58
+			"chance": 40.58,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.15
+			"chance": 39.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -100,6 +104,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

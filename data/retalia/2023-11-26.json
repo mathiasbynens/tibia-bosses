@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-26T09:31:29.291Z",
+	"timestamp": "2023-11-27T03:33:12.600Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -108,6 +108,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

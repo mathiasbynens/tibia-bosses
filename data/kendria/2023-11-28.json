@@ -1,0 +1,69 @@
+{
+	"timestamp": "2023-11-28T09:31:32.005Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 26.43
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 20.72
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 17.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.33
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.16
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 12.07
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.95
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.71
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.2
+		},
+		{
+			"name": "yeti",
+			"chance": 5.77
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 5.71
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.09
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.2
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.07
+		}
+	]
+}

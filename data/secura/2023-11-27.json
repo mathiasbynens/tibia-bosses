@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-27T09:31:44.709Z",
+	"timestamp": "2023-11-28T03:33:11.141Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.31
+			"chance": 59.31,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 17.83
+			"chance": 17.83,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.44
+			"chance": 12.44,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.96
+			"chance": 7.96,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.63
+			"chance": 6.63,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -116,6 +122,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

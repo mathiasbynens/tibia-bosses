@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-27T09:31:38.002Z",
+	"timestamp": "2023-11-28T03:33:09.782Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 70.95
+			"chance": 70.95,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 70.62
+			"chance": 70.62,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.7
+			"chance": 50.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.57
+			"chance": 17.57,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.29
+			"chance": 16.29,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +82,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.63
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

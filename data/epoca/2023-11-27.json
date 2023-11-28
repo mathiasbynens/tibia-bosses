@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-27T09:31:31.701Z",
+	"timestamp": "2023-11-28T03:33:08.435Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.14
+			"chance": 18.14,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,7 +97,23 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.63
+			"chance": 2.63,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-27T09:31:25.454Z",
+	"timestamp": "2023-11-28T03:33:07.150Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 40.37
+			"chance": 40.37,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.23
+			"chance": 37.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 24.4
+			"chance": 24.4,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -120,6 +124,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.24
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

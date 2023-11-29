@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-28T09:31:25.811Z",
+	"timestamp": "2023-11-29T03:33:03.052Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.2
+			"chance": 74.2,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

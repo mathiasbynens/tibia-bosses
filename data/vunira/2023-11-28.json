@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-28T09:31:41.423Z",
+	"timestamp": "2023-11-29T03:33:06.970Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 40.64
+			"chance": 40.64,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.14
+			"chance": 22.14,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.28
+			"chance": 18.28,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.48
+			"chance": 14.48,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.8
+			"chance": 6.8,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +118,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

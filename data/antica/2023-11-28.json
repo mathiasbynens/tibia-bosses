@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-28T09:31:19.999Z",
+	"timestamp": "2023-11-29T03:33:01.429Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.64
+			"chance": 93.64,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.36
+			"chance": 30.36,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 29.65
+			"chance": 29.65,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 21.41
+			"chance": 21.41,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,11 +60,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.55
+			"chance": 11.55,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -95,7 +103,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.69
+			"chance": 7.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -140,6 +149,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

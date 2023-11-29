@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-28T09:31:29.073Z",
+	"timestamp": "2023-11-29T03:33:03.820Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -79,7 +79,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 6.97
+			"chance": 6.97,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +101,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.2
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

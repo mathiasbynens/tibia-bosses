@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-28T09:31:32.005Z",
+	"timestamp": "2023-11-29T03:33:04.653Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.07
+			"chance": 12.07,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,7 +64,33 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.07
+			"chance": 3.07,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

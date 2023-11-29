@@ -1,0 +1,97 @@
+{
+	"timestamp": "2023-11-29T09:31:41.503Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 33.83
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.51
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 19.89
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.75
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.22
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.36
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.8
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.5
+		},
+		{
+			"name": "yeti",
+			"chance": 10.67
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.58
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.28
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.11
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 8.09
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.03
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.87
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.24
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 6.8
+		},
+		{
+			"name": "Dracola",
+			"chance": 6.61
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.15
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.92
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.12
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.64
+		}
+	]
+}

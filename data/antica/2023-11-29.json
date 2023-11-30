@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-29T09:31:28.420Z",
+	"timestamp": "2023-11-30T03:33:07.472Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.46
+			"chance": 39.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.5
+			"chance": 13.5,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.84
+			"chance": 12.84,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.29
+			"chance": 8.29,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -132,6 +136,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

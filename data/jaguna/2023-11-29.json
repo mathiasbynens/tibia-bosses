@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-29T09:31:38.364Z",
+	"timestamp": "2023-11-30T03:33:10.389Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.46
+			"chance": 66.46,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.95
+			"chance": 64.95,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.23
+			"chance": 37.23,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 26.41
+			"chance": 26.41,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +109,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

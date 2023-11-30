@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-29T09:31:44.339Z",
+	"timestamp": "2023-11-30T03:33:12.629Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 32.45
+			"chance": 32.45,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 27.18
+			"chance": 27.18,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -112,6 +115,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.92
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

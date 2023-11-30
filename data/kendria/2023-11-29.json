@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-29T09:31:41.503Z",
+	"timestamp": "2023-11-30T03:33:11.677Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.75
+			"chance": 18.75,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",

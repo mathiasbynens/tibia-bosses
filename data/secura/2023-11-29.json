@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-29T09:31:47.395Z",
+	"timestamp": "2023-11-30T03:33:13.828Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 22.47
+			"chance": 22.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.81
+			"chance": 20.81,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -71,11 +74,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.66
+			"chance": 7.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.24
+			"chance": 7.24,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +109,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

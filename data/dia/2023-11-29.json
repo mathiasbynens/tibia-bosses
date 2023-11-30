@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-29T09:31:31.979Z",
+	"timestamp": "2023-11-30T03:33:08.661Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.88
+			"chance": 52.88,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.23
+			"chance": 37.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.55
+			"chance": 11.55,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.29
+			"chance": 8.29,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -124,6 +129,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

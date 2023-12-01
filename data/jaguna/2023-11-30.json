@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-11-30T09:31:27.914Z",
+	"timestamp": "2023-12-01T03:33:11.923Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 52.89
+			"chance": 52.89,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.77
+			"chance": 28.77,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.71
+			"chance": 18.71,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

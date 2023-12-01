@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-30T09:31:39.082Z",
+	"timestamp": "2023-12-01T03:33:15.256Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.34
+			"chance": 59.34,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.11
+			"chance": 15.11,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +119,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

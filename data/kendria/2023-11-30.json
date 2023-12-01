@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-11-30T09:31:30.418Z",
+	"timestamp": "2023-12-01T03:33:12.790Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -15,19 +16,23 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.63
+			"chance": 21.63,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.08
+			"chance": 20.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.71
+			"chance": 18.71,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.25
+			"chance": 18.25,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.59
+			"chance": 13.59,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -107,11 +113,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.6
+			"chance": 3.6,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

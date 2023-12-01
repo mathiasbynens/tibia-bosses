@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-11-30T09:31:25.194Z",
+	"timestamp": "2023-12-01T03:33:10.978Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.34
+			"chance": 59.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.38
+			"chance": 8.38,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 6.27
+			"chance": 6.27,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -104,6 +107,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

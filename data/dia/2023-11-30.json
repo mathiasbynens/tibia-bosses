@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-30T09:31:22.494Z",
+	"timestamp": "2023-12-01T03:33:10.238Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.37
+			"chance": 39.37,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.82
+			"chance": 23.82,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +115,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

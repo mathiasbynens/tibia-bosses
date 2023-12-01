@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-11-30T09:31:36.190Z",
+	"timestamp": "2023-12-01T03:33:14.465Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -107,11 +111,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.16
+			"chance": 3.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-01T09:31:34.854Z",
+	"timestamp": "2023-12-02T03:33:10.343Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -99,11 +99,37 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.46
+			"chance": 4.46,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.7
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

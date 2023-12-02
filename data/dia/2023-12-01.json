@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-01T09:31:27.894Z",
+	"timestamp": "2023-12-02T03:33:08.420Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 27.08
+			"chance": 27.08,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 15.48
+			"chance": 15.48,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.95
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

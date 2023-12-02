@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-01T09:31:24.381Z",
+	"timestamp": "2023-12-02T03:33:07.358Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.64
+			"chance": 69.64,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 32.93
+			"chance": 32.93,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 24.01
+			"chance": 24.01,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.97
+			"chance": 17.97,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.79
+			"chance": 8.79,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +114,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.84
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-01T09:31:38.454Z",
+	"timestamp": "2023-12-02T03:33:11.661Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
-			"chance": 32.8
+			"chance": 32.8,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -120,6 +121,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.84
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

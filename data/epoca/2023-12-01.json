@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-01T09:31:31.262Z",
+	"timestamp": "2023-12-02T03:33:09.368Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.76
+			"chance": 28.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -111,7 +112,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.23
+			"chance": 3.23,
+			"killed": true
 		}
 	]
 }

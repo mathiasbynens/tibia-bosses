@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-02T09:31:22.320Z",
+	"timestamp": "2023-12-03T03:33:15.350Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.49
+			"chance": 12.49,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -92,6 +93,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.4
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

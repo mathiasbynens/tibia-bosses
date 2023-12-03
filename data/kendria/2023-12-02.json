@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-02T09:31:33.427Z",
+	"timestamp": "2023-12-03T03:33:34.520Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.87
+			"chance": 9.87,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -111,15 +114,22 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.4
+			"chance": 3.4,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.21
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

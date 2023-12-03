@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-02T09:31:42.195Z",
+	"timestamp": "2023-12-03T03:33:36.679Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.87
+			"chance": 50.87,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 30.55
+			"chance": 30.55,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.91
+			"chance": 27.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.44
+			"chance": 21.44,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.41
+			"chance": 12.41,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -120,6 +126,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 5.43
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

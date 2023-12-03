@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-02T09:31:25.127Z",
+	"timestamp": "2023-12-03T03:33:16.152Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.78
+			"chance": 24.78,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +100,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.02
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-03T09:31:33.725Z",
+	"timestamp": "2023-12-04T03:33:09.377Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -35,23 +36,28 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.74
+			"chance": 16.74,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.6
+			"chance": 16.6,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +126,16 @@
 		{
 			"name": "Dracola",
 			"chance": 6.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-03T09:31:25.725Z",
+	"timestamp": "2023-12-04T03:33:07.096Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.26
+			"chance": 28.26,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 19.92
+			"chance": 19.92,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -120,6 +124,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.66
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

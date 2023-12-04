@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-03T09:31:28.245Z",
+	"timestamp": "2023-12-04T03:33:07.663Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 42.2
+			"chance": 42.2,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.17
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-03T09:31:20.657Z",
+	"timestamp": "2023-12-04T03:33:05.628Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.14
+			"chance": 18.14,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -128,6 +129,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.2
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

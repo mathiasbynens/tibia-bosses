@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-03T09:31:23.197Z",
+	"timestamp": "2023-12-04T03:33:06.431Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.49
+			"chance": 26.49,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -88,6 +89,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.2
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-03T09:31:30.961Z",
+	"timestamp": "2023-12-04T03:33:08.624Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 32.06
+			"chance": 32.06,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 25.06
+			"chance": 25.06,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 23.99
+			"chance": 23.99,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.62
+			"chance": 12.62,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -120,6 +126,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.97
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

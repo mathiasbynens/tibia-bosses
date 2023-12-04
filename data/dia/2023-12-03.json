@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-03T09:31:18.026Z",
+	"timestamp": "2023-12-04T03:33:04.994Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.8
+			"chance": 14.8,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.91
+			"chance": 13.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +112,26 @@
 		{
 			"name": "Ghazbaran",
 			"chance": 4.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

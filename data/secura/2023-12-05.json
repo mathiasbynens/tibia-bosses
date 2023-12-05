@@ -1,0 +1,101 @@
+{
+	"timestamp": "2023-12-05T09:31:27.405Z",
+	"bosses": [
+		{
+			"name": "Grandfather Tridian",
+			"chance": 30.06
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 29.3
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.69
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.43
+		},
+		{
+			"name": "Zushuka",
+			"chance": 21.85
+		},
+		{
+			"name": "Dracola",
+			"chance": 17.5
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.12
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 13.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.85
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.34
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.77
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.57
+		},
+		{
+			"name": "yeti",
+			"chance": 10.68
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.09
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 8
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.29
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.23
+		},
+		{
+			"name": "White Pale",
+			"chance": 7
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.58
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.14
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.24
+		},
+		{
+			"name": "The Abomination",
+			"chance": 1.64
+		}
+	]
+}

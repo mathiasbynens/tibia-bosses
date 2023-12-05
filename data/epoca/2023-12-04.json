@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-04T09:31:25.683Z",
+	"timestamp": "2023-12-05T03:33:13.562Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.08
+			"chance": 61.08,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 35.08
+			"chance": 35.08,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 29.14
+			"chance": 29.14,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 27.32
+			"chance": 27.32,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 21.63
+			"chance": 21.63,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.57
+			"chance": 5.57,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -128,6 +134,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.97
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

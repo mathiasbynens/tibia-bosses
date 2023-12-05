@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-04T09:31:31.391Z",
+	"timestamp": "2023-12-05T03:33:15.312Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 61.95
+			"chance": 61.95,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.7
+			"chance": 40.7,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 32.23
+			"chance": 32.23,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.27
+			"chance": 20.27,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

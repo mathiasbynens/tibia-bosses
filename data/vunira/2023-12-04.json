@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-04T09:31:40.242Z",
+	"timestamp": "2023-12-05T03:33:17.878Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 65.69
+			"chance": 65.69,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 52.91
+			"chance": 52.91,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.71
+			"chance": 24.71,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.15
+			"chance": 18.15,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

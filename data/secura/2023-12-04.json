@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-04T09:31:37.439Z",
+	"timestamp": "2023-12-05T03:33:17.040Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.63
+			"chance": 69.63,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.28
+			"chance": 37.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.75
+			"chance": 28.75,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.41
+			"chance": 16.41,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +118,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.23
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

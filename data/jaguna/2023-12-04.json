@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-04T09:31:28.711Z",
+	"timestamp": "2023-12-05T03:33:14.288Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.63
+			"chance": 69.63,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.64
+			"chance": 53.64,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -96,6 +98,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.97
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

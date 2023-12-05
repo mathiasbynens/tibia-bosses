@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-04T09:31:19.566Z",
+	"timestamp": "2023-12-05T03:33:11.874Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.19
+			"chance": 39.19,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 30.17
+			"chance": 30.17,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.83
+			"chance": 28.83,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +100,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.08
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

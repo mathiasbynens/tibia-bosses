@@ -1,0 +1,81 @@
+{
+	"timestamp": "2023-12-06T09:31:27.642Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 23.42
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.62
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.45
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 18.88
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.74
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 17.44
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.92
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.79
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.99
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.47
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 8.82
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.57
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.19
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.44
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.81
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 4.61
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.24
+		}
+	]
+}

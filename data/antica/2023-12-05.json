@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-05T09:31:08.297Z",
+	"timestamp": "2023-12-06T03:33:08.661Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.76
+			"chance": 66.76,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.45
+			"chance": 66.45,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -92,6 +95,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

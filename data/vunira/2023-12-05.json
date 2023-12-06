@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-05T09:31:30.385Z",
+	"timestamp": "2023-12-06T03:33:15.067Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.24
+			"chance": 39.24,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.3
+			"chance": 35.3,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.42
+			"chance": 34.42,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,11 +74,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.93
+			"chance": 10.93,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.41
+			"chance": 8.41,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

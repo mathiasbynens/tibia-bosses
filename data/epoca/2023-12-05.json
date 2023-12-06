@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-05T09:31:15.473Z",
+	"timestamp": "2023-12-06T03:33:10.762Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.22
+			"chance": 64.22,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -100,6 +104,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

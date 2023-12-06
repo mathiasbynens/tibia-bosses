@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-05T09:31:24.522Z",
+	"timestamp": "2023-12-06T03:33:13.257Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 61.97
+			"chance": 61.97,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 20.04
+			"chance": 20.04,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.63
+			"chance": 16.63,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -124,6 +127,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

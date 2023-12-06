@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-05T09:31:12.242Z",
+	"timestamp": "2023-12-06T03:33:09.566Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.5
+			"chance": 33.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.3
+			"chance": 29.3,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.44
+			"chance": 21.44,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.49
+			"chance": 19.49,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.33
+			"chance": 4.33,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -111,7 +118,13 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 1.64
+			"chance": 1.64,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-06T09:31:33.365Z",
+	"timestamp": "2023-12-07T03:33:05.860Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.29
+			"chance": 39.29,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.3
+			"chance": 37.3,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.86
+			"chance": 31.86,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 25.29
+			"chance": 25.29,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -27,11 +31,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.17
+			"chance": 22.17,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 21.12
+			"chance": 21.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -67,11 +74,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.56
+			"chance": 10.56,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +96,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.41
+			"chance": 8.41,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -103,7 +113,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 5.14
+			"chance": 5.14,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +127,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.43
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

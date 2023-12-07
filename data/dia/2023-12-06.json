@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-06T09:31:24.592Z",
+	"timestamp": "2023-12-07T03:33:03.407Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.75
+			"chance": 19.75,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.65
+			"chance": 19.65,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.79
+			"chance": 16.79,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.87
+			"chance": 9.87,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.83
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

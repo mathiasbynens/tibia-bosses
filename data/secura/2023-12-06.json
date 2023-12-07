@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-06T09:31:39.789Z",
+	"timestamp": "2023-12-07T03:33:07.360Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.46
+			"chance": 34.46,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.8
+			"chance": 28.8,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.79
+			"chance": 25.79,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -111,7 +115,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.7
+			"chance": 5.7,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -124,6 +129,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

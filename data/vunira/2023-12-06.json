@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-06T09:31:42.557Z",
+	"timestamp": "2023-12-07T03:33:08.180Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 30.09
+			"chance": 30.09,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.87
+			"chance": 24.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.95
+			"chance": 7.95,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -100,6 +105,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

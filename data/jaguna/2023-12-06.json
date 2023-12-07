@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-06T09:31:30.529Z",
+	"timestamp": "2023-12-07T03:33:04.981Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.06
+			"chance": 61.06,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.29
+			"chance": 39.29,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.3
+			"chance": 37.3,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.44
+			"chance": 16.44,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -108,6 +114,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.24
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

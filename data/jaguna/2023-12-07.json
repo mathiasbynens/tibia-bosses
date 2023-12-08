@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-07T09:31:35.824Z",
+	"timestamp": "2023-12-08T03:33:11.837Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.99
+			"chance": 17.99,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +103,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

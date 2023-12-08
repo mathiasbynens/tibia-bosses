@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-07T09:31:41.615Z",
+	"timestamp": "2023-12-08T03:33:13.946Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.4
+			"chance": 20.4,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.67
+			"chance": 17.67,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.34
+			"chance": 16.34,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.58
+			"chance": 11.58,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +124,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-07T09:31:44.732Z",
+	"timestamp": "2023-12-08T03:33:15.525Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.43
+			"chance": 20.43,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +131,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.67
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

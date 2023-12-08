@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-07T09:31:38.794Z",
+	"timestamp": "2023-12-08T03:33:13.064Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,19 +35,23 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.61
+			"chance": 9.61,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -76,6 +80,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

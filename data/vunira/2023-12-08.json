@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-08T09:31:48.272Z",
+	"timestamp": "2023-12-09T03:33:11.405Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 30.22
+			"chance": 30.22,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 25.23
+			"chance": 25.23,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.16
+			"chance": 16.16,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.41
+			"chance": 12.41,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -96,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

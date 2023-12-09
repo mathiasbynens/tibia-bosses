@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-08T09:31:36.712Z",
+	"timestamp": "2023-12-09T03:33:09.023Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.89
+			"chance": 10.89,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +82,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.98
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

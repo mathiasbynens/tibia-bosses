@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-08T09:31:29.892Z",
+	"timestamp": "2023-12-09T03:33:07.031Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.04
+			"chance": 41.04,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.4
+			"chance": 39.4,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.21
+			"chance": 24.21,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,11 +74,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 5.42
+			"chance": 5.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

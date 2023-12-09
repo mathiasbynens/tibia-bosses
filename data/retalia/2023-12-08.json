@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-08T09:31:40.138Z",
+	"timestamp": "2023-12-09T03:33:09.858Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.28
+			"chance": 28.28,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -111,7 +115,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 5.7
+			"chance": 5.7,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

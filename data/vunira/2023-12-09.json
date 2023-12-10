@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-09T09:32:14.975Z",
+	"timestamp": "2023-12-10T03:33:26.105Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 16.19
+			"chance": 16.19,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.89
+			"chance": 11.89,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -96,6 +98,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.44
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

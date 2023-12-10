@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-09T09:32:02.102Z",
+	"timestamp": "2023-12-10T03:33:00.037Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 50.36
+			"chance": 50.36,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 29.55
+			"chance": 29.55,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -68,6 +70,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

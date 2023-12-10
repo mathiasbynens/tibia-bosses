@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-09T09:31:29.132Z",
+	"timestamp": "2023-12-10T03:32:59.366Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.07
+			"chance": 61.07,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -112,6 +115,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

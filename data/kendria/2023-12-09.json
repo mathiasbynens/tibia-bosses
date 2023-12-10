@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-09T09:32:07.393Z",
+	"timestamp": "2023-12-10T03:33:23.570Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 63.82
+			"chance": 63.82,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.82
+			"chance": 25.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.93
+			"chance": 7.93,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +100,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.66
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

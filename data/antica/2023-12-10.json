@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-12-10T09:31:18.630Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 39.28
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.29
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.78
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 27.15
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 23.18
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.08
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 22.67
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.61
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.24
+		},
+		{
+			"name": "Barbaria",
+			"chance": 18.92
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.38
+		},
+		{
+			"name": "The Imperor",
+			"chance": 15.73
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.17
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.04
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.59
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.45
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.94
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.92
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.49
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.18
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.51
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 6.86
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.77
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.79
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.77
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.24
+		}
+	]
+}

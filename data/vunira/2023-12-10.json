@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-10T09:31:41.830Z",
+	"timestamp": "2023-12-11T03:33:11.318Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.08
+			"chance": 7.08,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -100,6 +102,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

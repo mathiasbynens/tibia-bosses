@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-10T09:31:25.286Z",
+	"timestamp": "2023-12-11T03:33:07.059Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.64
+			"chance": 80.64,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.15
+			"chance": 54.15,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.27
+			"chance": 14.27,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-10T09:31:38.597Z",
+	"timestamp": "2023-12-11T03:33:10.397Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.25
+			"chance": 64.25,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 22.96
+			"chance": 22.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.11
+			"chance": 12.11,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +109,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.44
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

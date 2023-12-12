@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-11T09:31:36.658Z",
+	"timestamp": "2023-12-12T03:33:09.271Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.03
+			"chance": 29.03,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.69
+			"chance": 7.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.98
+			"chance": 5.98,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +108,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.97
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

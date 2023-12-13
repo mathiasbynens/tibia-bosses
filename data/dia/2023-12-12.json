@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-12T09:31:25.778Z",
+	"timestamp": "2023-12-13T03:33:00.969Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.41
+			"chance": 27.41,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.48
+			"chance": 25.48,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -123,11 +127,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.89
+			"chance": 2.89,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.2
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-12T09:31:34.888Z",
+	"timestamp": "2023-12-13T03:33:03.827Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 30.31
+			"chance": 30.31,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.04
+			"chance": 29.04,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.24
+			"chance": 12.24,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -132,6 +136,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.43
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

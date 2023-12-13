@@ -1,0 +1,85 @@
+{
+	"timestamp": "2023-12-13T09:31:31.862Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.43
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 26.57
+		},
+		{
+			"name": "Xenia",
+			"chance": 25.8
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 21.54
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.43
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.72
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.59
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 15.81
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.4
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.72
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.09
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.11
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.93
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.69
+		},
+		{
+			"name": "Hirintror",
+			"chance": 7.45
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.7
+		}
+	]
+}

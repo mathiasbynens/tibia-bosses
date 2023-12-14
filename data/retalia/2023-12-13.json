@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-13T09:31:42.129Z",
+	"timestamp": "2023-12-14T03:33:07.271Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.74
+			"chance": 40.74,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.97
+			"chance": 19.97,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 19.23
+			"chance": 19.23,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.96
+			"chance": 10.96,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -136,6 +143,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.75
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,25 +1,30 @@
 {
-	"timestamp": "2023-12-13T09:31:38.754Z",
+	"timestamp": "2023-12-14T03:33:06.638Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.65
+			"chance": 69.65,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.59
+			"chance": 53.59,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 44.07
+			"chance": 44.07,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.31
+			"chance": 37.31,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -120,6 +126,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.7
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

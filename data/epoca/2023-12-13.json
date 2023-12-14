@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-13T09:31:31.862Z",
+	"timestamp": "2023-12-14T03:33:05.144Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.43
+			"chance": 21.43,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.93
+			"chance": 7.93,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -80,6 +85,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

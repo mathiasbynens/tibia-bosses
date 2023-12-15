@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-14T09:31:42.134Z",
+	"timestamp": "2023-12-15T03:33:10.582Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.64
+			"chance": 69.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.34
+			"chance": 29.34,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.4
+			"chance": 18.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 16.9
+			"chance": 16.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +111,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

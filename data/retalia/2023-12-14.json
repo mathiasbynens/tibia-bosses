@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-14T09:31:36.869Z",
+	"timestamp": "2023-12-15T03:33:09.109Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 43.43
+			"chance": 43.43,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 30.24
+			"chance": 30.24,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 23.92
+			"chance": 23.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -124,6 +127,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.67
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

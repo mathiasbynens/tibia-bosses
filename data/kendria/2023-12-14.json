@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-14T09:31:34.151Z",
+	"timestamp": "2023-12-15T03:33:08.407Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +105,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.36
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

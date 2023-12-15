@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-14T09:31:30.895Z",
+	"timestamp": "2023-12-15T03:33:07.265Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.28
+			"chance": 38.28,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 25.05
+			"chance": 25.05,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -120,6 +123,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.02
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

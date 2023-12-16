@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-15T09:31:25.712Z",
+	"timestamp": "2023-12-16T03:33:02.146Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -71,11 +71,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.75
+			"chance": 4.75,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.15
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

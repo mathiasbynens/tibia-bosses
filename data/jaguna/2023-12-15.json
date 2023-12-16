@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-15T09:31:28.605Z",
+	"timestamp": "2023-12-16T03:33:02.748Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 27.97
+			"chance": 27.97,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.12
+			"chance": 27.12,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",

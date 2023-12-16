@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-15T09:31:39.071Z",
+	"timestamp": "2023-12-16T03:33:05.890Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.11
+			"chance": 27.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.63
+			"chance": 19.63,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 11.9
+			"chance": 11.9,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.23
+			"chance": 3.23,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -91,7 +98,23 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.94
+			"chance": 2.94,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

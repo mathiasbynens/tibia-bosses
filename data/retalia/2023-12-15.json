@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-15T09:31:33.854Z",
+	"timestamp": "2023-12-16T03:33:04.228Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.32
+			"chance": 27.32,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.21
+			"chance": 20.21,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -123,7 +126,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.11
+			"chance": 3.11,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-15T09:31:19.900Z",
+	"timestamp": "2023-12-16T03:33:00.733Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.61
+			"chance": 69.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.31
+			"chance": 9.31,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -115,11 +118,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.66
+			"chance": 3.66,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

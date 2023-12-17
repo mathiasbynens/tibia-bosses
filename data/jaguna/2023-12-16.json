@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-16T09:31:35.477Z",
+	"timestamp": "2023-12-17T03:33:05.208Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.14
+			"chance": 27.14,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 11.31
+			"chance": 11.31,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -120,6 +123,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.39
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

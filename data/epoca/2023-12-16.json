@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-16T09:31:32.856Z",
+	"timestamp": "2023-12-17T03:33:04.490Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.33
+			"chance": 37.33,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.02
+			"chance": 10.02,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.25
+			"chance": 9.25,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

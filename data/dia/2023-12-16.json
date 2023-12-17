@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-16T09:31:30.260Z",
+	"timestamp": "2023-12-17T03:33:03.688Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 30.34
+			"chance": 30.34,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.64
+			"chance": 26.64,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +103,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

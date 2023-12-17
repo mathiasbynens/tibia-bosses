@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-16T09:31:40.553Z",
+	"timestamp": "2023-12-17T03:33:06.391Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 45.35
+			"chance": 45.35,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +129,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.68
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

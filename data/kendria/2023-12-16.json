@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-16T09:31:38.065Z",
+	"timestamp": "2023-12-17T03:33:05.801Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 20.56
+			"chance": 20.56,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -95,11 +96,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -116,6 +119,11 @@
 		{
 			"name": "Xenia",
 			"chance": 5.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

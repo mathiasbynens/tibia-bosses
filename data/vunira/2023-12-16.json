@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-16T09:31:46.042Z",
+	"timestamp": "2023-12-17T03:33:07.876Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.12
+			"chance": 41.12,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.53
+			"chance": 21.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.35
+			"chance": 7.35,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -88,6 +94,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

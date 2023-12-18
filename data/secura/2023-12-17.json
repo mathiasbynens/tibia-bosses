@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-17T09:31:45.630Z",
+	"timestamp": "2023-12-18T03:33:13.011Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.09
+			"chance": 18.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.57
+			"chance": 11.57,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -96,6 +99,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.07
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

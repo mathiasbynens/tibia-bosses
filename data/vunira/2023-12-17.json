@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-17T09:31:48.881Z",
+	"timestamp": "2023-12-18T03:33:13.863Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.21
+			"chance": 39.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.25
+			"chance": 14.25,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -92,6 +94,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

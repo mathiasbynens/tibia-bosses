@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-17T09:31:39.130Z",
+	"timestamp": "2023-12-18T03:33:11.109Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -115,7 +117,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.8
+			"chance": 8.8,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -124,6 +127,21 @@
 		{
 			"name": "yeti",
 			"chance": 5.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

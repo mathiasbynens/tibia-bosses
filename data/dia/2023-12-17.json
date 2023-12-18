@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-17T09:31:29.702Z",
+	"timestamp": "2023-12-18T03:33:08.955Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.63
+			"chance": 69.63,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 35.59
+			"chance": 35.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.52
+			"chance": 33.52,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.91
+			"chance": 14.91,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.54
+			"chance": 6.54,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

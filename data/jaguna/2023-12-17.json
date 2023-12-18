@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-17T09:31:35.866Z",
+	"timestamp": "2023-12-18T03:33:10.357Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.21
+			"chance": 39.21,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.1
+			"chance": 12.1,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.3
+			"chance": 6.3,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +118,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.07
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

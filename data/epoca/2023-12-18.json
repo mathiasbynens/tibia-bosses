@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-18T09:31:46.106Z",
+	"timestamp": "2023-12-19T03:33:00.881Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10
+			"chance": 10,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

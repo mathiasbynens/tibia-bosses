@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-18T09:31:37.024Z",
+	"timestamp": "2023-12-19T03:32:59.465Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.07
+			"chance": 29.07,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.23
+			"chance": 27.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

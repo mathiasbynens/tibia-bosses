@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-18T09:31:41.936Z",
+	"timestamp": "2023-12-19T03:33:00.198Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.22
+			"chance": 74.22,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.27
+			"chance": 64.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.64
+			"chance": 7.64,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +95,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.72
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

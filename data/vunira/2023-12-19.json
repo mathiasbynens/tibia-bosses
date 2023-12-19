@@ -1,0 +1,109 @@
+{
+	"timestamp": "2023-12-19T09:31:34.900Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 40.84
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.3
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.56
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.63
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 21.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.83
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.77
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.16
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.56
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 12.99
+		},
+		{
+			"name": "Dracola",
+			"chance": 12.79
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 11.54
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.75
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.6
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.02
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.46
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.45
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.39
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.03
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.96
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.2
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.74
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.43
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.8
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.47
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.25
+		}
+	]
+}

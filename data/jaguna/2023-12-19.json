@@ -1,21 +1,25 @@
 {
-	"timestamp": "2023-12-19T09:31:23.312Z",
+	"timestamp": "2023-12-20T03:33:03.167Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.74
+			"chance": 93.74,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.55
+			"chance": 53.55,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.31
+			"chance": 37.31,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.68
+			"chance": 30.68,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -92,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

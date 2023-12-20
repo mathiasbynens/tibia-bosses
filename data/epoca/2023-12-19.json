@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-19T09:31:20.496Z",
+	"timestamp": "2023-12-20T03:33:02.372Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.73
+			"chance": 66.73,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.11
+			"chance": 61.11,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.55
+			"chance": 53.55,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 32.37
+			"chance": 32.37,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.16
+			"chance": 7.16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

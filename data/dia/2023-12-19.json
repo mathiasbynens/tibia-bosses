@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-19T09:31:17.725Z",
+	"timestamp": "2023-12-20T03:33:01.580Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -27,15 +27,18 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.72
+			"chance": 20.72,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.37
+			"chance": 19.37,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.8
+			"chance": 12.8,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.2
+			"chance": 7.2,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -100,6 +105,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.8
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

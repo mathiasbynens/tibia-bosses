@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-20T09:31:42.852Z",
+	"timestamp": "2023-12-21T03:33:03.718Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.39
+			"chance": 59.39,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.88
+			"chance": 40.88,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.63
+			"chance": 33.63,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 24.54
+			"chance": 24.54,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 9.53
+			"chance": 9.53,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -107,7 +115,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.68
+			"chance": 3.68,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +125,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

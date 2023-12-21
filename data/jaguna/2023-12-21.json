@@ -1,0 +1,77 @@
+{
+	"timestamp": "2023-12-21T09:31:36.825Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.41
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.93
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.49
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.44
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 18.51
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.06
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.42
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.47
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.11
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 10.46
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.15
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.38
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.4
+		},
+		{
+			"name": "yeti",
+			"chance": 5.75
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.43
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 2.92
+		}
+	]
+}

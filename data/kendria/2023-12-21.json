@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-21T09:31:40.361Z",
+	"timestamp": "2023-12-22T03:33:09.300Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 34.75
+			"chance": 34.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 25.2
+			"chance": 25.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -104,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.03
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

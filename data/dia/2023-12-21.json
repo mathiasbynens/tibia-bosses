@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-21T09:31:30.035Z",
+	"timestamp": "2023-12-22T03:33:06.739Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.38
+			"chance": 39.38,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.29
+			"chance": 37.29,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.69
+			"chance": 17.69,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -120,6 +124,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

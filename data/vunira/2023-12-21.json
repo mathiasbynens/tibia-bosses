@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-21T09:31:50.216Z",
+	"timestamp": "2023-12-22T03:33:11.854Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.63
+			"chance": 69.63,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.65
+			"chance": 7.65,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

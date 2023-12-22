@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-21T09:31:33.438Z",
+	"timestamp": "2023-12-22T03:33:07.436Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -99,7 +100,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 2.92
+			"chance": 2.92,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

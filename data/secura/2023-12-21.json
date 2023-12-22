@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-21T09:31:46.801Z",
+	"timestamp": "2023-12-22T03:33:10.939Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 22.96
+			"chance": 22.96,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +100,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.03
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

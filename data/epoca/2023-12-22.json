@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-22T09:31:23.803Z",
+	"timestamp": "2023-12-23T03:32:58.397Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -116,6 +116,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

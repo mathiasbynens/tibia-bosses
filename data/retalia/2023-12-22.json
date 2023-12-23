@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-22T09:31:32.357Z",
+	"timestamp": "2023-12-23T03:33:00.460Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 40.97
+			"chance": 40.97,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 23.6
+			"chance": 23.6,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -120,6 +122,16 @@
 		{
 			"name": "The Handmaiden",
 			"chance": 5.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

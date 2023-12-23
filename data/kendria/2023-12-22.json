@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-22T09:31:29.499Z",
+	"timestamp": "2023-12-23T03:32:59.908Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.15
+			"chance": 61.15,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -80,6 +83,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

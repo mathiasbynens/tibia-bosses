@@ -1,0 +1,113 @@
+{
+	"timestamp": "2023-12-24T09:31:22.877Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 80.78
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 57.7
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.83
+		},
+		{
+			"name": "Xenia",
+			"chance": 30.58
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.55
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 23.42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 21.77
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.18
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.06
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.64
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.24
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.12
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 14.83
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.36
+		},
+		{
+			"name": "yeti",
+			"chance": 13.98
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.37
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.83
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.36
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.91
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.64
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.64
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.22
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.58
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 4.68
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.27
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.01
+		}
+	]
+}

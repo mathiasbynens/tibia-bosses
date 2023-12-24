@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-23T09:31:19.130Z",
+	"timestamp": "2023-12-24T03:33:06.131Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.3
+			"chance": 37.3,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -120,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

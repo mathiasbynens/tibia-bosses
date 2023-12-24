@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-23T09:31:26.867Z",
+	"timestamp": "2023-12-24T03:33:08.849Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.54
+			"chance": 30.54,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.34
+			"chance": 30.34,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -128,6 +130,16 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.17
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

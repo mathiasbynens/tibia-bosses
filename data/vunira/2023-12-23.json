@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-23T09:31:32.077Z",
+	"timestamp": "2023-12-24T03:33:10.748Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.77
+			"chance": 16.77,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.92
+			"chance": 8.92,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

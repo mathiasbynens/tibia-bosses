@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-23T09:31:21.702Z",
+	"timestamp": "2023-12-24T03:33:06.952Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 10.09
+			"chance": 10.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

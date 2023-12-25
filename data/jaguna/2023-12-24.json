@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-24T09:31:26.027Z",
+	"timestamp": "2023-12-25T03:33:08.243Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.76
+			"chance": 66.76,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.16
+			"chance": 24.16,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.02
+			"chance": 17.02,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.02
+			"chance": 15.02,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.85
+			"chance": 12.85,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-24T09:31:37.862Z",
+	"timestamp": "2023-12-25T03:33:13.368Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 42.48
+			"chance": 42.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 24.19
+			"chance": 24.19,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.2
+			"chance": 21.2,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

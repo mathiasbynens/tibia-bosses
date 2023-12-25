@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-24T09:31:19.166Z",
+	"timestamp": "2023-12-25T03:33:06.036Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.35
+			"chance": 29.35,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -124,6 +127,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.54
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

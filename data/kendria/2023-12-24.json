@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-24T09:31:29.067Z",
+	"timestamp": "2023-12-25T03:33:09.867Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.49
+			"chance": 8.49,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

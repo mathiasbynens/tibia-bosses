@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-25T09:31:20.777Z",
+	"timestamp": "2023-12-26T03:33:18.332Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -100,6 +101,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.23
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-25T09:31:18.209Z",
+	"timestamp": "2023-12-26T03:33:17.212Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.81
+			"chance": 25.81,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -79,11 +81,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.53
+			"chance": 10.53,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.69
+			"chance": 8.69,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +117,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

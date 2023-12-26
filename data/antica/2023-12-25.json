@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-25T09:31:15.540Z",
+	"timestamp": "2023-12-26T03:33:16.121Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.33
+			"chance": 16.33,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.5
+			"chance": 11.5,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +95,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.69
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

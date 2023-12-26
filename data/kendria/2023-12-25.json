@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-25T09:31:26.076Z",
+	"timestamp": "2023-12-26T03:33:20.507Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
-			"chance": 39.95
+			"chance": 39.95,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.36
+			"chance": 29.36,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.2
+			"chance": 21.2,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.29
+			"chance": 9.29,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -108,6 +116,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

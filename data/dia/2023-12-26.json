@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-26T09:31:25.540Z",
+	"timestamp": "2023-12-27T03:33:07.982Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 67.88
+			"chance": 67.88,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 29.6
+			"chance": 29.6,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 19.87
+			"chance": 19.87,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.26
+			"chance": 14.26,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -75,11 +80,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.86
+			"chance": 11.86,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.32
+			"chance": 11.32,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.54
+			"chance": 9.54,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -116,6 +124,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

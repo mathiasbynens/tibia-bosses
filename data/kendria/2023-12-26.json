@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-26T09:31:34.919Z",
+	"timestamp": "2023-12-27T03:33:10.899Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.77
+			"chance": 18.77,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +108,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

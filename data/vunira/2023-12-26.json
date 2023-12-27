@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-26T09:31:44.179Z",
+	"timestamp": "2023-12-27T03:33:15.493Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 32.5
+			"chance": 32.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,23 +16,28 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.73
+			"chance": 28.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 27.84
+			"chance": 27.84,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.23
+			"chance": 24.23,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.11
+			"chance": 23.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +45,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 21.61
+			"chance": 21.61,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -103,11 +110,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.08
+			"chance": 6.08,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
 			"chance": 3.48
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

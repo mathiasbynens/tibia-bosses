@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-26T09:31:41.090Z",
+	"timestamp": "2023-12-27T03:33:14.196Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.86
+			"chance": 20.86,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.77
+			"chance": 18.77,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.31
+			"chance": 6.31,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -96,6 +103,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 3.48
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

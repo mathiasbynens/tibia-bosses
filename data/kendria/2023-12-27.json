@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-27T09:31:30.107Z",
+	"timestamp": "2023-12-28T03:33:02.848Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.6
+			"chance": 69.6,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.88
+			"chance": 18.88,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +104,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.51
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

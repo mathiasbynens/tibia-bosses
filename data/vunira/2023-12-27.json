@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-27T09:31:38.703Z",
+	"timestamp": "2023-12-28T03:33:05.718Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.42
+			"chance": 42.42,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.88
+			"chance": 12.88,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +109,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

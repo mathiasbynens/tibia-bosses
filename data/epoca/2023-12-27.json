@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-27T09:31:24.475Z",
+	"timestamp": "2023-12-28T03:32:59.508Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -104,6 +105,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.03
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

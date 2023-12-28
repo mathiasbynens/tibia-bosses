@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-27T09:31:27.231Z",
+	"timestamp": "2023-12-28T03:33:01.779Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.07
+			"chance": 65.07,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.37
+			"chance": 59.37,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.1
+			"chance": 29.1,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -108,6 +112,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

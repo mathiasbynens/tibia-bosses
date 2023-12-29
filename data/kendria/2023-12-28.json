@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-28T09:31:29.355Z",
+	"timestamp": "2023-12-29T03:33:07.530Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 18.22
+			"chance": 18.22,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -120,6 +121,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.17
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

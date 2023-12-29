@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-28T09:31:19.620Z",
+	"timestamp": "2023-12-29T03:33:04.792Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 35.88
+			"chance": 35.88,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.55
+			"chance": 27.55,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.53
+			"chance": 15.53,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.78
+			"chance": 13.78,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.07
+			"chance": 5.07,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -111,11 +117,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.3
+			"chance": 3.3,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.18
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

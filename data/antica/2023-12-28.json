@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-28T09:31:16.030Z",
+	"timestamp": "2023-12-29T03:33:03.766Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.19
+			"chance": 61.19,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,19 +25,23 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.64
+			"chance": 16.64,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 16.5
+			"chance": 16.5,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -92,6 +98,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.5
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

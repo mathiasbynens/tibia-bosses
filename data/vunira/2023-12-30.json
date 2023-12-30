@@ -1,0 +1,97 @@
+{
+	"timestamp": "2023-12-30T09:31:46.283Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.03
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.59
+		},
+		{
+			"name": "Barbaria",
+			"chance": 33.33
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.66
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.45
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 15.37
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.25
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.16
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.03
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.32
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.07
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.38
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.23
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.94
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.63
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.59
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 5.81
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.92
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.91
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.21
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.94
+		}
+	]
+}

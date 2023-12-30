@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-29T09:31:26.264Z",
+	"timestamp": "2023-12-30T03:33:02.763Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 42.82
+			"chance": 42.82,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -96,6 +98,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

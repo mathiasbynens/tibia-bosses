@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-29T09:31:19.948Z",
+	"timestamp": "2023-12-30T03:32:59.950Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.1
+			"chance": 23.1,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.98
+			"chance": 18.98,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 9.12
+			"chance": 9.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.39
+			"chance": 8.39,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.95
+			"chance": 6.95,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.89
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

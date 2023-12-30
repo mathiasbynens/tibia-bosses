@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-29T09:31:23.151Z",
+	"timestamp": "2023-12-30T03:33:02.059Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.05
+			"chance": 62.05,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.06
+			"chance": 41.06,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.75
+			"chance": 12.75,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.38
+			"chance": 9.38,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

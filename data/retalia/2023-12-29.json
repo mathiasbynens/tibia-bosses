@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-29T09:31:34.972Z",
+	"timestamp": "2023-12-30T03:33:04.980Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -83,7 +83,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.27
+			"chance": 13.27,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -119,7 +120,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.5
+			"chance": 3.5,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

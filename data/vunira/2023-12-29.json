@@ -1,17 +1,20 @@
 {
-	"timestamp": "2023-12-29T09:31:40.880Z",
+	"timestamp": "2023-12-30T03:33:06.417Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.37
+			"chance": 40.37,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.29
+			"chance": 40.29,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.51
+			"chance": 18.51,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +87,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.95
+			"chance": 6.95,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +101,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-29T09:31:29.064Z",
+	"timestamp": "2023-12-30T03:33:03.476Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -88,6 +88,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.13
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-30T09:31:37.606Z",
+	"timestamp": "2023-12-31T03:33:04.961Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.83
+			"chance": 11.83,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -132,6 +135,11 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 3.66
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

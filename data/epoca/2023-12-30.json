@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-30T09:31:32.230Z",
+	"timestamp": "2023-12-31T03:33:03.093Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -100,6 +102,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

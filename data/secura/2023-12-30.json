@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-30T09:31:43.175Z",
+	"timestamp": "2023-12-31T03:33:08.029Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 22.48
+			"chance": 22.48,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.28
+			"chance": 10.28,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.78
+			"chance": 9.78,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -120,6 +125,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2023-12-30T09:31:34.960Z",
+	"timestamp": "2023-12-31T03:33:04.157Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.49
+			"chance": 79.49,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.18
+			"chance": 61.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-30T09:31:26.768Z",
+	"timestamp": "2023-12-31T03:33:01.012Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.07
+			"chance": 65.07,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.78
+			"chance": 13.78,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.4
+			"chance": 13.4,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.53
+			"chance": 5.53,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

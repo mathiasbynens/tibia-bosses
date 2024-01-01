@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-31T09:31:25.125Z",
+	"timestamp": "2024-01-01T03:33:12.159Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.7
+			"chance": 28.7,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 27.28
+			"chance": 27.28,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.4
+			"chance": 13.4,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

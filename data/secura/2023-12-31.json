@@ -1,5 +1,5 @@
 {
-	"timestamp": "2023-12-31T09:31:34.120Z",
+	"timestamp": "2024-01-01T03:33:15.153Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.91
+			"chance": 20.91,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.62
+			"chance": 15.62,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.65
+			"chance": 11.65,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -144,6 +149,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.69
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

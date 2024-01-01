@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-31T09:31:31.201Z",
+	"timestamp": "2024-01-01T03:33:14.075Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.44
+			"chance": 81.44,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.46
+			"chance": 21.46,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.34
+			"chance": 16.34,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -120,6 +123,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

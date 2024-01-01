@@ -1,9 +1,10 @@
 {
-	"timestamp": "2023-12-31T09:31:28.160Z",
+	"timestamp": "2024-01-01T03:33:13.215Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.19
+			"chance": 61.19,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.45
+			"chance": 12.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.73
+			"chance": 7.73,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +129,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.09
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

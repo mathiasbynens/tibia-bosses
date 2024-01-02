@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-01T09:31:33.035Z",
+	"timestamp": "2024-01-02T03:33:11.412Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.3
+			"chance": 37.3,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.08
+			"chance": 28.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 25.7
+			"chance": 25.7,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -104,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

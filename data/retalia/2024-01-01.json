@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-01T09:31:27.671Z",
+	"timestamp": "2024-01-02T03:33:09.773Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.6
+			"chance": 69.6,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.45
+			"chance": 59.45,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 44.27
+			"chance": 44.27,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.73
+			"chance": 39.73,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 39.3
+			"chance": 39.3,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -116,6 +121,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

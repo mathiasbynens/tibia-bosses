@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-01T09:31:21.722Z",
+	"timestamp": "2024-01-02T03:33:07.953Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.2
+			"chance": 18.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.57
+			"chance": 11.57,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.47
+			"chance": 10.47,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.17
+			"chance": 7.17,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -100,6 +104,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

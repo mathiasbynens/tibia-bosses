@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-01-02T09:31:53.044Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.2
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.15
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.29
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.79
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 30.18
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 23.61
+		},
+		{
+			"name": "Massacre",
+			"chance": 21.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.94
+		},
+		{
+			"name": "Barbaria",
+			"chance": 17.96
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.73
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.65
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.65
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 12.58
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 11.78
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.73
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.72
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.17
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.82
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.74
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.98
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.31
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 6.1
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.81
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.22
+		}
+	]
+}

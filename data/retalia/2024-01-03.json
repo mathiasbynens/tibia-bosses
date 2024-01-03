@@ -1,0 +1,85 @@
+{
+	"timestamp": "2024-01-03T09:31:40.077Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 65.3
+		},
+		{
+			"name": "White Pale",
+			"chance": 28.52
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.32
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 24.21
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.65
+		},
+		{
+			"name": "Massacre",
+			"chance": 22.41
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.67
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 20.29
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.69
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 14.11
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.55
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 12.6
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.11
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.07
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.93
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.75
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.3
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.79
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.38
+		}
+	]
+}

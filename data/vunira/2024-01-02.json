@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-02T09:32:03.085Z",
+	"timestamp": "2024-01-03T03:33:07.346Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.03
+			"chance": 62.03,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.5
+			"chance": 39.5,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.23
+			"chance": 35.23,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.05
+			"chance": 11.05,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +92,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

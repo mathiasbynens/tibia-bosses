@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-02T09:31:38.374Z",
+	"timestamp": "2024-01-03T03:33:00.857Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.55
+			"chance": 7.55,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +114,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-02T09:31:45.860Z",
+	"timestamp": "2024-01-03T03:33:02.452Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -116,6 +116,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

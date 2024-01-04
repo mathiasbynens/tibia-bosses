@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-03T09:31:33.740Z",
+	"timestamp": "2024-01-04T03:33:05.589Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.3
+			"chance": 37.3,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

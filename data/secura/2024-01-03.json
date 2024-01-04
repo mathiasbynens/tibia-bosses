@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-03T09:31:43.363Z",
+	"timestamp": "2024-01-04T03:33:08.808Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.21
+			"chance": 61.21,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 47.9
+			"chance": 47.9,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.07
+			"chance": 10.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -136,6 +141,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.69
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

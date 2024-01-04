@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-03T09:31:40.077Z",
+	"timestamp": "2024-01-04T03:33:07.749Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -80,6 +81,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.38
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-03T09:31:27.640Z",
+	"timestamp": "2024-01-04T03:33:03.867Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.67
+			"chance": 21.67,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -120,6 +121,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.18
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-03T09:31:30.716Z",
+	"timestamp": "2024-01-04T03:33:04.682Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.7
+			"chance": 28.7,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 11.77
+			"chance": 11.77,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -140,6 +144,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

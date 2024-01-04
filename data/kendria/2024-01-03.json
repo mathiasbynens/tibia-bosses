@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-03T09:31:36.813Z",
+	"timestamp": "2024-01-04T03:33:06.626Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.6
+			"chance": 69.6,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.47
+			"chance": 59.47,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -116,6 +119,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.69
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

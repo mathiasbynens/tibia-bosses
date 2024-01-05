@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-01-04T09:31:25.262Z",
+	"timestamp": "2024-01-05T03:33:02.702Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.54
+			"chance": 39.54,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.4
+			"chance": 39.4,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 25.46
+			"chance": 25.46,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.25
+			"chance": 18.25,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,15 +88,18 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +128,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

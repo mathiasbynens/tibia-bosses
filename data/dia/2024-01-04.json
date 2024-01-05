@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-04T09:31:28.774Z",
+	"timestamp": "2024-01-05T03:33:03.506Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.53
+			"chance": 79.53,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.2
+			"chance": 61.2,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 32.24
+			"chance": 32.24,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 29.53
+			"chance": 29.53,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -107,7 +114,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.13
+			"chance": 5.13,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +132,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.29
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

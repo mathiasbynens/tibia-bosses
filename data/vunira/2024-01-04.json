@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-04T09:31:46.629Z",
+	"timestamp": "2024-01-05T03:33:09.361Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 30.93
+			"chance": 30.93,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 29.93
+			"chance": 29.93,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -92,6 +95,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

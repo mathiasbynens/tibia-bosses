@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-05T09:31:33.515Z",
+	"timestamp": "2024-01-06T03:33:04.907Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 26.52
+			"chance": 26.52,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.6
+			"chance": 17.6,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.91
+			"chance": 7.91,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -92,6 +95,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.69
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

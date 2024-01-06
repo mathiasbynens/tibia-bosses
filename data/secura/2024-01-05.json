@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-05T09:31:37.503Z",
+	"timestamp": "2024-01-06T03:33:05.700Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.93
+			"chance": 20.93,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,11 +60,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.22
+			"chance": 13.22,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.04
+			"chance": 10.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.11
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-05T09:31:19.437Z",
+	"timestamp": "2024-01-06T03:33:00.758Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 50.44
+			"chance": 50.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.58
+			"chance": 33.58,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.14
+			"chance": 19.14,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.68
+			"chance": 14.68,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.19
+			"chance": 4.19,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +114,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.9
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

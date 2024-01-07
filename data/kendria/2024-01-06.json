@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-06T09:31:39.847Z",
+	"timestamp": "2024-01-07T03:33:08.095Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.27
+			"chance": 17.27,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.29
+			"chance": 12.29,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -108,6 +111,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.1
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-06T09:31:33.879Z",
+	"timestamp": "2024-01-07T03:33:06.188Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.53
+			"chance": 27.53,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -128,6 +130,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

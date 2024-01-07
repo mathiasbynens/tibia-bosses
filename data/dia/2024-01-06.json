@@ -1,25 +1,30 @@
 {
-	"timestamp": "2024-01-06T09:31:30.924Z",
+	"timestamp": "2024-01-07T03:33:05.396Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.72
+			"chance": 80.72,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.34
+			"chance": 29.34,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.21
+			"chance": 29.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.89
+			"chance": 27.89,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,11 +44,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.38
+			"chance": 17.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 6.78
+			"chance": 6.78,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -99,11 +107,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.76
+			"chance": 3.76,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

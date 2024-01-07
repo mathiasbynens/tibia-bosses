@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-06T09:31:42.715Z",
+	"timestamp": "2024-01-07T03:33:09.077Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.74
+			"chance": 64.74,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +86,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

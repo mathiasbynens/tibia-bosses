@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-07T09:31:26.689Z",
+	"timestamp": "2024-01-08T03:33:11.533Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +93,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.99
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-07T09:31:16.252Z",
+	"timestamp": "2024-01-08T03:33:08.524Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.46
+			"chance": 20.46,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.05
+			"chance": 13.05,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +98,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.1
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-01-07T09:31:18.805Z",
+	"timestamp": "2024-01-08T03:33:09.286Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 55
+			"chance": 55,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 50.94
+			"chance": 50.94,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 46.77
+			"chance": 46.77,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.1
+			"chance": 38.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -124,6 +129,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.75
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

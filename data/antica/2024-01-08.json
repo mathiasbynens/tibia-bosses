@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-08T09:31:22.195Z",
+	"timestamp": "2024-01-09T03:33:01.239Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.05
+			"chance": 17.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.38
+			"chance": 6.38,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 4.68
+			"chance": 4.68,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +111,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

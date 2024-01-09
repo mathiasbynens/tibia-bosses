@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-08T09:31:29.234Z",
+	"timestamp": "2024-01-09T03:33:02.952Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 33.6
+			"chance": 33.6,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.84
+			"chance": 30.84,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.35
+			"chance": 16.35,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +104,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

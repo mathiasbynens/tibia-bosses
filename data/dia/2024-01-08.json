@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-08T09:31:25.975Z",
+	"timestamp": "2024-01-09T03:33:02.281Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.04
+			"chance": 53.04,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 33.46
+			"chance": 33.46,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.09
+			"chance": 22.09,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.36
+			"chance": 9.36,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -100,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-08T09:31:36.074Z",
+	"timestamp": "2024-01-09T03:33:04.702Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.71
+			"chance": 28.71,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 17.55
+			"chance": 17.55,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.96
+			"chance": 9.96,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -103,11 +106,22 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.21
+			"chance": 3.21,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.68
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-08T09:31:39.283Z",
+	"timestamp": "2024-01-09T03:33:05.311Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.6
+			"chance": 69.6,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.72
+			"chance": 17.72,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +92,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.15
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-08T09:31:42.407Z",
+	"timestamp": "2024-01-09T03:33:06.070Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.71
+			"chance": 28.71,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.74
+			"chance": 25.74,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.65
+			"chance": 22.65,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.94
+			"chance": 10.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -111,7 +118,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -128,6 +136,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

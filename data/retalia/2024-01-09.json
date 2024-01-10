@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-09T09:31:47.268Z",
+	"timestamp": "2024-01-10T03:33:10.335Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.52
+			"chance": 59.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.15
+			"chance": 23.15,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.95
+			"chance": 20.95,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -88,6 +92,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.08
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

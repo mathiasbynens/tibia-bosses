@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-09T09:31:52.648Z",
+	"timestamp": "2024-01-10T03:33:12.362Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 25.15
+			"chance": 25.15,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -103,11 +105,27 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.95
+			"chance": 3.95,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

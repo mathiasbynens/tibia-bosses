@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-09T09:31:44.516Z",
+	"timestamp": "2024-01-10T03:33:09.495Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.57
+			"chance": 28.57,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 25.8
+			"chance": 25.8,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.3
+			"chance": 10.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +127,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.14
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

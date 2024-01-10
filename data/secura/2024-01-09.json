@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-09T09:31:49.866Z",
+	"timestamp": "2024-01-10T03:33:11.475Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 46.79
+			"chance": 46.79,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.18
+			"chance": 40.18,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.31
+			"chance": 37.31,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.52
+			"chance": 14.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -111,7 +116,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.05
+			"chance": 4.05,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -120,6 +126,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.68
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

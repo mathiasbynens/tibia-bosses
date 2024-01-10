@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-09T09:31:41.535Z",
+	"timestamp": "2024-01-10T03:33:08.725Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.61
+			"chance": 69.61,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.24
+			"chance": 29.24,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.07
+			"chance": 23.07,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.19
+			"chance": 16.19,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -116,6 +121,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.29
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

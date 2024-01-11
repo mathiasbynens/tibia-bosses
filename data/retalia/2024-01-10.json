@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-10T09:31:35.346Z",
+	"timestamp": "2024-01-11T03:33:07.098Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.54
+			"chance": 81.54,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.95
+			"chance": 10.95,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -76,6 +78,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

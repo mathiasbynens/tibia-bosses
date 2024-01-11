@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-10T09:31:27.162Z",
+	"timestamp": "2024-01-11T03:33:03.041Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.28
+			"chance": 41.28,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.91
+			"chance": 22.91,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.85
+			"chance": 7.85,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +115,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

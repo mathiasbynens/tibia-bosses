@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-10T09:31:32.618Z",
+	"timestamp": "2024-01-11T03:33:06.078Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.41
+			"chance": 9.41,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -124,6 +127,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.08
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

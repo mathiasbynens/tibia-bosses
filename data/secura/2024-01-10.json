@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-01-10T09:31:38.913Z",
+	"timestamp": "2024-01-11T03:33:08.057Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.78
+			"chance": 66.78,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 63.51
+			"chance": 63.51,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.04
+			"chance": 53.04,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 25.95
+			"chance": 25.95,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -112,6 +119,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

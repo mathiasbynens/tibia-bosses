@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-01-12T09:31:48.078Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.05
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 33.61
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.32
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 28.03
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 27.96
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 27.47
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 25.24
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.54
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.34
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.23
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.07
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.39
+		},
+		{
+			"name": "Shlorg",
+			"chance": 12.98
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.58
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.69
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.27
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 7.14
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.86
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.88
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.85
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.13
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.97
+		}
+	]
+}

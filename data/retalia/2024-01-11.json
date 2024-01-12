@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-11T09:31:39.312Z",
+	"timestamp": "2024-01-12T03:33:03.966Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 50.7
+			"chance": 50.7,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.34
+			"chance": 28.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -88,6 +91,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.72
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-11T09:31:46.061Z",
+	"timestamp": "2024-01-12T03:33:05.398Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.53
+			"chance": 16.53,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.12
+			"chance": 9.12,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -92,6 +95,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

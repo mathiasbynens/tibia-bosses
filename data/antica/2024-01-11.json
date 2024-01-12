@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-11T09:31:21.185Z",
+	"timestamp": "2024-01-12T03:33:00.289Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.63
+			"chance": 69.63,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.25
+			"chance": 38.25,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.02
+			"chance": 17.02,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -116,6 +120,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

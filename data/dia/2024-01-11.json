@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-11T09:31:25.753Z",
+	"timestamp": "2024-01-12T03:33:01.388Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.46
+			"chance": 27.46,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 23.46
+			"chance": 23.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.55
+			"chance": 12.55,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.13
+			"chance": 8.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -148,6 +155,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

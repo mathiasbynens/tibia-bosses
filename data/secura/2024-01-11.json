@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-11T09:31:42.709Z",
+	"timestamp": "2024-01-12T03:33:04.738Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 65.88
+			"chance": 65.88,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.37
+			"chance": 39.37,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.25
+			"chance": 38.25,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -88,6 +92,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.99
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

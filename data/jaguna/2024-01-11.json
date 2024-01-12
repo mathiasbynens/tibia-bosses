@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-11T09:31:32.552Z",
+	"timestamp": "2024-01-12T03:33:02.561Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.16
+			"chance": 41.16,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.79
+			"chance": 11.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

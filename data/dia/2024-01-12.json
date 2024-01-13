@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-12T09:31:33.958Z",
+	"timestamp": "2024-01-13T03:33:00.383Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.01
+			"chance": 62.01,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 29.57
+			"chance": 29.57,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -123,7 +126,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.44
+			"chance": 5.44,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -136,6 +140,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

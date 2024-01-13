@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-12T09:31:30.155Z",
+	"timestamp": "2024-01-13T03:32:59.703Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 50.77
+			"chance": 50.77,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 47.81
+			"chance": 47.81,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.27
+			"chance": 29.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 25.45
+			"chance": 25.45,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.18
+			"chance": 8.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.96
+			"chance": 6.96,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -124,6 +131,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

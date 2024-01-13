@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-12T09:31:44.650Z",
+	"timestamp": "2024-01-13T03:33:02.280Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.24
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

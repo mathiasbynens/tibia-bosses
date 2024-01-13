@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-01-12T09:31:55.240Z",
+	"timestamp": "2024-01-13T03:33:04.967Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.71
+			"chance": 79.71,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.18
+			"chance": 61.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 45.35
+			"chance": 45.35,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.61
+			"chance": 22.61,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,11 +48,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 17.97
+			"chance": 17.97,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.55
+			"chance": 10.55,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -87,7 +95,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,11 +112,32 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.91
+			"chance": 3.91,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

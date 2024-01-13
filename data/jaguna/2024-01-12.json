@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-12T09:31:41.067Z",
+	"timestamp": "2024-01-13T03:33:01.527Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -108,6 +108,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.72
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

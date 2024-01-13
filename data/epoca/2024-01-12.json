@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-12T09:31:37.600Z",
+	"timestamp": "2024-01-13T03:33:00.973Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.18
+			"chance": 74.18,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.64
+			"chance": 69.64,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -79,11 +82,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -120,6 +125,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.56
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

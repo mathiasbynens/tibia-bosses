@@ -1,0 +1,105 @@
+{
+	"timestamp": "2024-01-13T09:31:37.163Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "General Murius",
+			"chance": 45.41
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.4
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 38.08
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 35.12
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 25.74
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 25.62
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 22.31
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.45
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.36
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.51
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.24
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.55
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.44
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.32
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.53
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.06
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.62
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.56
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 7.74
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.95
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.45
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.95
+		}
+	]
+}

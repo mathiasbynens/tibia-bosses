@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-13T09:31:34.496Z",
+	"timestamp": "2024-01-14T03:33:09.637Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.32
+			"chance": 41.32,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.51
+			"chance": 20.51,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.68
+			"chance": 17.68,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 9.8
+			"chance": 9.8,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-13T09:31:37.163Z",
+	"timestamp": "2024-01-14T03:33:10.480Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 45.41
+			"chance": 45.41,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.4
+			"chance": 42.4,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.62
+			"chance": 10.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.56
+			"chance": 10.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -100,6 +104,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

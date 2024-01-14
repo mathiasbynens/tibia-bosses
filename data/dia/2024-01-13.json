@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-01-13T09:31:26.217Z",
+	"timestamp": "2024-01-14T03:33:06.686Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 50.98
+			"chance": 50.98,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.4
+			"chance": 42.4,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.75
+			"chance": 27.75,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -35,11 +39,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 22.63
+			"chance": 22.63,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.9
+			"chance": 21.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -111,7 +118,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.94
+			"chance": 6.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -132,6 +140,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

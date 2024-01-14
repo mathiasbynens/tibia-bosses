@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-13T09:31:28.993Z",
+	"timestamp": "2024-01-14T03:33:07.529Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.97
+			"chance": 18.97,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +122,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.37
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

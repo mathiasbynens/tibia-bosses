@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-01-13T09:31:42.583Z",
+	"timestamp": "2024-01-14T03:33:12.454Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.75
+			"chance": 64.75,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.4
+			"chance": 42.4,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.71
+			"chance": 39.71,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -104,6 +108,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

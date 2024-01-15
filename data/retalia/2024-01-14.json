@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-14T09:31:36.367Z",
+	"timestamp": "2024-01-15T03:33:14.479Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.05
+			"chance": 15.05,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,11 +72,22 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.72
+			"chance": 3.72,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.57
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

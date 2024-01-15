@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-14T09:31:29.826Z",
+	"timestamp": "2024-01-15T03:33:11.749Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.21
+			"chance": 61.21,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.52
+			"chance": 10.52,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -116,6 +119,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

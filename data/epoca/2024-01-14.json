@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-14T09:31:26.859Z",
+	"timestamp": "2024-01-15T03:33:10.828Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.45
+			"chance": 27.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 20.42
+			"chance": 20.42,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 9.81
+			"chance": 9.81,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -107,7 +111,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.01
+			"chance": 3.01,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

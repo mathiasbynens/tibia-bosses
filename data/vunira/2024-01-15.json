@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-01-15T09:31:39.570Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.33
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 29.58
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.21
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.62
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 20.06
+		},
+		{
+			"name": "Omrafir",
+			"chance": 19.95
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.27
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.73
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.59
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 14.42
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.55
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.44
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.34
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.3
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.26
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.2
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.15
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.77
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.45
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.23
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.94
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.84
+		}
+	]
+}

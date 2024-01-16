@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-15T09:31:24.362Z",
+	"timestamp": "2024-01-16T03:33:09.742Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 30.7
+			"chance": 30.7,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -104,6 +105,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

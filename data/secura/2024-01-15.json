@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-15T09:31:36.638Z",
+	"timestamp": "2024-01-16T03:33:13.120Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.83
+			"chance": 22.83,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.7
+			"chance": 17.7,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.35
+			"chance": 16.35,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -123,7 +129,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.01
+			"chance": 3.01,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

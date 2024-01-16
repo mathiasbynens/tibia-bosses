@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-15T09:31:30.724Z",
+	"timestamp": "2024-01-16T03:33:11.386Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -87,7 +88,23 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.36
+			"chance": 3.36,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

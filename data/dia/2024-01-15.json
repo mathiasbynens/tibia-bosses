@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-15T09:31:20.930Z",
+	"timestamp": "2024-01-16T03:33:09.064Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.04
+			"chance": 65.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.54
+			"chance": 10.54,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.32
+			"chance": 10.32,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.17
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

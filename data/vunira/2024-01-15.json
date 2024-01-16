@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-15T09:31:39.570Z",
+	"timestamp": "2024-01-16T03:33:13.943Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.21
+			"chance": 23.21,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.95
+			"chance": 19.95,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 16.59
+			"chance": 16.59,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.34
+			"chance": 7.34,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -91,7 +95,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.84
+			"chance": 3.84,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

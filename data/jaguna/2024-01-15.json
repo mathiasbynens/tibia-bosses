@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-15T09:31:27.448Z",
+	"timestamp": "2024-01-16T03:33:10.581Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.08
+			"chance": 53.08,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.2
+			"chance": 40.2,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 27.49
+			"chance": 27.49,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 26.9
+			"chance": 26.9,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -120,6 +124,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

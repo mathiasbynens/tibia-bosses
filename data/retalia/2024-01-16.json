@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-16T09:31:30.295Z",
+	"timestamp": "2024-01-17T03:33:02.795Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.05
+			"chance": 62.05,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -84,6 +85,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

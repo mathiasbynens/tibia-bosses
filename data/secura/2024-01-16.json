@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-16T09:31:33.171Z",
+	"timestamp": "2024-01-17T03:33:03.567Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 25.64
+			"chance": 25.64,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 21.61
+			"chance": 21.61,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,19 +30,23 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.62
+			"chance": 16.62,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.67
+			"chance": 15.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.52
+			"chance": 12.52,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +75,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.07
+			"chance": 10.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,11 +88,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +123,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

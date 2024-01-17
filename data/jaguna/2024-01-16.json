@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-16T09:31:24.791Z",
+	"timestamp": "2024-01-17T03:32:59.826Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.65
+			"chance": 69.65,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.34
+			"chance": 37.34,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 31.78
+			"chance": 31.78,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

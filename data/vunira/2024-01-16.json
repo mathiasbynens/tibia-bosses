@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-16T09:31:35.705Z",
+	"timestamp": "2024-01-17T03:33:04.292Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.56
+			"chance": 59.56,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 24.03
+			"chance": 24.03,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.07
+			"chance": 13.07,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-01-16T09:31:18.831Z",
+	"timestamp": "2024-01-17T03:32:57.904Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.09
+			"chance": 53.09,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 29.76
+			"chance": 29.76,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 22.49
+			"chance": 22.49,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,11 +48,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.33
+			"chance": 14.33,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -112,6 +120,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.52
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

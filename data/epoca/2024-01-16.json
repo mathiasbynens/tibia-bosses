@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-16T09:31:21.841Z",
+	"timestamp": "2024-01-17T03:32:58.675Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 43.58
+			"chance": 43.58,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 27.84
+			"chance": 27.84,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.58
+			"chance": 27.58,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -115,7 +121,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.71
+			"chance": 2.71,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

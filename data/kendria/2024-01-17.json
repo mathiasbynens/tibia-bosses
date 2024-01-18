@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-17T09:31:47.790Z",
+	"timestamp": "2024-01-18T03:33:05.072Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.19
+			"chance": 40.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.75
+			"chance": 39.75,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -104,6 +108,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.03
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

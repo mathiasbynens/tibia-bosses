@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-17T09:31:53.151Z",
+	"timestamp": "2024-01-18T03:33:06.858Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,15 +27,18 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.79
+			"chance": 13.79,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -80,6 +83,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.22
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

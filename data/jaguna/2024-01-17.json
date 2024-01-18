@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-17T09:31:44.970Z",
+	"timestamp": "2024-01-18T03:33:03.970Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.21
+			"chance": 74.21,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.25
+			"chance": 29.25,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.28
+			"chance": 19.28,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -88,6 +92,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.05
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

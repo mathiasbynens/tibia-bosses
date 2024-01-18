@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-17T09:31:38.945Z",
+	"timestamp": "2024-01-18T03:33:02.269Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 17.7
+			"chance": 17.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.76
+			"chance": 10.76,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -100,6 +104,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.73
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

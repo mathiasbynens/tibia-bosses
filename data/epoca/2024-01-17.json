@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-17T09:31:42.198Z",
+	"timestamp": "2024-01-18T03:33:03.173Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.83
+			"chance": 17.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.73
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

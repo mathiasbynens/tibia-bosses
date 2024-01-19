@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-01-19T09:31:34.185Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 61.96
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.25
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.89
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.35
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 28.33
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.23
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.31
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.34
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.18
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.59
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.46
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.62
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.07
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.88
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 8.56
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.98
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.87
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.5
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.02
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.73
+		}
+	]
+}

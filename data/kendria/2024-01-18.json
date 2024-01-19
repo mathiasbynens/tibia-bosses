@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-01-18T09:31:44.219Z",
+	"timestamp": "2024-01-19T03:33:09.915Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.68
+			"chance": 69.68,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 65.36
+			"chance": 65.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.05
+			"chance": 20.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -96,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.16
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

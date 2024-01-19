@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-18T09:31:54.687Z",
+	"timestamp": "2024-01-19T03:33:13.710Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.74
+			"chance": 15.74,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.94
+			"chance": 7.94,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +119,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

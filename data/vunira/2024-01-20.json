@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-20T09:31:42.419Z",
+	"timestamp": "2024-01-21T03:33:09.366Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.09
+			"chance": 53.09,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.74
+			"chance": 33.74,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -116,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.73
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-20T09:31:39.088Z",
+	"timestamp": "2024-01-21T03:33:08.540Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.7
+			"chance": 69.7,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.39
+			"chance": 14.39,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.19
+			"chance": 8.19,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -96,6 +100,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.57
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

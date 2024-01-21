@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-20T09:31:32.560Z",
+	"timestamp": "2024-01-21T03:33:06.770Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 45.41
+			"chance": 45.41,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.22
+			"chance": 41.22,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.19
+			"chance": 19.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 17.46
+			"chance": 17.46,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -100,6 +105,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.26
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

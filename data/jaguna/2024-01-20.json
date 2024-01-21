@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-20T09:31:29.388Z",
+	"timestamp": "2024-01-21T03:33:06.008Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 29.63
+			"chance": 29.63,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 16.52
+			"chance": 16.52,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -96,6 +100,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

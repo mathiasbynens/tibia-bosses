@@ -1,29 +1,35 @@
 {
-	"timestamp": "2024-01-21T09:31:26.399Z",
+	"timestamp": "2024-01-22T03:33:09.596Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 36.14
+			"chance": 36.14,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 30.58
+			"chance": 30.58,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 28.85
+			"chance": 28.85,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 24.24
+			"chance": 24.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.49
+			"chance": 21.49,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,11 +65,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.85
+			"chance": 12.85,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +108,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

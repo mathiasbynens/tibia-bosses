@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-21T09:31:29.265Z",
+	"timestamp": "2024-01-22T03:33:10.418Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 33.54
+			"chance": 33.54,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.2
+			"chance": 15.2,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -84,6 +88,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

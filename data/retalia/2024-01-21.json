@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-21T09:31:32.277Z",
+	"timestamp": "2024-01-22T03:33:11.132Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.47
+			"chance": 19.47,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -100,6 +102,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.8
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

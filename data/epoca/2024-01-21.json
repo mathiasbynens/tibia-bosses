@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-21T09:31:23.445Z",
+	"timestamp": "2024-01-22T03:33:08.723Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.54
+			"chance": 81.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.48
+			"chance": 27.48,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.96
+			"chance": 11.96,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.93
+			"chance": 4.93,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +92,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

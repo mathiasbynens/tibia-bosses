@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-21T09:31:17.580Z",
+	"timestamp": "2024-01-22T03:33:07.436Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.2
+			"chance": 40.2,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 21.72
+			"chance": 21.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.04
+			"chance": 21.04,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.22
+			"chance": 18.22,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -99,11 +104,22 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.56
+			"chance": 5.56,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.54
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

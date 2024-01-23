@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-01-22T09:31:16.988Z",
+	"timestamp": "2024-01-23T03:33:08.448Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.92
+			"chance": 39.92,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 36.17
+			"chance": 36.17,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 29.96
+			"chance": 29.96,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.88
+			"chance": 8.88,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.61
+			"chance": 6.61,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +99,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.87
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

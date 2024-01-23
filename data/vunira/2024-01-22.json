@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-22T09:31:36.385Z",
+	"timestamp": "2024-01-23T03:33:13.799Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 51.18
+			"chance": 51.18,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 38.01
+			"chance": 38.01,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.82
+			"chance": 27.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.47
+			"chance": 19.47,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.53
+			"chance": 13.53,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -107,11 +113,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.35
+			"chance": 3.35,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.05
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

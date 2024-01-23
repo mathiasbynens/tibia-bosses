@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-22T09:31:33.669Z",
+	"timestamp": "2024-01-23T03:33:13.024Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 27.86
+			"chance": 27.86,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.26
+			"chance": 15.26,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.97
+			"chance": 7.97,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +107,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

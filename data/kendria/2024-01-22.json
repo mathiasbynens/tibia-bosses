@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-22T09:31:28.144Z",
+	"timestamp": "2024-01-23T03:33:11.462Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.2
+			"chance": 35.2,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.11
+			"chance": 15.11,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.42
+			"chance": 14.42,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.45
+			"chance": 12.45,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -88,6 +94,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

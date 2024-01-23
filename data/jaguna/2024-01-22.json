@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-22T09:31:25.280Z",
+	"timestamp": "2024-01-23T03:33:10.690Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.51
+			"chance": 12.51,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +104,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

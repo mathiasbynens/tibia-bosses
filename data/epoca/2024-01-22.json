@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-22T09:31:22.532Z",
+	"timestamp": "2024-01-23T03:33:10.121Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -59,11 +59,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.04
+			"chance": 11.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.47
+			"chance": 10.47,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +106,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.17
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

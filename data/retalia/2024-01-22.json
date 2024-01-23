@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-22T09:31:30.836Z",
+	"timestamp": "2024-01-23T03:33:12.080Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.47
+			"chance": 14.47,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

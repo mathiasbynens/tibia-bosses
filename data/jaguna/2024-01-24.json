@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-01-24T09:31:52.611Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.33
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 28.05
+		},
+		{
+			"name": "Dracola",
+			"chance": 25.46
+		},
+		{
+			"name": "Xenia",
+			"chance": 25.42
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 22.38
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.97
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 20.44
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.39
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.2
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.67
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.98
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12.59
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.19
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 8.22
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.92
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.26
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.65
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.28
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.04
+		}
+	]
+}

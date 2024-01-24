@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-23T09:31:34.305Z",
+	"timestamp": "2024-01-24T03:33:06.343Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.05
+			"chance": 22.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -124,6 +126,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.05
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

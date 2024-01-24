@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-23T09:31:45.760Z",
+	"timestamp": "2024-01-24T03:33:14.618Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,15 +45,18 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.73
+			"chance": 16.73,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.19
+			"chance": 16.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +117,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

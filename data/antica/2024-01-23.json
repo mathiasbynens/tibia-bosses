@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-23T09:31:28.245Z",
+	"timestamp": "2024-01-24T03:33:00.826Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.3
+			"chance": 29.3,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 20.83
+			"chance": 20.83,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.8
+			"chance": 18.8,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -92,6 +95,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

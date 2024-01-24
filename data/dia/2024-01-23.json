@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-23T09:31:31.389Z",
+	"timestamp": "2024-01-24T03:33:03.782Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.76
+			"chance": 27.76,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.37
+			"chance": 13.37,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -92,6 +97,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.72
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-24T09:32:07.868Z",
+	"timestamp": "2024-01-25T03:33:18.542Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.06
+			"chance": 62.06,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.65
+			"chance": 59.65,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.39
+			"chance": 41.39,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -112,6 +115,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-24T09:31:49.079Z",
+	"timestamp": "2024-01-25T03:33:14.145Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.1
+			"chance": 53.1,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.96
+			"chance": 11.96,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -120,6 +122,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

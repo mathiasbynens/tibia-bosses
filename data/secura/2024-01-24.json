@@ -1,29 +1,35 @@
 {
-	"timestamp": "2024-01-24T09:32:02.823Z",
+	"timestamp": "2024-01-25T03:33:17.252Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.11
+			"chance": 64.11,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.1
+			"chance": 53.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.74
+			"chance": 52.74,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 27.82
+			"chance": 27.82,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 25.83
+			"chance": 25.83,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.03
+			"chance": 22.03,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +41,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.66
+			"chance": 17.66,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11
+			"chance": 11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +79,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -107,7 +116,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 5.25
+			"chance": 5.25,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -115,7 +125,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.05
+			"chance": 4.05,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -124,6 +135,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

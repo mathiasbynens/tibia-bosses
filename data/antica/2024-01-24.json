@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-24T09:31:40.399Z",
+	"timestamp": "2024-01-25T03:33:12.537Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.61
+			"chance": 22.61,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.35
+			"chance": 22.35,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.02
+			"chance": 8.02,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +100,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

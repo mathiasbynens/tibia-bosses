@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-24T09:31:59.383Z",
+	"timestamp": "2024-01-25T03:33:16.484Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.06
+			"chance": 62.06,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 29.81
+			"chance": 29.81,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.03
+			"chance": 22.03,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.09
+			"chance": 13.09,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -120,6 +125,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

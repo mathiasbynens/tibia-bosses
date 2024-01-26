@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-25T09:31:53.040Z",
+	"timestamp": "2024-01-26T03:33:10.623Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.9
+			"chance": 67.9,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 38.67
+			"chance": 38.67,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.23
+			"chance": 19.23,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -107,7 +110,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.03
+			"chance": 3.03,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

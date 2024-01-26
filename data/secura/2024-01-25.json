@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-25T09:31:49.668Z",
+	"timestamp": "2024-01-26T03:33:09.688Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 19.18
+			"chance": 19.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18
+			"chance": 18,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.19
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

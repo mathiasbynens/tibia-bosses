@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-25T09:31:36.288Z",
+	"timestamp": "2024-01-26T03:33:06.386Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 24.57
+			"chance": 24.57,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -120,6 +122,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.41
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-25T09:31:29.717Z",
+	"timestamp": "2024-01-26T03:33:04.436Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.37
+			"chance": 9.37,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -108,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

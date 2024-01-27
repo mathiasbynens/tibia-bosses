@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-01-27T09:31:30.244Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 93.65
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 61.24
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 48.01
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.89
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 31.05
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 30.1
+		},
+		{
+			"name": "Dracola",
+			"chance": 26.78
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 22.11
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.38
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.16
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.49
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.64
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.11
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.1
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.35
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.12
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.94
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.12
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.51
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.22
+		}
+	]
+}

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-01-26T09:31:26.739Z",
+	"timestamp": "2024-01-27T03:33:08.065Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.18
+			"chance": 74.18,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.71
+			"chance": 69.71,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.05
+			"chance": 62.05,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 56.74
+			"chance": 56.74,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.98
+			"chance": 11.98,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

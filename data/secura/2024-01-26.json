@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-26T09:31:37.823Z",
+	"timestamp": "2024-01-27T03:33:17.906Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.75
+			"chance": 18.75,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +116,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

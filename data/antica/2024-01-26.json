@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-26T09:31:21.320Z",
+	"timestamp": "2024-01-27T03:33:05.587Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.71
+			"chance": 69.71,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.28
+			"chance": 17.28,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,15 +77,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.6
+			"chance": 10.6,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -120,6 +125,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.71
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-26T09:31:29.496Z",
+	"timestamp": "2024-01-27T03:33:10.109Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -92,6 +92,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-26T09:31:35.046Z",
+	"timestamp": "2024-01-27T03:33:17.015Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.2
+			"chance": 40.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -92,6 +95,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

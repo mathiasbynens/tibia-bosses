@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-26T09:31:23.830Z",
+	"timestamp": "2024-01-27T03:33:07.107Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.04
+			"chance": 20.04,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -112,6 +117,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.23
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

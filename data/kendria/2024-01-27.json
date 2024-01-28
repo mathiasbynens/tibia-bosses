@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-27T09:31:27.603Z",
+	"timestamp": "2024-01-28T03:33:05.635Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.63
+			"chance": 81.63,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.07
+			"chance": 12.07,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.5
+			"chance": 7.5,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,7 +86,23 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

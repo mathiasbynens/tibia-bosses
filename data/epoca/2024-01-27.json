@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-27T09:31:21.604Z",
+	"timestamp": "2024-01-28T03:33:03.260Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.88
+			"chance": 14.88,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -87,15 +88,18 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.08
+			"chance": 10.08,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.81
+			"chance": 8.81,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -128,6 +132,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

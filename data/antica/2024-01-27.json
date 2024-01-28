@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-27T09:31:15.651Z",
+	"timestamp": "2024-01-28T03:33:01.381Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 53.57
+			"chance": 53.57,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.72
+			"chance": 20.72,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.81
+			"chance": 6.81,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +129,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

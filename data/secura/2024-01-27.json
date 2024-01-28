@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-27T09:31:33.196Z",
+	"timestamp": "2024-01-28T03:33:08.047Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.1
+			"chance": 62.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 31.16
+			"chance": 31.16,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 18.83
+			"chance": 18.83,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.42
+			"chance": 14.42,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -59,11 +65,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.6
+			"chance": 10.6,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -71,7 +79,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +88,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -120,6 +130,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

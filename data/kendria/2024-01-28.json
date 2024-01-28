@@ -1,0 +1,89 @@
+{
+	"timestamp": "2024-01-28T09:31:31.300Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.09
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.31
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 33.08
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 22.16
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.12
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.22
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.23
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.21
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.66
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 13.8
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.57
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.59
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.29
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Hirintror",
+			"chance": 7.72
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.43
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.95
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.65
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.05
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.44
+		}
+	]
+}

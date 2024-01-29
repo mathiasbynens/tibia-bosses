@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-28T09:31:31.300Z",
+	"timestamp": "2024-01-29T03:33:34.139Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.23
+			"chance": 18.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.8
+			"chance": 13.8,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +87,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.44
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

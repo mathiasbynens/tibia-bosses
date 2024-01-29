@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-28T09:31:28.047Z",
+	"timestamp": "2024-01-29T03:33:33.051Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.31
+			"chance": 28.31,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.37
+			"chance": 20.37,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +88,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

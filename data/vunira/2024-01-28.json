@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-28T09:31:41.037Z",
+	"timestamp": "2024-01-29T03:33:36.999Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 53.65
+			"chance": 53.65,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.84
+			"chance": 22.84,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -128,6 +130,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

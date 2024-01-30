@@ -1,0 +1,85 @@
+{
+	"timestamp": "2024-01-30T09:31:24.126Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 53.65
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 40.69
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.34
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 35.45
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 25.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 24.9
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.2
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.19
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.86
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.91
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.07
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.05
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.04
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.17
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.99
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.87
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.66
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.09
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.1
+		}
+	]
+}

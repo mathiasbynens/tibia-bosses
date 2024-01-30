@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-29T09:31:43.068Z",
+	"timestamp": "2024-01-30T03:33:41.849Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 30.97
+			"chance": 30.97,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 26.75
+			"chance": 26.75,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.85
+			"chance": 7.85,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.03
+			"chance": 4.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +109,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.22
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

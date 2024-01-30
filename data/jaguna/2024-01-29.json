@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-01-29T09:31:34.406Z",
+	"timestamp": "2024-01-30T03:33:39.489Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.73
+			"chance": 69.73,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.63
+			"chance": 28.63,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.73
+			"chance": 19.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.27
+			"chance": 18.27,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.32
+			"chance": 15.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.08
+			"chance": 5.08,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -84,6 +90,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.98
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

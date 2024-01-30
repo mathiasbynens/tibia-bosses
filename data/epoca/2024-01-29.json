@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-29T09:31:31.780Z",
+	"timestamp": "2024-01-30T03:33:38.255Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 26.23
+			"chance": 26.23,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -100,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

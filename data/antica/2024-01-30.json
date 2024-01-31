@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-30T09:31:12.723Z",
+	"timestamp": "2024-01-31T03:33:11.848Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.79
+			"chance": 16.79,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -92,6 +96,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.07
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

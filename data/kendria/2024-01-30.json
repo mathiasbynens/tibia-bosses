@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-01-30T09:31:27.357Z",
+	"timestamp": "2024-01-31T03:33:14.693Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 34.75
+			"chance": 34.75,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.99
+			"chance": 15.99,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,11 +100,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.26
+			"chance": 7.26,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.64
+			"chance": 6.64,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -107,11 +114,23 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.9
+			"chance": 3.9,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

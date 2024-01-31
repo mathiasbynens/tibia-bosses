@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-30T09:31:24.126Z",
+	"timestamp": "2024-01-31T03:33:14.009Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 40.69
+			"chance": 40.69,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.34
+			"chance": 37.34,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.07
+			"chance": 12.07,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -80,6 +84,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

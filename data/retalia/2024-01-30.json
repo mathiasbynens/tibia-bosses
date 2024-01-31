@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-30T09:31:32.026Z",
+	"timestamp": "2024-01-31T03:33:15.441Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.56
+			"chance": 13.56,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +105,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

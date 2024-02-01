@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-02-01T09:31:27.506Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.31
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 25.99
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.5
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.56
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.62
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.06
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.53
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.06
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.97
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 5.66
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.2
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.87
+		}
+	]
+}

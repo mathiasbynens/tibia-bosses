@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-31T09:31:35.220Z",
+	"timestamp": "2024-02-01T03:33:16.990Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.02
+			"chance": 30.02,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.1
+			"chance": 9.1,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +102,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.45
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

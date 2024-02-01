@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-31T09:31:25.969Z",
+	"timestamp": "2024-02-01T03:33:11.833Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.32
+			"chance": 23.32,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.05
+			"chance": 6.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +129,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.07
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-01-31T09:31:41.126Z",
+	"timestamp": "2024-02-01T03:33:21.879Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.34
+			"chance": 37.34,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.71
+			"chance": 33.71,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.78
+			"chance": 20.78,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 7.3
+			"chance": 7.3,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -120,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-01T09:31:33.267Z",
+	"timestamp": "2024-02-02T03:33:10.348Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 47.97
+			"chance": 47.97,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.79
+			"chance": 27.79,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.24
+			"chance": 18.24,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.9
+			"chance": 7.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

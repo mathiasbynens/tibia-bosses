@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-01T09:31:24.758Z",
+	"timestamp": "2024-02-02T03:33:04.413Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.46
+			"chance": 23.46,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

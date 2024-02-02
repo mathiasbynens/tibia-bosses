@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-01T09:31:19.103Z",
+	"timestamp": "2024-02-02T03:33:00.051Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.71
+			"chance": 79.71,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.15
+			"chance": 13.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +95,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

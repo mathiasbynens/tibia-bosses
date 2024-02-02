@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-01T09:31:36.146Z",
+	"timestamp": "2024-02-02T03:33:12.825Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.88
+			"chance": 93.88,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.04
+			"chance": 65.04,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 24.38
+			"chance": 24.38,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.2
+			"chance": 19.2,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.65
+			"chance": 15.65,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +71,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 13.33
+			"chance": 13.33,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +84,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.47
+			"chance": 9.47,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -112,6 +122,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

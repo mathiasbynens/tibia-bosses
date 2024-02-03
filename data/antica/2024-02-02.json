@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-02T09:31:11.890Z",
+	"timestamp": "2024-02-03T03:33:02.007Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.19
+			"chance": 19.19,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.8
+			"chance": 12.8,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.47
+			"chance": 10.47,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -116,6 +120,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.07
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

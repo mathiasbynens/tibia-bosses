@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-02T09:31:20.633Z",
+	"timestamp": "2024-02-03T03:33:08.017Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.56
+			"chance": 8.56,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -87,7 +88,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.74
+			"chance": 4.74,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

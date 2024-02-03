@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-02T09:31:26.729Z",
+	"timestamp": "2024-02-03T03:33:09.771Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 45.58
+			"chance": 45.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -108,6 +110,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

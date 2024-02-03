@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-02T09:31:29.570Z",
+	"timestamp": "2024-02-03T03:33:10.572Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.75
+			"chance": 69.75,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 27.93
+			"chance": 27.93,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.75
+			"chance": 16.75,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.71
+			"chance": 13.71,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.16
+			"chance": 10.16,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.82
+			"chance": 7.82,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -112,6 +119,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.18
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

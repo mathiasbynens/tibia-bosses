@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-02T09:31:23.367Z",
+	"timestamp": "2024-02-03T03:33:09.071Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.27
+			"chance": 61.27,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.81
+			"chance": 19.81,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 6.71
+			"chance": 6.71,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -108,6 +111,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.21
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

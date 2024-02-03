@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-02T09:31:32.382Z",
+	"timestamp": "2024-02-03T03:33:14.028Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 41.47
+			"chance": 41.47,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.4
+			"chance": 27.4,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -72,6 +76,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.75
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

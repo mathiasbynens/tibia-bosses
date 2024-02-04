@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-03T09:31:25.395Z",
+	"timestamp": "2024-02-04T03:33:02.822Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.22
+			"chance": 41.22,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 28.96
+			"chance": 28.96,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 24.2
+			"chance": 24.2,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.3
+			"chance": 20.3,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,11 +39,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.21
+			"chance": 16.21,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -115,7 +122,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.06
+			"chance": 2.06,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

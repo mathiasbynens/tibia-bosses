@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-03T09:31:33.220Z",
+	"timestamp": "2024-02-04T03:33:07.065Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -72,6 +74,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.16
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

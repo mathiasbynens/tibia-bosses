@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-03T09:31:17.899Z",
+	"timestamp": "2024-02-04T03:32:59.970Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 40.72
+			"chance": 40.72,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.46
+			"chance": 10.46,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +102,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.02
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

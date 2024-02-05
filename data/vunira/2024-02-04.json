@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-04T09:31:43.163Z",
+	"timestamp": "2024-02-05T03:33:20.622Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.48
+			"chance": 11.48,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +97,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

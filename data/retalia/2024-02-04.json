@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-04T09:31:37.823Z",
+	"timestamp": "2024-02-05T03:33:17.252Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.64
+			"chance": 79.64,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.06
+			"chance": 65.06,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 24.52
+			"chance": 24.52,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -104,6 +107,26 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.97
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

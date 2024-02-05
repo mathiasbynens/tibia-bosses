@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-04T09:31:22.659Z",
+	"timestamp": "2024-02-05T03:33:01.781Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 23.56
+			"chance": 23.56,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 19.69
+			"chance": 19.69,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.8
+			"chance": 18.8,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,15 +42,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.03
+			"chance": 18.03,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.46
+			"chance": 14.46,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.91
+			"chance": 12.91,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -104,6 +112,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.16
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

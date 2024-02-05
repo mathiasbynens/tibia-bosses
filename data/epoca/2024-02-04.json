@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-04T09:31:28.438Z",
+	"timestamp": "2024-02-05T03:33:05.134Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -124,6 +125,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

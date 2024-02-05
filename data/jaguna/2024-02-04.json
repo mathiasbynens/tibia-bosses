@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-04T09:31:31.459Z",
+	"timestamp": "2024-02-05T03:33:05.966Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.12
+			"chance": 62.12,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.39
+			"chance": 19.39,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.03
+			"chance": 18.03,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.37
+			"chance": 17.37,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.07
+			"chance": 12.07,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -132,6 +138,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-04T09:31:25.551Z",
+	"timestamp": "2024-02-05T03:33:04.283Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 31.18
+			"chance": 31.18,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.48
+			"chance": 21.48,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.35
+			"chance": 15.35,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.3
+			"chance": 10.3,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -100,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

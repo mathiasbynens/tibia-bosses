@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-05T09:31:44.095Z",
+	"timestamp": "2024-02-06T03:33:02.673Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.77
+			"chance": 9.77,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.4
+			"chance": 3.4,
+			"killed": true
 		}
 	]
 }

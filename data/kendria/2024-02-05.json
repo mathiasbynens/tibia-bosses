@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-05T09:31:53.899Z",
+	"timestamp": "2024-02-06T03:33:10.483Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.12
+			"chance": 62.12,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 40.79
+			"chance": 40.79,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.18
+			"chance": 35.18,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -120,6 +124,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.15
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

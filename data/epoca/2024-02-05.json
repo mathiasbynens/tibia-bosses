@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-05T09:31:47.375Z",
+	"timestamp": "2024-02-06T03:33:05.107Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 68.18
+			"chance": 68.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.61
+			"chance": 28.61,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -124,6 +128,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

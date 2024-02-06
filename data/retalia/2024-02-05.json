@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-05T09:31:57.235Z",
+	"timestamp": "2024-02-06T03:33:12.293Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -79,7 +79,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +93,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.3
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

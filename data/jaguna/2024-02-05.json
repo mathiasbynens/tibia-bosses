@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-05T09:31:50.669Z",
+	"timestamp": "2024-02-06T03:33:07.448Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.09
+			"chance": 53.09,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 40.79
+			"chance": 40.79,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -112,6 +117,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.88
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

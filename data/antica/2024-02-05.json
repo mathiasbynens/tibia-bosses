@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-05T09:31:40.419Z",
+	"timestamp": "2024-02-06T03:32:59.561Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.91
+			"chance": 39.91,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.4
+			"chance": 20.4,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -96,6 +100,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.02
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

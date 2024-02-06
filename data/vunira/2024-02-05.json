@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-05T09:32:03.835Z",
+	"timestamp": "2024-02-06T03:33:16.256Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 31.18
+			"chance": 31.18,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.27
+			"chance": 19.27,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.24
+			"chance": 10.24,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -120,6 +125,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.59
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

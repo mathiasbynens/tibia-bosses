@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-07T09:31:25.284Z",
+	"timestamp": "2024-02-08T03:33:15.759Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.33
+			"chance": 37.33,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.59
+			"chance": 14.59,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.06
+			"chance": 11.06,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.94
+			"chance": 9.94,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,7 +111,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.23
+			"chance": 2.23,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

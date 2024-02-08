@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-07T09:31:05.872Z",
+	"timestamp": "2024-02-08T03:33:07.903Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 51.38
+			"chance": 51.38,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.65
+			"chance": 15.65,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -116,6 +120,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.27
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-07T09:31:16.934Z",
+	"timestamp": "2024-02-08T03:33:12.262Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.93
+			"chance": 27.93,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.67
+			"chance": 19.67,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.67
+			"chance": 18.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.06
+			"chance": 15.06,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +109,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.74
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

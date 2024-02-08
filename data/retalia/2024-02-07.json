@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-07T09:31:19.880Z",
+	"timestamp": "2024-02-08T03:33:12.928Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,19 +15,23 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 27.71
+			"chance": 27.71,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 22.95
+			"chance": 22.95,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 19.96
+			"chance": 19.96,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.22
+			"chance": 16.22,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.39
+			"chance": 7.39,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +110,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 5.69
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

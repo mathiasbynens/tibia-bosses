@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-07T09:31:22.591Z",
+	"timestamp": "2024-02-08T03:33:13.728Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.33
+			"chance": 37.33,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.72
+			"chance": 33.72,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 31.43
+			"chance": 31.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -116,6 +121,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

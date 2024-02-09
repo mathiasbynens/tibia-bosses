@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-08T09:31:25.678Z",
+	"timestamp": "2024-02-09T03:33:08.600Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.16
+			"chance": 62.16,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.12
+			"chance": 13.12,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.79
+			"chance": 10.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +96,11 @@
 		{
 			"name": "Xenia",
 			"chance": 5.8
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-08T09:31:16.894Z",
+	"timestamp": "2024-02-09T03:33:05.945Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.04
+			"chance": 43.04,
+			"killed": true
 		},
 		{
 			"name": "yeti",

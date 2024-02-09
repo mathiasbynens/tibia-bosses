@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-08T09:31:19.806Z",
+	"timestamp": "2024-02-09T03:33:06.902Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.23
+			"chance": 31.23,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.42
+			"chance": 24.42,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -96,6 +99,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

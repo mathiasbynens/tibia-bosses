@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-09T09:31:34.878Z",
+	"timestamp": "2024-02-10T03:33:04.039Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 27.98
+			"chance": 27.98,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 25.95
+			"chance": 25.95,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.48
+			"chance": 21.48,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.26
+			"chance": 18.26,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -132,6 +136,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.28
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

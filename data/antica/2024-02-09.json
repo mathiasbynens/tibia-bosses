@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-09T09:31:31.743Z",
+	"timestamp": "2024-02-10T03:33:00.854Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 45.62
+			"chance": 45.62,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.84
+			"chance": 23.84,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.78
+			"chance": 9.78,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.58
+			"chance": 5.58,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -108,6 +114,36 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

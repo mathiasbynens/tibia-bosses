@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-09T09:31:45.162Z",
+	"timestamp": "2024-02-10T03:33:09.169Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.49
+			"chance": 13.49,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.46
+			"chance": 10.46,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-09T09:31:48.418Z",
+	"timestamp": "2024-02-10T03:33:11.206Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -88,6 +89,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.27
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

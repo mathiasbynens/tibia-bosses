@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-10T09:31:29.182Z",
+	"timestamp": "2024-02-11T03:33:07.970Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 31.19
+			"chance": 31.19,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.39
+			"chance": 17.39,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -132,6 +137,31 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.89
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

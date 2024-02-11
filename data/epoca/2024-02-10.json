@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-10T09:31:34.818Z",
+	"timestamp": "2024-02-11T03:33:11.075Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

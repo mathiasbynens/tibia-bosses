@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-10T09:31:48.450Z",
+	"timestamp": "2024-02-11T03:33:19.760Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.93
+			"chance": 20.93,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.32
+			"chance": 15.32,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 14.71
+			"chance": 14.71,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.1
+			"chance": 8.1,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +116,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

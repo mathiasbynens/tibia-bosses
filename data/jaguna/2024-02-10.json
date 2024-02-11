@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-10T09:31:37.463Z",
+	"timestamp": "2024-02-11T03:33:13.838Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 19.44
+			"chance": 19.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -100,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

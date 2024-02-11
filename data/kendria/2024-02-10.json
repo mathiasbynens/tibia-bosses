@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-10T09:31:40.292Z",
+	"timestamp": "2024-02-11T03:33:16.402Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.72
+			"chance": 33.72,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.94
+			"chance": 28.94,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.51
+			"chance": 4.51,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +101,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

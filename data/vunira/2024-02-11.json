@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-11T09:31:41.404Z",
+	"timestamp": "2024-02-12T03:33:17.389Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 40.86
+			"chance": 40.86,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.27
+			"chance": 35.27,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 19.45
+			"chance": 19.45,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -108,6 +113,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

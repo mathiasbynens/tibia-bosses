@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-11T09:31:24.712Z",
+	"timestamp": "2024-02-12T03:33:10.012Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.04
+			"chance": 22.04,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.94
+			"chance": 6.94,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.87
+			"chance": 4.87,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -115,7 +121,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.27
+			"chance": 2.27,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

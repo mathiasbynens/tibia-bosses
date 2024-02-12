@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-11T09:31:33.501Z",
+	"timestamp": "2024-02-12T03:33:13.413Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.73
+			"chance": 79.73,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.86
+			"chance": 13.86,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +103,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.44
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-11T09:31:30.400Z",
+	"timestamp": "2024-02-12T03:33:12.354Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 40.86
+			"chance": 40.86,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 31.22
+			"chance": 31.22,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +115,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.34
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

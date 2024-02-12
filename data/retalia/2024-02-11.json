@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-11T09:31:36.172Z",
+	"timestamp": "2024-02-12T03:33:14.691Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 28
+			"chance": 28,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -87,7 +88,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.95
+			"chance": 2.95,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

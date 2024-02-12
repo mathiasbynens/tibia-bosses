@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-11T09:31:22.128Z",
+	"timestamp": "2024-02-12T03:33:08.224Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.73
+			"chance": 79.73,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -124,6 +128,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.13
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

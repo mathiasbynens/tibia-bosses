@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-12T09:31:28.193Z",
+	"timestamp": "2024-02-13T03:33:26.051Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 24.79
+			"chance": 24.79,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.8
+			"chance": 13.8,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -116,6 +120,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.23
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-12T09:31:22.893Z",
+	"timestamp": "2024-02-13T03:33:24.081Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.82
+			"chance": 15.82,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.38
+			"chance": 11.38,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +112,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.31
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

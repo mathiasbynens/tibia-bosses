@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-12T09:31:20.129Z",
+	"timestamp": "2024-02-13T03:33:23.081Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.82
+			"chance": 59.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 20.7
+			"chance": 20.7,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,11 +87,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.31
+			"chance": 7.31,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -124,6 +130,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.31
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

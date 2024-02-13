@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-12T09:31:30.901Z",
+	"timestamp": "2024-02-13T03:33:27.623Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 51.35
+			"chance": 51.35,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.34
+			"chance": 39.34,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 5.93
+			"chance": 5.93,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -100,6 +103,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.11
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

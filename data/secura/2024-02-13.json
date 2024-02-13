@@ -1,0 +1,109 @@
+{
+	"timestamp": "2024-02-13T09:31:40.559Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.34
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.31
+		},
+		{
+			"name": "The Imperor",
+			"chance": 24.86
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 23.33
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.18
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.5
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.24
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 20.38
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.32
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.84
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.57
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.95
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 14.81
+		},
+		{
+			"name": "Zushuka",
+			"chance": 14.56
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.8
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 12.03
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.09
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.04
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.56
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.86
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.32
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.32
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.06
+		}
+	]
+}

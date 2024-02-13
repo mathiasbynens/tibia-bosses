@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-02-13T09:31:43.771Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.31
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.65
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 28.6
+		},
+		{
+			"name": "yeti",
+			"chance": 21.79
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.4
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.59
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.97
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.84
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.57
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.26
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 16.88
+		},
+		{
+			"name": "Massacre",
+			"chance": 15.85
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.6
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 13.87
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 13.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.08
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.36
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.25
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.18
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.44
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.57
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.63
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.68
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.81
+		}
+	]
+}

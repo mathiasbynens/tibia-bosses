@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-13T09:31:20.979Z",
+	"timestamp": "2024-02-14T03:34:00.380Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 77.55
+			"chance": 77.55,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.09
+			"chance": 30.09,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 22.02
+			"chance": 22.02,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,15 +52,18 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.22
+			"chance": 15.22,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -63,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +80,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -111,7 +121,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 3.98
+			"chance": 3.98,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -123,7 +134,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.12
+			"chance": 2.12,
+			"killed": true
 		}
 	]
 }

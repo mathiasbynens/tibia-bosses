@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-13T09:31:30.827Z",
+	"timestamp": "2024-02-14T03:34:04.187Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.77
+			"chance": 69.77,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.12
+			"chance": 53.12,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.87
+			"chance": 23.87,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.01
+			"chance": 21.01,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -107,7 +114,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.36
+			"chance": 9.36,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -144,6 +152,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.62
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-13T09:31:27.656Z",
+	"timestamp": "2024-02-14T03:34:03.256Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.14
+			"chance": 21.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +94,36 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

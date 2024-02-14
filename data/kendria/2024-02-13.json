@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-13T09:31:34.151Z",
+	"timestamp": "2024-02-14T03:34:04.985Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.77
+			"chance": 69.77,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.44
+			"chance": 24.44,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.42
+			"chance": 7.42,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -112,6 +117,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.16
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

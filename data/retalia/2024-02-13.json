@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-13T09:31:37.263Z",
+	"timestamp": "2024-02-14T03:34:05.895Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.39
+			"chance": 23.39,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.35
+			"chance": 11.35,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

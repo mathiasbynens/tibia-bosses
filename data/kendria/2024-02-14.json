@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-14T09:31:38.216Z",
+	"timestamp": "2024-02-15T03:32:55.122Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.36
+			"chance": 20.36,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.84
+			"chance": 18.84,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.21
+			"chance": 6.21,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +112,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 3.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

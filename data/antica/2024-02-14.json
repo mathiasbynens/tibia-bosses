@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-14T09:31:26.544Z",
+	"timestamp": "2024-02-15T03:32:50.250Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.02
+			"chance": 65.02,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 26.32
+			"chance": 26.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.73
+			"chance": 15.73,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.4
+			"chance": 15.4,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,11 +49,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -55,7 +63,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.06
+			"chance": 10.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +93,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.3
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

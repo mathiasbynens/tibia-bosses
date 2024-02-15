@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-02-14T09:31:35.365Z",
+	"timestamp": "2024-02-15T03:32:54.162Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.05
+			"chance": 64.05,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 51.38
+			"chance": 51.38,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.22
+			"chance": 40.22,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.33
+			"chance": 37.33,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 26.32
+			"chance": 26.32,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.02
+			"chance": 21.02,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.17
+			"chance": 8.17,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +128,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.85
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

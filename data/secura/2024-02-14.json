@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-14T09:31:43.788Z",
+	"timestamp": "2024-02-15T03:32:56.436Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.33
+			"chance": 37.33,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.96
+			"chance": 17.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.34
+			"chance": 12.34,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.53
+			"chance": 11.53,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -96,6 +101,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.01
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-14T09:31:46.537Z",
+	"timestamp": "2024-02-15T03:32:57.267Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.85
+			"chance": 19.85,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.44
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

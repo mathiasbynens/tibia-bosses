@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-15T09:31:36.819Z",
+	"timestamp": "2024-02-16T03:32:59.176Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.12
+			"chance": 53.12,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 48.21
+			"chance": 48.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.01
+			"chance": 35.01,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,11 +69,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.36
+			"chance": 9.36,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -99,7 +107,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.28
+			"chance": 3.28,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

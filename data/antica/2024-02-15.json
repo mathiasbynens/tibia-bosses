@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-15T09:31:19.872Z",
+	"timestamp": "2024-02-16T03:32:52.895Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.27
+			"chance": 42.27,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -76,6 +78,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

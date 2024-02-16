@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-15T09:31:25.687Z",
+	"timestamp": "2024-02-16T03:32:54.602Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.77
+			"chance": 69.77,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -72,6 +74,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.2
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-02-16T09:31:22.869Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 40.86
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.74
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.3
+		},
+		{
+			"name": "Dracola",
+			"chance": 17.86
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.24
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 14.61
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 13.91
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 13.69
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.89
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.04
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.6
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.38
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.99
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.99
+		},
+		{
+			"name": "The Abomination",
+			"chance": 6.63
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.64
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.43
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.43
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.02
+		}
+	]
+}

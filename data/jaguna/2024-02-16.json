@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-02-16T09:31:31.459Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 29.5
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 23.84
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.17
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.98
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.29
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.01
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 15.45
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.91
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.74
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.73
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.66
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.99
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.54
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.73
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.64
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.31
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 3.74
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 2.51
+		}
+	]
+}

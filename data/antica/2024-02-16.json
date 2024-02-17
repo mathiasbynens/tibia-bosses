@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-16T09:31:22.869Z",
+	"timestamp": "2024-02-17T03:33:22.938Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 14.61
+			"chance": 14.61,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 6.63
+			"chance": 6.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +96,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

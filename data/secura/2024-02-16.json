@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-16T09:31:39.994Z",
+	"timestamp": "2024-02-17T03:33:29.321Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.79
+			"chance": 27.79,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +102,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.77
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

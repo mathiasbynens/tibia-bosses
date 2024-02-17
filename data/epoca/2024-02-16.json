@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-16T09:31:28.626Z",
+	"timestamp": "2024-02-17T03:33:25.820Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.78
+			"chance": 79.78,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -64,6 +65,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

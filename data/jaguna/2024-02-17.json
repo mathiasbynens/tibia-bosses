@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-02-17T09:31:29.727Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 40.86
+		},
+		{
+			"name": "Barbaria",
+			"chance": 33.47
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.55
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 17.82
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.32
+		},
+		{
+			"name": "Tyrn",
+			"chance": 17.1
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 16.44
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.93
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.03
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.41
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.22
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.42
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.37
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.28
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.64
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.87
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.15
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 2.99
+		}
+	]
+}

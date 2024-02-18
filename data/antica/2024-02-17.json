@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-17T09:31:22.092Z",
+	"timestamp": "2024-02-18T03:33:21.988Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.02
+			"chance": 35.02,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 5.73
+			"chance": 5.73,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +98,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

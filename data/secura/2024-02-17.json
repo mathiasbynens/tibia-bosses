@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-02-17T09:31:37.943Z",
+	"timestamp": "2024-02-18T03:33:27.650Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.46
+			"chance": 79.46,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 31.54
+			"chance": 31.54,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.52
+			"chance": 29.52,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 28.1
+			"chance": 28.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.7
+			"chance": 18.7,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.99
+			"chance": 6.99,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -104,6 +112,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

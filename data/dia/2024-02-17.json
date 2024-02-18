@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-02-17T09:31:24.600Z",
+	"timestamp": "2024-02-18T03:33:22.676Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 55.78
+			"chance": 55.78,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 33.47
+			"chance": 33.47,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.15
+			"chance": 30.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +126,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

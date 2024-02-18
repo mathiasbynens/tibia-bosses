@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-17T09:31:27.103Z",
+	"timestamp": "2024-02-18T03:33:23.508Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -80,6 +80,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.64
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

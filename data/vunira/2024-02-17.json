@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-17T09:31:40.799Z",
+	"timestamp": "2024-02-18T03:33:28.591Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.32
+			"chance": 38.32,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.39
+			"chance": 9.39,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.21
+			"chance": 8.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.28
+			"chance": 7.28,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -96,6 +102,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.15
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-18T09:31:26.334Z",
+	"timestamp": "2024-02-19T03:33:05.208Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.15
+			"chance": 74.15,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.13
+			"chance": 53.13,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.87
+			"chance": 23.87,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.77
+			"chance": 22.77,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",

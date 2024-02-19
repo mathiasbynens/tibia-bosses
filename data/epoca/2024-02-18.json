@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-18T09:31:21.090Z",
+	"timestamp": "2024-02-19T03:33:03.306Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 41.93
+			"chance": 41.93,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.24
+			"chance": 21.24,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.3
+			"chance": 18.3,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -72,6 +76,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.41
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

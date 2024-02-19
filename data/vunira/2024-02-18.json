@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-18T09:31:34.559Z",
+	"timestamp": "2024-02-19T03:33:08.063Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 41.57
+			"chance": 41.57,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.55
+			"chance": 29.55,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.69
+			"chance": 13.69,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -96,6 +99,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.41
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

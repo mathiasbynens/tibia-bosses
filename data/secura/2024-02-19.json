@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-19T09:31:37.601Z",
+	"timestamp": "2024-02-20T03:33:01.186Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 65.87
+			"chance": 65.87,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 26.45
+			"chance": 26.45,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.89
+			"chance": 5.89,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -108,6 +113,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-19T09:31:29.286Z",
+	"timestamp": "2024-02-20T03:32:58.504Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 31.54
+			"chance": 31.54,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 26.34
+			"chance": 26.34,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 24.54
+			"chance": 24.54,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

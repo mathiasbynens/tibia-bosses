@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-19T09:31:26.477Z",
+	"timestamp": "2024-02-20T03:32:57.597Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.15
+			"chance": 53.15,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.48
+			"chance": 23.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-19T09:31:20.693Z",
+	"timestamp": "2024-02-20T03:32:55.941Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 41.53
+			"chance": 41.53,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.4
+			"chance": 37.4,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 28.06
+			"chance": 28.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.94
+			"chance": 3.94,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

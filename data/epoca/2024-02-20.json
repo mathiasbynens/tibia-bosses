@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-20T09:31:22.502Z",
+	"timestamp": "2024-02-21T03:32:56.883Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.33
+			"chance": 29.33,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -92,6 +93,21 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.54
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

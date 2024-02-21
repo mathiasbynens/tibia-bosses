@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-20T09:31:37.914Z",
+	"timestamp": "2024-02-21T03:33:03.365Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 42.02
+			"chance": 42.02,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.97
+			"chance": 12.97,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.03
+			"chance": 12.03,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.4
+			"chance": 9.4,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +101,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.33
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-20T09:31:28.286Z",
+	"timestamp": "2024-02-21T03:32:59.619Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 42.02
+			"chance": 42.02,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.48
+			"chance": 23.48,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 21.34
+			"chance": 21.34,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.98
+			"chance": 10.98,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -116,6 +122,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-21T09:31:26.001Z",
+	"timestamp": "2024-02-22T03:33:11.651Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.42
+			"chance": 37.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -83,11 +86,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.08
+			"chance": 6.08,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -120,6 +126,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.78
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

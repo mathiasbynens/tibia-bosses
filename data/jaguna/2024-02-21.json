@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-21T09:31:22.582Z",
+	"timestamp": "2024-02-22T03:33:09.926Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 25.51
+			"chance": 25.51,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 16.74
+			"chance": 16.74,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.78
+			"chance": 15.78,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +103,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.63
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

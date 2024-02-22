@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-21T09:31:29.137Z",
+	"timestamp": "2024-02-22T03:33:12.378Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 17.27
+			"chance": 17.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.36
+			"chance": 10.36,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -80,6 +83,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.19
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

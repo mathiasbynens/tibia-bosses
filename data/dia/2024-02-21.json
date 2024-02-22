@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-21T09:31:14.829Z",
+	"timestamp": "2024-02-22T03:33:08.543Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.33
+			"chance": 39.33,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.73
+			"chance": 14.73,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.06
+			"chance": 11.06,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -107,11 +111,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.1
+			"chance": 3.1,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
 			"chance": 2.54
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

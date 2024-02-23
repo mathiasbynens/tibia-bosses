@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-22T09:31:32.893Z",
+	"timestamp": "2024-02-23T03:33:13.999Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -55,11 +55,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.45
+			"chance": 15.45,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +106,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-22T09:31:21.841Z",
+	"timestamp": "2024-02-23T03:33:11.310Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25
+			"chance": 25,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8
+			"chance": 8,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.36
+			"chance": 3.36,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

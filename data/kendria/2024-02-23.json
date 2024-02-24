@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-02-23T09:31:32.615Z",
+	"timestamp": "2024-02-24T03:33:39.859Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 47.66
+			"chance": 47.66,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 47.41
+			"chance": 47.41,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.22
+			"chance": 40.22,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.17
+			"chance": 19.17,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,11 +44,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.37
+			"chance": 17.37,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -71,11 +79,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 9.96
+			"chance": 9.96,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -95,7 +105,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.6
+			"chance": 5.6,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +127,46 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

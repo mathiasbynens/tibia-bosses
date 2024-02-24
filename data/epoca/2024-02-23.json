@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-23T09:31:26.587Z",
+	"timestamp": "2024-02-24T03:33:38.047Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.78
+			"chance": 80.78,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -80,6 +81,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

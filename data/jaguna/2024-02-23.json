@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-23T09:31:29.679Z",
+	"timestamp": "2024-02-24T03:33:38.967Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.11
+			"chance": 22.11,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.46
+			"chance": 8.46,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.45
+			"chance": 8.45,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -92,6 +96,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.21
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

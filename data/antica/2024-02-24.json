@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-02-24T09:31:18.286Z",
+	"bosses": [
+		{
+			"name": "The Big Bad One",
+			"chance": 26.57
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 25.62
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 18.79
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 17.08
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.93
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.07
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.44
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.72
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.71
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.43
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.21
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.02
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.55
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.53
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.72
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.64
+		},
+		{
+			"name": "yeti",
+			"chance": 5.79
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.1
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.93
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.63
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.05
+		}
+	]
+}

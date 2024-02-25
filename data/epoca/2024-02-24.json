@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-24T09:31:23.667Z",
+	"timestamp": "2024-02-25T03:32:50.582Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.98
+			"chance": 52.98,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.07
+			"chance": 14.07,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.24
+			"chance": 10.24,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -92,6 +95,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.95
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

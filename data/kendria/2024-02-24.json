@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-24T09:31:29.142Z",
+	"timestamp": "2024-02-25T03:32:52.182Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 5.98
+			"chance": 5.98,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -88,6 +89,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

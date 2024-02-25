@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-24T09:31:34.866Z",
+	"timestamp": "2024-02-25T03:32:53.700Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 45.78
+			"chance": 45.78,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 17.28
+			"chance": 17.28,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 8.79
+			"chance": 8.79,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -111,7 +115,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.95
+			"chance": 3.95,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +125,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

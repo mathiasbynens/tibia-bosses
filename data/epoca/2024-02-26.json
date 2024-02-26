@@ -1,0 +1,85 @@
+{
+	"timestamp": "2024-02-26T09:31:20.254Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 35.45
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 29.6
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.32
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 28.77
+		},
+		{
+			"name": "Massacre",
+			"chance": 28.06
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.49
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 23.42
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.73
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 20.52
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.03
+		},
+		{
+			"name": "yeti",
+			"chance": 16.54
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.48
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.98
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.07
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.23
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.98
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 6.17
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.61
+		}
+	]
+}

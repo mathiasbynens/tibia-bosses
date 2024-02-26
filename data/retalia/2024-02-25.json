@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-25T09:31:22.935Z",
+	"timestamp": "2024-02-26T03:33:08.203Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.79
+			"chance": 5.79,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +102,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

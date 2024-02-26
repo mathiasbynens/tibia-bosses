@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-25T09:31:12.615Z",
+	"timestamp": "2024-02-26T03:33:05.183Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.56
+			"chance": 81.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.83
+			"chance": 12.83,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.96
+			"chance": 11.96,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +116,41 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

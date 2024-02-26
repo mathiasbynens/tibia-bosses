@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-25T09:31:20.355Z",
+	"timestamp": "2024-02-26T03:33:07.468Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.21
+			"chance": 42.21,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.74
+			"chance": 33.74,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -100,6 +102,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.54
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

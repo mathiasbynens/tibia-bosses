@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-02-25T09:31:25.631Z",
+	"timestamp": "2024-02-26T03:33:08.916Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 28.7
+			"chance": 28.7,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.47
+			"chance": 27.47,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.97
+			"chance": 24.97,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.27
+			"chance": 10.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -136,6 +141,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

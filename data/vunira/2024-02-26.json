@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-02-26T09:31:34.430Z",
+	"timestamp": "2024-02-27T03:33:59.352Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.74
+			"chance": 69.74,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.67
+			"chance": 53.67,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26
+			"chance": 26,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 3.76
+			"chance": 3.76,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

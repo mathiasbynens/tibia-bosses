@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-26T09:31:28.746Z",
+	"timestamp": "2024-02-27T03:33:56.959Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.35
+			"chance": 38.35,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26
+			"chance": 26,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -96,6 +98,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.26
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

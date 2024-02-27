@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-26T09:31:23.182Z",
+	"timestamp": "2024-02-27T03:33:55.247Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 19.82
+			"chance": 19.82,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.51
+			"chance": 8.51,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +95,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

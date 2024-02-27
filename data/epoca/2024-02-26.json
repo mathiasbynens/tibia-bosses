@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-26T09:31:20.254Z",
+	"timestamp": "2024-02-27T03:33:54.493Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.07
+			"chance": 11.07,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +82,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.61
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

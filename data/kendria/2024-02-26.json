@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-26T09:31:25.895Z",
+	"timestamp": "2024-02-27T03:33:56.167Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 40.99
+			"chance": 40.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.08
+			"chance": 21.08,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.98
+			"chance": 10.98,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

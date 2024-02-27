@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-26T09:31:31.522Z",
+	"timestamp": "2024-02-27T03:33:58.229Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.76
+			"chance": 17.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.59
+			"chance": 14.59,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -115,7 +122,23 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.1
+			"chance": 3.1,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

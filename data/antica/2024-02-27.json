@@ -1,25 +1,30 @@
 {
-	"timestamp": "2024-02-27T09:31:16.394Z",
+	"timestamp": "2024-02-28T03:33:16.919Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 42.16
+			"chance": 42.16,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.32
+			"chance": 29.32,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.66
+			"chance": 28.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,7 +32,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.56
+			"chance": 20.56,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.3
+			"chance": 16.3,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +116,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

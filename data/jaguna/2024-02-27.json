@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-27T09:31:26.915Z",
+	"timestamp": "2024-02-28T03:33:19.058Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.13
+			"chance": 53.13,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.44
+			"chance": 27.44,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -104,6 +107,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

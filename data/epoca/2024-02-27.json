@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-27T09:31:23.618Z",
+	"timestamp": "2024-02-28T03:33:18.400Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.23
+			"chance": 42.23,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 31.77
+			"chance": 31.77,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -88,6 +90,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 5.44
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

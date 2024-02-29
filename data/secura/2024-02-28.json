@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-28T09:32:54.321Z",
+	"timestamp": "2024-02-29T03:33:54.514Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,19 +19,23 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.29
+			"chance": 22.29,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.21
+			"chance": 22.21,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.01
+			"chance": 21.01,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 19.64
+			"chance": 19.64,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.69
+			"chance": 17.69,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.2
+			"chance": 11.2,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -99,11 +105,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.6
+			"chance": 5.6,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

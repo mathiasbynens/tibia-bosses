@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-28T09:31:39.437Z",
+	"timestamp": "2024-02-29T03:33:50.354Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.84
+			"chance": 12.84,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.84
+			"chance": 5.84,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

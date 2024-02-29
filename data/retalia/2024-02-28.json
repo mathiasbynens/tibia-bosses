@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-02-28T09:32:44.387Z",
+	"timestamp": "2024-02-29T03:33:53.884Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.95
+			"chance": 63.95,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

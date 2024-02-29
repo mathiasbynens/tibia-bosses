@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-02-28T09:32:10.693Z",
+	"timestamp": "2024-02-29T03:33:52.306Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.06
+			"chance": 74.06,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.67
+			"chance": 53.67,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 44.32
+			"chance": 44.32,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,15 +35,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.12
+			"chance": 21.12,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.4
+			"chance": 20.4,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.86
+			"chance": 18.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +58,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.31
+			"chance": 18.31,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -79,7 +87,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.58
+			"chance": 10.58,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +129,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

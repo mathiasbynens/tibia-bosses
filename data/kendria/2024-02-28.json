@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-28T09:32:27.753Z",
+	"timestamp": "2024-02-29T03:33:53.024Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 13.77
+			"chance": 13.77,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -103,7 +105,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.64
+			"chance": 6.64,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +115,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.93
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

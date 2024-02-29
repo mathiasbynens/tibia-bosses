@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-28T09:32:03.457Z",
+	"timestamp": "2024-02-29T03:33:51.599Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.43
+			"chance": 31.43,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -88,6 +89,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 5.6
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-28T09:33:03.645Z",
+	"timestamp": "2024-02-29T03:33:56.552Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.12
+			"chance": 14.12,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,11 +74,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.24
+			"chance": 10.24,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.33
+			"chance": 9.33,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

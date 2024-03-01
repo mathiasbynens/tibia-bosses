@@ -1,0 +1,101 @@
+{
+	"timestamp": "2024-03-01T09:31:25.425Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.5
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 33.33
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 28.08
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 26.65
+		},
+		{
+			"name": "The Imperor",
+			"chance": 24.96
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.48
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.3
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.01
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.3
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 13.96
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.67
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.28
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.58
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.43
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.34
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.28
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.35
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.35
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.04
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.62
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 3.79
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 3.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 2.8
+		}
+	]
+}

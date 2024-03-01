@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-29T09:31:18.434Z",
+	"timestamp": "2024-03-01T03:33:22.641Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -84,6 +85,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.34
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

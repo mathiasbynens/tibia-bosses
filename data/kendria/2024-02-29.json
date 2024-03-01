@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-29T09:31:24.023Z",
+	"timestamp": "2024-03-01T03:33:27.170Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 37.85
+			"chance": 37.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.06
+			"chance": 28.06,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.32
+			"chance": 20.32,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.28
+			"chance": 18.28,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.44
+			"chance": 15.44,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -132,6 +137,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.46
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

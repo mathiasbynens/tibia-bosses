@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-29T09:31:13.063Z",
+	"timestamp": "2024-03-01T03:33:21.213Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.98
+			"chance": 6.98,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.8
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

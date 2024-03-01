@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-02-29T09:31:21.027Z",
+	"timestamp": "2024-03-01T03:33:26.455Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 20.87
+			"chance": 20.87,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.89
+			"chance": 7.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +90,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.08
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,29 +1,35 @@
 {
-	"timestamp": "2024-02-29T09:31:32.694Z",
+	"timestamp": "2024-03-01T03:33:29.105Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.73
+			"chance": 81.73,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.05
+			"chance": 41.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.37
+			"chance": 39.37,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 31.8
+			"chance": 31.8,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 24.62
+			"chance": 24.62,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -108,6 +115,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

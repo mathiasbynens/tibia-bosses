@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-01T09:31:36.372Z",
+	"timestamp": "2024-03-02T03:33:18.270Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.63
+			"chance": 22.63,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.4
+			"chance": 19.4,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.67
+			"chance": 11.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 7.13
+			"chance": 7.13,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.62
+			"chance": 5.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +115,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

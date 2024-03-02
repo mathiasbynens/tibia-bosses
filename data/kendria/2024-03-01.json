@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-01T09:31:28.064Z",
+	"timestamp": "2024-03-02T03:33:15.573Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.37
+			"chance": 39.37,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.55
+			"chance": 20.55,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.57
+			"chance": 10.57,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.85
+			"chance": 9.85,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +124,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.04
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

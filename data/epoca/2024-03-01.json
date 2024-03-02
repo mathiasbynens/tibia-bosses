@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-01T09:31:22.585Z",
+	"timestamp": "2024-03-02T03:33:13.611Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 6.56
+			"chance": 6.56,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

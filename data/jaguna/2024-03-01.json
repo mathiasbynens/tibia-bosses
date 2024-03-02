@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-01T09:31:25.425Z",
+	"timestamp": "2024-03-02T03:33:14.600Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.58
+			"chance": 11.58,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -96,6 +97,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

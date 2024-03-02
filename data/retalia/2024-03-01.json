@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-01T09:31:30.851Z",
+	"timestamp": "2024-03-02T03:33:16.465Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 24.63
+			"chance": 24.63,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -92,6 +93,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-02T09:31:16.643Z",
+	"timestamp": "2024-03-03T03:33:13.296Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -88,6 +88,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.49
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

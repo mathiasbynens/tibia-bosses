@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-02T09:31:27.340Z",
+	"timestamp": "2024-03-03T03:33:24.329Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 24.95
+			"chance": 24.95,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.28
+			"chance": 14.28,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +112,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.35
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

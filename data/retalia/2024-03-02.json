@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-02T09:31:24.680Z",
+	"timestamp": "2024-03-03T03:33:23.713Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.07
+			"chance": 74.07,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.74
+			"chance": 69.74,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -100,6 +102,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

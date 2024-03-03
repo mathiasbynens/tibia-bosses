@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-02T09:31:11.068Z",
+	"timestamp": "2024-03-03T03:33:11.722Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.33
+			"chance": 16.33,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.2
+			"chance": 8.2,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.2
+			"chance": 8.2,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -112,6 +117,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

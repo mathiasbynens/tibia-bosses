@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-03T09:31:41.583Z",
+	"timestamp": "2024-03-04T03:45:39.699Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.11
+			"chance": 53.11,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.21
+			"chance": 42.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.69
+			"chance": 41.69,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,15 +22,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.75
+			"chance": 28.75,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 26.59
+			"chance": 26.59,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 24.67
+			"chance": 24.67,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.79
+			"chance": 14.79,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -75,7 +83,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.45
+			"chance": 9.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -112,6 +121,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.17
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

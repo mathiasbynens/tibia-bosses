@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-03T09:31:44.632Z",
+	"timestamp": "2024-03-04T03:45:40.750Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,31 +19,38 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.01
+			"chance": 21.01,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 18.7
+			"chance": 18.7,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.31
+			"chance": 18.31,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.77
+			"chance": 15.77,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.53
+			"chance": 15.53,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.58
+			"chance": 14.58,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +119,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

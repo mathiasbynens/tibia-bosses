@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-03T09:31:27.915Z",
+	"timestamp": "2024-03-04T03:45:34.960Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.38
+			"chance": 11.38,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -132,6 +134,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

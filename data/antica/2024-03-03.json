@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-03T09:31:24.535Z",
+	"timestamp": "2024-03-04T03:45:33.981Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.88
+			"chance": 18.88,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.34
+			"chance": 18.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

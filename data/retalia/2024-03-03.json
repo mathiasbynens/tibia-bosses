@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-03T09:31:38.907Z",
+	"timestamp": "2024-03-04T03:45:38.906Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.76
+			"chance": 14.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -100,6 +101,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 6.17
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

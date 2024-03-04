@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-03T09:31:36.219Z",
+	"timestamp": "2024-03-04T03:45:38.090Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.96
+			"chance": 64.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -116,6 +117,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.91
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

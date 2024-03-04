@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-03T09:31:30.783Z",
+	"timestamp": "2024-03-04T03:45:35.918Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -76,6 +76,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

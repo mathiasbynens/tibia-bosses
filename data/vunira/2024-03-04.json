@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-04T10:09:27.080Z",
+	"timestamp": "2024-03-05T03:33:13.873Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 38.61
+			"chance": 38.61,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.78
+			"chance": 19.78,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

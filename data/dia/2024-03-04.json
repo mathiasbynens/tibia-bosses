@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-04T10:09:09.477Z",
+	"timestamp": "2024-03-05T03:33:08.797Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.46
+			"chance": 37.46,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.34
+			"chance": 30.34,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.29
+			"chance": 22.29,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.32
+			"chance": 21.32,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -143,11 +149,17 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 3.99
+			"chance": 3.99,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.98
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

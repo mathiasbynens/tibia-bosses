@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-04T10:09:21.321Z",
+	"timestamp": "2024-03-05T03:33:12.312Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.45
+			"chance": 27.45,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +106,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 5.66
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

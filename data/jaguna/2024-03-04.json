@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-04T10:09:15.488Z",
+	"timestamp": "2024-03-05T03:33:10.275Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.74
+			"chance": 69.74,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 13.43
+			"chance": 13.43,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -120,6 +122,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-05T09:31:34.028Z",
+	"timestamp": "2024-03-06T03:33:03.979Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.87
+			"chance": 80.87,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.44
+			"chance": 61.44,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.85
+			"chance": 18.85,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.98
+			"chance": 9.98,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -144,6 +151,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.11
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

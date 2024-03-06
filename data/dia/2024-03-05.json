@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-05T09:31:16.549Z",
+	"timestamp": "2024-03-06T03:32:56.302Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 44.54
+			"chance": 44.54,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.09
+			"chance": 15.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -128,6 +132,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.21
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

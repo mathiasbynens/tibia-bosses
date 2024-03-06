@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-05T09:31:28.500Z",
+	"timestamp": "2024-03-06T03:33:01.573Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.13
+			"chance": 26.13,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -116,6 +117,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.41
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

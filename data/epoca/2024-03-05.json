@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-05T09:31:19.852Z",
+	"timestamp": "2024-03-06T03:32:57.667Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 38.68
+			"chance": 38.68,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.36
+			"chance": 18.36,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

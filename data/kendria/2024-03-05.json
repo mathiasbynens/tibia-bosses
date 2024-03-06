@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-05T09:31:25.256Z",
+	"timestamp": "2024-03-06T03:33:00.662Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 8.94
+			"chance": 8.94,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

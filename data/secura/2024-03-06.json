@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-06T09:31:37.440Z",
+	"timestamp": "2024-03-07T03:33:07.828Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.47
+			"chance": 21.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.71
+			"chance": 13.71,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.59
+			"chance": 11.59,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -104,6 +108,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.86
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

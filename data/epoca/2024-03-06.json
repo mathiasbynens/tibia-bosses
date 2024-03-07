@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-06T09:31:26.000Z",
+	"timestamp": "2024-03-07T03:33:03.617Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -96,6 +96,16 @@
 		{
 			"name": "Omrafir",
 			"chance": 7.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-06T09:31:20.724Z",
+	"timestamp": "2024-03-07T03:33:01.185Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 24.78
+			"chance": 24.78,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.89
+			"chance": 23.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.97
+			"chance": 12.97,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

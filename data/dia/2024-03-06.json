@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-06T09:31:23.304Z",
+	"timestamp": "2024-03-07T03:33:02.902Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.65
+			"chance": 81.65,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.07
+			"chance": 74.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 29.78
+			"chance": 29.78,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 10.15
+			"chance": 10.15,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -128,6 +133,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.82
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

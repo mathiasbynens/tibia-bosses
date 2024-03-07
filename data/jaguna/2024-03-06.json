@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-03-06T09:31:28.972Z",
+	"timestamp": "2024-03-07T03:33:04.320Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.15
+			"chance": 53.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.45
+			"chance": 38.45,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.08
+			"chance": 26.08,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.9
+			"chance": 7.9,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +122,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.38
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

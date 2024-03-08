@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-07T09:31:21.694Z",
+	"timestamp": "2024-03-08T03:33:11.269Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.96
+			"chance": 79.96,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -92,6 +94,11 @@
 		{
 			"name": "Omrafir",
 			"chance": 7.97
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

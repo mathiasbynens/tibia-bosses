@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-07T09:31:32.534Z",
+	"timestamp": "2024-03-08T03:33:15.466Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.76
+			"chance": 69.76,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.15
+			"chance": 21.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.9
+			"chance": 18.9,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.31
+			"chance": 18.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.33
+			"chance": 6.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +106,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

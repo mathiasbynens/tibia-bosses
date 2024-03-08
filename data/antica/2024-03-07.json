@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-07T09:31:15.966Z",
+	"timestamp": "2024-03-08T03:33:09.113Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.86
+			"chance": 63.86,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.76
+			"chance": 12.76,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.43
+			"chance": 9.43,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +104,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.82
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-07T09:31:24.398Z",
+	"timestamp": "2024-03-08T03:33:12.176Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.87
+			"chance": 59.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.95
+			"chance": 14.95,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -88,6 +91,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.2
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

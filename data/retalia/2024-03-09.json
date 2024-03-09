@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-03-09T09:31:28.922Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 79.95
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.17
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 40.42
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 40.37
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.58
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.92
+		},
+		{
+			"name": "Dracola",
+			"chance": 29.55
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 27.91
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 21.84
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.47
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.24
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 19.12
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.2
+		},
+		{
+			"name": "Tyrn",
+			"chance": 17.09
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 16.75
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.69
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.5
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.56
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.43
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.78
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.66
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.09
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.08
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.95
+		}
+	]
+}

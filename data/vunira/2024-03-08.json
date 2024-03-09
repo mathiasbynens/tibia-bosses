@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-08T09:31:40.494Z",
+	"timestamp": "2024-03-09T03:33:01.620Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.5
+			"chance": 31.5,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.23
+			"chance": 18.23,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.09
+			"chance": 10.09,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -104,6 +108,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.09
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

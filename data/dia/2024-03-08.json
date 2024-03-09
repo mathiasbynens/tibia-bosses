@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-08T09:31:23.802Z",
+	"timestamp": "2024-03-09T03:32:56.572Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.76
+			"chance": 69.76,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.4
+			"chance": 39.4,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.7
+			"chance": 33.7,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +104,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.09
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

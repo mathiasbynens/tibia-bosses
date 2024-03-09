@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-08T09:31:26.554Z",
+	"timestamp": "2024-03-09T03:32:57.593Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -96,6 +98,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.04
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

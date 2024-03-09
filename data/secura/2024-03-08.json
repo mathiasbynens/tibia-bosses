@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-08T09:31:37.698Z",
+	"timestamp": "2024-03-09T03:33:00.692Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.67
+			"chance": 66.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.6
+			"chance": 66.6,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 19.69
+			"chance": 19.69,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -104,6 +110,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

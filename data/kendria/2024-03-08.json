@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-08T09:31:32.084Z",
+	"timestamp": "2024-03-09T03:32:59.314Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 28.21
+			"chance": 28.21,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -116,6 +119,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

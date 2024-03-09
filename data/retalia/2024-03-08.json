@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-08T09:31:34.831Z",
+	"timestamp": "2024-03-09T03:32:59.941Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 65.87
+			"chance": 65.87,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 45.85
+			"chance": 45.85,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 32.1
+			"chance": 32.1,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -116,6 +119,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.2
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

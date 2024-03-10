@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-09T09:31:26.198Z",
+	"timestamp": "2024-03-10T03:33:10.301Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.46
+			"chance": 23.46,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.03
+			"chance": 12.03,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +115,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.09
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

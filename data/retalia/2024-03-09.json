@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-09T09:31:28.922Z",
+	"timestamp": "2024-03-10T03:33:11.205Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.95
+			"chance": 79.95,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.42
+			"chance": 40.42,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.37
+			"chance": 40.37,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.5
+			"chance": 15.5,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -108,6 +112,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

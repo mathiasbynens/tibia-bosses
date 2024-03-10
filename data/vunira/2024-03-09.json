@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-09T09:31:34.958Z",
+	"timestamp": "2024-03-10T03:33:13.050Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.5
+			"chance": 79.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.96
+			"chance": 64.96,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.78
+			"chance": 26.78,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 6.69
+			"chance": 6.69,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -107,11 +112,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.99
+			"chance": 3.99,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

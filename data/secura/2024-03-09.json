@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-09T09:31:31.756Z",
+	"timestamp": "2024-03-10T03:33:12.200Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.76
+			"chance": 28.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.49
+			"chance": 27.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 17.39
+			"chance": 17.39,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.85
+			"chance": 10.85,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -100,6 +107,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.16
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

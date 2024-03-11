@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-10T09:31:29.654Z",
+	"timestamp": "2024-03-11T03:33:05.341Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -96,6 +98,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.2
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

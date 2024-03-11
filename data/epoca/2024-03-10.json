@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-10T09:31:27.012Z",
+	"timestamp": "2024-03-11T03:33:04.003Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -99,7 +101,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

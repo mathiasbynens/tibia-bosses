@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-10T09:31:37.572Z",
+	"timestamp": "2024-03-11T03:33:08.473Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 32.32
+			"chance": 32.32,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +100,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.62
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

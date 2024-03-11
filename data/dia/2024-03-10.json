@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-10T09:31:23.898Z",
+	"timestamp": "2024-03-11T03:33:03.095Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.92
+			"chance": 64.92,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 14.33
+			"chance": 14.33,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.63
+			"chance": 12.63,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.06
+			"chance": 10.06,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -124,6 +130,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

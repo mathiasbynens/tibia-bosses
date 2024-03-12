@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-03-12T09:31:26.364Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.68
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 50.85
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.92
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.55
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.54
+		},
+		{
+			"name": "Massacre",
+			"chance": 19.72
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.1
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.77
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 16.48
+		},
+		{
+			"name": "Omrafir",
+			"chance": 13.79
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.37
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.12
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.1
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.86
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.42
+		},
+		{
+			"name": "Xenia",
+			"chance": 6.28
+		}
+	]
+}

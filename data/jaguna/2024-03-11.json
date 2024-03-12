@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-11T09:31:20.308Z",
+	"timestamp": "2024-03-12T03:33:01.150Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.75
+			"chance": 69.75,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.12
+			"chance": 62.12,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 29.54
+			"chance": 29.54,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.43
+			"chance": 17.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.57
+			"chance": 15.57,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

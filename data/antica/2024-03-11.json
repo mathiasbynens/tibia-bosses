@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-11T09:31:11.718Z",
+	"timestamp": "2024-03-12T03:32:58.204Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.85
+			"chance": 59.85,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.8
+			"chance": 22.8,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.71
+			"chance": 17.71,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.13
+			"chance": 16.13,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.66
+			"chance": 6.66,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -116,6 +122,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

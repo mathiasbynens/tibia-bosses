@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-11T09:31:23.033Z",
+	"timestamp": "2024-03-12T03:33:02.227Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 43.58
+			"chance": 43.58,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 42.23
+			"chance": 42.23,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.38
+			"chance": 9.38,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.89
+			"chance": 7.89,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -119,7 +124,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.84
+			"chance": 2.84,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

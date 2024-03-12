@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-11T09:31:31.381Z",
+	"timestamp": "2024-03-12T03:33:05.223Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.45
+			"chance": 19.45,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.24
+			"chance": 19.24,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.35
+			"chance": 18.35,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +112,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.19
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

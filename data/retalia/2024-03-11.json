@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-11T09:31:25.793Z",
+	"timestamp": "2024-03-12T03:33:03.078Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -96,6 +96,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.2
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

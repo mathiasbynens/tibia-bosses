@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-12T09:31:26.364Z",
+	"timestamp": "2024-03-13T03:33:06.406Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.1
+			"chance": 11.1,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -67,11 +69,27 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.42
+			"chance": 9.42,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
 			"chance": 6.28
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

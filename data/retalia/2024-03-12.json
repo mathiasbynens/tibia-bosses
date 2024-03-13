@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-12T09:31:34.975Z",
+	"timestamp": "2024-03-13T03:33:08.886Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 22.04
+			"chance": 22.04,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +93,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.89
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

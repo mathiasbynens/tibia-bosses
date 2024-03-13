@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-12T09:31:20.479Z",
+	"timestamp": "2024-03-13T03:33:04.543Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.15
+			"chance": 53.15,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.81
+			"chance": 41.81,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.16
+			"chance": 26.16,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.4
+			"chance": 24.4,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,11 +60,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.76
+			"chance": 14.76,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.81
+			"chance": 11.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 6.9
+			"chance": 6.9,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -91,15 +99,37 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.36
+			"chance": 6.36,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
 			"chance": 6.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

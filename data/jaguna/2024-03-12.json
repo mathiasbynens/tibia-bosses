@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-12T09:31:29.431Z",
+	"timestamp": "2024-03-13T03:33:07.078Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
-			"chance": 26.63
+			"chance": 26.63,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 24.08
+			"chance": 24.08,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.91
+			"chance": 23.91,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.69
+			"chance": 22.69,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.93
+			"chance": 16.93,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +103,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.69
+			"chance": 3.69,
+			"killed": true
 		}
 	]
 }

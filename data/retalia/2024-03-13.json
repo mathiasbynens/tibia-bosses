@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-13T09:31:45.374Z",
+	"timestamp": "2024-03-14T03:37:40.310Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.46
+			"chance": 61.46,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -92,6 +95,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-13T09:31:48.214Z",
+	"timestamp": "2024-03-14T03:37:41.429Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.47
+			"chance": 30.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.95
+			"chance": 6.95,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.65
+			"chance": 5.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -116,6 +123,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.19
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

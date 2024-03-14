@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-13T09:31:39.790Z",
+	"timestamp": "2024-03-14T03:37:38.268Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.75
+			"chance": 9.75,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +108,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.82
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

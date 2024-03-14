@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-13T09:31:34.138Z",
+	"timestamp": "2024-03-14T03:37:36.197Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 51.21
+			"chance": 51.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.71
+			"chance": 12.71,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.91
+			"chance": 7.91,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +118,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

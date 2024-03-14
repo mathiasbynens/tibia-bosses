@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-13T09:31:31.359Z",
+	"timestamp": "2024-03-14T03:37:35.015Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.25
+			"chance": 40.25,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.38
+			"chance": 17.38,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.63
+			"chance": 11.63,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +89,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

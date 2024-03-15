@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-14T09:36:14.918Z",
+	"timestamp": "2024-03-15T03:38:25.736Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -100,6 +100,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.02
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

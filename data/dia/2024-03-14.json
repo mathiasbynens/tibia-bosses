@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-14T09:36:03.482Z",
+	"timestamp": "2024-03-15T03:38:21.862Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 26.62
+			"chance": 26.62,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.64
+			"chance": 11.64,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.56
+			"chance": 9.56,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -96,6 +101,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

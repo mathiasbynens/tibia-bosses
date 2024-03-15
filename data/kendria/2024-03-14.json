@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-03-14T09:36:12.178Z",
+	"timestamp": "2024-03-15T03:38:24.705Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 71.79
+			"chance": 71.79,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 71.75
+			"chance": 71.75,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 49.52
+			"chance": 49.52,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.27
+			"chance": 41.27,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.24
+			"chance": 29.24,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.63
+			"chance": 22.63,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -116,6 +122,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

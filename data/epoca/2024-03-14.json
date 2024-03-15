@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-14T09:36:06.481Z",
+	"timestamp": "2024-03-15T03:38:22.619Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.37
+			"chance": 15.37,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

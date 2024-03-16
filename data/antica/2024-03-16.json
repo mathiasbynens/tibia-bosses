@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-03-16T09:31:13.595Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 30.51
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.64
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 24.86
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.65
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.84
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.2
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.03
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.32
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.13
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.12
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.12
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.93
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.54
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.61
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.69
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.43
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.37
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.37
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.54
+		}
+	]
+}

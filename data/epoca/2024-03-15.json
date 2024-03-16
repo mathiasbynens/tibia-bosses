@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-15T09:35:51.964Z",
+	"timestamp": "2024-03-16T03:32:56.610Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -56,6 +57,21 @@
 		{
 			"name": "Foreman Kneebiter",
 			"chance": 6.69
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

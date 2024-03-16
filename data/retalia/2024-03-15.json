@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-15T09:35:59.760Z",
+	"timestamp": "2024-03-16T03:32:58.837Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.87
+			"chance": 41.87,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.73
+			"chance": 33.73,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -96,6 +98,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.92
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

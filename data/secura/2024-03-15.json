@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-15T09:36:02.336Z",
+	"timestamp": "2024-03-16T03:32:59.503Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.89
+			"chance": 79.89,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.85
+			"chance": 11.85,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -112,6 +115,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

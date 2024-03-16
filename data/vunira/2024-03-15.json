@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-15T09:36:05.280Z",
+	"timestamp": "2024-03-16T03:33:00.668Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -47,11 +47,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.31
+			"chance": 11.31,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.38
+			"chance": 5.38,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +112,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

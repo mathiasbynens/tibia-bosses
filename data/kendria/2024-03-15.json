@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-15T09:35:57.060Z",
+	"timestamp": "2024-03-16T03:32:58.287Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.43
+			"chance": 38.43,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 36.96
+			"chance": 36.96,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.04
+			"chance": 23.04,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 7.91
+			"chance": 7.91,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -107,11 +111,17 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.71
+			"chance": 3.71,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.55
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

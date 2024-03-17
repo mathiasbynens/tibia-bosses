@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-16T09:31:24.451Z",
+	"timestamp": "2024-03-17T03:33:16.877Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 33.27
+			"chance": 33.27,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.1
+			"chance": 15.1,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.91
+			"chance": 13.91,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -104,6 +107,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.81
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

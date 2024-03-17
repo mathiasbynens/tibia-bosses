@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-16T09:31:27.324Z",
+	"timestamp": "2024-03-17T03:33:17.798Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.1
+			"chance": 15.1,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.17
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

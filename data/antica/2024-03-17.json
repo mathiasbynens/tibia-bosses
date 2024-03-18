@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-17T09:31:28.083Z",
+	"timestamp": "2024-03-18T03:32:57.549Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.35
+			"chance": 9.35,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.19
+			"chance": 8.19,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -104,6 +106,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.17
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

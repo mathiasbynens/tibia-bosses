@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-17T09:31:34.476Z",
+	"timestamp": "2024-03-18T03:32:59.216Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.47
+			"chance": 39.47,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.04
+			"chance": 21.04,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -64,6 +67,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.82
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

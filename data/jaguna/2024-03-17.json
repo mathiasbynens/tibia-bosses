@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-17T09:31:37.887Z",
+	"timestamp": "2024-03-18T03:33:00.981Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -87,11 +87,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.29
+			"chance": 7.29,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -104,6 +106,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-17T09:31:47.172Z",
+	"timestamp": "2024-03-18T03:33:03.694Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,15 +23,18 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.2
+			"chance": 21.2,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.13
+			"chance": 21.13,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -128,6 +134,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.18
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

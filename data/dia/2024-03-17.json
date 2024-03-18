@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-17T09:31:31.279Z",
+	"timestamp": "2024-03-18T03:32:58.259Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -96,6 +97,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.33
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

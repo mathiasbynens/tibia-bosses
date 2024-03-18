@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-17T09:31:40.946Z",
+	"timestamp": "2024-03-18T03:33:01.976Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 32.44
+			"chance": 32.44,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.66
+			"chance": 29.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 15.49
+			"chance": 15.49,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.52
+			"chance": 11.52,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.54
+			"chance": 7.54,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +121,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

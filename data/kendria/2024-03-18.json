@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-18T09:31:26.796Z",
+	"timestamp": "2024-03-19T03:33:10.438Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.39
+			"chance": 24.39,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.56
+			"chance": 6.56,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -99,11 +102,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.46
+			"chance": 3.46,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.08
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

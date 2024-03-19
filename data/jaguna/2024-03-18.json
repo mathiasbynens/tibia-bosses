@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-18T09:31:23.776Z",
+	"timestamp": "2024-03-19T03:33:09.677Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.78
+			"chance": 69.78,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.19
+			"chance": 42.19,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.27
+			"chance": 17.27,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",

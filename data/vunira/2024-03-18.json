@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-18T09:31:35.584Z",
+	"timestamp": "2024-03-19T03:33:14.900Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 33.23
+			"chance": 33.23,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.26
+			"chance": 14.26,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.43
+			"chance": 10.43,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.48
+			"chance": 6.48,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",

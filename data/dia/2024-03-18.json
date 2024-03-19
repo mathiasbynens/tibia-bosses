@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-18T09:31:18.300Z",
+	"timestamp": "2024-03-19T03:33:07.651Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 11.58
+			"chance": 11.58,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -120,6 +121,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

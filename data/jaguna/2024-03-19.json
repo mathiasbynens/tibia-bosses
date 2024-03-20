@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-19T09:31:31.804Z",
+	"timestamp": "2024-03-20T03:33:19.806Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 44.74
+			"chance": 44.74,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.52
+			"chance": 27.52,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.12
+			"chance": 26.12,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.32
+			"chance": 11.32,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",

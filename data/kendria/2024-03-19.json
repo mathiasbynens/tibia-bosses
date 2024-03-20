@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-03-19T09:31:34.560Z",
+	"timestamp": "2024-03-20T03:33:20.952Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.89
+			"chance": 80.89,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.87
+			"chance": 63.87,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.15
+			"chance": 53.15,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.16
+			"chance": 41.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.58
+			"chance": 30.58,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 26.82
+			"chance": 26.82,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -51,7 +58,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -112,6 +120,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

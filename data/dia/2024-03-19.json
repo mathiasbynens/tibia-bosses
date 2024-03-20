@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-19T09:31:26.009Z",
+	"timestamp": "2024-03-20T03:33:18.066Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.2
+			"chance": 62.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 33.2
+			"chance": 33.2,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 27.46
+			"chance": 27.46,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.07
+			"chance": 21.07,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.75
+			"chance": 12.75,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.6
+			"chance": 8.6,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -107,7 +113,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 7.2
+			"chance": 7.2,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -136,6 +143,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.93
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

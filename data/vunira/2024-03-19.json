@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-19T09:31:43.408Z",
+	"timestamp": "2024-03-20T03:33:24.025Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.79
+			"chance": 69.79,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -108,6 +112,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.16
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

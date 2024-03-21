@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-20T09:31:29.330Z",
+	"timestamp": "2024-03-21T03:33:04.765Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.04
+			"chance": 74.04,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.05
+			"chance": 65.05,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.47
+			"chance": 23.47,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,15 +79,18 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +110,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.46
+			"chance": 7.46,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -123,7 +131,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 5.65
+			"chance": 5.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -135,7 +144,38 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.02
+			"chance": 4.02,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

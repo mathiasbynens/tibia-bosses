@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-20T09:31:45.738Z",
+	"timestamp": "2024-03-21T03:33:09.757Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.2
+			"chance": 18.2,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.54
+			"chance": 7.54,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +115,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

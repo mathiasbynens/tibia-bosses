@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-20T09:31:40.202Z",
+	"timestamp": "2024-03-21T03:33:08.092Z",
 	"bosses": [
 		{
 			"name": "yeti",
-			"chance": 38.07
+			"chance": 38.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.21
+			"chance": 20.21,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +88,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.52
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

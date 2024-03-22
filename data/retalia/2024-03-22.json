@@ -1,0 +1,89 @@
+{
+	"timestamp": "2024-03-22T09:31:43.770Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.75
+		},
+		{
+			"name": "Barbaria",
+			"chance": 33.31
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 30.11
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 27.78
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.48
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 22.16
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 18.79
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.31
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 16.97
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.62
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.57
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.86
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.54
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.73
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.73
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.13
+		},
+		{
+			"name": "Dracola",
+			"chance": 9.78
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.11
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.94
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.34
+		}
+	]
+}

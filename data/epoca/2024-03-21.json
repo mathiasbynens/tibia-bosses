@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-21T09:31:27.165Z",
+	"timestamp": "2024-03-22T03:33:06.389Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.17
+			"chance": 28.17,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -72,6 +73,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.34
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

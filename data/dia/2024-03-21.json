@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-21T09:31:24.149Z",
+	"timestamp": "2024-03-22T03:33:05.647Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.89
+			"chance": 59.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.15
+			"chance": 41.15,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -108,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.81
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

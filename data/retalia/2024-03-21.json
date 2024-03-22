@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-21T09:31:35.672Z",
+	"timestamp": "2024-03-22T03:33:09.813Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.59
+			"chance": 13.59,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +85,13 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 4.41
+			"chance": 4.41,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

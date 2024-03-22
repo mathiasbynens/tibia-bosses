@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-21T09:31:41.220Z",
+	"timestamp": "2024-03-22T03:33:11.266Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.5
+			"chance": 61.5,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.16
+			"chance": 42.16,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 26.8
+			"chance": 26.8,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.01
+			"chance": 15.01,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.03
+			"chance": 11.03,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -116,6 +121,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

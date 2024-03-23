@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-22T09:31:46.471Z",
+	"timestamp": "2024-03-23T03:33:51.708Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.18
+			"chance": 41.18,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.18
+			"chance": 26.18,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.13
+			"chance": 21.13,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -88,6 +92,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-22T09:31:26.783Z",
+	"timestamp": "2024-03-23T03:33:45.382Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.52
+			"chance": 31.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.27
+			"chance": 19.27,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

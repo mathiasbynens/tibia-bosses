@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-22T09:31:33.366Z",
+	"timestamp": "2024-03-23T03:33:47.492Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 31.78
+			"chance": 31.78,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 17.78
+			"chance": 17.78,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -64,6 +66,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

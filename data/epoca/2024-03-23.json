@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-23T09:31:24.755Z",
+	"timestamp": "2024-03-24T03:33:04.053Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.89
+			"chance": 59.89,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.3
+			"chance": 40.3,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 25.93
+			"chance": 25.93,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -64,6 +68,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

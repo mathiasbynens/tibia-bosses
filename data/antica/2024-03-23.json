@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-23T09:31:19.391Z",
+	"timestamp": "2024-03-24T03:33:02.204Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.6
+			"chance": 81.6,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.46
+			"chance": 38.46,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,15 +25,18 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.19
+			"chance": 22.19,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 21.61
+			"chance": 21.61,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -103,11 +108,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.01
+			"chance": 8.01,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.47
+			"chance": 7.47,
+			"killed": true
 		},
 		{
 			"name": "Rotworm Queen",
@@ -124,6 +131,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

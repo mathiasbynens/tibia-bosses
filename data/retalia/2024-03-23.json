@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-23T09:31:32.811Z",
+	"timestamp": "2024-03-24T03:33:07.076Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 12.45
+			"chance": 12.45,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +106,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.25
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-23T09:31:38.323Z",
+	"timestamp": "2024-03-24T03:33:09.076Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.23
+			"chance": 23.23,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.41
+			"chance": 12.41,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,11 +74,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.45
+			"chance": 8.45,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.45
+			"chance": 8.45,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,11 +108,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 2.84
+			"chance": 2.84,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

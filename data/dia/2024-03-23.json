@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-23T09:31:22.106Z",
+	"timestamp": "2024-03-24T03:33:03.069Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.89
+			"chance": 80.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.46
+			"chance": 38.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 23.87
+			"chance": 23.87,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,11 +87,17 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.87
+			"chance": 4.87,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.84
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

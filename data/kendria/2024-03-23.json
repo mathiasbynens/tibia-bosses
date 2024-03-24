@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-23T09:31:30.282Z",
+	"timestamp": "2024-03-24T03:33:05.852Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -95,7 +95,8 @@
 		},
 		{
 			"name": "Rotworm Queen",
-			"chance": 5.71
+			"chance": 5.71,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

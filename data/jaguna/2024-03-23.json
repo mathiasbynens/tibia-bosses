@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-23T09:31:27.514Z",
+	"timestamp": "2024-03-24T03:33:05.032Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.21
+			"chance": 41.21,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.26
+			"chance": 28.26,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.06
+			"chance": 12.06,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -68,6 +72,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.91
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

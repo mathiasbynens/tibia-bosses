@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-24T09:31:21.824Z",
+	"timestamp": "2024-03-25T03:33:20.751Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 41.94
+			"chance": 41.94,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 14.6
+			"chance": 14.6,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +98,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

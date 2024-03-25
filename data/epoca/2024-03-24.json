@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-24T09:31:13.468Z",
+	"timestamp": "2024-03-25T03:33:07.538Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -64,6 +64,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

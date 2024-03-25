@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-24T09:31:18.940Z",
+	"timestamp": "2024-03-25T03:33:17.349Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 25.8
+			"chance": 25.8,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.93
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

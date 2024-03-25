@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-24T09:31:10.708Z",
+	"timestamp": "2024-03-25T03:33:06.539Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.46
+			"chance": 21.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.47
+			"chance": 9.47,
+			"killed": true
 		},
 		{
 			"name": "Rotworm Queen",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.86
+			"chance": 5.86,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +98,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.25
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

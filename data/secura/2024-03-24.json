@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-24T09:31:24.925Z",
+	"timestamp": "2024-03-25T03:33:25.488Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.29
+			"chance": 41.29,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 26.86
+			"chance": 26.86,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 26.67
+			"chance": 26.67,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.05
+			"chance": 17.05,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,15 +61,18 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -100,6 +109,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

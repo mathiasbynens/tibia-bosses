@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-24T09:31:27.657Z",
+	"timestamp": "2024-03-25T03:33:28.101Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.87
+			"chance": 63.87,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.56
+			"chance": 37.56,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.8
+			"chance": 28.8,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.54
+			"chance": 7.54,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +109,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

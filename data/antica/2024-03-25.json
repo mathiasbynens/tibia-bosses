@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-25T09:31:20.996Z",
+	"timestamp": "2024-03-26T03:33:03.421Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.73
+			"chance": 33.73,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.19
+			"chance": 26.19,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 25.95
+			"chance": 25.95,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -120,6 +124,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.29
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-25T09:31:27.144Z",
+	"timestamp": "2024-03-26T03:33:04.734Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.44
+			"chance": 17.44,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,15 +44,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.02
+			"chance": 12.02,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12
+			"chance": 12,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -64,6 +68,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

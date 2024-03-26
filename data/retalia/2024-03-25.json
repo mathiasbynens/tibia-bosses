@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-25T09:31:36.757Z",
+	"timestamp": "2024-03-26T03:33:07.191Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.16
+			"chance": 16.16,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

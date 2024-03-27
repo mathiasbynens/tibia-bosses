@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-26T09:31:39.752Z",
+	"timestamp": "2024-03-27T03:33:11.594Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.68
+			"chance": 22.68,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -96,6 +98,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

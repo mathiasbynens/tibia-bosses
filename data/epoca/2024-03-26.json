@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-26T09:31:36.979Z",
+	"timestamp": "2024-03-27T03:33:10.559Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.89
+			"chance": 80.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 79.59
+			"chance": 79.59,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.28
+			"chance": 28.28,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -56,6 +59,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

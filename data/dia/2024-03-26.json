@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-26T09:31:34.404Z",
+	"timestamp": "2024-03-27T03:33:09.853Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.1
+			"chance": 21.1,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.35
+			"chance": 20.35,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Rotworm Queen",
-			"chance": 10
+			"chance": 10,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

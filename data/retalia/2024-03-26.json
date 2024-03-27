@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-26T09:31:45.359Z",
+	"timestamp": "2024-03-27T03:33:13.614Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.72
+			"chance": 6.72,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -92,6 +93,11 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 2.13
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

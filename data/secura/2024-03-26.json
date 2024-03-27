@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-26T09:31:48.083Z",
+	"timestamp": "2024-03-27T03:33:14.687Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.15
+			"chance": 53.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.67
+			"chance": 35.67,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 32.26
+			"chance": 32.26,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.52
+			"chance": 23.52,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -92,6 +99,21 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 2.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

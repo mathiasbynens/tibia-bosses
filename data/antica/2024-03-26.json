@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-26T09:31:31.763Z",
+	"timestamp": "2024-03-27T03:33:08.994Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.89
+			"chance": 80.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 77.16
+			"chance": 77.16,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.03
+			"chance": 25.03,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -128,6 +132,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.89
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

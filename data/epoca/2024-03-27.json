@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-27T09:31:16.878Z",
+	"timestamp": "2024-03-28T03:33:03.574Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 51.74
+			"chance": 51.74,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.44
+			"chance": 17.44,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -48,6 +52,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.24
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

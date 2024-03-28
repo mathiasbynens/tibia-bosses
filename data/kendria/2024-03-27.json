@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-27T09:31:22.689Z",
+	"timestamp": "2024-03-28T03:33:05.683Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.38
+			"chance": 39.38,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.63
+			"chance": 37.63,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.39
+			"chance": 23.39,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.55
+			"chance": 22.55,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -124,6 +128,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

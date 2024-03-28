@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-27T09:31:11.281Z",
+	"timestamp": "2024-03-28T03:33:01.690Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 33.35
+			"chance": 33.35,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 33.08
+			"chance": 33.08,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.81
+			"chance": 28.81,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

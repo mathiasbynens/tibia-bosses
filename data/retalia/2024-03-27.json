@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-27T09:31:25.516Z",
+	"timestamp": "2024-03-28T03:33:06.895Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.9
+			"chance": 63.9,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.42
+			"chance": 40.42,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.37
+			"chance": 40.37,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.47
+			"chance": 39.47,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.48
+			"chance": 24.48,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -92,6 +97,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

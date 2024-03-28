@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-27T09:31:13.873Z",
+	"timestamp": "2024-03-28T03:33:02.787Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.17
+			"chance": 17.17,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -107,7 +109,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.36
+			"chance": 6.36,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +127,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

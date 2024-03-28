@@ -1,0 +1,45 @@
+{
+	"timestamp": "2024-03-28T09:31:23.133Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 42
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.68
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.23
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.53
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.54
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.58
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.05
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.02
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.11
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-28T09:31:19.610Z",
+	"timestamp": "2024-03-29T03:33:05.444Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.19
+			"chance": 35.19,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.74
+			"chance": 29.74,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -112,6 +115,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

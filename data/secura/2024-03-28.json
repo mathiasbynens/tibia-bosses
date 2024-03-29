@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-28T09:31:39.930Z",
+	"timestamp": "2024-03-29T03:33:08.148Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 42.91
+			"chance": 42.91,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.27
+			"chance": 41.27,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.9
+			"chance": 28.9,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.44
+			"chance": 20.44,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 11.1
+			"chance": 11.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.91
+			"chance": 6.91,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.03
+			"chance": 4.03,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -88,6 +96,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.32
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

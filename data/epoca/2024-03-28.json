@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-28T09:31:23.133Z",
+	"timestamp": "2024-03-29T03:33:06.040Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 42
+			"chance": 42,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.23
+			"chance": 16.23,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -40,6 +42,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

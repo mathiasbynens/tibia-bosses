@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-03-30T09:31:18.419Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.62
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.64
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.07
+		},
+		{
+			"name": "Massacre",
+			"chance": 16.96
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.99
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.42
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.42
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.33
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.33
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.58
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 8.12
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.89
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.69
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.29
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-29T09:31:31.537Z",
+	"timestamp": "2024-03-30T03:32:54.013Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -44,6 +44,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

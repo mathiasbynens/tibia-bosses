@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-29T09:31:40.910Z",
+	"timestamp": "2024-03-30T03:32:56.665Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -64,6 +64,11 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 1.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

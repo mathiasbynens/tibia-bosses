@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-29T09:31:28.538Z",
+	"timestamp": "2024-03-30T03:32:53.229Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.99
+			"chance": 64.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 45.87
+			"chance": 45.87,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.82
+			"chance": 25.82,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.49
+			"chance": 22.49,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Rotworm Queen",
-			"chance": 15.28
+			"chance": 15.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.1
+			"chance": 13.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +111,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.69
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

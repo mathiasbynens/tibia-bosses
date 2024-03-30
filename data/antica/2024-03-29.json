@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-29T09:31:25.578Z",
+	"timestamp": "2024-03-30T03:32:52.490Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.9
+			"chance": 63.9,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.08
+			"chance": 22.08,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.28
+			"chance": 21.28,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.69
+			"chance": 17.69,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -124,6 +131,26 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 1.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

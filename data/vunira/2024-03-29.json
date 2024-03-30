@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-29T09:31:47.817Z",
+	"timestamp": "2024-03-30T03:32:58.417Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 65.95
+			"chance": 65.95,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.34
+			"chance": 35.34,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.75
+			"chance": 28.75,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 15.03
+			"chance": 15.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -124,6 +130,21 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 1.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

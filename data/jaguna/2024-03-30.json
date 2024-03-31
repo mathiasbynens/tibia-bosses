@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-30T09:31:21.267Z",
+	"timestamp": "2024-03-31T03:33:57.627Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.93
+			"chance": 59.93,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.87
+			"chance": 28.87,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 25.98
+			"chance": 25.98,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -112,6 +115,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.46
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

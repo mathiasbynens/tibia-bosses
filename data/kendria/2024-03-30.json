@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-30T09:31:24.287Z",
+	"timestamp": "2024-03-31T03:33:58.259Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -111,7 +112,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 3.75
+			"chance": 3.75,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -120,6 +122,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.17
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

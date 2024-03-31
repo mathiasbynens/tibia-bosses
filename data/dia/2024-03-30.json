@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-30T09:31:15.659Z",
+	"timestamp": "2024-03-31T03:33:56.541Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 38.61
+			"chance": 38.61,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.54
+			"chance": 27.54,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.29
+			"chance": 25.29,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.23
+			"chance": 20.23,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +108,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.26
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

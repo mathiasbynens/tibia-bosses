@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-30T09:31:27.560Z",
+	"timestamp": "2024-03-31T03:33:58.792Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.15
+			"chance": 53.15,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 20.91
+			"chance": 20.91,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -76,6 +78,16 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 1.78
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

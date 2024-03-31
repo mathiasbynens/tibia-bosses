@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-03-30T09:31:30.283Z",
+	"timestamp": "2024-03-31T03:33:59.421Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
-			"chance": 30.63
+			"chance": 30.63,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.26
+			"chance": 26.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.38
+			"chance": 11.38,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +97,21 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 1.78
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-03-31T09:31:14.429Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.46
+		},
+		{
+			"name": "Omrafir",
+			"chance": 33.13
+		},
+		{
+			"name": "Massacre",
+			"chance": 22.72
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.96
+		},
+		{
+			"name": "Zushuka",
+			"chance": 18.06
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.45
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.25
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.12
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.11
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.15
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.39
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.25
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.03
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.6
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.55
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.04
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.65
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.59
+		},
+		{
+			"name": "yeti",
+			"chance": 10.49
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 9.98
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 9.68
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 8.58
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.27
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.57
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.45
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.38
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.85
+		}
+	]
+}

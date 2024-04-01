@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-31T09:31:25.264Z",
+	"timestamp": "2024-04-01T03:33:09.942Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.28
+			"chance": 19.28,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -84,6 +85,11 @@
 		{
 			"name": "Rotworm Queen",
 			"chance": 3.28
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

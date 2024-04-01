@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-03-31T09:31:28.581Z",
+	"timestamp": "2024-04-01T03:33:10.881Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.76
+			"chance": 29.76,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.8
+			"chance": 13.8,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.06
+			"chance": 13.06,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.93
+			"chance": 6.93,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Rotworm Queen",
-			"chance": 3.28
+			"chance": 3.28,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +110,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.03
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

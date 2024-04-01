@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-03-31T09:31:11.213Z",
+	"timestamp": "2024-04-01T03:33:04.821Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 42.95
+			"chance": 42.95,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 42.56
+			"chance": 42.56,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.31
+			"chance": 40.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.46
+			"chance": 11.46,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.39
+			"chance": 9.39,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +111,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

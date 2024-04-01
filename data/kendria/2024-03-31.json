@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-03-31T09:31:22.653Z",
+	"timestamp": "2024-04-01T03:33:08.726Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 65.26
+			"chance": 65.26,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 42.49
+			"chance": 42.49,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.54
+			"chance": 22.54,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.35
+			"chance": 18.35,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -128,6 +132,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

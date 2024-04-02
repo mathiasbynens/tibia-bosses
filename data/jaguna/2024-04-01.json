@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-01T09:31:21.094Z",
+	"timestamp": "2024-04-02T03:33:08.577Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.8
+			"chance": 69.8,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.65
+			"chance": 38.65,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.19
+			"chance": 26.19,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.28
+			"chance": 20.28,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.47
+			"chance": 17.47,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.15
+			"chance": 16.15,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -67,11 +73,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.8
+			"chance": 13.8,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +104,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

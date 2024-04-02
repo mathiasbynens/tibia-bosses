@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-01T09:31:15.818Z",
+	"timestamp": "2024-04-02T03:33:06.798Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 50.66
+			"chance": 50.66,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.27
+			"chance": 29.27,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.98
+			"chance": 21.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -96,6 +100,21 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 6.26
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

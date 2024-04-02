@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-01T09:31:18.482Z",
+	"timestamp": "2024-04-02T03:33:07.550Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

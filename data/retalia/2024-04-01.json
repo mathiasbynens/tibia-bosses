@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-01T09:31:27.186Z",
+	"timestamp": "2024-04-02T03:33:10.747Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.06
+			"chance": 65.06,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.2
+			"chance": 42.2,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -84,6 +86,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

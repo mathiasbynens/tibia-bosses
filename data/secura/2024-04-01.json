@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-01T09:31:30.419Z",
+	"timestamp": "2024-04-02T03:33:11.749Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.27
+			"chance": 29.27,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 29.04
+			"chance": 29.04,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.26
+			"chance": 8.26,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -136,6 +140,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.92
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

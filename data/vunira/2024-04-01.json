@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-01T09:31:33.616Z",
+	"timestamp": "2024-04-02T03:33:12.729Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.95
+			"chance": 59.95,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 30.06
+			"chance": 30.06,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.78
+			"chance": 7.78,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -92,6 +95,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

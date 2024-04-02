@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-01T09:31:13.174Z",
+	"timestamp": "2024-04-02T03:33:05.898Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.5
+			"chance": 61.5,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.33
+			"chance": 41.33,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.32
+			"chance": 25.32,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.26
+			"chance": 6.26,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.85
+			"chance": 5.85,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -96,6 +102,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

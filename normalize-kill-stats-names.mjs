@@ -293,7 +293,7 @@ const normalizedToPrettyNames = new Map([
 	['Ron the Ripper', 'Ron the Ripper'],
 	['Rotspit', 'Rotspit'],
 	['Rottie the Rotworm', 'Rottie the Rotworm'],
-	['Rotworm Queens', 'Rotworm Queen'],
+	['Rotworm Queen', 'Rotworm Queen'],
 	['Rukor Zad', 'Rukor Zad'],
 	['Rupture', 'Rupture'],
 	['Scarlett Etzel', 'Scarlett Etzel'],

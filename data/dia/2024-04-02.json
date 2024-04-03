@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-02T09:31:15.471Z",
+	"timestamp": "2024-04-03T03:33:11.675Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 33.49
+			"chance": 33.49,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.53
+			"chance": 19.53,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.41
+			"chance": 19.41,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.55
+			"chance": 17.55,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",

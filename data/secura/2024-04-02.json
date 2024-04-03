@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-02T09:31:29.787Z",
+	"timestamp": "2024-04-03T03:33:19.644Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.8
+			"chance": 69.8,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.54
+			"chance": 22.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.06
+			"chance": 21.06,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.39
+			"chance": 12.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.5
+			"chance": 6.5,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -139,7 +145,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.39
+			"chance": 3.39,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -148,6 +155,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

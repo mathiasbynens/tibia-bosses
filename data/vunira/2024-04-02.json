@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-02T09:31:32.743Z",
+	"timestamp": "2024-04-03T03:33:20.231Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.98
+			"chance": 63.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 42.02
+			"chance": 42.02,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.09
+			"chance": 32.09,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.61
+			"chance": 19.61,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.43
+			"chance": 11.43,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.15
+			"chance": 10.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +107,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

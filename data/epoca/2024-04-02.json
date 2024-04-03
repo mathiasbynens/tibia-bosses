@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-02T09:31:18.339Z",
+	"timestamp": "2024-04-03T03:33:15.503Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.8
+			"chance": 69.8,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 42.57
+			"chance": 42.57,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.33
+			"chance": 14.33,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -84,6 +89,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.31
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

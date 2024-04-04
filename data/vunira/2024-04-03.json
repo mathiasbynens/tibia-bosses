@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-03T09:31:39.674Z",
+	"timestamp": "2024-04-04T03:33:13.412Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.94
+			"chance": 80.94,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.97
+			"chance": 64.97,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -92,6 +94,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

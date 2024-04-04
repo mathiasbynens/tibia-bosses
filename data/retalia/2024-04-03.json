@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-03T09:31:33.773Z",
+	"timestamp": "2024-04-04T03:33:11.947Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.46
+			"chance": 39.46,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.29
+			"chance": 13.29,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +86,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.05
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

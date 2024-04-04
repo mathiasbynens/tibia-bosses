@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-03T09:31:19.861Z",
+	"timestamp": "2024-04-04T03:33:04.787Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 30.56
+			"chance": 30.56,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.93
+			"chance": 8.93,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

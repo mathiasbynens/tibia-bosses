@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-03T09:31:36.577Z",
+	"timestamp": "2024-04-04T03:33:12.545Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.96
+			"chance": 63.96,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.18
+			"chance": 53.18,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 33.48
+			"chance": 33.48,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.18
+			"chance": 21.18,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.25
+			"chance": 19.25,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.02
+			"chance": 15.02,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.29
+			"chance": 8.29,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -131,7 +138,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 3.8
+			"chance": 3.8,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -140,6 +148,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

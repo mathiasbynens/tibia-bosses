@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-04T09:31:16.842Z",
+	"timestamp": "2024-04-05T03:33:04.871Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 37.55
+			"chance": 37.55,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -108,6 +110,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.93
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

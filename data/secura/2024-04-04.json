@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-04T09:31:34.122Z",
+	"timestamp": "2024-04-05T03:33:34.893Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.99
+			"chance": 27.99,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.22
+			"chance": 21.22,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.12
+			"chance": 15.12,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.69
+			"chance": 5.69,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -128,6 +134,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

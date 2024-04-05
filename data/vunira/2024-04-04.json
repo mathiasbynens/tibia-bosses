@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-04T09:31:36.842Z",
+	"timestamp": "2024-04-05T03:33:36.918Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.48
+			"chance": 21.48,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.4
+			"chance": 18.4,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.53
+			"chance": 17.53,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -92,6 +96,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

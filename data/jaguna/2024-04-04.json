@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-04T09:31:25.715Z",
+	"timestamp": "2024-04-05T03:33:27.727Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.51
+			"chance": 23.51,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.22
+			"chance": 21.22,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +113,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.09
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

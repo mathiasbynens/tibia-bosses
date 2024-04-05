@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-04T09:31:23.007Z",
+	"timestamp": "2024-04-05T03:33:21.581Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -52,6 +52,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

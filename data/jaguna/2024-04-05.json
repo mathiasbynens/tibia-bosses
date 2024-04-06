@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-05T09:31:25.644Z",
+	"timestamp": "2024-04-06T03:33:04.682Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.5
+			"chance": 61.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.28
+			"chance": 28.28,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +98,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

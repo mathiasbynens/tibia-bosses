@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-05T09:31:37.104Z",
+	"timestamp": "2024-04-06T03:33:21.640Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -104,6 +106,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

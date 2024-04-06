@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-05T09:31:28.526Z",
+	"timestamp": "2024-04-06T03:33:13.696Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.23
+			"chance": 5.23,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +92,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

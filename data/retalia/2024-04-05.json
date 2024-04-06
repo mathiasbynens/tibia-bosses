@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-05T09:31:31.288Z",
+	"timestamp": "2024-04-06T03:33:16.776Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.95
+			"chance": 63.95,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.14
+			"chance": 62.14,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.16
+			"chance": 18.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -60,6 +63,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

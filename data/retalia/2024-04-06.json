@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-06T09:31:40.629Z",
+	"timestamp": "2024-04-07T03:33:24.646Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.78
+			"chance": 33.78,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-06T09:31:28.569Z",
+	"timestamp": "2024-04-07T03:33:20.464Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.02
+			"chance": 81.02,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.83
+			"chance": 53.83,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.85
+			"chance": 27.85,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.29
+			"chance": 8.29,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +123,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

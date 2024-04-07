@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-06T09:31:46.625Z",
+	"timestamp": "2024-04-07T03:33:26.566Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -111,7 +112,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 5.87
+			"chance": 5.87,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -128,6 +130,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

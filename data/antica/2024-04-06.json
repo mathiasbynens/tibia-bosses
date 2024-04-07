@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-06T09:31:25.794Z",
+	"timestamp": "2024-04-07T03:33:19.877Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.22
+			"chance": 21.22,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.28
+			"chance": 8.28,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -99,11 +101,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.08
+			"chance": 3.08,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

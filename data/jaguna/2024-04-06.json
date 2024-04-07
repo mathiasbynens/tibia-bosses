@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-06T09:31:34.685Z",
+	"timestamp": "2024-04-07T03:33:22.937Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.5
+			"chance": 79.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.99
+			"chance": 64.99,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 37.59
+			"chance": 37.59,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -92,6 +95,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

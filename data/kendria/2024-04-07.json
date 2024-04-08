@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-07T09:31:20.727Z",
+	"timestamp": "2024-04-08T03:33:03.675Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.59
+			"chance": 26.59,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -96,6 +100,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

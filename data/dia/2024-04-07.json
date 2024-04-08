@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-04-07T09:31:12.971Z",
+	"timestamp": "2024-04-08T03:33:00.733Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.99
+			"chance": 64.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.36
+			"chance": 40.36,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.52
+			"chance": 38.52,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 30.88
+			"chance": 30.88,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +103,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

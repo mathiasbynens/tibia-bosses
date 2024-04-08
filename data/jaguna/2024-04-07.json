@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-07T09:31:18.183Z",
+	"timestamp": "2024-04-08T03:33:02.743Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.98
+			"chance": 64.98,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.98
+			"chance": 59.98,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 27.67
+			"chance": 27.67,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -96,6 +100,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.06
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

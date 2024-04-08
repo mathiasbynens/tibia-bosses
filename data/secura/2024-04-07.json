@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-07T09:31:26.475Z",
+	"timestamp": "2024-04-08T03:33:05.596Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.37
+			"chance": 26.37,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.47
+			"chance": 19.47,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.45
+			"chance": 9.45,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",

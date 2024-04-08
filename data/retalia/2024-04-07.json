@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-07T09:31:23.571Z",
+	"timestamp": "2024-04-08T03:33:04.628Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 23.95
+			"chance": 23.95,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.52
+			"chance": 11.52,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -84,6 +87,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

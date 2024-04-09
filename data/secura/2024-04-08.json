@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-08T09:31:45.474Z",
+	"timestamp": "2024-04-09T03:33:11.018Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.58
+			"chance": 17.58,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.13
+			"chance": 11.13,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -108,6 +111,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

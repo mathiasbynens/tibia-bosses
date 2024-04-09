@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-08T09:31:48.238Z",
+	"timestamp": "2024-04-09T03:33:11.860Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18
+			"chance": 18,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.88
+			"chance": 17.88,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -112,6 +116,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

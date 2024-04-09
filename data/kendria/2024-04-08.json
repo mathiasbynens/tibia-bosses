@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-08T09:31:39.767Z",
+	"timestamp": "2024-04-09T03:33:07.409Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.63
+			"chance": 18.63,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -108,6 +111,16 @@
 		{
 			"name": "Omrafir",
 			"chance": 4.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

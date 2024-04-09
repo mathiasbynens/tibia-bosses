@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-08T09:31:34.174Z",
+	"timestamp": "2024-04-09T03:33:04.673Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.46
+			"chance": 26.46,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21
+			"chance": 21,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -88,6 +91,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.46
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

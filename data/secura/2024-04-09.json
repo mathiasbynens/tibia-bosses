@@ -1,0 +1,129 @@
+{
+	"timestamp": "2024-04-09T09:31:31.503Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 69.83
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 58.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 38.52
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.76
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 29.97
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.22
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.05
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 19.86
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.45
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 19.04
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19.04
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 17.22
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.91
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.9
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.13
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.51
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.4
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.04
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.56
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.29
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.24
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.23
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.57
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.92
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.77
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.65
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.63
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.56
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.49
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.36
+		}
+	]
+}

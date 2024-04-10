@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-09T09:31:34.215Z",
+	"timestamp": "2024-04-10T03:33:02.950Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.03
+			"chance": 65.03,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.09
+			"chance": 32.09,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.55
+			"chance": 23.55,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.98
+			"chance": 14.98,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +117,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

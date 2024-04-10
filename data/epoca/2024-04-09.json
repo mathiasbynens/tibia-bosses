@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-09T09:31:20.848Z",
+	"timestamp": "2024-04-10T03:32:59.965Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.24
+			"chance": 42.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.61
+			"chance": 28.61,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.33
+			"chance": 22.33,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -84,6 +88,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

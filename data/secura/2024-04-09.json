@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-09T09:31:31.503Z",
+	"timestamp": "2024-04-10T03:33:02.350Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 58.09
+			"chance": 58.09,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.52
+			"chance": 38.52,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 19.86
+			"chance": 19.86,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.45
+			"chance": 19.45,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.4
+			"chance": 13.4,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.29
+			"chance": 10.29,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -124,6 +131,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

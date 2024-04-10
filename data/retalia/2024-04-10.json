@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-04-10T09:31:37.561Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.4
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.89
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 30.56
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 29.77
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.06
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 26.22
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.26
+		},
+		{
+			"name": "Dracola",
+			"chance": 21.61
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21
+		},
+		{
+			"name": "yeti",
+			"chance": 17.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.39
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 17.24
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.26
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.13
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.64
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.53
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.5
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 7.19
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.85
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.9
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.47
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.67
+		}
+	]
+}

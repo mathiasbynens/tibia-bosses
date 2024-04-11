@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-04-10T09:31:42.976Z",
+	"timestamp": "2024-04-11T03:33:15.748Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 53.84
+			"chance": 53.84,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 34.71
+			"chance": 34.71,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.05
+			"chance": 29.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,11 +69,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +112,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

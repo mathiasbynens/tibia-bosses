@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-10T09:31:23.321Z",
+	"timestamp": "2024-04-11T03:33:07.752Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.15
+			"chance": 12.15,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.34
+			"chance": 8.34,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 3.74
+			"chance": 3.74,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +117,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.28
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-10T09:31:29.005Z",
+	"timestamp": "2024-04-11T03:33:09.780Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.56
+			"chance": 24.56,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,11 +68,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.35
+			"chance": 5.35,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.35
+			"chance": 5.35,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -80,6 +83,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

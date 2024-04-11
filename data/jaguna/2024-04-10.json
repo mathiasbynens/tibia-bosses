@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-10T09:31:32.106Z",
+	"timestamp": "2024-04-11T03:33:10.582Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.42
+			"chance": 18.42,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -84,6 +85,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

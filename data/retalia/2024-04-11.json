@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-11T09:31:38.450Z",
+	"timestamp": "2024-04-12T03:34:21.107Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.83
+			"chance": 69.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 42.1
+			"chance": 42.1,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 33.57
+			"chance": 33.57,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.35
+			"chance": 14.35,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -83,15 +87,37 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.36
+			"chance": 5.36,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.35
+			"chance": 5.35,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

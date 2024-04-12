@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-11T09:31:32.089Z",
+	"timestamp": "2024-04-12T03:34:13.328Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 33.57
+			"chance": 33.57,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 25.66
+			"chance": 25.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +102,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

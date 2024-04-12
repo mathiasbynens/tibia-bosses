@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-11T09:31:23.866Z",
+	"timestamp": "2024-04-12T03:33:42.959Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 51.91
+			"chance": 51.91,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.81
+			"chance": 25.81,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.47
+			"chance": 4.47,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +124,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

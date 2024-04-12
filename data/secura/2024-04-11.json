@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-11T09:31:44.085Z",
+	"timestamp": "2024-04-12T03:34:25.564Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.21
+			"chance": 53.21,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 48.54
+			"chance": 48.54,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 27.7
+			"chance": 27.7,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,15 +47,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.31
+			"chance": 16.31,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,19 +74,23 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.54
+			"chance": 12.54,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.65
+			"chance": 11.65,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.79
+			"chance": 10.79,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -124,6 +135,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.4
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

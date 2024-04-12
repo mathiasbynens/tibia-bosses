@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-11T09:31:26.589Z",
+	"timestamp": "2024-04-12T03:34:05.219Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 41.41
+			"chance": 41.41,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.59
+			"chance": 37.59,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.5
+			"chance": 21.5,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.79
+			"chance": 10.79,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +105,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

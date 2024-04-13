@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-12T09:31:39.633Z",
+	"timestamp": "2024-04-13T03:33:05.758Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 21.44
+			"chance": 21.44,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

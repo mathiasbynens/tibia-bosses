@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-12T09:31:23.369Z",
+	"timestamp": "2024-04-13T03:33:01.780Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.46
+			"chance": 26.46,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.93
+			"chance": 19.93,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.6
+			"chance": 16.6,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -124,6 +128,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

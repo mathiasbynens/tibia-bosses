@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-12T09:31:33.161Z",
+	"timestamp": "2024-04-13T03:33:03.611Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.55
+			"chance": 27.55,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -76,6 +77,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-12T09:31:36.432Z",
+	"timestamp": "2024-04-13T03:33:04.965Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 59.99
+			"chance": 59.99,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.8
+			"chance": 53.8,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 27.23
+			"chance": 27.23,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -108,6 +112,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

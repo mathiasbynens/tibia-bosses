@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-12T09:31:46.081Z",
+	"timestamp": "2024-04-13T03:33:07.849Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 35.93
+			"chance": 35.93,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.31
+			"chance": 26.31,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.61
+			"chance": 4.61,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -95,7 +99,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.29
+			"chance": 3.29,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-12T09:31:26.609Z",
+	"timestamp": "2024-04-13T03:33:02.535Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 20.04
+			"chance": 20.04,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.95
+			"chance": 17.95,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.36
+			"chance": 8.36,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.34
+			"chance": 7.34,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -100,6 +105,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.88
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

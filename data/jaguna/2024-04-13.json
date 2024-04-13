@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-04-13T09:31:17.577Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.43
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 29.42
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.33
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.66
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.43
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 22.28
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 20.88
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 18.96
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 17.69
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 17.31
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.03
+		},
+		{
+			"name": "White Pale",
+			"chance": 15
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 13.93
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.02
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.93
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.59
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.41
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.14
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.88
+		},
+		{
+			"name": "Dracola",
+			"chance": 6.68
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.56
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.69
+		}
+	]
+}

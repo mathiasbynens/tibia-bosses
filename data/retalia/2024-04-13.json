@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-04-13T09:31:24.622Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 76.77
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 40.8
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 38.73
+		},
+		{
+			"name": "yeti",
+			"chance": 37.94
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.75
+		},
+		{
+			"name": "Dracola",
+			"chance": 29.81
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 26.45
+		},
+		{
+			"name": "midnight panther",
+			"chance": 21
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 18.31
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 18.12
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.03
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.14
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.03
+		},
+		{
+			"name": "White Pale",
+			"chance": 15
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.85
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.75
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.54
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.44
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.03
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.15
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.62
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.96
+		}
+	]
+}

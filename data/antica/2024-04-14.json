@@ -1,0 +1,129 @@
+{
+	"timestamp": "2024-04-14T10:32:34.810Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.29
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.04
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.28
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.19
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.72
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.14
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.08
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.88
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 14.53
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.49
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 12.09
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.01
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.98
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.78
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.25
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.1
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.48
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.71
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.49
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.11
+		},
+		{
+			"name": "Omrafir",
+			"chance": 9.03
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 8.66
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.63
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.79
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.68
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.17
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.75
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.87
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-13T09:31:24.622Z",
+	"timestamp": "2024-04-14T03:48:40.906Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +93,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

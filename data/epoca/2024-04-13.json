@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-13T09:31:14.568Z",
+	"timestamp": "2024-04-14T03:48:38.333Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.36
+			"chance": 39.36,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 21.83
+			"chance": 21.83,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -72,6 +76,11 @@
 		{
 			"name": "Dracola",
 			"chance": 6.68
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

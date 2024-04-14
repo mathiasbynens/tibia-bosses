@@ -1,25 +1,30 @@
 {
-	"timestamp": "2024-04-13T09:31:21.102Z",
+	"timestamp": "2024-04-14T03:48:40.167Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.6
+			"chance": 81.6,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.26
+			"chance": 41.26,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.04
+			"chance": 23.04,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -116,6 +124,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

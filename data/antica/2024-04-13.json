@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-13T09:31:08.216Z",
+	"timestamp": "2024-04-14T03:48:36.811Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60
+			"chance": 60,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 29.62
+			"chance": 29.62,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.82
+			"chance": 21.82,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +44,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 17.59
+			"chance": 17.59,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 8.19
+			"chance": 8.19,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -124,6 +132,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

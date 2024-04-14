@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-13T09:31:17.577Z",
+	"timestamp": "2024-04-14T03:48:39.261Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.41
+			"chance": 8.41,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +95,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.69
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-14T10:32:52.413Z",
+	"timestamp": "2024-04-15T04:08:09.694Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.44
+			"chance": 19.44,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +107,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.31
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

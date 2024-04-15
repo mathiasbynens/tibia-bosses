@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-14T10:32:55.590Z",
+	"timestamp": "2024-04-15T04:08:10.626Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.46
+			"chance": 22.46,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.95
+			"chance": 15.95,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.67
+			"chance": 14.67,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +125,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.31
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

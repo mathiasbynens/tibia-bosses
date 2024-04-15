@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-14T10:32:34.810Z",
+	"timestamp": "2024-04-15T04:08:03.700Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.29
+			"chance": 40.29,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.49
+			"chance": 13.49,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.1
+			"chance": 11.1,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.49
+			"chance": 9.49,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +129,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

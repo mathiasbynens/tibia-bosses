@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-14T10:32:46.416Z",
+	"timestamp": "2024-04-15T04:08:07.758Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.3
+			"chance": 27.3,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.46
+			"chance": 26.46,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.53
+			"chance": 14.53,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.76
+			"chance": 7.76,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -112,6 +116,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

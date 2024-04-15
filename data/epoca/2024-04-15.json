@@ -1,0 +1,69 @@
+{
+	"timestamp": "2024-04-15T09:32:23.550Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 60
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.23
+		},
+		{
+			"name": "Dharalion",
+			"chance": 42.93
+		},
+		{
+			"name": "Xenia",
+			"chance": 30.54
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.32
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 26.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.24
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 17.7
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.32
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.77
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.47
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.46
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.18
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 9.35
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 6.14
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.36
+		}
+	]
+}

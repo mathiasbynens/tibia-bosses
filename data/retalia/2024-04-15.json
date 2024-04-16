@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-15T09:32:34.175Z",
+	"timestamp": "2024-04-16T03:33:09.611Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -76,6 +77,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 6.17
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

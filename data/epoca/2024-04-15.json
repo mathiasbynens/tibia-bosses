@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-15T09:32:23.550Z",
+	"timestamp": "2024-04-16T03:33:06.672Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

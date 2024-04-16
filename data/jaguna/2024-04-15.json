@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-15T09:32:26.955Z",
+	"timestamp": "2024-04-16T03:33:07.636Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60
+			"chance": 60,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,19 +20,23 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.08
+			"chance": 22.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.02
+			"chance": 21.02,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.36
+			"chance": 19.36,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 17.58
+			"chance": 17.58,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.54
+			"chance": 6.54,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

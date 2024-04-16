@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-15T09:32:41.194Z",
+	"timestamp": "2024-04-16T03:33:11.688Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60
+			"chance": 60,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.3
+			"chance": 26.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 25.54
+			"chance": 25.54,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.42
+			"chance": 18.42,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.34
+			"chance": 18.34,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -83,7 +91,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +125,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

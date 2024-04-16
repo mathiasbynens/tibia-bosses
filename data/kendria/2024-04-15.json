@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-15T09:32:30.434Z",
+	"timestamp": "2024-04-16T03:33:08.629Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.66
+			"chance": 39.66,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.42
+			"chance": 18.42,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.56
+			"chance": 12.56,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -71,11 +76,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -116,6 +123,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.14
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

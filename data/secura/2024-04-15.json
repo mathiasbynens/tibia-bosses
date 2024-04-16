@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-15T09:32:37.583Z",
+	"timestamp": "2024-04-16T03:33:10.600Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.17
+			"chance": 32.17,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.47
+			"chance": 26.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.02
+			"chance": 21.02,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.79
+			"chance": 13.79,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.03
+			"chance": 9.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +107,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

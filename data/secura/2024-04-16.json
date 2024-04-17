@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-04-16T09:31:57.286Z",
+	"timestamp": "2024-04-17T03:33:09.610Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.36
+			"chance": 39.36,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 26.19
+			"chance": 26.19,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,11 +61,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.53
+			"chance": 11.53,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.51
+			"chance": 9.51,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +96,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-16T09:31:46.268Z",
+	"timestamp": "2024-04-17T03:33:05.505Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.56
+			"chance": 38.56,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.72
+			"chance": 33.72,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.2
+			"chance": 32.2,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

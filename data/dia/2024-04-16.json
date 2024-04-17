@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-16T09:31:38.551Z",
+	"timestamp": "2024-04-17T03:33:03.523Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.48
+			"chance": 61.48,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.84
+			"chance": 12.84,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -100,6 +102,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

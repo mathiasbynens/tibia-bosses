@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-16T09:32:01.014Z",
+	"timestamp": "2024-04-17T03:33:10.633Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.84
+			"chance": 69.84,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 45.98
+			"chance": 45.98,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.2
+			"chance": 32.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.63
+			"chance": 28.63,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.54
+			"chance": 6.54,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +93,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.89
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

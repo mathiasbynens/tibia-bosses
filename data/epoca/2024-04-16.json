@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-16T09:31:42.215Z",
+	"timestamp": "2024-04-17T03:33:04.508Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 74.44
+			"chance": 74.44,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 51.73
+			"chance": 51.73,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 14.89
+			"chance": 14.89,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -68,6 +72,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.98
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

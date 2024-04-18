@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-17T09:31:36.132Z",
+	"timestamp": "2024-04-18T03:33:08.726Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.67
+			"chance": 12.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,11 +76,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.68
+			"chance": 5.68,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -96,6 +99,21 @@
 		{
 			"name": "Captain Jones",
 			"chance": 4.97
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-17T09:31:26.693Z",
+	"timestamp": "2024-04-18T03:33:06.691Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -116,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.39
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-17T09:31:23.564Z",
+	"timestamp": "2024-04-18T03:33:05.880Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.54
+			"chance": 24.54,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

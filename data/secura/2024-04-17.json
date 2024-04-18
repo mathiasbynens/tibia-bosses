@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-17T09:31:32.545Z",
+	"timestamp": "2024-04-18T03:33:08.052Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.46
+			"chance": 7.46,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.01
+			"chance": 4.01,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -80,6 +85,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

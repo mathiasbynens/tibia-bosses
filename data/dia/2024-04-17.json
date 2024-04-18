@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-17T09:31:17.266Z",
+	"timestamp": "2024-04-18T03:33:04.510Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 26.26
+			"chance": 26.26,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +108,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-17T09:31:29.589Z",
+	"timestamp": "2024-04-18T03:33:07.363Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.49
+			"chance": 15.49,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -88,6 +89,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.46
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

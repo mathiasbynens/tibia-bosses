@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-18T09:31:14.683Z",
+	"timestamp": "2024-04-19T03:33:58.739Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.31
+			"chance": 15.31,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.16
+			"chance": 9.16,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -84,6 +87,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.91
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

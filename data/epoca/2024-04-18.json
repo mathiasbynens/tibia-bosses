@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-18T09:31:21.188Z",
+	"timestamp": "2024-04-19T03:34:00.685Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -52,6 +52,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

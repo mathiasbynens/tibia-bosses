@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-18T09:31:30.388Z",
+	"timestamp": "2024-04-19T03:34:03.780Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.86
+			"chance": 69.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +98,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.23
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

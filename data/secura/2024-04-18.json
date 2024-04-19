@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-18T09:31:33.816Z",
+	"timestamp": "2024-04-19T03:34:05.745Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.72
+			"chance": 33.72,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.64
+			"chance": 24.64,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.13
+			"chance": 21.13,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.16
+			"chance": 18.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.38
+			"chance": 8.38,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.66
+			"chance": 6.66,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +111,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

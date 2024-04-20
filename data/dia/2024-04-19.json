@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-19T09:31:23.944Z",
+	"timestamp": "2024-04-20T03:33:05.128Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.75
+			"chance": 30.75,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 28.24
+			"chance": 28.24,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -96,6 +99,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

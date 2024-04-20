@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-19T09:31:42.957Z",
+	"timestamp": "2024-04-20T03:33:10.335Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.79
+			"chance": 93.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 19.78
+			"chance": 19.78,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.52
+			"chance": 11.52,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.36
+			"chance": 5.36,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +73,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

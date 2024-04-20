@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-19T09:31:33.776Z",
+	"timestamp": "2024-04-20T03:33:07.436Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.3
+			"chance": 79.3,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.93
+			"chance": 63.93,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 38.76
+			"chance": 38.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 29.33
+			"chance": 29.33,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.39
+			"chance": 19.39,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -75,11 +81,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.09
+			"chance": 10.09,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +132,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

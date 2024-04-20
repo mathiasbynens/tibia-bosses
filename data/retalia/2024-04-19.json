@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-19T09:31:36.800Z",
+	"timestamp": "2024-04-20T03:33:08.397Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.77
+			"chance": 29.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.33
+			"chance": 20.33,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +107,11 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.58
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

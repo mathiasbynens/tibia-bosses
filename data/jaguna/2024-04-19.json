@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-19T09:31:30.192Z",
+	"timestamp": "2024-04-20T03:33:06.525Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.08
+			"chance": 30.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 27.25
+			"chance": 27.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.15
+			"chance": 13.15,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -104,6 +107,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.99
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

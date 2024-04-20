@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-04-19T09:31:20.745Z",
+	"timestamp": "2024-04-20T03:33:04.283Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 37.89
+			"chance": 37.89,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 27.98
+			"chance": 27.98,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.17
+			"chance": 17.17,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -96,6 +102,16 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.28
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

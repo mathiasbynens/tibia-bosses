@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-19T09:31:27.056Z",
+	"timestamp": "2024-04-20T03:33:05.806Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.89
+			"chance": 4.89,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,7 +84,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.92
+			"chance": 3.92,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

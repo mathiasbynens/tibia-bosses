@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-20T09:31:25.007Z",
+	"timestamp": "2024-04-21T03:33:02.537Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

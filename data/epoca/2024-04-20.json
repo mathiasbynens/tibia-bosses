@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-04-20T09:31:21.747Z",
+	"timestamp": "2024-04-21T03:33:01.639Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.49
+			"chance": 61.49,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.05
+			"chance": 46.05,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 29.74
+			"chance": 29.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.29
+			"chance": 15.29,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -84,6 +89,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 2.98
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

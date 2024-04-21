@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-20T09:31:28.071Z",
+	"timestamp": "2024-04-21T03:33:03.861Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.24
+			"chance": 42.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.42
+			"chance": 35.42,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,19 +21,23 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.65
+			"chance": 24.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.39
+			"chance": 19.39,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -63,11 +70,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.44
+			"chance": 9.44,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.44
+			"chance": 9.44,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,7 +92,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.38
+			"chance": 8.38,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -112,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

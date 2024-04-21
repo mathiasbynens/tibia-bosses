@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-20T09:31:34.403Z",
+	"timestamp": "2024-04-21T03:33:05.614Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.79
+			"chance": 29.79,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.61
+			"chance": 5.61,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -91,11 +96,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.39
+			"chance": 3.39,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.28
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

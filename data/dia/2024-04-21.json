@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-04-21T09:31:25.477Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 53.98
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.4
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 32.24
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.02
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.69
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.41
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16.62
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.18
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.06
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.54
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.44
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.32
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.22
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.67
+		},
+		{
+			"name": "yeti",
+			"chance": 10.43
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.86
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.18
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 7.16
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.61
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.69
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.06
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.64
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.14
+		}
+	]
+}

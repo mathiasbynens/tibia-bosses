@@ -1,0 +1,129 @@
+{
+	"timestamp": "2024-04-22T09:31:53.550Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.67
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.91
+		},
+		{
+			"name": "Omrafir",
+			"chance": 27.1
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.2
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.18
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 19.42
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 19.22
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.87
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.33
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.52
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.1
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.91
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 13.83
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.82
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 13.64
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.26
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 12.68
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 12.08
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 10.08
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.33
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.18
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.28
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 7.15
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.86
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.83
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.58
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.28
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.36
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.34
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.81
+		}
+	]
+}

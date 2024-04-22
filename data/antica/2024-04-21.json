@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-21T09:31:22.338Z",
+	"timestamp": "2024-04-22T03:32:52.658Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.56
+			"chance": 11.56,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.43
+			"chance": 10.43,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.28
+			"chance": 7.28,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -112,6 +115,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-22T09:31:53.550Z",
+	"timestamp": "2024-04-23T03:33:32.664Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.42
+			"chance": 19.42,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.83
+			"chance": 5.83,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +127,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

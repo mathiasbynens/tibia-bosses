@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-22T09:31:43.807Z",
+	"timestamp": "2024-04-23T03:33:27.562Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.86
+			"chance": 69.86,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.59
+			"chance": 26.59,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.28
+			"chance": 6.28,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

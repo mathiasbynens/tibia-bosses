@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-22T09:31:47.034Z",
+	"timestamp": "2024-04-23T03:33:28.619Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 18.98
+			"chance": 18.98,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.17
+			"chance": 12.17,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -76,6 +78,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.37
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

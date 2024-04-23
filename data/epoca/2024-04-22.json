@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-22T09:31:37.501Z",
+	"timestamp": "2024-04-23T03:33:25.566Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 42.56
+			"chance": 42.56,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.16
+			"chance": 22.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.11
+			"chance": 16.11,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -72,6 +76,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.14
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

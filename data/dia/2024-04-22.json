@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-22T09:31:34.365Z",
+	"timestamp": "2024-04-23T03:33:24.600Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 48.56
+			"chance": 48.56,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 25.27
+			"chance": 25.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -100,6 +103,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

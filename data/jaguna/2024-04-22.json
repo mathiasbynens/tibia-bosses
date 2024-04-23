@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-04-22T09:31:40.653Z",
+	"timestamp": "2024-04-23T03:33:26.363Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.67
+			"chance": 37.67,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.83
+			"chance": 23.83,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.98
+			"chance": 21.98,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +98,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.95
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

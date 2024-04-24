@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-23T09:31:42.035Z",
+	"timestamp": "2024-04-24T03:33:07.744Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.06
+			"chance": 60.06,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.21
+			"chance": 32.21,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.85
+			"chance": 23.85,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.39
+			"chance": 20.39,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -124,6 +130,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.17
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

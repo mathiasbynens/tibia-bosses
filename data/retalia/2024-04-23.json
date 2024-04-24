@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-23T09:31:34.065Z",
+	"timestamp": "2024-04-24T03:33:05.673Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.77
+			"chance": 24.77,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -80,6 +82,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

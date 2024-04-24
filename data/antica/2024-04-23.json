@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-23T09:31:16.914Z",
+	"timestamp": "2024-04-24T03:33:00.629Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 50.7
+			"chance": 50.7,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 24.43
+			"chance": 24.43,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.35
+			"chance": 16.35,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +116,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

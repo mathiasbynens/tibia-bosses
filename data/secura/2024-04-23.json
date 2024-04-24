@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-23T09:31:37.370Z",
+	"timestamp": "2024-04-24T03:33:06.635Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.87
+			"chance": 69.87,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.58
+			"chance": 26.58,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 16.1
+			"chance": 16.1,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.07
+			"chance": 12.07,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -43,11 +48,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -96,6 +103,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

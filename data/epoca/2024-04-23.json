@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-23T09:31:23.766Z",
+	"timestamp": "2024-04-24T03:33:02.648Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.04
+			"chance": 65.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -64,6 +66,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.98
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-04-25T09:31:28.050Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 24.95
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.96
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.94
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 17.94
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.31
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.16
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.43
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.16
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.35
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.3
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.42
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.86
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.56
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.68
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.58
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.51
+		}
+	]
+}

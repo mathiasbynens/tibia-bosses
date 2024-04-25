@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-24T09:31:36.387Z",
+	"timestamp": "2024-04-25T03:33:07.164Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -87,11 +88,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.24
+			"chance": 6.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 5.48
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-24T09:31:33.183Z",
+	"timestamp": "2024-04-25T03:33:06.365Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.08
+			"chance": 60.08,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -68,6 +70,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-24T09:31:30.043Z",
+	"timestamp": "2024-04-25T03:33:05.376Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -112,6 +114,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

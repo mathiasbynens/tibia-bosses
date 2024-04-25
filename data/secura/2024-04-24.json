@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-24T09:31:52.467Z",
+	"timestamp": "2024-04-25T03:33:09.772Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 26.94
+			"chance": 26.94,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.31
+			"chance": 10.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -96,6 +98,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.36
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

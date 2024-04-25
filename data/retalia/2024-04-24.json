@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-24T09:31:43.195Z",
+	"timestamp": "2024-04-25T03:33:08.867Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.88
+			"chance": 7.88,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -80,6 +81,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.48
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

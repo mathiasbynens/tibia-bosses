@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-24T09:31:26.947Z",
+	"timestamp": "2024-04-25T03:33:04.486Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.24
+			"chance": 53.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 37.12
+			"chance": 37.12,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.61
+			"chance": 17.61,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.38
+			"chance": 12.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.79
+			"chance": 9.79,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -104,6 +109,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

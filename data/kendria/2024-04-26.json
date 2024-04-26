@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-04-26T09:31:29.250Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 41.41
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.7
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 33.77
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.26
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 24.23
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.2
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 19.41
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.96
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.85
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.03
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.27
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.49
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.97
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.11
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.33
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.04
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.19
+		}
+	]
+}

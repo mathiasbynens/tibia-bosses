@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-25T09:31:44.849Z",
+	"timestamp": "2024-04-26T03:33:00.635Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 33.68
+			"chance": 33.68,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 21.83
+			"chance": 21.83,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.24
+			"chance": 18.24,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -120,6 +124,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

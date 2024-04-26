@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-25T09:31:24.817Z",
+	"timestamp": "2024-04-26T03:32:56.920Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -120,6 +122,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

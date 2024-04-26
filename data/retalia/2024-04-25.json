@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-25T09:31:37.505Z",
+	"timestamp": "2024-04-26T03:32:59.452Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.85
+			"chance": 69.85,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

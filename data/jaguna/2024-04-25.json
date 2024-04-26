@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-25T09:31:31.186Z",
+	"timestamp": "2024-04-26T03:32:58.167Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 28.25
+			"chance": 28.25,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

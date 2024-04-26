@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-25T09:31:28.050Z",
+	"timestamp": "2024-04-26T03:32:57.566Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.43
+			"chance": 13.43,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-26T09:31:35.319Z",
+	"timestamp": "2024-04-27T03:33:09.293Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.08
+			"chance": 60.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.48
+			"chance": 35.48,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 32.5
+			"chance": 32.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,15 +34,18 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.52
+			"chance": 17.52,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

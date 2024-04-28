@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-27T09:31:31.906Z",
+	"timestamp": "2024-04-28T03:33:07.578Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.63
+			"chance": 12.63,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -76,6 +77,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.01
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-27T09:31:35.285Z",
+	"timestamp": "2024-04-28T03:33:09.703Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -91,7 +93,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.01
+			"chance": 3.01,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

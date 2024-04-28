@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-27T09:31:41.888Z",
+	"timestamp": "2024-04-28T03:33:15.910Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 27.4
+			"chance": 27.4,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.85
+			"chance": 4.85,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

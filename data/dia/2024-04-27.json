@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-04-27T09:31:28.526Z",
+	"timestamp": "2024-04-28T03:33:03.572Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.86
+			"chance": 69.86,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 44.43
+			"chance": 44.43,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.92
+			"chance": 28.92,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.26
+			"chance": 20.26,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.5
+			"chance": 17.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,15 +90,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -127,7 +137,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.39
+			"chance": 5.39,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -140,6 +151,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.34
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

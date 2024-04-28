@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-04-27T09:31:25.222Z",
+	"timestamp": "2024-04-28T03:33:00.779Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.15
+			"chance": 74.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.08
+			"chance": 60.08,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.48
+			"chance": 22.48,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.4
+			"chance": 18.4,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,11 +36,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.72
+			"chance": 7.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +104,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-28T09:31:29.713Z",
+	"timestamp": "2024-04-29T03:33:57.553Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.71
+			"chance": 38.71,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.14
+			"chance": 32.14,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -100,6 +103,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.04
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

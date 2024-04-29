@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-28T09:31:44.401Z",
+	"timestamp": "2024-04-29T03:34:01.647Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.36
+			"chance": 79.36,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 8.49
+			"chance": 8.49,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -120,6 +125,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

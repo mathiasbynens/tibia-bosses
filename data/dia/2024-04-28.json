@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-28T09:31:22.412Z",
+	"timestamp": "2024-04-29T03:33:55.718Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 42.68
+			"chance": 42.68,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.14
+			"chance": 18.14,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.4
+			"chance": 3.4,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

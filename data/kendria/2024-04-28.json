@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-28T09:31:33.409Z",
+	"timestamp": "2024-04-29T03:33:58.622Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.3
+			"chance": 32.3,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.41
+			"chance": 14.41,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +92,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.82
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

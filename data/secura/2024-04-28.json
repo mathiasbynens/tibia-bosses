@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-28T09:31:40.483Z",
+	"timestamp": "2024-04-29T03:34:00.593Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.21
+			"chance": 42.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.14
+			"chance": 18.14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 8.02
+			"chance": 8.02,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +108,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

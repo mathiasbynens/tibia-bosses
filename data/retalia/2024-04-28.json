@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-28T09:31:36.765Z",
+	"timestamp": "2024-04-29T03:33:59.606Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -88,6 +89,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

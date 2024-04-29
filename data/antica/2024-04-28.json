@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-28T09:31:18.837Z",
+	"timestamp": "2024-04-29T03:33:54.650Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.45
+			"chance": 24.45,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.4
+			"chance": 19.4,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +86,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

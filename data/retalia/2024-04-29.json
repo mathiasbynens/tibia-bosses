@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-29T09:31:32.435Z",
+	"timestamp": "2024-04-30T03:33:14.716Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 79.36
+			"chance": 79.36,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 66.76
+			"chance": 66.76,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.23
+			"chance": 53.23,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 32.76
+			"chance": 32.76,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -92,6 +97,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.21
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

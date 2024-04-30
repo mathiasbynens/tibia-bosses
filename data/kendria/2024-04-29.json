@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-29T09:31:29.355Z",
+	"timestamp": "2024-04-30T03:33:13.685Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.88
+			"chance": 69.88,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +94,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.39
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-05-01T09:31:32.379Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 28.45
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 24.04
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 23.43
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.27
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.63
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.31
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.11
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 11.95
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.39
+		},
+		{
+			"name": "Dracola",
+			"chance": 10.61
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.07
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.8
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.76
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 6.44
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 5.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.04
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.99
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.48
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"timestamp": "2024-05-01T09:31:29.455Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.23
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.71
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 23.96
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.71
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 22.19
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 19.64
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 19.63
+		},
+		{
+			"name": "yeti",
+			"chance": 14.16
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.55
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.13
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.43
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 8.73
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.03
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.87
+		}
+	]
+}

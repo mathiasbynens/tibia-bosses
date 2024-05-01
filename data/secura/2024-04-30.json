@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-30T09:31:36.417Z",
+	"timestamp": "2024-05-01T03:33:07.549Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -100,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

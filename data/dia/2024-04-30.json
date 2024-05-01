@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-04-30T09:31:20.849Z",
+	"timestamp": "2024-05-01T03:33:04.339Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 44.84
+			"chance": 44.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +111,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

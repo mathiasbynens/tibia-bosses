@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-30T09:31:23.912Z",
+	"timestamp": "2024-05-01T03:33:05.023Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 58.32
+			"chance": 58.32,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -68,6 +69,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.07
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-04-30T09:31:17.653Z",
+	"timestamp": "2024-05-01T03:33:03.689Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.73
+			"chance": 18.73,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.64
+			"chance": 7.64,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.29
+			"chance": 7.29,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.16
+			"chance": 6.16,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -116,6 +122,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.86
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

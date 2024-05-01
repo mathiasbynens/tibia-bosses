@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-04-30T09:31:30.154Z",
+	"timestamp": "2024-05-01T03:33:06.209Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.79
+			"chance": 33.79,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.69
+			"chance": 26.69,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.6
+			"chance": 14.6,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,11 +57,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.63
+			"chance": 12.63,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.55
+			"chance": 11.55,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -63,7 +71,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.77
+			"chance": 10.77,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +100,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.92
+			"chance": 5.92,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +110,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

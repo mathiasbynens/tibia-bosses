@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-04-30T09:31:39.725Z",
+	"timestamp": "2024-05-01T03:33:08.204Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.52
+			"chance": 61.52,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.22
+			"chance": 35.22,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.45
+			"chance": 32.45,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,11 +31,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 26.97
+			"chance": 26.97,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.81
+			"chance": 22.81,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -39,11 +45,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.59
+			"chance": 19.59,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +99,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.39
+			"chance": 5.39,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +109,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.06
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

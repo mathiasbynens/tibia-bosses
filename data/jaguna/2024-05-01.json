@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-01T09:31:32.379Z",
+	"timestamp": "2024-05-02T03:32:59.586Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -76,6 +78,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

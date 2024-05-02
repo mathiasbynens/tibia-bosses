@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-01T09:31:29.455Z",
+	"timestamp": "2024-05-02T03:32:58.629Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -64,6 +65,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.87
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

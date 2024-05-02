@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-01T09:31:26.395Z",
+	"timestamp": "2024-05-02T03:32:57.737Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 37.54
+			"chance": 37.54,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.76
+			"chance": 24.76,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.11
+			"chance": 16.11,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.03
+			"chance": 15.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.05
+			"chance": 13.05,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -104,6 +110,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

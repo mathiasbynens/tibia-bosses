@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-01T09:31:45.000Z",
+	"timestamp": "2024-05-02T03:33:03.519Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 38.13
+			"chance": 38.13,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +77,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

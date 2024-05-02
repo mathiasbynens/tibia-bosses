@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-01T09:31:35.420Z",
+	"timestamp": "2024-05-02T03:33:00.685Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.44
+			"chance": 24.44,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.95
+			"chance": 22.95,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

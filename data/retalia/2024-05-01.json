@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-01T09:31:38.684Z",
+	"timestamp": "2024-05-02T03:33:01.566Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.63
+			"chance": 20.63,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 16.52
+			"chance": 16.52,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -76,6 +78,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.48
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

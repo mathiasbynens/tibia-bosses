@@ -1,0 +1,89 @@
+{
+	"timestamp": "2024-05-03T09:31:43.320Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.54
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.62
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.59
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 19.46
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.1
+		},
+		{
+			"name": "Hirintror",
+			"chance": 17.59
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.12
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.48
+		},
+		{
+			"name": "Barbaria",
+			"chance": 15.27
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.18
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.26
+		},
+		{
+			"name": "yeti",
+			"chance": 10.45
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 10.04
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.47
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 8.5
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.37
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.04
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.68
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.38
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.38
+		}
+	]
+}

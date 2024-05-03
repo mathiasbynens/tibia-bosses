@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-05-03T09:31:46.272Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.7
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.61
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.06
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.44
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.4
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 18.32
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 18.08
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.58
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.87
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.35
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.11
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.14
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.65
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.39
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.7
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.7
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.53
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.05
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.64
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.46
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.27
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.42
+		},
+		{
+			"name": "yeti",
+			"chance": 5.9
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.67
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.04
+		}
+	]
+}

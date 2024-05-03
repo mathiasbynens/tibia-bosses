@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-02T09:31:26.209Z",
+	"timestamp": "2024-05-03T03:33:13.478Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +101,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

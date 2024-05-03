@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-02T09:31:46.354Z",
+	"timestamp": "2024-05-03T03:33:17.348Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.11
+			"chance": 16.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 6.33
+			"chance": 6.33,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +100,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

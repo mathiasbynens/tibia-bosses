@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-02T09:31:39.789Z",
+	"timestamp": "2024-05-03T03:33:15.950Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.89
+			"chance": 69.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -84,6 +87,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.56
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

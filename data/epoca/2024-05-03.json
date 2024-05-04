@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-03T09:31:33.940Z",
+	"timestamp": "2024-05-04T03:32:55.786Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.44
+			"chance": 81.44,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.22
+			"chance": 28.22,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.45
+			"chance": 13.45,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -104,6 +109,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

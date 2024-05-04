@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-03T09:31:43.320Z",
+	"timestamp": "2024-05-04T03:32:57.599Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.62
+			"chance": 28.62,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.45
+			"chance": 10.45,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -84,6 +86,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.38
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

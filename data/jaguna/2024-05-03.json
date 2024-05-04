@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-03T09:31:36.999Z",
+	"timestamp": "2024-05-04T03:32:56.337Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.88
+			"chance": 69.88,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 64.97
+			"chance": 64.97,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -96,6 +99,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-03T09:31:27.983Z",
+	"timestamp": "2024-05-04T03:32:54.646Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.52
+			"chance": 38.52,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.15
+			"chance": 18.15,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -115,11 +119,17 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
 			"chance": 4.26
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

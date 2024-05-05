@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-04T09:31:17.069Z",
+	"timestamp": "2024-05-05T03:33:02.681Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.07
+			"chance": 12.07,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -124,6 +127,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

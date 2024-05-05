@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-04T09:31:28.675Z",
+	"timestamp": "2024-05-05T03:33:05.273Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.73
+			"chance": 7.73,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

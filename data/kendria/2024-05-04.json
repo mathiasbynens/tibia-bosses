@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-04T09:31:25.863Z",
+	"timestamp": "2024-05-05T03:33:04.731Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 26.91
+			"chance": 26.91,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.27
+			"chance": 22.27,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -127,7 +131,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.63
+			"chance": 5.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

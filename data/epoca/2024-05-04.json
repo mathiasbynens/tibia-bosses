@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-04T09:31:20.059Z",
+	"timestamp": "2024-05-05T03:33:03.226Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.97
+			"chance": 29.97,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.86
+			"chance": 26.86,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -79,11 +81,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.08
+			"chance": 3.08,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
 			"chance": 2.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-04T09:31:32.051Z",
+	"timestamp": "2024-05-05T03:33:06.007Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.13
+			"chance": 60.13,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.57
+			"chance": 15.57,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.42
+			"chance": 13.42,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.26
+			"chance": 7.26,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +118,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

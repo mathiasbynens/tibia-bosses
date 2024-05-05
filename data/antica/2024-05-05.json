@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-05-05T09:31:00.161Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.15
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 60.15
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.58
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.93
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 29.97
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 27.58
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 24.9
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 22.21
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.62
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.06
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.05
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.07
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.32
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.45
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.38
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.17
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.28
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.88
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 5.81
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.74
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 3.7
+		}
+	]
+}

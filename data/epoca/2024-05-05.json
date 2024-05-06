@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-05T09:31:06.105Z",
+	"timestamp": "2024-05-06T03:32:56.905Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.52
+			"chance": 9.52,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -92,6 +93,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

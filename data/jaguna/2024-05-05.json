@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-05T09:31:09.078Z",
+	"timestamp": "2024-05-06T03:32:57.647Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80
+			"chance": 80,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.94
+			"chance": 23.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.15
+			"chance": 18.15,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

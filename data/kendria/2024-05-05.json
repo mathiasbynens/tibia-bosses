@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-05T09:31:12.045Z",
+	"timestamp": "2024-05-06T03:32:58.717Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.33
+			"chance": 41.33,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.48
+			"chance": 19.48,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -111,11 +115,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -136,6 +142,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-05T09:31:20.950Z",
+	"timestamp": "2024-05-06T03:33:01.191Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.4
+			"chance": 25.4,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.16
+			"chance": 15.16,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

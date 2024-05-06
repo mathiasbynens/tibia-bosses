@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-05T09:31:00.161Z",
+	"timestamp": "2024-05-06T03:32:55.264Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.15
+			"chance": 60.15,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -92,6 +93,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 3.7
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

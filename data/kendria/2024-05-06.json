@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-06T09:31:28.455Z",
+	"timestamp": "2024-05-07T03:32:57.723Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.56
+			"chance": 19.56,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -63,11 +64,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.03
+			"chance": 18.03,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -95,11 +99,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.88
+			"chance": 10.88,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-06T09:31:34.387Z",
+	"timestamp": "2024-05-07T03:32:59.331Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 63.87
+			"chance": 63.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.61
+			"chance": 28.61,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -84,6 +89,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

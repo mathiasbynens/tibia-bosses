@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-06T09:31:18.575Z",
+	"timestamp": "2024-05-07T03:32:55.413Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.52
+			"chance": 22.52,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

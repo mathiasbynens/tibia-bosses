@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-06T09:31:25.331Z",
+	"timestamp": "2024-05-07T03:32:56.937Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.54
+			"chance": 61.54,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.97
+			"chance": 29.97,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.86
+			"chance": 12.86,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +116,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

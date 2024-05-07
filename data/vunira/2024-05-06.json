@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-06T09:31:37.348Z",
+	"timestamp": "2024-05-07T03:33:00.201Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.35
+			"chance": 40.35,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 32.52
+			"chance": 32.52,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.95
+			"chance": 23.95,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.45
+			"chance": 14.45,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.71
+			"chance": 13.71,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -112,6 +119,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.44
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

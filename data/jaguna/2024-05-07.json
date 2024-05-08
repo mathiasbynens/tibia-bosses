@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-07T09:31:21.609Z",
+	"timestamp": "2024-05-08T03:33:10.895Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.24
+			"chance": 53.24,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.69
+			"chance": 37.69,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.33
+			"chance": 29.33,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.54
+			"chance": 27.54,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 22.99
+			"chance": 22.99,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -100,6 +105,26 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

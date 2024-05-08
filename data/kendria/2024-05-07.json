@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-05-07T09:31:24.594Z",
+	"timestamp": "2024-05-08T03:33:11.533Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.09
+			"chance": 81.09,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.55
+			"chance": 38.55,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 38.24
+			"chance": 38.24,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.73
+			"chance": 34.73,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 32.78
+			"chance": 32.78,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 27.12
+			"chance": 27.12,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.43
+			"chance": 21.43,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -128,6 +135,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-07T09:31:30.652Z",
+	"timestamp": "2024-05-08T03:33:12.891Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.36
+			"chance": 41.36,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.59
+			"chance": 6.59,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -92,6 +94,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-07T09:31:15.878Z",
+	"timestamp": "2024-05-08T03:33:09.789Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.76
+			"chance": 67.76,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.41
+			"chance": 39.41,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.03
+			"chance": 10.03,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.63
+			"chance": 7.63,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -107,7 +113,18 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 2.05
+			"chance": 2.05,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

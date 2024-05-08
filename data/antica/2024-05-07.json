@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-07T09:31:12.917Z",
+	"timestamp": "2024-05-08T03:33:09.137Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.09
+			"chance": 81.09,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.18
+			"chance": 32.18,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 29.56
+			"chance": 29.56,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -96,6 +100,16 @@
 		{
 			"name": "Omrafir",
 			"chance": 4.97
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

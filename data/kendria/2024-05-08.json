@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-05-08T09:31:23.308Z",
+	"timestamp": "2024-05-09T03:33:04.694Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.23
+			"chance": 53.23,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 44.86
+			"chance": 44.86,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.19
+			"chance": 40.19,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.6
+			"chance": 24.6,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.42
+			"chance": 13.42,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.16
+			"chance": 13.16,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.71
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

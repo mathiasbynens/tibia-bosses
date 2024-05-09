@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-08T09:31:10.277Z",
+	"timestamp": "2024-05-09T03:33:01.881Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.23
+			"chance": 53.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.75
+			"chance": 22.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.71
+			"chance": 21.71,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -92,6 +95,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.39
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

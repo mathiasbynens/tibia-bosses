@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-08T09:31:19.457Z",
+	"timestamp": "2024-05-09T03:33:03.999Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.99
+			"chance": 64.99,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.48
+			"chance": 21.48,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.77
+			"chance": 20.77,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -96,6 +99,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.99
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-05-08T09:31:32.525Z",
+	"timestamp": "2024-05-09T03:33:06.965Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.01
+			"chance": 81.01,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.99
+			"chance": 64.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.56
+			"chance": 38.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -112,6 +116,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-08T09:31:29.361Z",
+	"timestamp": "2024-05-09T03:33:06.191Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.47
+			"chance": 25.47,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,11 +56,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14
+			"chance": 14,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.91
+			"chance": 5.91,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +95,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.91
+			"chance": 4.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +113,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.1
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

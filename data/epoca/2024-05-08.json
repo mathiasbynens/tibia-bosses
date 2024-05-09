@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-08T09:31:16.437Z",
+	"timestamp": "2024-05-09T03:33:03.232Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.55
+			"chance": 61.55,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -116,6 +119,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

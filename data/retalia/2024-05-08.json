@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-08T09:31:26.333Z",
+	"timestamp": "2024-05-09T03:33:05.401Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.02
+			"chance": 46.02,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.22
+			"chance": 13.22,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -96,6 +98,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.28
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

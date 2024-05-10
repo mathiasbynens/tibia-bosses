@@ -1,0 +1,109 @@
+{
+	"timestamp": "2024-05-10T09:31:35.575Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.46
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.09
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.63
+		},
+		{
+			"name": "Tyrn",
+			"chance": 27.8
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.13
+		},
+		{
+			"name": "Massacre",
+			"chance": 22.89
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.35
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.51
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.54
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.43
+		},
+		{
+			"name": "Zushuka",
+			"chance": 18.04
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.12
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16.7
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.32
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.02
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 15.55
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.34
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.25
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 10.33
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.05
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.72
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.84
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.53
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.55
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-09T09:31:27.727Z",
+	"timestamp": "2024-05-10T03:33:09.813Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 29.88
+			"chance": 29.88,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

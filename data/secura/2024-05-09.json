@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-09T09:31:40.591Z",
+	"timestamp": "2024-05-10T03:33:12.724Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 17.58
+			"chance": 17.58,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -83,11 +84,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.37
+			"chance": 3.37,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

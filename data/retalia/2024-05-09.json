@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-09T09:31:37.628Z",
+	"timestamp": "2024-05-10T03:33:12.046Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.56
+			"chance": 61.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -100,6 +102,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

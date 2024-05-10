@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-09T09:31:24.536Z",
+	"timestamp": "2024-05-10T03:33:09.075Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 27.05
+			"chance": 27.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.96
+			"chance": 19.96,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.59
+			"chance": 6.59,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +106,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.76
+			"chance": 4.76,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-10T09:31:49.978Z",
+	"timestamp": "2024-05-11T03:33:14.372Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.15
+			"chance": 74.15,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.38
+			"chance": 10.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.45
+			"chance": 6.45,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -112,6 +117,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

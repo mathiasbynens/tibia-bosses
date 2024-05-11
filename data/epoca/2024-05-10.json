@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-10T09:31:35.575Z",
+	"timestamp": "2024-05-11T03:33:10.999Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.09
+			"chance": 35.09,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.63
+			"chance": 28.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 27.8
+			"chance": 27.8,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.35
+			"chance": 21.35,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 10.33
+			"chance": 10.33,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -104,6 +111,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.55
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

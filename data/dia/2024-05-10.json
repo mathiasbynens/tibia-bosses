@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-10T09:31:31.890Z",
+	"timestamp": "2024-05-11T03:33:10.424Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.63
+			"chance": 28.63,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -103,7 +104,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +114,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.86
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

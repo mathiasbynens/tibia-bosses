@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-11T09:31:42.856Z",
+	"timestamp": "2024-05-12T03:33:53.340Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 38.99
+			"chance": 38.99,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.9
+			"chance": 22.9,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -80,6 +82,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

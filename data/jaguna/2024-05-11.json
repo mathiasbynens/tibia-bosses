@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-11T09:31:36.916Z",
+	"timestamp": "2024-05-12T03:33:52.211Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.55
+			"chance": 19.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.28
+			"chance": 17.28,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.18
+			"chance": 8.18,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -87,11 +91,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 5.82
+			"chance": 5.82,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.63
+			"chance": 5.63,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -104,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

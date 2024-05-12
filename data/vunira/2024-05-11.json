@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-11T09:31:48.404Z",
+	"timestamp": "2024-05-12T03:33:54.757Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.29
+			"chance": 62.29,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 29.88
+			"chance": 29.88,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.48
+			"chance": 20.48,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",

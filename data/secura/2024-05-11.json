@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-05-11T09:31:45.752Z",
+	"timestamp": "2024-05-12T03:33:54.090Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.18
+			"chance": 74.18,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.41
+			"chance": 40.41,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.31
+			"chance": 40.31,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.75
+			"chance": 37.75,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.98
+			"chance": 29.98,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.1
+			"chance": 21.1,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.83
+			"chance": 12.83,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.89
+			"chance": 6.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -136,6 +144,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.33
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

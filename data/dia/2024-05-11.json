@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-11T09:31:27.295Z",
+	"timestamp": "2024-05-12T03:33:51.140Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 29.98
+			"chance": 29.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -124,6 +127,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

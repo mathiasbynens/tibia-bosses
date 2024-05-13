@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-12T09:31:24.987Z",
+	"timestamp": "2024-05-13T03:32:55.964Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.24
+			"chance": 53.24,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.32
+			"chance": 41.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.76
+			"chance": 37.76,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.52
+			"chance": 21.52,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -116,6 +120,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

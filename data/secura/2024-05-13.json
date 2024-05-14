@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-05-13T09:31:41.367Z",
+	"timestamp": "2024-05-14T03:33:27.284Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.08
+			"chance": 46.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.45
+			"chance": 41.45,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.55
+			"chance": 38.55,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,11 +27,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.91
+			"chance": 26.91,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 25.42
+			"chance": 25.42,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,11 +65,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.69
+			"chance": 8.69,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +83,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.45
+			"chance": 6.45,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -96,6 +105,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

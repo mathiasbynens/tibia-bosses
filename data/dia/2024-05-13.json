@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-13T09:31:26.824Z",
+	"timestamp": "2024-05-14T03:33:24.219Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.75
+			"chance": 24.75,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -112,6 +114,16 @@
 		{
 			"name": "Ghazbaran",
 			"chance": 4.56
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

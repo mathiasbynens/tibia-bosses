@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-13T09:31:38.487Z",
+	"timestamp": "2024-05-14T03:33:26.695Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.75
+			"chance": 37.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.67
+			"chance": 24.67,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.69
+			"chance": 17.69,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,15 +59,18 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.26
+			"chance": 10.26,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.04
+			"chance": 10.04,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.01
+			"chance": 10.01,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

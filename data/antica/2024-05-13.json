@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-13T09:31:21.059Z",
+	"timestamp": "2024-05-14T03:33:23.626Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.17
+			"chance": 60.17,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,19 +17,23 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.1
+			"chance": 38.1,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.69
+			"chance": 27.69,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -144,6 +151,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-13T09:31:44.223Z",
+	"timestamp": "2024-05-14T03:33:28.026Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.32
+			"chance": 41.32,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.68
+			"chance": 33.68,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.01
+			"chance": 20.01,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.77
+			"chance": 15.77,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.42
+			"chance": 9.42,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -91,7 +99,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 8.45
+			"chance": 8.45,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -132,6 +141,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.62
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

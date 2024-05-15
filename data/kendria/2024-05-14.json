@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-14T09:31:29.109Z",
+	"timestamp": "2024-05-15T03:33:37.933Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.8
+			"chance": 13.8,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.05
+			"chance": 10.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -124,6 +128,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

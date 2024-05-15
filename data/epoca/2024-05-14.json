@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-14T09:31:22.377Z",
+	"timestamp": "2024-05-15T03:33:36.603Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -63,11 +63,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -111,7 +113,28 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 3.67
+			"chance": 3.67,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-05-15T09:31:40.919Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 35.69
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.78
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 22.38
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.27
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.7
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 16.13
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.09
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.73
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.53
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.33
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.99
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.89
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.86
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.68
+		}
+	]
+}

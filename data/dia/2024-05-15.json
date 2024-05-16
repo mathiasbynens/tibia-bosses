@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-15T09:31:27.255Z",
+	"timestamp": "2024-05-16T03:33:19.752Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.42
+			"chance": 35.42,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 14.78
+			"chance": 14.78,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -112,6 +115,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

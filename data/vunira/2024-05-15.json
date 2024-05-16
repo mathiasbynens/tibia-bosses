@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-15T09:31:47.819Z",
+	"timestamp": "2024-05-16T03:33:25.694Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.84
+			"chance": 69.84,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.23
+			"chance": 53.23,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.22
+			"chance": 26.22,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.6
+			"chance": 5.6,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +130,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.5
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

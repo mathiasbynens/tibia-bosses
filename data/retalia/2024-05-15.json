@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-15T09:31:40.919Z",
+	"timestamp": "2024-05-16T03:33:23.623Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.78
+			"chance": 33.78,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.73
+			"chance": 15.73,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -72,6 +74,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

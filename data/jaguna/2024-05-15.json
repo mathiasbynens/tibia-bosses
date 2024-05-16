@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-15T09:31:34.316Z",
+	"timestamp": "2024-05-16T03:33:21.447Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 42.45
+			"chance": 42.45,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 26.93
+			"chance": 26.93,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -104,6 +108,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.46
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

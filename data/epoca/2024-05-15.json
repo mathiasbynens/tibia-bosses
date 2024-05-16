@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-15T09:31:30.848Z",
+	"timestamp": "2024-05-16T03:33:20.696Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.76
+			"chance": 37.76,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

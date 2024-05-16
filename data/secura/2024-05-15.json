@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-15T09:31:44.511Z",
+	"timestamp": "2024-05-16T03:33:24.839Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.17
+			"chance": 8.17,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.91
+			"chance": 4.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +79,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.09
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

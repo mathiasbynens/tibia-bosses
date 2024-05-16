@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-15T09:31:23.551Z",
+	"timestamp": "2024-05-16T03:33:18.851Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 29.72
+			"chance": 29.72,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,11 +64,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.58
+			"chance": 12.58,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,11 +78,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 11.27
+			"chance": 11.27,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.26
+			"chance": 11.26,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.77
+			"chance": 7.77,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -120,6 +126,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.62
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

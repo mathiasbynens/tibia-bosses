@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-16T09:31:36.547Z",
+	"timestamp": "2024-05-17T03:33:20.434Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.74
+			"chance": 22.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.01
+			"chance": 19.01,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.73
+			"chance": 18.73,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -112,6 +116,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

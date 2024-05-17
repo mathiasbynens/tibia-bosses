@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-16T09:31:25.532Z",
+	"timestamp": "2024-05-17T03:33:18.549Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 27.12
+			"chance": 27.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.51
+			"chance": 23.51,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -120,6 +122,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 3.82
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-16T09:31:32.880Z",
+	"timestamp": "2024-05-17T03:33:19.736Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

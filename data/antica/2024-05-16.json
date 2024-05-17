@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-16T09:31:21.766Z",
+	"timestamp": "2024-05-17T03:33:17.891Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.24
+			"chance": 53.24,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -120,6 +123,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

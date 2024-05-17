@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-16T09:31:39.804Z",
+	"timestamp": "2024-05-17T03:33:21.010Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 21.07
+			"chance": 21.07,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

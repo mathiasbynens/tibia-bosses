@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-17T09:31:43.969Z",
+	"timestamp": "2024-05-18T03:33:15.625Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 48.86
+			"chance": 48.86,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -80,6 +83,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.65
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

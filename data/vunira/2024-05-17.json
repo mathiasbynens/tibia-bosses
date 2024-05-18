@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-17T09:31:49.796Z",
+	"timestamp": "2024-05-18T03:33:16.830Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.53
+			"chance": 24.53,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.86
+			"chance": 22.86,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,15 +35,18 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.6
+			"chance": 16.6,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15
+			"chance": 15,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,11 +75,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -79,7 +89,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.43
+			"chance": 9.43,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -91,7 +102,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -120,6 +132,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

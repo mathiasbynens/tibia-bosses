@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-17T09:31:46.989Z",
+	"timestamp": "2024-05-18T03:33:16.235Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 68.39
+			"chance": 68.39,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.16
+			"chance": 31.16,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.74
+			"chance": 22.74,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,19 +26,23 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.75
+			"chance": 19.75,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.98
+			"chance": 12.98,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.52
+			"chance": 7.52,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +112,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

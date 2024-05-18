@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-17T09:31:35.316Z",
+	"timestamp": "2024-05-18T03:33:13.906Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 44.83
+			"chance": 44.83,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.66
+			"chance": 28.66,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -80,6 +82,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

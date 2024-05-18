@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-17T09:31:41.217Z",
+	"timestamp": "2024-05-18T03:33:15.123Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.5
+			"chance": 41.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.17
+			"chance": 18.17,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.86
+			"chance": 14.86,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.33
+			"chance": 8.33,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +115,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.44
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,89 @@
+{
+	"timestamp": "2024-05-19T09:31:34.595Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 41.54
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.98
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.64
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 17.95
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.36
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 16.06
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.57
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 14.59
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.33
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.99
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.34
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.64
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.57
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.1
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.79
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.27
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.61
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.64
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.9
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.9
+		}
+	]
+}

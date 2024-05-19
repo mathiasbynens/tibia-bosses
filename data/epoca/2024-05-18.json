@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-18T09:31:22.023Z",
+	"timestamp": "2024-05-19T03:32:58.256Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.07
+			"chance": 64.07,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -88,6 +89,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.15
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

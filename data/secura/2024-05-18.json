@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-18T09:31:36.536Z",
+	"timestamp": "2024-05-19T03:33:01.837Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.2
+			"chance": 42.2,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 29.76
+			"chance": 29.76,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.82
+			"chance": 12.82,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.53
+			"chance": 12.53,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -111,7 +115,18 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.88
+			"chance": 3.88,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

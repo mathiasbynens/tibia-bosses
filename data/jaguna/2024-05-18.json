@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-18T09:31:26.261Z",
+	"timestamp": "2024-05-19T03:32:59.729Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.2
+			"chance": 42.2,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 32.9
+			"chance": 32.9,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.66
+			"chance": 22.66,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +89,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

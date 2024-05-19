@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-18T09:31:18.643Z",
+	"timestamp": "2024-05-19T03:32:57.660Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.16
+			"chance": 31.16,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.16
+			"chance": 22.16,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.55
+			"chance": 19.55,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.34
+			"chance": 16.34,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -120,6 +124,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

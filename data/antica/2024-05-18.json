@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-18T09:31:15.312Z",
+	"timestamp": "2024-05-19T03:32:56.947Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -99,7 +102,28 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.08
+			"chance": 3.08,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

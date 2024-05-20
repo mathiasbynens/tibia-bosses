@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-19T09:31:22.739Z",
+	"timestamp": "2024-05-20T03:32:55.159Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 71.51
+			"chance": 71.51,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 71.07
+			"chance": 71.07,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.82
+			"chance": 19.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -84,6 +87,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

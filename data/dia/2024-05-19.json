@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-19T09:31:16.455Z",
+	"timestamp": "2024-05-20T03:32:53.899Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 74.21
+			"chance": 74.21,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30
+			"chance": 30,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 29.94
+			"chance": 29.94,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -128,6 +131,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.53
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

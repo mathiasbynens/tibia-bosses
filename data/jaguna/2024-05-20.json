@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-05-20T09:31:33.043Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 54.07
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 39.76
+		},
+		{
+			"name": "Shlorg",
+			"chance": 28.5
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.19
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.74
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.51
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.22
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.25
+		},
+		{
+			"name": "Barbaria",
+			"chance": 16.93
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 16.92
+		},
+		{
+			"name": "General Murius",
+			"chance": 14.95
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 13.87
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.41
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.6
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.51
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.47
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.98
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.31
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 7
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.42
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.04
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-20T09:31:39.474Z",
+	"timestamp": "2024-05-21T03:33:29.873Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.01
+			"chance": 30.01,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -76,6 +78,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.52
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

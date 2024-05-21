@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-05-20T09:31:29.479Z",
+	"timestamp": "2024-05-21T03:33:27.064Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 74.32
+			"chance": 74.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.82
+			"chance": 39.82,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.51
+			"chance": 21.51,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.36
+			"chance": 17.36,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

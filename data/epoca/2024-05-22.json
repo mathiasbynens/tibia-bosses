@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-05-22T09:31:30.378Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 49.04
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 41.57
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 30.39
+		},
+		{
+			"name": "midnight panther",
+			"chance": 24.89
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.62
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 22.32
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.62
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.38
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 15.38
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 15.06
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.94
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.58
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 11.79
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.55
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.2
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.43
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.43
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.99
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.96
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.53
+		},
+		{
+			"name": "yeti",
+			"chance": 5.9
+		}
+	]
+}

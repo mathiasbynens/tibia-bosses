@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-05-22T09:31:23.010Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.07
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.51
+		},
+		{
+			"name": "midnight panther",
+			"chance": 21.16
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.48
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 17.78
+		},
+		{
+			"name": "yeti",
+			"chance": 17.66
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.12
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.9
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.54
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.59
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.92
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 12.23
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.37
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.12
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.48
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.25
+		},
+		{
+			"name": "Xenia",
+			"chance": 8.8
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.87
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.64
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.02
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.36
+		}
+	]
+}

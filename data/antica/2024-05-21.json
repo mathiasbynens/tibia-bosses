@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-21T09:31:24.779Z",
+	"timestamp": "2024-05-22T03:33:21.470Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.05
+			"chance": 52.05,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 35.24
+			"chance": 35.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -76,6 +79,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

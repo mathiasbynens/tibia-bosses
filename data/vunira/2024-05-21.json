@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-21T09:31:50.131Z",
+	"timestamp": "2024-05-22T03:33:27.619Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.36
+			"chance": 24.36,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.5
+			"chance": 8.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.03
+			"chance": 8.03,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

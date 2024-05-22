@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-21T09:31:43.011Z",
+	"timestamp": "2024-05-22T03:33:25.677Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.25
+			"chance": 60.25,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.43
+			"chance": 13.43,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +93,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.8
+			"chance": 2.8,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

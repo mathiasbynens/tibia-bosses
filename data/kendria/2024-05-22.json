@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-22T09:31:37.907Z",
+	"timestamp": "2024-05-23T03:33:09.031Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 33.46
+			"chance": 33.46,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.65
+			"chance": 12.65,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.62
+			"chance": 6.62,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +127,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

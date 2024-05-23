@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-22T09:31:26.663Z",
+	"timestamp": "2024-05-23T03:33:06.058Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.39
+			"chance": 35.39,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 30.26
+			"chance": 30.26,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -107,7 +109,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.23
+			"chance": 6.23,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -128,6 +131,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

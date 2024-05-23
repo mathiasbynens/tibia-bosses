@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-22T09:31:48.862Z",
+	"timestamp": "2024-05-23T03:33:11.607Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.84
+			"chance": 33.84,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.29
+			"chance": 29.29,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 24.09
+			"chance": 24.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.25
+			"chance": 13.25,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.6
+			"chance": 9.6,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -119,7 +125,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -128,6 +135,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

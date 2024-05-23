@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-22T09:31:34.134Z",
+	"timestamp": "2024-05-23T03:33:07.967Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.03
+			"chance": 21.03,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -96,6 +99,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-22T09:31:23.010Z",
+	"timestamp": "2024-05-23T03:33:05.073Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.51
+			"chance": 21.51,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.48
+			"chance": 19.48,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",

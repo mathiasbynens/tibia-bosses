@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-22T09:31:45.179Z",
+	"timestamp": "2024-05-23T03:33:10.704Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.56
+			"chance": 61.56,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.21
+			"chance": 22.21,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.55
+			"chance": 11.55,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

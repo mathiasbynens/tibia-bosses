@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-22T09:31:30.378Z",
+	"timestamp": "2024-05-23T03:33:07.196Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 11.79
+			"chance": 11.79,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-23T09:31:45.492Z",
+	"timestamp": "2024-05-24T03:33:05.568Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
-			"chance": 30.83
+			"chance": 30.83,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 18.3
+			"chance": 18.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.89
+			"chance": 5.89,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +96,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.14
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

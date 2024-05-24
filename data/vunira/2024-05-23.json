@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-23T09:31:49.096Z",
+	"timestamp": "2024-05-24T03:33:06.440Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.19
+			"chance": 40.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 19.62
+			"chance": 19.62,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +123,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

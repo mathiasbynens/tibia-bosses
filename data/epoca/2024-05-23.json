@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-23T09:31:31.016Z",
+	"timestamp": "2024-05-24T03:33:02.313Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 18.3
+			"chance": 18.3,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",

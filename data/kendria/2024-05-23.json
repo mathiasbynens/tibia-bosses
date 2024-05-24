@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-23T09:31:38.028Z",
+	"timestamp": "2024-05-24T03:33:03.857Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.6
+			"chance": 38.6,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.07
+			"chance": 29.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.75
+			"chance": 22.75,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.06
+			"chance": 13.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.64
+			"chance": 7.64,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.45
+			"chance": 5.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +119,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

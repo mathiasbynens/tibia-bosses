@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-23T09:31:27.484Z",
+	"timestamp": "2024-05-24T03:33:01.535Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.58
+			"chance": 61.58,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.25
+			"chance": 21.25,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -132,6 +134,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

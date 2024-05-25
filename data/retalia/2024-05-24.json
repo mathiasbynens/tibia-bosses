@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-24T09:31:35.443Z",
+	"timestamp": "2024-05-25T03:33:19.172Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.24
+			"chance": 21.24,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +85,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-05-25T09:31:39.438Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 65.55
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 41.26
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.21
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.85
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 30.43
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 18.99
+		},
+		{
+			"name": "yeti",
+			"chance": 17.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.97
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.07
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.75
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.51
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.71
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.65
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.53
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.63
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.27
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.27
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.39
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-25T09:31:45.923Z",
+	"timestamp": "2024-05-26T03:33:20.422Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.41
+			"chance": 81.41,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.01
+			"chance": 10.01,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,11 +78,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.84
+			"chance": 6.84,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.72
+			"chance": 6.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -107,7 +112,38 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.71
+			"chance": 3.71,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

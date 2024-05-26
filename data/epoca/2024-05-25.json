@@ -1,29 +1,35 @@
 {
-	"timestamp": "2024-05-25T09:31:39.438Z",
+	"timestamp": "2024-05-26T03:33:19.056Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 65.55
+			"chance": 65.55,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.26
+			"chance": 41.26,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.21
+			"chance": 40.21,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 30.43
+			"chance": 30.43,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.99
+			"chance": 18.99,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -88,6 +95,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

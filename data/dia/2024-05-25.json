@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-25T09:31:36.248Z",
+	"timestamp": "2024-05-26T03:33:18.389Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 27.79
+			"chance": 27.79,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.13
+			"chance": 14.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -111,7 +115,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.9
+			"chance": 5.9,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +125,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.85
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

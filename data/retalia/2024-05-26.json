@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-26T09:31:27.659Z",
+	"timestamp": "2024-05-27T03:34:25.750Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.1
+			"chance": 23.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -120,6 +123,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

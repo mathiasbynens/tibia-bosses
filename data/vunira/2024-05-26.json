@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-26T09:31:33.629Z",
+	"timestamp": "2024-05-27T03:34:27.572Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.1
+			"chance": 29.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.68
+			"chance": 23.68,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.32
+			"chance": 20.32,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 20.28
+			"chance": 20.28,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.99
+			"chance": 3.99,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +101,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-26T09:31:24.533Z",
+	"timestamp": "2024-05-27T03:34:24.999Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.81
+			"chance": 93.81,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.87
+			"chance": 35.87,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 34.7
+			"chance": 34.7,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,15 +63,18 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.54
+			"chance": 10.54,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.32
+			"chance": 10.32,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.38
+			"chance": 9.38,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -96,6 +103,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.37
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

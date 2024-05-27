@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-26T09:31:15.918Z",
+	"timestamp": "2024-05-27T03:34:22.327Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.29
+			"chance": 41.29,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 29.18
+			"chance": 29.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -124,6 +127,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.95
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

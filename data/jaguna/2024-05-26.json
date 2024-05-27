@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-26T09:31:21.641Z",
+	"timestamp": "2024-05-27T03:34:23.933Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.1
+			"chance": 64.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.47
+			"chance": 23.47,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.23
+			"chance": 13.23,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.17
+			"chance": 13.17,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 5.58
+			"chance": 5.58,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -112,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

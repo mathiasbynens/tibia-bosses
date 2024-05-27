@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-26T09:31:18.863Z",
+	"timestamp": "2024-05-27T03:34:23.139Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

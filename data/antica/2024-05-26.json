@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-26T09:31:12.455Z",
+	"timestamp": "2024-05-27T03:34:21.590Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.9
+			"chance": 27.9,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -79,11 +81,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 5.44
+			"chance": 5.44,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -128,6 +133,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

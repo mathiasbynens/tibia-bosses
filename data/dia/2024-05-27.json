@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-27T09:31:23.879Z",
+	"timestamp": "2024-05-28T03:33:39.783Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.08
+			"chance": 81.08,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 60.37
+			"chance": 60.37,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.34
+			"chance": 20.34,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.76
+			"chance": 18.76,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 13.06
+			"chance": 13.06,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -120,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.26
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

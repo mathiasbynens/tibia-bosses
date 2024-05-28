@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-27T09:31:47.456Z",
+	"timestamp": "2024-05-28T03:33:44.623Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.77
+			"chance": 79.77,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.72
+			"chance": 12.72,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.77
+			"chance": 10.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.09
+			"chance": 7.09,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -112,6 +120,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

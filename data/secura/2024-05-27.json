@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-27T09:31:43.589Z",
+	"timestamp": "2024-05-28T03:33:43.696Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +106,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.3
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-27T09:31:31.243Z",
+	"timestamp": "2024-05-28T03:33:41.310Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 39.11
+			"chance": 39.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.76
+			"chance": 22.76,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.48
+			"chance": 10.48,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +93,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.47
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

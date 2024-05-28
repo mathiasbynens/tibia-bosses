@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-27T09:31:27.535Z",
+	"timestamp": "2024-05-28T03:33:40.541Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 27.79
+			"chance": 27.79,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 26.84
+			"chance": 26.84,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,15 +49,18 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.35
+			"chance": 14.35,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 6.79
+			"chance": 6.79,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -99,11 +105,18 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.39
+			"chance": 4.39,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

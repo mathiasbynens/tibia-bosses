@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-05-27T09:31:39.754Z",
+	"timestamp": "2024-05-28T03:33:42.850Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 45
+			"chance": 45,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.55
+			"chance": 39.55,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 37.98
+			"chance": 37.98,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.47
+			"chance": 14.47,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -104,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

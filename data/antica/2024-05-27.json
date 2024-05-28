@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-05-27T09:31:20.001Z",
+	"timestamp": "2024-05-28T03:33:38.890Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.77
+			"chance": 79.77,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 79.31
+			"chance": 79.31,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.11
+			"chance": 74.11,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.29
+			"chance": 21.29,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.27
+			"chance": 17.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.21
+			"chance": 15.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.11
+			"chance": 6.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +127,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

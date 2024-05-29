@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-28T09:31:22.186Z",
+	"timestamp": "2024-05-29T03:33:10.248Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.08
+			"chance": 81.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.67
+			"chance": 35.67,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 31.1
+			"chance": 31.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.09
+			"chance": 23.09,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -91,7 +96,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.55
+			"chance": 3.55,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

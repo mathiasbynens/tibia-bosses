@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-28T09:31:35.398Z",
+	"timestamp": "2024-05-29T03:33:12.617Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 44.92
+			"chance": 44.92,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.64
+			"chance": 17.64,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

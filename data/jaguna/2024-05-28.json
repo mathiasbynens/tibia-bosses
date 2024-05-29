@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-28T09:31:32.450Z",
+	"timestamp": "2024-05-29T03:33:11.942Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.08
+			"chance": 52.08,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.97
+			"chance": 29.97,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -84,6 +87,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

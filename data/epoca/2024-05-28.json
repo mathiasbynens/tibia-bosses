@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-28T09:31:29.004Z",
+	"timestamp": "2024-05-29T03:33:11.388Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.86
+			"chance": 25.86,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.91
+			"chance": 15.91,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -88,6 +91,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.3
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

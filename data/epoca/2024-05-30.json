@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-05-30T09:31:25.948Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 42.5
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 28.25
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 26.72
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 22.81
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.64
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.55
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.85
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.41
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.95
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.79
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.63
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.55
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 11.26
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.24
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.69
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.13
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.9
+		}
+	]
+}

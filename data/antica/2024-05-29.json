@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-29T09:31:29.330Z",
+	"timestamp": "2024-05-30T03:33:21.073Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.5
+			"chance": 35.5,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.52
+			"chance": 21.52,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.71
+			"chance": 8.71,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.62
+			"chance": 6.62,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -84,6 +88,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

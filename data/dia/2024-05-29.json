@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-29T09:31:32.927Z",
+	"timestamp": "2024-05-30T03:33:21.818Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.2
+			"chance": 52.2,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.64
+			"chance": 27.64,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.2
+			"chance": 25.2,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +100,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 7.35
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

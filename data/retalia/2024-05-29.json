@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-05-29T09:31:46.396Z",
+	"timestamp": "2024-05-30T03:33:24.903Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.35
+			"chance": 60.35,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.44
+			"chance": 23.44,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.27
+			"chance": 17.27,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.31
+			"chance": 7.31,
+			"killed": true
 		},
 		{
 			"name": "Dracola",

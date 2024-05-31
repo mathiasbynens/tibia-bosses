@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-05-31T09:31:30.938Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 30.15
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.19
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 25.84
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.35
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 18.5
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.32
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.9
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 14.97
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 14.65
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.74
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.62
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.38
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.77
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.09
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.45
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.12
+		}
+	]
+}

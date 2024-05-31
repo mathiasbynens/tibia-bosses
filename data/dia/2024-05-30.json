@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-30T09:31:23.006Z",
+	"timestamp": "2024-05-31T03:33:04.126Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.57
+			"chance": 27.57,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 27.56
+			"chance": 27.56,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

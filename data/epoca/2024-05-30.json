@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-30T09:31:25.948Z",
+	"timestamp": "2024-05-31T03:33:04.671Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 42.5
+			"chance": 42.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.55
+			"chance": 11.55,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -76,6 +80,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.9
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

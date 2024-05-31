@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-30T09:31:28.987Z",
+	"timestamp": "2024-05-31T03:33:05.290Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.46
+			"chance": 20.46,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -80,6 +81,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

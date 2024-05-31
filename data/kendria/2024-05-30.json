@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-30T09:31:31.953Z",
+	"timestamp": "2024-05-31T03:33:05.992Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.17
+			"chance": 46.17,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.57
+			"chance": 41.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.08
+			"chance": 7.08,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.65
+			"chance": 4.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +119,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

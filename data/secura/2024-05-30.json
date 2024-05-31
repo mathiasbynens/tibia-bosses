@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-05-30T09:31:38.115Z",
+	"timestamp": "2024-05-31T03:33:07.225Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.5
+			"chance": 79.5,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.1
+			"chance": 67.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.73
+			"chance": 66.73,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.19
+			"chance": 40.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 27.56
+			"chance": 27.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -116,6 +122,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

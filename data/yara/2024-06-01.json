@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-06-01T09:31:48.923Z",
+	"bosses": [
+		{
+			"name": "The Old Whopper",
+			"chance": 20.29
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 19.8
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.68
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.4
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.68
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.07
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.2
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 5.78
+		}
+	]
+}

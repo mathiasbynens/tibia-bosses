@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-05-31T09:31:45.839Z",
+	"timestamp": "2024-06-01T03:33:53.593Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.15
+			"chance": 42.15,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.58
+			"chance": 41.58,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 14.99
+			"chance": 14.99,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.35
+			"chance": 13.35,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -107,7 +114,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -131,11 +139,17 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.78
+			"chance": 4.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.01
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

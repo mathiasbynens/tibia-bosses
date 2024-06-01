@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-31T09:31:30.938Z",
+	"timestamp": "2024-06-01T03:33:50.461Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -68,6 +68,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

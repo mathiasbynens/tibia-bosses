@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-31T09:31:49.393Z",
+	"timestamp": "2024-06-01T03:33:54.456Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 44.89
+			"chance": 44.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.58
+			"chance": 41.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.22
+			"chance": 40.22,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.98
+			"chance": 12.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -104,6 +109,41 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.6
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

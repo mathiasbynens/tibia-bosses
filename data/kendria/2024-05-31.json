@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-31T09:31:38.534Z",
+	"timestamp": "2024-06-01T03:33:51.958Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 42.54
+			"chance": 42.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.55
+			"chance": 39.55,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +104,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

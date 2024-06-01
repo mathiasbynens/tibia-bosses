@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-05-31T09:31:27.046Z",
+	"timestamp": "2024-06-01T03:33:49.707Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.22
+			"chance": 40.22,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 27.97
+			"chance": 27.97,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.72
+			"chance": 21.72,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -104,6 +109,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.61
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

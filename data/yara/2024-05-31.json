@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-05-31T09:31:52.875Z",
+	"timestamp": "2024-06-01T03:33:55.148Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -40,6 +40,21 @@
 		{
 			"name": "Xenia",
 			"chance": 6.29
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

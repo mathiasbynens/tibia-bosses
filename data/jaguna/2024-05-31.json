@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-05-31T09:31:34.812Z",
+	"timestamp": "2024-06-01T03:33:51.213Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 65.11
+			"chance": 65.11,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.22
+			"chance": 40.22,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.33
+			"chance": 16.33,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.96
+			"chance": 6.96,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -104,6 +109,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

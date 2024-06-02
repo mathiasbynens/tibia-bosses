@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-01T09:31:23.684Z",
+	"timestamp": "2024-06-02T03:33:05.264Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.51
+			"chance": 7.51,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -92,6 +93,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

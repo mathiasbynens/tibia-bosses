@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-01T09:31:30.772Z",
+	"timestamp": "2024-06-02T03:33:06.452Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.63
+			"chance": 11.63,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +106,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

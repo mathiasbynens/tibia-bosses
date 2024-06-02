@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-01T09:31:48.923Z",
+	"timestamp": "2024-06-02T03:33:09.751Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
-			"chance": 20.29
+			"chance": 20.29,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -36,6 +37,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 5.78
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-01T09:31:35.496Z",
+	"timestamp": "2024-06-02T03:33:07.205Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.36
+			"chance": 18.36,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.26
+			"chance": 14.26,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -96,6 +98,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.47
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

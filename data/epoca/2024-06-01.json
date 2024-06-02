@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-01T09:31:27.091Z",
+	"timestamp": "2024-06-02T03:33:05.838Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.56
+			"chance": 39.56,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -72,6 +75,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.03
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

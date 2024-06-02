@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-06-01T09:31:20.152Z",
+	"timestamp": "2024-06-02T03:33:04.588Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 34.67
+			"chance": 34.67,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.42
+			"chance": 32.42,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.98
+			"chance": 30.98,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.2
+			"chance": 13.2,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -79,11 +85,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.62
+			"chance": 8.62,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.04
+			"chance": 8.04,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -91,7 +99,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.09
+			"chance": 7.09,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +125,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.13
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

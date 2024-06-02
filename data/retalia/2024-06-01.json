@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-01T09:31:38.828Z",
+	"timestamp": "2024-06-02T03:33:07.855Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.2
+			"chance": 46.2,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 22.96
+			"chance": 22.96,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -76,6 +78,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.47
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

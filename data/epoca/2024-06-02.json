@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-02T09:31:18.710Z",
+	"timestamp": "2024-06-03T03:33:28.591Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 42.78
+			"chance": 42.78,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 30.81
+			"chance": 30.81,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -76,6 +78,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.69
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

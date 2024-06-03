@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-02T09:31:32.333Z",
+	"timestamp": "2024-06-03T03:33:31.118Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.44
+			"chance": 26.44,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.35
+			"chance": 20.35,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.59
+			"chance": 6.59,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +107,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.54
+			"chance": 2.54,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

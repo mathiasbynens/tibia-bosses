@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-02T09:31:38.678Z",
+	"timestamp": "2024-06-03T03:33:32.211Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.53
+			"chance": 21.53,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -48,6 +49,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 7.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

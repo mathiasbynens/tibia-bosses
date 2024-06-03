@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-02T09:31:15.030Z",
+	"timestamp": "2024-06-03T03:33:28.076Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.05
+			"chance": 15.05,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -96,6 +97,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.59
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

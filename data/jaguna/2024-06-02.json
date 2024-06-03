@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-02T09:31:22.201Z",
+	"timestamp": "2024-06-03T03:33:29.177Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.27
+			"chance": 53.27,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.18
+			"chance": 42.18,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -116,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.04
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

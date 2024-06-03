@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-02T09:31:35.654Z",
+	"timestamp": "2024-06-03T03:33:31.721Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 25.84
+			"chance": 25.84,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -116,6 +118,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

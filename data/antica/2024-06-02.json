@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-02T09:31:11.578Z",
+	"timestamp": "2024-06-03T03:33:27.409Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 32.68
+			"chance": 32.68,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.12
+			"chance": 29.12,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -100,6 +103,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

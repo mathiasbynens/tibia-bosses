@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-03T09:31:30.821Z",
+	"timestamp": "2024-06-04T03:33:21.353Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.07
+			"chance": 81.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.61
+			"chance": 13.61,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -96,6 +99,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

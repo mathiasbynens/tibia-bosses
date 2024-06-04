@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-03T09:31:19.097Z",
+	"timestamp": "2024-06-04T03:33:19.442Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.91
+			"chance": 69.91,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.66
+			"chance": 20.66,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -116,6 +119,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

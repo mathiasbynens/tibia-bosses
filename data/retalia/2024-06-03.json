@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-03T09:31:34.705Z",
+	"timestamp": "2024-06-04T03:33:22.031Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.35
+			"chance": 14.35,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -76,6 +78,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

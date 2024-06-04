@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-03T09:31:42.676Z",
+	"timestamp": "2024-06-04T03:33:23.403Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.91
+			"chance": 69.91,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.7
+			"chance": 37.7,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.13
+			"chance": 14.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.21
+			"chance": 13.21,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -108,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.93
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

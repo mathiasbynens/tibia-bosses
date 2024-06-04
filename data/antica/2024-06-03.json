@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-03T09:31:15.341Z",
+	"timestamp": "2024-06-04T03:33:18.759Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.38
+			"chance": 60.38,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.17
+			"chance": 42.17,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.24
+			"chance": 15.24,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 15.19
+			"chance": 15.19,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +109,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.49
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

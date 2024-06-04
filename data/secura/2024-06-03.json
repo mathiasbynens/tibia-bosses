@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-03T09:31:38.873Z",
+	"timestamp": "2024-06-04T03:33:22.720Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 27.37
+			"chance": 27.37,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.9
+			"chance": 24.9,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.02
+			"chance": 5.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +101,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

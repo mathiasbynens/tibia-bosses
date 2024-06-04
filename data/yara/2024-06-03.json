@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-03T09:31:46.353Z",
+	"timestamp": "2024-06-04T03:33:23.960Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -52,6 +53,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

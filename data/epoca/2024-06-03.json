@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-03T09:31:23.085Z",
+	"timestamp": "2024-06-04T03:33:20.004Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 29.58
+			"chance": 29.58,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 25.69
+			"chance": 25.69,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.39
+			"chance": 9.39,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -92,6 +95,26 @@
 		{
 			"name": "The Welter",
 			"chance": 4.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

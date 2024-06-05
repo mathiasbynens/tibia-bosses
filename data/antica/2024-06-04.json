@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-04T09:31:26.239Z",
+	"timestamp": "2024-06-05T03:33:59.763Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.65
+			"chance": 41.65,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.56
+			"chance": 39.56,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 29.63
+			"chance": 29.63,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.39
+			"chance": 5.39,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +109,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

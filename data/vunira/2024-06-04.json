@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-04T09:31:48.342Z",
+	"timestamp": "2024-06-05T03:34:03.844Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.19
+			"chance": 42.19,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.83
+			"chance": 18.83,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.44
+			"chance": 16.44,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +119,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-04T09:31:32.418Z",
+	"timestamp": "2024-06-05T03:34:00.876Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 50.14
+			"chance": 50.14,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.19
+			"chance": 42.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.38
+			"chance": 37.38,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.38
+			"chance": 11.38,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +113,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.04
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

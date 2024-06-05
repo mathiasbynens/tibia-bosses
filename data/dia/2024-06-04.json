@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-04T09:31:29.408Z",
+	"timestamp": "2024-06-05T03:34:00.366Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.71
+			"chance": 93.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.1
+			"chance": 64.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -120,6 +124,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

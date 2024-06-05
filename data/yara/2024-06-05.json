@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-06-05T09:32:47.459Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 39.58
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.26
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.04
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.66
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.86
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.48
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.35
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.84
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.12
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.89
+		}
+	]
+}

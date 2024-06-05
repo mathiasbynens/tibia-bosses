@@ -1,0 +1,89 @@
+{
+	"timestamp": "2024-06-05T09:32:37.347Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 42.78
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.73
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 35.54
+		},
+		{
+			"name": "Dracola",
+			"chance": 30.48
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 27.73
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 25.66
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.38
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.53
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 20.43
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.12
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.91
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.57
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.49
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.06
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.44
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.7
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.64
+		}
+	]
+}

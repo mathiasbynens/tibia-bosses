@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-05T09:32:44.522Z",
+	"timestamp": "2024-06-06T03:33:26.386Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.45
+			"chance": 32.45,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.24
+			"chance": 21.24,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.68
+			"chance": 19.68,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.07
+			"chance": 14.07,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

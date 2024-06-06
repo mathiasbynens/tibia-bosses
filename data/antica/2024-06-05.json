@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-05T09:32:21.751Z",
+	"timestamp": "2024-06-06T03:33:21.784Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.31
+			"chance": 31.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.29
+			"chance": 21.29,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 17.99
+			"chance": 17.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.37
+			"chance": 4.37,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +110,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

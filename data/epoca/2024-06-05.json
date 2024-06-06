@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-05T09:32:28.123Z",
+	"timestamp": "2024-06-06T03:33:23.087Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.61
+			"chance": 61.61,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.27
+			"chance": 21.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.38
+			"chance": 17.38,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,11 +74,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +97,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.99
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

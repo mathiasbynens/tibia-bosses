@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-05T09:32:31.383Z",
+	"timestamp": "2024-06-06T03:33:23.759Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.91
+			"chance": 69.91,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 66.26
+			"chance": 66.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.78
+			"chance": 7.78,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +95,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.12
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

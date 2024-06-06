@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-05T09:32:34.311Z",
+	"timestamp": "2024-06-06T03:33:24.366Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.31
+			"chance": 17.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.9
+			"chance": 16.9,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 8.78
+			"chance": 8.78,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -128,6 +132,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

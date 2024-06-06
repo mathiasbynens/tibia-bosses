@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-05T09:32:37.347Z",
+	"timestamp": "2024-06-06T03:33:24.968Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 42.78
+			"chance": 42.78,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 30.48
+			"chance": 30.48,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 25.66
+			"chance": 25.66,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.38
+			"chance": 24.38,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.12
+			"chance": 16.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -67,11 +74,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.44
+			"chance": 8.44,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.44
+			"chance": 8.44,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -84,6 +93,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

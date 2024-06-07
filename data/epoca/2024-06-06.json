@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-06T09:31:27.534Z",
+	"timestamp": "2024-06-07T03:33:27.725Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 65.01
+			"chance": 65.01,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.38
+			"chance": 60.38,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.54
+			"chance": 39.54,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 25.07
+			"chance": 25.07,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -80,6 +84,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.14
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

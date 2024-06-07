@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-06T09:31:39.462Z",
+	"timestamp": "2024-06-07T03:33:29.961Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -64,6 +66,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

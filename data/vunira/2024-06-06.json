@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-06T09:31:47.804Z",
+	"timestamp": "2024-06-07T03:33:31.720Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 66.16
+			"chance": 66.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.26
+			"chance": 62.26,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.84
+			"chance": 33.84,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 21.93
+			"chance": 21.93,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.31
+			"chance": 15.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +127,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-06T09:31:51.705Z",
+	"timestamp": "2024-06-07T03:33:32.441Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -48,6 +49,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.86
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

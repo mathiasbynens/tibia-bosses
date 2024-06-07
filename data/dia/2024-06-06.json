@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-06T09:31:23.148Z",
+	"timestamp": "2024-06-07T03:33:26.977Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.61
+			"chance": 22.61,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.77
+			"chance": 6.77,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -107,7 +109,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.06
+			"chance": 6.06,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

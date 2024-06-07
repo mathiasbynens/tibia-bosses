@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-06T09:31:43.524Z",
+	"timestamp": "2024-06-07T03:33:30.814Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 65.08
+			"chance": 65.08,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.66
+			"chance": 28.66,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 16.38
+			"chance": 16.38,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.55
+			"chance": 9.55,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -116,6 +123,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

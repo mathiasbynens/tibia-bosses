@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-06T09:31:19.051Z",
+	"timestamp": "2024-06-07T03:33:26.257Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 50.13
+			"chance": 50.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.05
+			"chance": 30.05,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.23
+			"chance": 25.23,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.58
+			"chance": 14.58,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.06
+			"chance": 10.06,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +105,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-06T09:31:31.316Z",
+	"timestamp": "2024-06-07T03:33:28.439Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.4
+			"chance": 24.4,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.82
+			"chance": 7.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -84,6 +86,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.57
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

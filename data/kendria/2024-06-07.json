@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-07T09:31:28.596Z",
+	"timestamp": "2024-06-08T03:33:02.121Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 20.12
+			"chance": 20.12,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",

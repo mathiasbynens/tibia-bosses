@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-07T09:31:25.454Z",
+	"timestamp": "2024-06-08T03:33:01.272Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +98,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-07T09:31:42.280Z",
+	"timestamp": "2024-06-08T03:33:05.136Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.05
+			"chance": 74.05,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -60,6 +63,11 @@
 		{
 			"name": "Warlord Ruzad",
 			"chance": 6.25
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

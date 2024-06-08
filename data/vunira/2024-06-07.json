@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-07T09:31:39.331Z",
+	"timestamp": "2024-06-08T03:33:04.433Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 39.75
+			"chance": 39.75,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 32.77
+			"chance": 32.77,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.31
+			"chance": 10.31,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +113,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

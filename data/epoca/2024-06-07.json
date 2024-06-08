@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-07T09:31:22.520Z",
+	"timestamp": "2024-06-08T03:33:00.579Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 38.2
+			"chance": 38.2,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.14
+			"chance": 30.14,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.47
+			"chance": 6.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -68,6 +71,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

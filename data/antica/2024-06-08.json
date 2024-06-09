@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-08T09:31:18.627Z",
+	"timestamp": "2024-06-09T03:33:14.343Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.22
+			"chance": 46.22,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.73
+			"chance": 23.73,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.61
+			"chance": 13.61,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +121,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-08T09:31:44.547Z",
+	"timestamp": "2024-06-09T03:33:18.848Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.57
+			"chance": 38.57,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.4
+			"chance": 21.4,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.37
+			"chance": 21.37,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 21.27
+			"chance": 21.27,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -88,6 +93,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.53
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

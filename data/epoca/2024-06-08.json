@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-08T09:31:25.979Z",
+	"timestamp": "2024-06-09T03:33:15.576Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.26
+			"chance": 8.26,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -80,6 +82,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

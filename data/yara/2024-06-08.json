@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-08T09:31:48.095Z",
+	"timestamp": "2024-06-09T03:33:19.429Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

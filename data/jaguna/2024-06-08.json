@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-08T09:31:29.595Z",
+	"timestamp": "2024-06-09T03:33:16.189Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.46
+			"chance": 26.46,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 25.65
+			"chance": 25.65,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.33
+			"chance": 16.33,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-08T09:31:37.123Z",
+	"timestamp": "2024-06-09T03:33:17.444Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.47
+			"chance": 20.47,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.81
+			"chance": 9.81,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -68,6 +71,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.25
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

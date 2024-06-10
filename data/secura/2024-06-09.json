@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-09T09:31:39.008Z",
+	"timestamp": "2024-06-10T03:33:33.871Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.28
+			"chance": 21.28,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.38
+			"chance": 11.38,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -100,6 +103,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

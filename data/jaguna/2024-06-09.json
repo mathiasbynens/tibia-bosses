@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-09T09:31:29.668Z",
+	"timestamp": "2024-06-10T03:33:31.969Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -104,6 +104,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-09T09:31:32.877Z",
+	"timestamp": "2024-06-10T03:33:32.623Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.86
+			"chance": 63.86,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.54
+			"chance": 26.54,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.84
+			"chance": 21.84,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 15.35
+			"chance": 15.35,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.8
+			"chance": 12.8,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -112,6 +119,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

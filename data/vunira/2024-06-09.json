@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-09T09:31:42.265Z",
+	"timestamp": "2024-06-10T03:33:34.450Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 27.77
+			"chance": 27.77,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.58
+			"chance": 12.58,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +99,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.87
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

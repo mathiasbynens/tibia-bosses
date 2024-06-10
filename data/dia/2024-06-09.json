@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-09T09:31:23.096Z",
+	"timestamp": "2024-06-10T03:33:30.866Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.08
+			"chance": 65.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.06
+			"chance": 35.06,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +87,26 @@
 		{
 			"name": "White Pale",
 			"chance": 7.02
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

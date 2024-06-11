@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-10T09:31:35.321Z",
+	"timestamp": "2024-06-11T03:33:20.864Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -88,6 +88,26 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

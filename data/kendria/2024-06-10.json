@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-10T09:31:45.868Z",
+	"timestamp": "2024-06-11T03:33:22.649Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.71
+			"chance": 35.71,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.89
+			"chance": 20.89,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 7.72
+			"chance": 7.72,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -108,6 +114,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

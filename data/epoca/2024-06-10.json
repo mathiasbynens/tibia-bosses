@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-10T09:31:38.965Z",
+	"timestamp": "2024-06-11T03:33:21.401Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.65
+			"chance": 41.65,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.15
+			"chance": 15.15,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.98
+			"chance": 8.98,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +96,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-10T09:32:01.466Z",
+	"timestamp": "2024-06-11T03:33:24.956Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.28
+			"chance": 53.28,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.58
+			"chance": 11.58,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -68,6 +70,41 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

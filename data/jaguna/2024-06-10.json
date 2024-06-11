@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-10T09:31:42.473Z",
+	"timestamp": "2024-06-11T03:33:22.001Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.06
+			"chance": 74.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 20.25
+			"chance": 20.25,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

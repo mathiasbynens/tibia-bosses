@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-06-11T09:31:40.691Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 41.7
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 30.96
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.57
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.9
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 22.67
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 17.82
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.89
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.31
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.78
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.43
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.97
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.58
+		},
+		{
+			"name": "yeti",
+			"chance": 10.41
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.56
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.41
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.65
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.12
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.51
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.85
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.4
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.22
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.99
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.27
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.47
+		}
+	]
+}

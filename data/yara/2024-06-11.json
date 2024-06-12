@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-11T09:31:47.635Z",
+	"timestamp": "2024-06-12T03:33:34.273Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.18
+			"chance": 30.18,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.75
+			"chance": 22.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

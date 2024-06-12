@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-11T09:31:33.615Z",
+	"timestamp": "2024-06-12T03:33:31.054Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.22
+			"chance": 31.22,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.36
+			"chance": 29.36,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -112,6 +116,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

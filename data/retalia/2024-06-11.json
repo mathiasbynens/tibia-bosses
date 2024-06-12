@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-11T09:31:37.191Z",
+	"timestamp": "2024-06-12T03:33:31.824Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -80,6 +80,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

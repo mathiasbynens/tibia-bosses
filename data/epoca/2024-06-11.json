@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-11T09:31:26.571Z",
+	"timestamp": "2024-06-12T03:33:29.535Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.92
+			"chance": 24.92,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.24
+			"chance": 21.24,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +90,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

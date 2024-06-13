@@ -1,0 +1,105 @@
+{
+	"timestamp": "2024-06-13T09:31:18.252Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.32
+		},
+		{
+			"name": "Omrafir",
+			"chance": 50.33
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.71
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.23
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 18.15
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.4
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.26
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 15.98
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.31
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.13
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 12.17
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.5
+		},
+		{
+			"name": "yeti",
+			"chance": 10.42
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 8.81
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.39
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.54
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.33
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.53
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.48
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.49
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.99
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.87
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.98
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.42
+		}
+	]
+}

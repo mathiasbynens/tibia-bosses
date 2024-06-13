@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-12T09:31:48.510Z",
+	"timestamp": "2024-06-13T03:33:36.504Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.55
+			"chance": 21.55,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -68,6 +70,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.01
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

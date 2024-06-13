@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-12T09:31:37.036Z",
+	"timestamp": "2024-06-13T03:33:34.877Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.9
+			"chance": 69.9,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +104,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.26
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

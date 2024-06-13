@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-06-12T09:31:33.208Z",
+	"timestamp": "2024-06-13T03:33:34.277Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.06
+			"chance": 74.06,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.44
+			"chance": 60.44,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 44.45
+			"chance": 44.45,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.67
+			"chance": 41.67,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 15.78
+			"chance": 15.78,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.52
+			"chance": 7.52,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +114,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

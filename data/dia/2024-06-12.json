@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-12T09:31:21.212Z",
+	"timestamp": "2024-06-13T03:33:32.615Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.06
+			"chance": 74.06,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.82
+			"chance": 63.82,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29
+			"chance": 29,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -112,6 +116,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.01
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

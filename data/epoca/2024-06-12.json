@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-12T09:31:25.333Z",
+	"timestamp": "2024-06-13T03:33:33.096Z",
 	"bosses": [
 		{
 			"name": "White Pale",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 20.48
+			"chance": 20.48,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.5
+			"chance": 10.5,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -100,6 +105,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.23
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

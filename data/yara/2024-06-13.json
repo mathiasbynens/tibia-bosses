@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-13T09:31:47.700Z",
+	"timestamp": "2024-06-14T03:33:18.526Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -68,6 +69,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

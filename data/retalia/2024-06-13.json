@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-13T09:31:37.195Z",
+	"timestamp": "2024-06-14T03:33:16.587Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.47
+			"chance": 60.47,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.57
+			"chance": 18.57,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -92,6 +95,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.62
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

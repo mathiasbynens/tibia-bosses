@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-13T09:31:25.976Z",
+	"timestamp": "2024-06-14T03:33:14.695Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -84,6 +85,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

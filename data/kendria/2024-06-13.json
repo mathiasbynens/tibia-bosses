@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-13T09:31:33.544Z",
+	"timestamp": "2024-06-14T03:33:15.900Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.32
+			"chance": 53.32,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.64
+			"chance": 13.64,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +115,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.11
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

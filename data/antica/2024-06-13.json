@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-13T09:31:18.252Z",
+	"timestamp": "2024-06-14T03:33:13.596Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.32
+			"chance": 62.32,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 50.33
+			"chance": 50.33,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.15
+			"chance": 18.15,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -100,6 +104,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

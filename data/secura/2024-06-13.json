@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-13T09:31:40.587Z",
+	"timestamp": "2024-06-14T03:33:17.156Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.58
+			"chance": 61.58,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.32
+			"chance": 53.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,15 +72,18 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -107,7 +115,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.71
+			"chance": 6.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -123,7 +132,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.01
+			"chance": 4.01,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

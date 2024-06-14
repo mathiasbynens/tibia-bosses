@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-06-14T09:31:46.899Z",
+	"bosses": [
+		{
+			"name": "White Pale",
+			"chance": 53.15
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.19
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 30.98
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 24.13
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.76
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.97
+		},
+		{
+			"name": "Hirintror",
+			"chance": 17.32
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.31
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.83
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.91
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.59
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 8.8
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.67
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.45
+		}
+	]
+}

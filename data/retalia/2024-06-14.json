@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-14T09:31:36.022Z",
+	"timestamp": "2024-06-15T03:33:09.755Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.83
+			"chance": 35.83,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -84,6 +85,11 @@
 		{
 			"name": "yeti",
 			"chance": 5.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

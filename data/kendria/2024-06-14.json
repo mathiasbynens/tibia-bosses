@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-14T09:31:32.458Z",
+	"timestamp": "2024-06-15T03:33:09.023Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.39
+			"chance": 81.39,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.61
+			"chance": 28.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.16
+			"chance": 27.16,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.2
+			"chance": 18.2,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.55
+			"chance": 9.55,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -107,7 +113,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.45
+			"chance": 5.45,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -115,11 +122,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.01
+			"chance": 5.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-14T09:31:43.270Z",
+	"timestamp": "2024-06-15T03:33:11.396Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.91
+			"chance": 19.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 16.49
+			"chance": 16.49,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.07
+			"chance": 9.07,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -112,6 +116,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.47
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-14T09:31:39.714Z",
+	"timestamp": "2024-06-15T03:33:10.567Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.48
+			"chance": 60.48,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.19
+			"chance": 42.19,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.16
+			"chance": 27.16,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +117,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

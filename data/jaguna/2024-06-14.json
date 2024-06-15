@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-14T09:31:28.359Z",
+	"timestamp": "2024-06-15T03:33:08.300Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -76,6 +77,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.92
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-14T09:31:16.243Z",
+	"timestamp": "2024-06-15T03:33:05.966Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.46
+			"chance": 20.46,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.59
+			"chance": 13.59,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -100,6 +102,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-06-15T09:31:15.012Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.38
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 68.55
+		},
+		{
+			"name": "The Welter",
+			"chance": 64.08
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 52.19
+		},
+		{
+			"name": "Dracola",
+			"chance": 30.66
+		},
+		{
+			"name": "The Imperor",
+			"chance": 25.91
+		},
+		{
+			"name": "Massacre",
+			"chance": 23.01
+		},
+		{
+			"name": "Tyrn",
+			"chance": 22.68
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.68
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.64
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.66
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.89
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.65
+		},
+		{
+			"name": "yeti",
+			"chance": 10.41
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.71
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.7
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.68
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.96
+		},
+		{
+			"name": "Xenia",
+			"chance": 8.76
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.14
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.1
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.59
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 5.11
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.02
+		}
+	]
+}

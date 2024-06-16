@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-15T09:31:12.072Z",
+	"timestamp": "2024-06-16T03:33:09.942Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 54.08
+			"chance": 54.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.72
+			"chance": 41.72,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 30.96
+			"chance": 30.96,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 28.07
+			"chance": 28.07,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.94
+			"chance": 19.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.8
+			"chance": 18.8,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 12.02
+			"chance": 12.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -140,6 +148,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.15
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

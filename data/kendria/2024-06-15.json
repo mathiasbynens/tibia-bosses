@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-15T09:31:21.460Z",
+	"timestamp": "2024-06-16T03:33:11.874Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 65.15
+			"chance": 65.15,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.74
+			"chance": 23.74,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.63
+			"chance": 22.63,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.56
+			"chance": 13.56,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +114,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

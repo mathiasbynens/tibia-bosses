@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-06-15T09:31:28.328Z",
+	"timestamp": "2024-06-16T03:33:13.179Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.05
+			"chance": 65.05,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.62
+			"chance": 39.62,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.8
+			"chance": 32.8,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.51
+			"chance": 26.51,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.03
+			"chance": 21.03,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.74
+			"chance": 19.74,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.84
+			"chance": 12.84,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -104,6 +112,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.47
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

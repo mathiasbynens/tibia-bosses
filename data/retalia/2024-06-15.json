@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-15T09:31:24.940Z",
+	"timestamp": "2024-06-16T03:33:12.528Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.4
+			"chance": 9.4,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -92,6 +95,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.69
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

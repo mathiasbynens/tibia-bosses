@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-06-16T09:31:42.926Z",
+	"bosses": [
+		{
+			"name": "Hirintror",
+			"chance": 34.53
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 28.12
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.03
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 24.22
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.23
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.15
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.89
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.21
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.51
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.44
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.42
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.39
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.53
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.15
+		}
+	]
+}

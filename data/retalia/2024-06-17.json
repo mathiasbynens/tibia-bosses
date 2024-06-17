@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-06-17T09:31:44.549Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.4
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.2
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.31
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.61
+		},
+		{
+			"name": "Massacre",
+			"chance": 29.1
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.75
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.92
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.65
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.88
+		},
+		{
+			"name": "yeti",
+			"chance": 17.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.32
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.28
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.02
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.43
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.98
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.96
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.14
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.24
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.41
+		}
+	]
+}

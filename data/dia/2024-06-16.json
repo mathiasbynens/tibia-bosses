@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-16T09:31:20.746Z",
+	"timestamp": "2024-06-17T03:33:55.954Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.95
+			"chance": 24.95,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 23.56
+			"chance": 23.56,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.99
+			"chance": 12.99,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +103,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

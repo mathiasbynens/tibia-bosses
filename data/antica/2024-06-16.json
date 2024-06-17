@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-16T09:31:17.537Z",
+	"timestamp": "2024-06-17T03:33:55.158Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.08
+			"chance": 65.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 8.8
+			"chance": 8.8,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -123,7 +130,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.68
+			"chance": 4.68,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -132,6 +140,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

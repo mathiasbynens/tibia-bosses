@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-06-16T09:31:40.113Z",
+	"timestamp": "2024-06-17T03:34:00.715Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 49.11
+			"chance": 49.11,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.6
+			"chance": 40.6,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.58
+			"chance": 40.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.03
+			"chance": 29.03,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.58
+			"chance": 21.58,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.28
+			"chance": 15.28,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -116,6 +123,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.61
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

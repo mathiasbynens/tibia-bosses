@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-16T09:31:29.993Z",
+	"timestamp": "2024-06-17T03:33:58.289Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.91
+			"chance": 69.91,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.1
+			"chance": 28.1,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.4
+			"chance": 15.4,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.27
+			"chance": 7.27,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -104,6 +108,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-16T09:31:32.913Z",
+	"timestamp": "2024-06-17T03:33:59.103Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 39.16
+			"chance": 39.16,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.17
+			"chance": 18.17,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +100,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.15
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-16T09:31:42.926Z",
+	"timestamp": "2024-06-17T03:34:01.381Z",
 	"bosses": [
 		{
 			"name": "Hirintror",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 24.22
+			"chance": 24.22,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -56,6 +59,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

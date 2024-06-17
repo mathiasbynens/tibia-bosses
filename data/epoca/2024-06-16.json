@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-16T09:31:23.866Z",
+	"timestamp": "2024-06-17T03:33:56.644Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.07
+			"chance": 29.07,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.6
+			"chance": 10.6,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -87,11 +89,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.98
+			"chance": 8.98,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 8.62
+			"chance": 8.62,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

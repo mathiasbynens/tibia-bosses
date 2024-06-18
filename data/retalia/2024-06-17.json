@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-17T09:31:44.549Z",
+	"timestamp": "2024-06-18T03:34:02.707Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.2
+			"chance": 42.2,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.75
+			"chance": 23.75,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +90,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

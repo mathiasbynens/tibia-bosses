@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-17T09:31:53.863Z",
+	"timestamp": "2024-06-18T03:34:05.491Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
-			"chance": 32.98
+			"chance": 32.98,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -76,6 +77,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.48
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

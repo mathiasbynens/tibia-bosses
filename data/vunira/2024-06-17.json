@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-17T09:31:50.675Z",
+	"timestamp": "2024-06-18T03:34:04.740Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.91
+			"chance": 69.91,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.6
+			"chance": 61.6,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.86
+			"chance": 32.86,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.64
+			"chance": 21.64,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.35
+			"chance": 15.35,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -104,6 +110,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

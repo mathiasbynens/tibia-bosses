@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-17T09:31:47.567Z",
+	"timestamp": "2024-06-18T03:34:03.631Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.7
+			"chance": 40.7,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.58
+			"chance": 40.58,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.22
+			"chance": 30.22,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.86
+			"chance": 18.86,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.36
+			"chance": 17.36,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.53
+			"chance": 5.53,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +98,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

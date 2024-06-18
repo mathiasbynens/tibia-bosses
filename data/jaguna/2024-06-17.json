@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-17T09:31:35.443Z",
+	"timestamp": "2024-06-18T03:34:00.830Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.7
+			"chance": 37.7,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 26
+			"chance": 26,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

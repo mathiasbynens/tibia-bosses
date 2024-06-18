@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-17T09:31:28.670Z",
+	"timestamp": "2024-06-18T03:33:59.266Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.32
+			"chance": 24.32,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 21.34
+			"chance": 21.34,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.23
+			"chance": 16.23,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.61
+			"chance": 11.61,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +118,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.1
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,85 @@
+{
+	"timestamp": "2024-06-18T09:31:47.020Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 39.75
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.71
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.29
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.15
+		},
+		{
+			"name": "Shlorg",
+			"chance": 22.19
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.62
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.23
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.46
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.24
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.87
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.64
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.64
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.08
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.86
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.33
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.15
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.33
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.2
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.67
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.07
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-18T09:31:32.512Z",
+	"timestamp": "2024-06-19T03:33:19.189Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 33.04
+			"chance": 33.04,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.58
+			"chance": 21.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

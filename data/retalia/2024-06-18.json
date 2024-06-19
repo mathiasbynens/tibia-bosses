@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-18T09:31:39.300Z",
+	"timestamp": "2024-06-19T03:33:20.555Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -108,6 +109,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.62
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

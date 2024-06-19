@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-18T09:31:42.801Z",
+	"timestamp": "2024-06-19T03:33:21.127Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.67
+			"chance": 41.67,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.23
+			"chance": 19.23,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -96,6 +100,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

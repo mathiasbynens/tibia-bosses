@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-18T09:31:50.344Z",
+	"timestamp": "2024-06-19T03:33:22.236Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 34.66
+			"chance": 34.66,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.76
+			"chance": 23.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

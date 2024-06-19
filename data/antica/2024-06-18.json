@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-18T09:31:22.160Z",
+	"timestamp": "2024-06-19T03:33:17.506Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 33.56
+			"chance": 33.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.41
+			"chance": 5.41,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-06-20T09:31:45.925Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 30.93
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.28
+		},
+		{
+			"name": "The Welter",
+			"chance": 28.75
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.62
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 23.07
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.6
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.12
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.11
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.65
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.46
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.16
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.09
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.56
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.64
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.58
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.14
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.41
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.32
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.59
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.12
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.88
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.87
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.09
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.17
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.63
+		}
+	]
+}

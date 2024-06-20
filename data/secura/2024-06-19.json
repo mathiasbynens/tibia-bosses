@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-19T09:32:37.710Z",
+	"timestamp": "2024-06-20T03:33:37.534Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.9
+			"chance": 16.9,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.34
+			"chance": 16.34,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.13
+			"chance": 13.13,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.33
+			"chance": 11.33,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +115,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.91
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

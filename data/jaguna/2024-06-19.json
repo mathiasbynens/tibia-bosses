@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-19T09:32:28.134Z",
+	"timestamp": "2024-06-20T03:33:35.233Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.81
+			"chance": 93.81,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.91
+			"chance": 69.91,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.67
+			"chance": 28.67,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.98
+			"chance": 11.98,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +108,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-19T09:32:44.514Z",
+	"timestamp": "2024-06-20T03:33:39.032Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.18
+			"chance": 20.18,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.34
+			"chance": 16.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -88,6 +90,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.03
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-19T09:32:25.021Z",
+	"timestamp": "2024-06-20T03:33:34.368Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.05
+			"chance": 23.05,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.37
+			"chance": 15.37,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +88,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.91
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

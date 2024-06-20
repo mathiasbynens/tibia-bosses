@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-19T09:32:21.721Z",
+	"timestamp": "2024-06-20T03:33:33.693Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.51
+			"chance": 10.51,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.2
+			"chance": 5.2,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",

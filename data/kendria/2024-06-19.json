@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-19T09:32:31.402Z",
+	"timestamp": "2024-06-20T03:33:35.954Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 33.33
+			"chance": 33.33,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 33.07
+			"chance": 33.07,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 17.8
+			"chance": 17.8,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.61
+			"chance": 13.61,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.61
+			"chance": 13.61,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -111,7 +117,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.03
+			"chance": 7.03,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -132,6 +139,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

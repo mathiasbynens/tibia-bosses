@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-19T09:32:18.725Z",
+	"timestamp": "2024-06-20T03:33:32.776Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.88
+			"chance": 14.88,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.39
+			"chance": 12.39,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +115,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

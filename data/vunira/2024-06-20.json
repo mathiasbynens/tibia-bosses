@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-20T09:31:49.333Z",
+	"timestamp": "2024-06-21T03:33:56.480Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.57
+			"chance": 18.57,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,19 +41,23 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.1
+			"chance": 16.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.29
+			"chance": 13.29,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,11 +81,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.65
+			"chance": 6.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.01
+			"chance": 5.01,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

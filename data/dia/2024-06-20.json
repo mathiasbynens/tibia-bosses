@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-20T09:31:28.584Z",
+	"timestamp": "2024-06-21T03:33:51.572Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.3
+			"chance": 24.3,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.59
+			"chance": 21.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.76
+			"chance": 12.76,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

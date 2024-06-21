@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-20T09:31:52.509Z",
+	"timestamp": "2024-06-21T03:33:57.240Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.29
+			"chance": 81.29,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.27
+			"chance": 62.27,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.62
+			"chance": 39.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +97,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

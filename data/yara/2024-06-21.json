@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-21T09:31:39.191Z",
+	"timestamp": "2024-06-22T03:33:59.906Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.06
+			"chance": 81.06,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.57
+			"chance": 38.57,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -76,6 +79,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

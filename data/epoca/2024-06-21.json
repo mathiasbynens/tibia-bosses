@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-21T09:31:21.717Z",
+	"timestamp": "2024-06-22T03:33:56.420Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 45.12
+			"chance": 45.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -88,6 +89,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.97
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

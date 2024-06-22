@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-21T09:31:30.538Z",
+	"timestamp": "2024-06-22T03:33:58.210Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.58
+			"chance": 11.58,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +91,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.66
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

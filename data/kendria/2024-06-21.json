@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-21T09:31:27.615Z",
+	"timestamp": "2024-06-22T03:33:57.610Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.34
+			"chance": 52.34,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.57
+			"chance": 29.57,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.12
+			"chance": 25.12,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +116,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

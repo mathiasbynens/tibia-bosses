@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-21T09:31:36.541Z",
+	"timestamp": "2024-06-22T03:33:59.387Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.67
+			"chance": 41.67,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.91
+			"chance": 11.91,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.75
+			"chance": 6.75,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -84,6 +87,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.17
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

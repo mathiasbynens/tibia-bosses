@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-21T09:31:15.215Z",
+	"timestamp": "2024-06-22T03:33:55.318Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 18.88
+			"chance": 18.88,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.7
+			"chance": 18.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -120,6 +123,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

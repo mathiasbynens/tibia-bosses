@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-21T09:31:17.946Z",
+	"timestamp": "2024-06-22T03:33:55.910Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.67
+			"chance": 41.67,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -104,6 +105,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

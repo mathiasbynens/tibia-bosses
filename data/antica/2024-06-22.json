@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-22T09:31:15.189Z",
+	"timestamp": "2024-06-23T03:32:48.985Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -43,15 +43,18 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.72
+			"chance": 16.72,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.3
+			"chance": 16.3,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.44
+			"chance": 5.44,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +134,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.89
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

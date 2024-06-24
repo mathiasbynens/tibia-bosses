@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-23T09:31:32.371Z",
+	"timestamp": "2024-06-24T03:33:36.408Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.55
+			"chance": 20.55,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 18.9
+			"chance": 18.9,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -95,11 +99,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.34
+			"chance": 5.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.33
+			"chance": 5.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +122,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

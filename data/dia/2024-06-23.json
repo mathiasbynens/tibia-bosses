@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-23T09:31:14.394Z",
+	"timestamp": "2024-06-24T03:33:30.691Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.61
+			"chance": 61.61,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.18
+			"chance": 31.18,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.33
+			"chance": 30.33,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -100,6 +103,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

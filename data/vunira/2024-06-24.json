@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-24T09:31:55.314Z",
+	"timestamp": "2024-06-25T03:33:35.774Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.21
+			"chance": 25.21,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.5
+			"chance": 17.5,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -120,6 +123,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

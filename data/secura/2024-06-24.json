@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-24T09:31:52.114Z",
+	"timestamp": "2024-06-25T03:33:34.665Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.9
+			"chance": 63.9,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.71
+			"chance": 41.71,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -15,19 +17,23 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 35.76
+			"chance": 35.76,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.53
+			"chance": 27.53,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.92
+			"chance": 25.92,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,11 +57,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.76
+			"chance": 13.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -67,7 +75,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +117,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.27
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

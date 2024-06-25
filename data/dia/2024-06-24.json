@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-24T09:31:36.762Z",
+	"timestamp": "2024-06-25T03:33:30.016Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -107,7 +108,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.28
+			"chance": 6.28,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -120,6 +122,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

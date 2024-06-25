@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-24T09:31:39.742Z",
+	"timestamp": "2024-06-25T03:33:30.836Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.09
+			"chance": 25.09,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -104,6 +105,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

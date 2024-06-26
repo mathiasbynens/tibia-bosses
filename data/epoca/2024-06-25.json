@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-25T09:31:27.516Z",
+	"timestamp": "2024-06-26T03:34:13.711Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 76.38
+			"chance": 76.38,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.02
+			"chance": 23.02,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.76
+			"chance": 22.76,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -100,6 +103,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-25T09:31:54.820Z",
+	"timestamp": "2024-06-26T03:34:17.754Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -68,6 +68,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

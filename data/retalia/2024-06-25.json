@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-25T09:31:43.881Z",
+	"timestamp": "2024-06-26T03:34:15.855Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 76.38
+			"chance": 76.38,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -72,6 +73,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.99
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-25T09:31:51.323Z",
+	"timestamp": "2024-06-26T03:34:17.213Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.59
+			"chance": 21.59,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.86
+			"chance": 10.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -128,6 +132,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

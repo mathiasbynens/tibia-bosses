@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-25T09:31:35.344Z",
+	"timestamp": "2024-06-26T03:34:14.257Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.16
+			"chance": 38.16,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.55
+			"chance": 24.55,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -104,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.09
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

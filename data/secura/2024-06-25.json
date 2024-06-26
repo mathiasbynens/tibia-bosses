@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-25T09:31:47.091Z",
+	"timestamp": "2024-06-26T03:34:16.585Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 65.04
+			"chance": 65.04,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 28.06
+			"chance": 28.06,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -87,11 +92,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.38
+			"chance": 3.38,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

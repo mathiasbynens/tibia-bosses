@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-25T09:31:19.335Z",
+	"timestamp": "2024-06-26T03:34:12.571Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 35.83
+			"chance": 35.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.36
+			"chance": 19.36,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.46
+			"chance": 11.46,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

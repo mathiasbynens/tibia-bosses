@@ -1,0 +1,69 @@
+{
+	"timestamp": "2024-06-26T09:32:05.025Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 49.29
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 30.69
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.59
+		},
+		{
+			"name": "Tyrn",
+			"chance": 22.7
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.22
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.68
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.18
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.66
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.36
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.09
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.03
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.27
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.88
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.3
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.19
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.13
+		}
+	]
+}

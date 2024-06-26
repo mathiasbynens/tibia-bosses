@@ -1,0 +1,129 @@
+{
+	"timestamp": "2024-06-26T09:32:01.884Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 61.67
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.23
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.76
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.06
+		},
+		{
+			"name": "yeti",
+			"chance": 26.83
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.81
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.39
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 22.96
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 21.37
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.68
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.21
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.67
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.91
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.69
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 17.79
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.45
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.19
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 13.2
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.06
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.91
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 12.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.33
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.95
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.85
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.83
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.64
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 4.39
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.64
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.28
+		}
+	]
+}

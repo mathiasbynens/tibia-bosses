@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-26T09:31:58.797Z",
+	"timestamp": "2024-06-27T03:33:30.047Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.06
+			"chance": 29.06,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.3
+			"chance": 25.3,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.6
+			"chance": 21.6,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -95,11 +99,22 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.92
+			"chance": 3.92,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

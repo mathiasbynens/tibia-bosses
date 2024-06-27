@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-26T09:31:55.921Z",
+	"timestamp": "2024-06-27T03:33:28.907Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.93
+			"chance": 69.93,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.79
+			"chance": 22.79,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -96,6 +99,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.98
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

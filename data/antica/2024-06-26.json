@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-26T09:31:40.497Z",
+	"timestamp": "2024-06-27T03:33:24.835Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 65.2
+			"chance": 65.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.23
+			"chance": 42.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.46
+			"chance": 26.46,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -80,6 +84,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

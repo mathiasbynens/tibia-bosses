@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-26T09:31:43.381Z",
+	"timestamp": "2024-06-27T03:33:25.675Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.81
+			"chance": 23.81,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -112,6 +115,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

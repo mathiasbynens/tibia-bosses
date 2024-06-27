@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-26T09:31:52.721Z",
+	"timestamp": "2024-06-27T03:33:28.166Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.49
+			"chance": 8.49,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +111,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.88
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

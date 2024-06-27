@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-06-27T09:31:44.536Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 41.76
+		},
+		{
+			"name": "yeti",
+			"chance": 37.93
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.28
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.12
+		},
+		{
+			"name": "Xenia",
+			"chance": 26.64
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 26.43
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.25
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.23
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.19
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 17.62
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.11
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.82
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.25
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.25
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.62
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 12.61
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.59
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.58
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.69
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.53
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.45
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.59
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.02
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.68
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.05
+		}
+	]
+}

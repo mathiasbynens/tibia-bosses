@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-27T09:31:40.265Z",
+	"timestamp": "2024-06-28T03:33:41.570Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.6
+			"chance": 38.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,15 +40,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.29
+			"chance": 13.29,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.59
+			"chance": 11.59,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -120,6 +124,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

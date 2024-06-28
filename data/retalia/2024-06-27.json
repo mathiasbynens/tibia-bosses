@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-27T09:31:36.360Z",
+	"timestamp": "2024-06-28T03:33:40.925Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -88,6 +88,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.22
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

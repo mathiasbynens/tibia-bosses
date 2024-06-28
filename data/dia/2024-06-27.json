@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-27T09:31:19.972Z",
+	"timestamp": "2024-06-28T03:33:38.084Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.44
+			"chance": 52.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -108,6 +111,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.04
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

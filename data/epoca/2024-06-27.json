@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-27T09:31:24.183Z",
+	"timestamp": "2024-06-28T03:33:38.648Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 30.58
+			"chance": 30.58,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",

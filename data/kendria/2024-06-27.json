@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-27T09:31:32.140Z",
+	"timestamp": "2024-06-28T03:33:40.065Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.99
+			"chance": 22.99,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

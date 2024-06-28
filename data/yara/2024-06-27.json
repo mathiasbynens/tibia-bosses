@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-27T09:31:48.585Z",
+	"timestamp": "2024-06-28T03:33:42.870Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.12
+			"chance": 25.12,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -84,6 +87,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.06
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

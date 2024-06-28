@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-06-28T09:31:28.821Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.29
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.73
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.06
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.09
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 26.23
+		},
+		{
+			"name": "White Pale",
+			"chance": 25.93
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 24.7
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.78
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.95
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.88
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.48
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 17.79
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.23
+		},
+		{
+			"name": "yeti",
+			"chance": 16.53
+		},
+		{
+			"name": "Massacre",
+			"chance": 16
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.55
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.52
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.45
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.8
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.47
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 10.81
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.42
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.82
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 6.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.67
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.02
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.49
+		}
+	]
+}

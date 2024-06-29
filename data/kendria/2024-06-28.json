@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-28T09:31:38.935Z",
+	"timestamp": "2024-06-29T03:33:54.938Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.67
+			"chance": 61.67,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.78
+			"chance": 41.78,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,15 +39,18 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.66
+			"chance": 18.66,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -136,6 +143,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.94
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-06-28T09:31:50.988Z",
+	"timestamp": "2024-06-29T03:33:57.317Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.93
+			"chance": 69.93,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.29
+			"chance": 62.29,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -80,6 +83,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

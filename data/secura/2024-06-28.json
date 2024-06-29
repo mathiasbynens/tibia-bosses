@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-06-28T09:31:44.944Z",
+	"timestamp": "2024-06-29T03:33:56.174Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.74
+			"chance": 37.74,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.64
+			"chance": 21.64,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.51
+			"chance": 14.51,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -111,7 +118,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.19
+			"chance": 3.19,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +128,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-28T09:31:25.653Z",
+	"timestamp": "2024-06-29T03:33:52.150Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 25.92
+			"chance": 25.92,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 16.38
+			"chance": 16.38,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.05
+			"chance": 10.05,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.41
+			"chance": 9.41,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -84,6 +88,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.34
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

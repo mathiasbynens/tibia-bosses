@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-06-28T09:31:31.841Z",
+	"timestamp": "2024-06-29T03:33:53.290Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 74.32
+			"chance": 74.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.55
+			"chance": 60.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.78
+			"chance": 41.78,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.6
+			"chance": 38.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +106,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

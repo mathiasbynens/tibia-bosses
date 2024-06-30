@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-29T09:31:25.373Z",
+	"timestamp": "2024-06-30T03:33:41.177Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.81
+			"chance": 41.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 19.72
+			"chance": 19.72,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

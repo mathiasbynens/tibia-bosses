@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-29T09:31:34.461Z",
+	"timestamp": "2024-06-30T03:33:43.599Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.27
+			"chance": 21.27,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.13
+			"chance": 11.13,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.87
+			"chance": 10.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -124,6 +132,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-29T09:31:31.481Z",
+	"timestamp": "2024-06-30T03:33:42.876Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -112,6 +113,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-29T09:31:19.357Z",
+	"timestamp": "2024-06-30T03:33:40.072Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.29
+			"chance": 79.29,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.83
+			"chance": 35.83,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +108,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

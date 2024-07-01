@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-30T09:31:47.408Z",
+	"timestamp": "2024-07-01T03:33:49.005Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 6.76
+			"chance": 6.76,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

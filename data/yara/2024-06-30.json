@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-06-30T09:32:06.389Z",
+	"timestamp": "2024-07-01T03:33:53.218Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.02
+			"chance": 80.02,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.19
+			"chance": 64.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -88,6 +90,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

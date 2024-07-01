@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-06-30T09:32:03.577Z",
+	"timestamp": "2024-07-01T03:33:52.298Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.84
+			"chance": 35.84,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.47
+			"chance": 11.47,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -112,6 +115,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.32
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

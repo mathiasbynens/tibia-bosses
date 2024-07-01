@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-30T09:31:54.001Z",
+	"timestamp": "2024-07-01T03:33:50.241Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -103,11 +105,22 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.79
+			"chance": 6.79,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

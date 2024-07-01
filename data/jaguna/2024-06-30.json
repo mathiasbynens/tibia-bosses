@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-30T09:31:50.862Z",
+	"timestamp": "2024-07-01T03:33:49.626Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.82
+			"chance": 22.82,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.98
+			"chance": 20.98,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 14.23
+			"chance": 14.23,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +100,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.44
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

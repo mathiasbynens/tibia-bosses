@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-30T09:31:57.181Z",
+	"timestamp": "2024-07-01T03:33:50.982Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.67
+			"chance": 18.67,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -120,6 +121,11 @@
 		{
 			"name": "The Handmaiden",
 			"chance": 6.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-30T09:32:00.341Z",
+	"timestamp": "2024-07-01T03:33:51.712Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.04
+			"chance": 26.04,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.36
+			"chance": 24.36,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -79,11 +84,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 8.03
+			"chance": 8.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.8
+			"chance": 7.8,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -112,6 +119,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

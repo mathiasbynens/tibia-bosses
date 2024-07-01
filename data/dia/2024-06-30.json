@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-06-30T09:31:44.148Z",
+	"timestamp": "2024-07-01T03:33:48.483Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +100,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.63
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

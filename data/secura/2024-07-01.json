@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-01T09:33:04.260Z",
+	"timestamp": "2024-07-02T03:33:34.802Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.77
+			"chance": 35.77,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.4
+			"chance": 27.4,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.2
+			"chance": 14.2,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.61
+			"chance": 10.61,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-01T09:32:58.116Z",
+	"timestamp": "2024-07-02T03:33:33.514Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 58.85
+			"chance": 58.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.64
+			"chance": 39.64,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.34
+			"chance": 30.34,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.68
+			"chance": 29.68,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +118,11 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 4.36
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-01T09:33:07.776Z",
+	"timestamp": "2024-07-02T03:33:35.876Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 45.02
+			"chance": 45.02,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.33
+			"chance": 41.33,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.9
+			"chance": 16.9,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 16.75
+			"chance": 16.75,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -116,6 +120,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.77
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

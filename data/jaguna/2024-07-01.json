@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-01T09:32:55.128Z",
+	"timestamp": "2024-07-02T03:33:32.878Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 42.89
+			"chance": 42.89,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 33.76
+			"chance": 33.76,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.95
+			"chance": 31.95,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.41
+			"chance": 12.41,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -91,11 +95,32 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 5.9
+			"chance": 5.9,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 5.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

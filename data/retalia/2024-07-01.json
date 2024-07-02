@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-01T09:33:01.192Z",
+	"timestamp": "2024-07-02T03:33:34.118Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.45
+			"chance": 81.45,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 13.93
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +107,11 @@
 		{
 			"name": "Gaz'haragoth",
 			"chance": 7.1
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-01T09:33:10.677Z",
+	"timestamp": "2024-07-02T03:33:36.379Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.84
+			"chance": 33.84,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.81
+			"chance": 23.81,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -80,6 +82,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.45
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

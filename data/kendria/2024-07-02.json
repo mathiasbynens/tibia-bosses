@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-02T09:31:31.138Z",
+	"timestamp": "2024-07-03T03:33:24.628Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 44.65
+			"chance": 44.65,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.25
+			"chance": 40.25,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.53
+			"chance": 39.53,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -87,11 +91,17 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.76
+			"chance": 4.76,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

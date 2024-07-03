@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-02T09:31:35.372Z",
+	"timestamp": "2024-07-03T03:33:25.347Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.96
+			"chance": 31.96,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.36
+			"chance": 10.36,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

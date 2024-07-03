@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-02T09:31:19.774Z",
+	"timestamp": "2024-07-03T03:33:22.320Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.93
+			"chance": 69.93,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 43.06
+			"chance": 43.06,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.05
+			"chance": 31.05,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -115,15 +119,27 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.34
+			"chance": 5.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.33
+			"chance": 5.33,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 4.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

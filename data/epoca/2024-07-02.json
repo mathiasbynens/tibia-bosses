@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-02T09:31:23.508Z",
+	"timestamp": "2024-07-03T03:33:23.358Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 43.85
+			"chance": 43.85,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 11.2
+			"chance": 11.2,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +106,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-07-03T09:31:46.684Z",
+	"bosses": [
+		{
+			"name": "Shlorg",
+			"chance": 28.52
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.25
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.26
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.58
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.22
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.19
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.43
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 15.72
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.63
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.62
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.98
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.93
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.67
+		}
+	]
+}

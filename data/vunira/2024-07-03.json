@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-03T09:31:43.084Z",
+	"timestamp": "2024-07-04T03:34:08.117Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 25.15
+			"chance": 25.15,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -104,6 +106,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-03T09:31:20.461Z",
+	"timestamp": "2024-07-04T03:34:02.347Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 30.27
+			"chance": 30.27,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -96,6 +100,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.19
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

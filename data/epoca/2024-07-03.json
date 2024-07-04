@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-03T09:31:24.152Z",
+	"timestamp": "2024-07-04T03:34:03.263Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.39
+			"chance": 16.39,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

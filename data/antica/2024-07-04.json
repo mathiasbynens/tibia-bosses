@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-04T09:31:41.944Z",
+	"timestamp": "2024-07-05T03:33:11.822Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.42
+			"chance": 27.42,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 25.53
+			"chance": 25.53,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +103,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

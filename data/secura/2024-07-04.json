@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-04T09:32:05.646Z",
+	"timestamp": "2024-07-05T03:33:18.358Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.33
+			"chance": 11.33,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -108,6 +111,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 3.9
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

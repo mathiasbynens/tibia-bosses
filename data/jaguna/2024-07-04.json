@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-04T09:31:54.259Z",
+	"timestamp": "2024-07-05T03:33:15.692Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.37
+			"chance": 29.37,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.72
+			"chance": 19.72,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.02
+			"chance": 12.02,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 9.95
+			"chance": 9.95,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -100,6 +104,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.14
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-04T09:31:58.069Z",
+	"timestamp": "2024-07-05T03:33:16.473Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.51
+			"chance": 25.51,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.4
+			"chance": 21.4,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.53
+			"chance": 11.53,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -104,6 +109,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

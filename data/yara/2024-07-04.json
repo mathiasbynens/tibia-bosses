@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-04T09:32:14.439Z",
+	"timestamp": "2024-07-05T03:33:19.593Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.56
+			"chance": 28.56,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.14
+			"chance": 18.14,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

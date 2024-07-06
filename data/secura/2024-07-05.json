@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-05T09:31:54.668Z",
+	"timestamp": "2024-07-06T03:33:36.729Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.29
+			"chance": 40.29,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,15 +52,18 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.89
+			"chance": 15.89,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.17
+			"chance": 15.17,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.31
+			"chance": 12.31,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.37
+			"chance": 8.37,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.11
+			"chance": 5.11,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +110,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

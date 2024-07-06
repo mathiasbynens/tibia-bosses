@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-05T09:31:50.260Z",
+	"timestamp": "2024-07-06T03:33:36.120Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -95,7 +95,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 6.03
+			"chance": 6.03,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +113,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.68
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

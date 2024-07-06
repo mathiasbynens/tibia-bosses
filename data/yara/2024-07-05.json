@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-05T09:32:02.960Z",
+	"timestamp": "2024-07-06T03:33:38.531Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 46.67
+			"chance": 46.67,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +64,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.02
+			"chance": 5.02,
+			"killed": true
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

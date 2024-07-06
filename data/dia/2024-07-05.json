@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-05T09:31:33.901Z",
+	"timestamp": "2024-07-06T03:33:33.557Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 29.82
+			"chance": 29.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.32
+			"chance": 6.32,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

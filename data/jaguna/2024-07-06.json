@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-07-06T09:31:24.468Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 64
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 61.72
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.32
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 29.69
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 24.68
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.18
+		},
+		{
+			"name": "Barbaria",
+			"chance": 18.81
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.08
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 14.5
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 12.49
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.04
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.51
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.43
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.14
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.32
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.8
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.27
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.63
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.59
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.8
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.19
+		}
+	]
+}

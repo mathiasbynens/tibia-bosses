@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-06T09:31:16.591Z",
+	"timestamp": "2024-07-07T03:33:20.491Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -120,6 +122,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-06T09:31:45.561Z",
+	"timestamp": "2024-07-07T03:33:25.978Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.51
+			"chance": 10.51,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -64,6 +66,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.02
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

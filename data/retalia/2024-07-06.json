@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-06T09:31:33.000Z",
+	"timestamp": "2024-07-07T03:33:23.569Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.34
+			"chance": 25.34,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

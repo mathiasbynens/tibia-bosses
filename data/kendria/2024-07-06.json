@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-06T09:31:29.080Z",
+	"timestamp": "2024-07-07T03:33:22.829Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.03
+			"chance": 26.03,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -112,6 +114,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

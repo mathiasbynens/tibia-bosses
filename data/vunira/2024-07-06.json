@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-06T09:31:41.115Z",
+	"timestamp": "2024-07-07T03:33:25.278Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.94
+			"chance": 69.94,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.64
+			"chance": 39.64,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.82
+			"chance": 22.82,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.43
+			"chance": 14.43,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

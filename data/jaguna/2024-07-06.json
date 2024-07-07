@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-06T09:31:24.468Z",
+	"timestamp": "2024-07-07T03:33:22.042Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64
+			"chance": 64,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.72
+			"chance": 61.72,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.81
+			"chance": 18.81,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -92,6 +96,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.19
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

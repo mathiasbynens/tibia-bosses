@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-06T09:31:37.131Z",
+	"timestamp": "2024-07-07T03:33:24.424Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.95
+			"chance": 66.95,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.89
+			"chance": 66.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.72
+			"chance": 61.72,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.17
+			"chance": 30.17,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.03
+			"chance": 26.03,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.95
+			"chance": 9.95,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,11 +99,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.58
+			"chance": 3.58,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

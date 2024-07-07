@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-06T09:31:12.844Z",
+	"timestamp": "2024-07-07T03:33:19.754Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.55
+			"chance": 39.55,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.51
+			"chance": 10.51,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -111,7 +115,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -124,6 +129,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

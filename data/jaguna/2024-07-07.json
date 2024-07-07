@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-07-07T09:31:29.242Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 46.36
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.98
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 26.17
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 24.07
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 22.56
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.66
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.46
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.12
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.32
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.03
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 13.72
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.32
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.41
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.33
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.49
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 8.1
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.82
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.53
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 6.06
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.88
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.55
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.59
+		}
+	]
+}

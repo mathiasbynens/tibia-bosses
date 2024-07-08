@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-07T09:31:40.702Z",
+	"timestamp": "2024-07-08T03:34:05.130Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.15
+			"chance": 31.15,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.15
+			"chance": 18.15,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.55
+			"chance": 9.55,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.49
+			"chance": 8.49,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -84,6 +89,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.19
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

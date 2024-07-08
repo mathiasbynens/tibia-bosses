@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-07T09:31:29.242Z",
+	"timestamp": "2024-07-08T03:34:03.145Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.49
+			"chance": 8.49,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",

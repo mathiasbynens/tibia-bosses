@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-07T09:31:48.527Z",
+	"timestamp": "2024-07-08T03:34:06.581Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -60,6 +60,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.97
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

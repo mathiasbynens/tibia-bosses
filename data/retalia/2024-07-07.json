@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-07T09:31:36.871Z",
+	"timestamp": "2024-07-08T03:34:04.437Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.81
+			"chance": 22.81,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.15
+			"chance": 19.15,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -120,6 +124,16 @@
 		{
 			"name": "Ferumbras",
 			"chance": 4.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

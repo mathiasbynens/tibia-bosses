@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-08T09:31:24.094Z",
+	"timestamp": "2024-07-09T03:33:44.638Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.4
+			"chance": 52.4,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.79
+			"chance": 14.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

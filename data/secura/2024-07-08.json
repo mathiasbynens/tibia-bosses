@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-08T09:31:38.414Z",
+	"timestamp": "2024-07-09T03:34:03.809Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.61
+			"chance": 34.61,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.26
+			"chance": 7.26,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.02
+			"chance": 5.02,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -92,6 +96,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

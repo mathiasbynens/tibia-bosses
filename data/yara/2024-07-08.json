@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-08T09:31:45.626Z",
+	"timestamp": "2024-07-09T03:34:10.571Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.56
+			"chance": 62.56,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.63
+			"chance": 39.63,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -88,6 +91,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-08T09:31:16.167Z",
+	"timestamp": "2024-07-09T03:33:34.626Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.2
+			"chance": 29.2,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.65
+			"chance": 21.65,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.93
+			"chance": 12.93,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.12
+			"chance": 9.12,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +126,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

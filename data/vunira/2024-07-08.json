@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-08T09:31:42.266Z",
+	"timestamp": "2024-07-09T03:34:09.791Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.36
+			"chance": 29.36,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -132,6 +134,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

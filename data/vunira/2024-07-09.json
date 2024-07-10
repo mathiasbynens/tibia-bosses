@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-09T09:31:39.107Z",
+	"timestamp": "2024-07-10T03:34:08.212Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.33
+			"chance": 53.33,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.68
+			"chance": 37.68,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,15 +41,18 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.8
+			"chance": 22.8,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.72
+			"chance": 19.72,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.53
+			"chance": 9.53,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -99,7 +107,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +137,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

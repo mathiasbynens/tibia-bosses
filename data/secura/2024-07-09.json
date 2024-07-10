@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-09T09:31:35.971Z",
+	"timestamp": "2024-07-10T03:34:07.507Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.85
+			"chance": 79.85,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.92
+			"chance": 69.92,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.86
+			"chance": 35.86,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.36
+			"chance": 29.36,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,19 +35,23 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.66
+			"chance": 22.66,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -83,7 +91,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.41
+			"chance": 6.41,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +117,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.12
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

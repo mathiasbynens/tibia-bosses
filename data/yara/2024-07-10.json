@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-10T09:31:47.948Z",
+	"timestamp": "2024-07-11T03:34:07.251Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.56
+			"chance": 60.56,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -64,6 +66,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.61
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-10T09:31:37.541Z",
+	"timestamp": "2024-07-11T03:34:05.286Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.99
+			"chance": 80.99,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.68
+			"chance": 35.68,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.56
+			"chance": 27.56,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +103,11 @@
 		{
 			"name": "Ocyakao",
 			"chance": 5.88
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

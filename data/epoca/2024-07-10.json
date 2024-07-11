@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-10T09:31:25.876Z",
+	"timestamp": "2024-07-11T03:34:03.405Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.98
+			"chance": 31.98,
+			"killed": true
 		},
 		{
 			"name": "yeti",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-10T09:31:33.670Z",
+	"timestamp": "2024-07-11T03:34:04.710Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 42.99
+			"chance": 42.99,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 20.07
+			"chance": 20.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +118,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

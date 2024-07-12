@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-07-12T09:31:12.881Z",
+	"bosses": [
+		{
+			"name": "The Imperor",
+			"chance": 50.51
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 31.11
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.53
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 20.09
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.48
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.35
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.52
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.04
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.33
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.74
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.66
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.64
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.45
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.25
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.86
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.63
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.64
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.78
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.6
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 6.08
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.97
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.67
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.28
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-11T09:31:58.235Z",
+	"timestamp": "2024-07-12T03:33:35.326Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.3
+			"chance": 24.3,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.76
+			"chance": 13.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.47
+			"chance": 10.47,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.01
+			"chance": 7.01,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -96,6 +101,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.98
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

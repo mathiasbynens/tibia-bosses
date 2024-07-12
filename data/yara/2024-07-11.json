@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-11T09:32:30.514Z",
+	"timestamp": "2024-07-12T03:33:41.795Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -60,6 +60,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.4
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

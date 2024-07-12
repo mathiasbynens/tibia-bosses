@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-11T09:32:10.931Z",
+	"timestamp": "2024-07-12T03:33:37.644Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.29
+			"chance": 40.29,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 38.24
+			"chance": 38.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.34
+			"chance": 12.34,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -107,11 +111,17 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.2
+			"chance": 5.2,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
 			"chance": 3.97
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

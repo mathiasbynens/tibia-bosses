@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-11T09:32:06.772Z",
+	"timestamp": "2024-07-12T03:33:36.863Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.35
+			"chance": 46.35,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.98
+			"chance": 33.98,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 20.49
+			"chance": 20.49,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",

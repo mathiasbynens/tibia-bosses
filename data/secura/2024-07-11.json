@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-11T09:32:22.786Z",
+	"timestamp": "2024-07-12T03:33:40.162Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 35.18
+			"chance": 35.18,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.82
+			"chance": 24.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

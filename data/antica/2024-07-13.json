@@ -1,0 +1,101 @@
+{
+	"timestamp": "2024-07-13T09:31:18.666Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.59
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.98
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 28.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.47
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.58
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 17.95
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.43
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.29
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.88
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.5
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.3
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.92
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12.01
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.71
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.4
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.67
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.41
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.12
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.93
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.67
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.29
+		}
+	]
+}

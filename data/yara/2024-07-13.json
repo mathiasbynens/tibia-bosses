@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-07-13T09:31:45.099Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.86
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.36
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.38
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.15
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.66
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.47
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.13
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.65
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.03
+		}
+	]
+}

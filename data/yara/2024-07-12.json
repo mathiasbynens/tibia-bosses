@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-12T09:31:37.965Z",
+	"timestamp": "2024-07-13T03:33:02.319Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.8
+			"chance": 93.8,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 74.21
+			"chance": 74.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.12
+			"chance": 65.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -56,6 +61,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

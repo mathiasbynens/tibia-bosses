@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-12T09:31:31.590Z",
+	"timestamp": "2024-07-13T03:33:01.096Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.62
+			"chance": 60.62,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.91
+			"chance": 35.91,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.93
+			"chance": 32.93,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.14
+			"chance": 8.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +109,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

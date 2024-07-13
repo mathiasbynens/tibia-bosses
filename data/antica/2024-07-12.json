@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-12T09:31:12.881Z",
+	"timestamp": "2024-07-13T03:32:57.356Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 50.51
+			"chance": 50.51,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.11
+			"chance": 31.11,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.52
+			"chance": 16.52,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 6.08
+			"chance": 6.08,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -92,6 +97,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.28
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

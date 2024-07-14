@@ -1,0 +1,57 @@
+{
+	"timestamp": "2024-07-14T09:31:45.179Z",
+	"bosses": [
+		{
+			"name": "Ocyakao",
+			"chance": 22.75
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.56
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.12
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.87
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.04
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.81
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 12.8
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.39
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.45
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.29
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-13T09:31:32.075Z",
+	"timestamp": "2024-07-14T03:35:17.591Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.18
+			"chance": 29.18,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 10.57
+			"chance": 10.57,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -144,6 +150,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-07-13T09:31:21.911Z",
+	"timestamp": "2024-07-14T03:35:14.748Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.81
+			"chance": 93.81,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 66.55
+			"chance": 66.55,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 45.04
+			"chance": 45.04,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.88
+			"chance": 35.88,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.3
+			"chance": 15.3,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -100,6 +106,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

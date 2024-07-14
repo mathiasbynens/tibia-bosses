@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-13T09:31:41.883Z",
+	"timestamp": "2024-07-14T03:35:19.312Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.36
+			"chance": 20.36,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.12
+			"chance": 20.12,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.95
+			"chance": 17.95,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -108,6 +112,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.83
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

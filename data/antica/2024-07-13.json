@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-13T09:31:18.666Z",
+	"timestamp": "2024-07-14T03:35:13.749Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.98
+			"chance": 31.98,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.47
+			"chance": 21.47,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -96,6 +101,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.29
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

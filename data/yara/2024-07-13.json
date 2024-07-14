@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-13T09:31:45.099Z",
+	"timestamp": "2024-07-14T03:35:19.814Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.13
+			"chance": 11.13,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -48,6 +50,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.03
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

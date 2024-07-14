@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-13T09:31:35.418Z",
+	"timestamp": "2024-07-14T03:35:18.103Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.26
+			"chance": 31.26,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -92,6 +93,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.93
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

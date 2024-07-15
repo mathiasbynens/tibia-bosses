@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-14T09:31:29.448Z",
+	"timestamp": "2024-07-15T03:34:31.621Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

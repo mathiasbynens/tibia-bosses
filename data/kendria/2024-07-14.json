@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-14T09:31:32.615Z",
+	"timestamp": "2024-07-15T03:34:32.335Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.61
+			"chance": 39.61,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.36
+			"chance": 24.36,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -124,6 +126,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-14T09:31:19.602Z",
+	"timestamp": "2024-07-15T03:34:29.831Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.53
+			"chance": 14.53,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.34
+			"chance": 12.34,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.16
+			"chance": 8.16,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-14T09:31:23.162Z",
+	"timestamp": "2024-07-15T03:34:30.485Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.68
+			"chance": 13.68,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -88,6 +89,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.15
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

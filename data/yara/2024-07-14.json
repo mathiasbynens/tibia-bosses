@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-14T09:31:45.179Z",
+	"timestamp": "2024-07-15T03:34:34.849Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 22.75
+			"chance": 22.75,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

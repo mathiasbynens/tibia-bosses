@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-15T09:31:23.521Z",
+	"timestamp": "2024-07-16T03:34:51.466Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 29.84
+			"chance": 29.84,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.38
+			"chance": 25.38,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.87
+			"chance": 9.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +102,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

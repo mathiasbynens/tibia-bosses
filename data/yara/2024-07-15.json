@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-15T09:31:50.274Z",
+	"timestamp": "2024-07-16T03:34:56.019Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -60,6 +60,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

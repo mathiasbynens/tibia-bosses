@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-15T09:31:39.997Z",
+	"timestamp": "2024-07-16T03:34:54.264Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -112,6 +113,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

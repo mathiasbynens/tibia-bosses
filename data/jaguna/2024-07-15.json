@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-15T09:31:33.517Z",
+	"timestamp": "2024-07-16T03:34:53.113Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.7
+			"chance": 61.7,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.23
+			"chance": 29.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.23
+			"chance": 22.23,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.4
+			"chance": 17.4,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -128,6 +133,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.37
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

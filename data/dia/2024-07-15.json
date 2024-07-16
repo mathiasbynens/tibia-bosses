@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-15T09:31:27.037Z",
+	"timestamp": "2024-07-16T03:34:52.066Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.45
+			"chance": 9.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.55
+			"chance": 5.55,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

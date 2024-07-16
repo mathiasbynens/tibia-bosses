@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-07-16T09:32:03.082Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.35
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.65
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.53
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 28.05
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.45
+		},
+		{
+			"name": "midnight panther",
+			"chance": 21.35
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.19
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 18.36
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.32
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.05
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.42
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 12.12
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.37
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.36
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.66
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.89
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.6
+		}
+	]
+}

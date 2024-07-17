@@ -1,0 +1,109 @@
+{
+	"timestamp": "2024-07-17T09:31:58.832Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 60.6
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.29
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.66
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 33.24
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 33.05
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.02
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 24.37
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 22.77
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.04
+		},
+		{
+			"name": "Dracola",
+			"chance": 16.01
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.05
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.94
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.55
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.46
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.4
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.36
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.17
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.31
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.22
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.82
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.73
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.97
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.4
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.13
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.81
+		}
+	]
+}

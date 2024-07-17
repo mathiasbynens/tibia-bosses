@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-16T09:31:35.541Z",
+	"timestamp": "2024-07-17T03:33:39.016Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +102,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

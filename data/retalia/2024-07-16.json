@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-16T09:31:51.253Z",
+	"timestamp": "2024-07-17T03:33:41.597Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.15
+			"chance": 65.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.17
+			"chance": 38.17,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -128,6 +130,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

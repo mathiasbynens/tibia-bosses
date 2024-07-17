@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-07-16T09:31:59.412Z",
+	"timestamp": "2024-07-17T03:33:42.788Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
-			"chance": 39.61
+			"chance": 39.61,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.44
+			"chance": 38.44,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.62
+			"chance": 37.62,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.15
+			"chance": 36.15,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,11 +27,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.54
+			"chance": 24.54,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.61
+			"chance": 21.61,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 10.3
+			"chance": 10.3,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -124,6 +132,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

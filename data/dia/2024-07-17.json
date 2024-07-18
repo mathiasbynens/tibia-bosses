@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-17T09:32:03.260Z",
+	"timestamp": "2024-07-18T03:35:13.346Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.99
+			"chance": 80.99,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.03
+			"chance": 43.03,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.87
+			"chance": 33.87,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 33.44
+			"chance": 33.44,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,11 +60,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.69
+			"chance": 12.69,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +83,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -91,7 +100,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.2
+			"chance": 8.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +114,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.61
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

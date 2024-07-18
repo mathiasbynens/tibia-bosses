@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-17T09:32:26.060Z",
+	"timestamp": "2024-07-18T03:35:18.283Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -104,6 +105,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.61
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

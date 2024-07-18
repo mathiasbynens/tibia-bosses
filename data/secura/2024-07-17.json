@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-17T09:32:22.143Z",
+	"timestamp": "2024-07-18T03:35:17.413Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 80.99
+			"chance": 80.99,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.83
+			"chance": 22.83,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.63
+			"chance": 19.63,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19
+			"chance": 19,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 8.52
+			"chance": 8.52,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,7 +110,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.2
+			"chance": 8.2,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -132,6 +140,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.9
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

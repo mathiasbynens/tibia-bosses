@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-17T09:32:07.043Z",
+	"timestamp": "2024-07-18T03:35:14.117Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -79,7 +79,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 9.38
+			"chance": 9.38,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -96,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

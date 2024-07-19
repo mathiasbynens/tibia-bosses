@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-18T09:31:28.066Z",
+	"timestamp": "2024-07-19T03:34:52.928Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.5
+			"chance": 52.5,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.38
+			"chance": 29.38,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -92,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.59
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

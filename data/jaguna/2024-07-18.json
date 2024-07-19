@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-18T09:31:31.470Z",
+	"timestamp": "2024-07-19T03:34:53.698Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.08
+			"chance": 43.08,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.32
+			"chance": 11.32,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.26
+			"chance": 8.26,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.97
+			"chance": 5.97,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -96,6 +102,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

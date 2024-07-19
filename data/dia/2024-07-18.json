@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-18T09:31:24.432Z",
+	"timestamp": "2024-07-19T03:34:52.169Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.16
+			"chance": 65.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.57
+			"chance": 39.57,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.56
+			"chance": 27.56,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +93,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

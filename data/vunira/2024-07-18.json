@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-18T09:31:44.823Z",
+	"timestamp": "2024-07-19T03:34:57.022Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.64
+			"chance": 38.64,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,11 +100,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.59
+			"chance": 6.59,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.67
+			"chance": 5.67,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -112,6 +119,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

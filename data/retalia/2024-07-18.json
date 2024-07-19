@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-18T09:31:38.046Z",
+	"timestamp": "2024-07-19T03:34:55.252Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -79,11 +81,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -100,6 +104,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

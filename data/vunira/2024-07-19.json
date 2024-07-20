@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-19T09:31:42.196Z",
+	"timestamp": "2024-07-20T03:33:39.262Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.26
+			"chance": 30.26,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 28.74
+			"chance": 28.74,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.33
+			"chance": 22.33,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -115,7 +120,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.44
+			"chance": 3.44,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

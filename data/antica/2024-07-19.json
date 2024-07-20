@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-19T09:31:16.399Z",
+	"timestamp": "2024-07-20T03:33:34.267Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.19
+			"chance": 29.19,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 22.65
+			"chance": 22.65,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -96,6 +99,31 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.54
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

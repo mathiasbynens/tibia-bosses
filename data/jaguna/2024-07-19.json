@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-19T09:31:27.796Z",
+	"timestamp": "2024-07-20T03:33:36.185Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.93
+			"chance": 25.93,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -51,15 +52,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.03
+			"chance": 12.03,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +85,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.61
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

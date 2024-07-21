@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-20T09:31:33.884Z",
+	"timestamp": "2024-07-21T03:33:38.893Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.7
+			"chance": 20.7,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -79,11 +82,27 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

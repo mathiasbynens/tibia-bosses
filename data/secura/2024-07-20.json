@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-20T09:31:37.221Z",
+	"timestamp": "2024-07-21T03:33:39.535Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.44
+			"chance": 64.44,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.64
+			"chance": 25.64,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.83
+			"chance": 22.83,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.98
+			"chance": 19.98,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.18
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

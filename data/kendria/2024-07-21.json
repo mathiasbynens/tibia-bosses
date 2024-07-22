@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-21T09:31:24.549Z",
+	"timestamp": "2024-07-22T03:33:55.923Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.19
+			"chance": 54.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.66
+			"chance": 53.66,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.31
+			"chance": 14.31,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.45
+			"chance": 12.45,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.88
+			"chance": 9.88,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +109,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.03
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-21T09:31:38.137Z",
+	"timestamp": "2024-07-22T03:33:58.177Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -72,6 +73,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.96
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

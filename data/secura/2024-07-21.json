@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-21T09:31:31.598Z",
+	"timestamp": "2024-07-22T03:33:57.043Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.94
+			"chance": 11.94,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +116,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

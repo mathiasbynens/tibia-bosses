@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-21T09:31:21.013Z",
+	"timestamp": "2024-07-22T03:33:55.276Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.94
+			"chance": 23.94,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.04
+			"chance": 12.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -64,6 +67,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.23
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-21T09:31:10.358Z",
+	"timestamp": "2024-07-22T03:33:53.620Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.58
+			"chance": 21.58,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.94
+			"chance": 8.94,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +116,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

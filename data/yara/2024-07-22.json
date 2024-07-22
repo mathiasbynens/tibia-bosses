@@ -1,0 +1,69 @@
+{
+	"timestamp": "2024-07-22T09:33:31.968Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 65.66
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 63.99
+		},
+		{
+			"name": "General Murius",
+			"chance": 29.24
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 23.54
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.58
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 21.33
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.64
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 15.15
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.67
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.66
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.28
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.55
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.84
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.27
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.22
+		}
+	]
+}

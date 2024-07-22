@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-07-22T09:33:15.224Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 46.32
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.48
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 26.84
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.49
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.22
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.41
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.85
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 17.34
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.74
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.47
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 12.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.05
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.55
+		},
+		{
+			"name": "yeti",
+			"chance": 10.35
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.42
+		}
+	]
+}

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-22T09:33:31.968Z",
+	"timestamp": "2024-07-23T03:35:46.171Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 65.66
+			"chance": 65.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.99
+			"chance": 63.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

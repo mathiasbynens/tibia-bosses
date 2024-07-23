@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-22T09:33:15.224Z",
+	"timestamp": "2024-07-23T03:35:44.352Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.49
+			"chance": 25.49,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,11 +56,27 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
 			"chance": 8.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

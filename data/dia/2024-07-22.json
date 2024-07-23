@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-22T09:32:57.428Z",
+	"timestamp": "2024-07-23T03:35:41.997Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.12
+			"chance": 13.12,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -91,7 +92,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.35
+			"chance": 3.35,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

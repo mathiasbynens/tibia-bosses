@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-22T09:33:01.964Z",
+	"timestamp": "2024-07-23T03:35:42.494Z",
 	"bosses": [
 		{
 			"name": "Hirintror",
@@ -92,6 +92,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.08
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

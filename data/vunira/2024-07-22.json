@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-22T09:33:26.308Z",
+	"timestamp": "2024-07-23T03:35:45.629Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.18
+			"chance": 30.18,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 29.98
+			"chance": 29.98,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 14.91
+			"chance": 14.91,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.79
+			"chance": 13.79,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,15 +71,18 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.97
+			"chance": 12.97,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.13
+			"chance": 9.13,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +103,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

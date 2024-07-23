@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-22T09:33:10.700Z",
+	"timestamp": "2024-07-23T03:35:43.730Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 37.27
+			"chance": 37.27,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.44
+			"chance": 15.44,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +91,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.19
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

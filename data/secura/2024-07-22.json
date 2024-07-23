@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-22T09:33:20.627Z",
+	"timestamp": "2024-07-23T03:35:44.994Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 46.76
+			"chance": 46.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.42
+			"chance": 29.42,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.58
+			"chance": 21.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.56
+			"chance": 19.56,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -79,11 +84,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.46
+			"chance": 9.46,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -120,6 +127,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.13
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

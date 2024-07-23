@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-22T09:32:52.284Z",
+	"timestamp": "2024-07-23T03:35:41.385Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 57.62
+			"chance": 57.62,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.34
+			"chance": 53.34,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.44
+			"chance": 27.44,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.79
+			"chance": 20.79,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.45
+			"chance": 13.45,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

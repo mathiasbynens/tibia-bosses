@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-22T09:33:06.880Z",
+	"timestamp": "2024-07-23T03:35:43.036Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.68
+			"chance": 41.68,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.17
+			"chance": 13.17,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -67,11 +70,27 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.55
+			"chance": 5.55,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-23T09:31:31.457Z",
+	"timestamp": "2024-07-24T03:33:32.753Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.11
+			"chance": 28.11,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -35,15 +37,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.77
+			"chance": 19.77,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -124,6 +129,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

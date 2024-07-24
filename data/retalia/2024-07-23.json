@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-23T09:31:27.897Z",
+	"timestamp": "2024-07-24T03:33:32.092Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 32.12
+			"chance": 32.12,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -68,6 +69,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.78
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

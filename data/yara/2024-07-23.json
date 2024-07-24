@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-23T09:31:38.245Z",
+	"timestamp": "2024-07-24T03:33:34.435Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -60,6 +60,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.33
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

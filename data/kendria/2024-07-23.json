@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-23T09:31:24.145Z",
+	"timestamp": "2024-07-24T03:33:31.584Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.27
+			"chance": 62.27,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -92,6 +93,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

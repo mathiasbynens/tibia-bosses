@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-23T09:31:10.621Z",
+	"timestamp": "2024-07-24T03:33:29.307Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.62
+			"chance": 19.62,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -116,6 +118,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.9
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

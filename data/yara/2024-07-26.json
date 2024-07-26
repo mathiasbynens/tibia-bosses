@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-07-26T09:36:27.220Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 74.21
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 30.2
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 30
+		},
+		{
+			"name": "The Welter",
+			"chance": 28.78
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 26.3
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.09
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.2
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.04
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.66
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.03
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.74
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.3
+		}
+	]
+}

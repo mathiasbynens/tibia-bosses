@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-25T09:36:11.341Z",
+	"timestamp": "2024-07-26T03:38:17.171Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -92,6 +93,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.85
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

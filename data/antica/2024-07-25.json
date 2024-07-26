@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-25T09:36:03.418Z",
+	"timestamp": "2024-07-26T03:38:16.051Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.11
+			"chance": 28.11,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.93
+			"chance": 23.93,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 10.38
+			"chance": 10.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,11 +93,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.39
+			"chance": 5.39,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.39
+			"chance": 5.39,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -108,6 +116,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.31
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

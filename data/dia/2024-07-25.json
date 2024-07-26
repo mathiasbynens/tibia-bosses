@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-25T09:36:07.421Z",
+	"timestamp": "2024-07-26T03:38:16.678Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 28.85
+			"chance": 28.85,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.32
+			"chance": 6.32,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -96,6 +99,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.02
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

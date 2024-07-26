@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-25T09:36:35.521Z",
+	"timestamp": "2024-07-26T03:38:20.780Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.24
+			"chance": 62.24,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.57
+			"chance": 37.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.42
+			"chance": 30.42,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -64,6 +67,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.34
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

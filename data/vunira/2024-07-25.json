@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-25T09:36:31.689Z",
+	"timestamp": "2024-07-26T03:38:20.234Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.56
+			"chance": 27.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.54
+			"chance": 10.54,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.93
+			"chance": 9.93,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.43
+			"chance": 8.43,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.99
+			"chance": 5.99,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -92,6 +97,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.89
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

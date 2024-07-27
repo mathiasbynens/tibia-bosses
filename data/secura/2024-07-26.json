@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-26T09:36:18.713Z",
+	"timestamp": "2024-07-27T03:38:18.576Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -35,15 +35,18 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.54
+			"chance": 18.54,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.62
+			"chance": 14.62,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.67
+			"chance": 7.67,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +110,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.07
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

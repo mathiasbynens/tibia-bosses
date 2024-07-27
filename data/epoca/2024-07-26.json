@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-26T09:36:02.276Z",
+	"timestamp": "2024-07-27T03:38:15.778Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.61
+			"chance": 38.61,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.59
+			"chance": 37.59,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 22.9
+			"chance": 22.9,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 15.2
+			"chance": 15.2,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

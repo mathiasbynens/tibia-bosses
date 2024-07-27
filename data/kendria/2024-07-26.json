@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-26T09:36:10.428Z",
+	"timestamp": "2024-07-27T03:38:17.343Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.64
+			"chance": 39.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.99
+			"chance": 27.99,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.33
+			"chance": 16.33,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +115,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-26T09:36:23.144Z",
+	"timestamp": "2024-07-27T03:38:19.184Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.43
+			"chance": 20.43,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -112,6 +113,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

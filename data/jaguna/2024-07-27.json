@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-27T09:35:57.655Z",
+	"timestamp": "2024-07-28T03:38:30.360Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.53
+			"chance": 21.53,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.91
+			"chance": 15.91,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

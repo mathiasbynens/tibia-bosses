@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-27T09:35:47.263Z",
+	"timestamp": "2024-07-28T03:38:28.709Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.43
+			"chance": 20.43,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.95
+			"chance": 8.95,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +99,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.01
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

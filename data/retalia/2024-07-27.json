@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-27T09:36:04.271Z",
+	"timestamp": "2024-07-28T03:38:31.525Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.11
+			"chance": 28.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

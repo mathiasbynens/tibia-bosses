@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-27T09:36:14.267Z",
+	"timestamp": "2024-07-28T03:38:33.327Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

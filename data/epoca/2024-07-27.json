@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-27T09:35:54.531Z",
+	"timestamp": "2024-07-28T03:38:29.807Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.67
+			"chance": 12.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -72,6 +74,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

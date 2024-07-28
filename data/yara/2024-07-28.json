@@ -1,0 +1,45 @@
+{
+	"timestamp": "2024-07-28T09:36:13.083Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 40.23
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.6
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.73
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.13
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.13
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.04
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.02
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.6
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.6
+		}
+	]
+}

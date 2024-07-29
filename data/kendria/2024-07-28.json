@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-28T09:35:59.843Z",
+	"timestamp": "2024-07-29T03:38:34.292Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.63
+			"chance": 60.63,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.16
+			"chance": 29.16,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.57
+			"chance": 27.57,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.03
+			"chance": 18.03,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +105,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

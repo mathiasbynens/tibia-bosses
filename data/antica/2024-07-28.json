@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-28T09:35:46.847Z",
+	"timestamp": "2024-07-29T03:38:31.354Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 38.33
+			"chance": 38.33,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 33.27
+			"chance": 33.27,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 11.8
+			"chance": 11.8,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +107,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.14
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

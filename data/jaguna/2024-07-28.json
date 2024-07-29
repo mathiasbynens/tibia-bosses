@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-28T09:35:56.591Z",
+	"timestamp": "2024-07-29T03:38:33.542Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -116,6 +118,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.81
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

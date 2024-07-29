@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-28T09:36:06.507Z",
+	"timestamp": "2024-07-29T03:38:35.928Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
-			"chance": 34.75
+			"chance": 34.75,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.33
+			"chance": 30.33,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.36
+			"chance": 19.36,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.69
+			"chance": 13.69,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.91
+			"chance": 11.91,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +90,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

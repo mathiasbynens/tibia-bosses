@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-28T09:36:09.816Z",
+	"timestamp": "2024-07-29T03:38:36.783Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.4
+			"chance": 81.4,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.32
+			"chance": 42.32,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.95
+			"chance": 27.95,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 26.97
+			"chance": 26.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +119,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.14
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

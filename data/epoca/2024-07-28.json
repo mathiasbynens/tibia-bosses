@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-28T09:35:53.295Z",
+	"timestamp": "2024-07-29T03:38:32.813Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.65
+			"chance": 39.65,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

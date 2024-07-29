@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-07-29T09:36:49.996Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.3
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.81
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.12
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 14.98
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.82
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.36
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.27
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.83
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.92
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.75
+		}
+	]
+}

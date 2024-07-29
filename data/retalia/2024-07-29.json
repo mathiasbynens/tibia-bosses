@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-07-29T09:36:38.204Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.79
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 44.97
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 39.19
+		},
+		{
+			"name": "The Imperor",
+			"chance": 36.04
+		},
+		{
+			"name": "Barbaria",
+			"chance": 24.44
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.85
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 22.3
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.06
+		},
+		{
+			"name": "Dracola",
+			"chance": 16
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.39
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.37
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.96
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.66
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 8.98
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.59
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.29
+		}
+	]
+}

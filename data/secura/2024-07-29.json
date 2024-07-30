@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-07-29T09:36:42.706Z",
+	"timestamp": "2024-07-30T03:39:23.709Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.31
+			"chance": 42.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.58
+			"chance": 27.58,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -72,6 +76,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.78
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

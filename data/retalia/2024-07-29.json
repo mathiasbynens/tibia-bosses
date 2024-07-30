@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-29T09:36:38.204Z",
+	"timestamp": "2024-07-30T03:39:22.836Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -72,6 +73,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.29
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

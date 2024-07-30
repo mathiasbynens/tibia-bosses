@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-29T09:36:23.489Z",
+	"timestamp": "2024-07-30T03:39:20.187Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 49.49
+			"chance": 49.49,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.79
+			"chance": 40.79,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.78
+			"chance": 40.78,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.91
+			"chance": 21.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -92,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

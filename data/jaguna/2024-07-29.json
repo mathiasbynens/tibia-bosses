@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-29T09:36:31.138Z",
+	"timestamp": "2024-07-30T03:39:21.415Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.65
+			"chance": 39.65,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.56
+			"chance": 37.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.48
+			"chance": 36.48,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 24.44
+			"chance": 24.44,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -124,6 +129,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

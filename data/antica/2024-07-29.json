@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-29T09:36:19.829Z",
+	"timestamp": "2024-07-30T03:39:19.462Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 29.33
+			"chance": 29.33,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.06
+			"chance": 20.06,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.82
+			"chance": 17.82,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 14.99
+			"chance": 14.99,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -55,11 +59,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.2
+			"chance": 13.2,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.78
+			"chance": 5.78,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +127,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.33
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

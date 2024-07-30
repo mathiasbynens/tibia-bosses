@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-29T09:36:34.544Z",
+	"timestamp": "2024-07-30T03:39:22.240Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.34
+			"chance": 53.34,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 48.62
+			"chance": 48.62,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 20.83
+			"chance": 20.83,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +103,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

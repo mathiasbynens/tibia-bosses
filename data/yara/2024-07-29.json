@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-29T09:36:49.996Z",
+	"timestamp": "2024-07-30T03:39:25.199Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,11 +43,22 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.92
+			"chance": 6.92,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
 			"chance": 6.75
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

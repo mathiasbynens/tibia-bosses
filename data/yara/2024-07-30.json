@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-30T09:36:34.906Z",
+	"timestamp": "2024-07-31T03:38:04.380Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.66
+			"chance": 39.66,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.43
+			"chance": 29.43,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.58
+			"chance": 21.58,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.43
+			"chance": 10.43,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -60,6 +64,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

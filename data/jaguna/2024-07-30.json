@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-30T09:36:14.115Z",
+	"timestamp": "2024-07-31T03:38:00.984Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.96
+			"chance": 69.96,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.32
+			"chance": 53.32,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.09
+			"chance": 31.09,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.58
+			"chance": 21.58,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +118,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.19
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-30T09:36:22.582Z",
+	"timestamp": "2024-07-31T03:38:02.497Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -72,6 +72,16 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.35
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

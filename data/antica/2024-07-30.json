@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-30T09:36:01.369Z",
+	"timestamp": "2024-07-31T03:37:57.986Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.32
+			"chance": 53.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.69
+			"chance": 41.69,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.97
+			"chance": 21.97,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.26
+			"chance": 20.26,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,11 +64,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.35
+			"chance": 13.35,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.2
+			"chance": 10.2,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -107,7 +115,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.85
+			"chance": 7.85,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -119,7 +128,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.86
+			"chance": 6.86,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -131,15 +141,32 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.74
+			"chance": 4.74,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.64
+			"chance": 3.64,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

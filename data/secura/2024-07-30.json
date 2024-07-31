@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-30T09:36:26.942Z",
+	"timestamp": "2024-07-31T03:38:03.171Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +90,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

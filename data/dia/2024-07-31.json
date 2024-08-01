@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-31T09:36:11.196Z",
+	"timestamp": "2024-08-01T05:14:59.027Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.96
+			"chance": 69.96,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.54
+			"chance": 24.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.88
+			"chance": 22.88,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -123,7 +127,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.94
+			"chance": 4.94,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -132,6 +137,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

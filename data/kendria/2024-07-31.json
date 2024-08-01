@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-07-31T09:36:23.768Z",
+	"timestamp": "2024-08-01T05:15:01.558Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.7
+			"chance": 41.7,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.98
+			"chance": 31.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.94
+			"chance": 23.94,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +100,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.19
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

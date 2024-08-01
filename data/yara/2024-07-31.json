@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-31T09:36:39.396Z",
+	"timestamp": "2024-08-01T05:15:04.726Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.85
+			"chance": 10.85,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -48,6 +49,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.94
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

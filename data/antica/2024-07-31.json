@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-07-31T09:36:07.512Z",
+	"timestamp": "2024-08-01T05:14:58.210Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.15
+			"chance": 10.15,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -116,6 +119,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

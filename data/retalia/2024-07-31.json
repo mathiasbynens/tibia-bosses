@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-31T09:36:27.485Z",
+	"timestamp": "2024-08-01T05:15:02.344Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -64,6 +64,16 @@
 		{
 			"name": "Omrafir",
 			"chance": 8.42
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

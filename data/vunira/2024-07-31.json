@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-31T09:36:35.381Z",
+	"timestamp": "2024-08-01T05:15:04.012Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.06
+			"chance": 13.06,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 12.97
+			"chance": 12.97,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.73
+			"chance": 8.73,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +104,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.68
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

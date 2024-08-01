@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-07-31T09:36:20.143Z",
+	"timestamp": "2024-08-01T05:15:00.844Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.01
+			"chance": 30.01,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +103,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

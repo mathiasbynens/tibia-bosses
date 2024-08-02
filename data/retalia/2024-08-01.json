@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-01T09:36:14.996Z",
+	"timestamp": "2024-08-02T03:38:32.354Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -63,11 +63,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.93
+			"chance": 8.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -88,6 +90,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.37
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-01T09:36:27.311Z",
+	"timestamp": "2024-08-02T03:38:34.734Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 68.59
+			"chance": 68.59,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -48,6 +49,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.2
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

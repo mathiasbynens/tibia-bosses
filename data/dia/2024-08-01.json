@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-01T09:35:58.531Z",
+	"timestamp": "2024-08-02T03:38:29.455Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94
+			"chance": 94,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.31
+			"chance": 40.31,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.66
+			"chance": 39.66,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.61
+			"chance": 31.61,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.22
+			"chance": 14.22,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -124,6 +129,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

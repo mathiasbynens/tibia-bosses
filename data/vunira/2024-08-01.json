@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-01T09:36:23.302Z",
+	"timestamp": "2024-08-02T03:38:34.033Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
-			"chance": 31.08
+			"chance": 31.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.21
+			"chance": 12.21,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

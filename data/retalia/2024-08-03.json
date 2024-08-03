@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-08-03T09:36:35.918Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.21
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.28
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 40.26
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 40.23
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 39.18
+		},
+		{
+			"name": "Dracola",
+			"chance": 33.61
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.97
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.42
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.44
+		},
+		{
+			"name": "Zushuka",
+			"chance": 29.31
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.64
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 20.41
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.45
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.2
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.67
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.56
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.84
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.31
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.67
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.67
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.93
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.43
+		}
+	]
+}

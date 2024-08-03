@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-02T03:38:34.734Z",
+	"timestamp": "2024-08-03T03:37:54.629Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -52,6 +52,11 @@
 		},
 		{
 			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
 			"chance": 0,
 			"killed": true
 		}

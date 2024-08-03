@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-02T03:38:32.354Z",
+	"timestamp": "2024-08-03T03:37:52.911Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.56
+			"chance": 12.56,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -98,6 +99,11 @@
 		},
 		{
 			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
 			"chance": 0,
 			"killed": true
 		}

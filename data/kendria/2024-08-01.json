@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-02T03:38:31.616Z",
+	"timestamp": "2024-08-03T03:37:52.412Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -25,7 +25,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.35
+			"chance": 17.35,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -115,6 +116,11 @@
 		},
 		{
 			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
 			"chance": 0,
 			"killed": true
 		}

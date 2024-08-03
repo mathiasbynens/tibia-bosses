@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-02T03:38:29.455Z",
+	"timestamp": "2024-08-03T03:37:50.657Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -8,7 +8,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 68.39
+			"chance": 68.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-02T03:38:30.880Z",
+	"timestamp": "2024-08-03T03:37:51.732Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.21
+			"chance": 65.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.6
+			"chance": 38.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -34,11 +36,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.6
+			"chance": 21.6,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -74,7 +78,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.86
+			"chance": 10.86,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -90,7 +95,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.34
+			"chance": 8.34,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -123,6 +129,16 @@
 		},
 		{
 			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
 			"chance": 0,
 			"killed": true
 		}

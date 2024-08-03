@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-02T03:38:28.595Z",
+	"timestamp": "2024-08-03T03:37:50.074Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -25,7 +25,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.98
+			"chance": 31.98,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -34,11 +35,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -102,7 +106,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.1
+			"chance": 6.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -131,7 +136,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 2.74
+			"chance": 2.74,
+			"killed": true
 		},
 		{
 			"name": "The Hungerer",
@@ -145,6 +151,21 @@
 		},
 		{
 			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
 			"chance": 0,
 			"killed": true
 		}

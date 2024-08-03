@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-02T03:38:34.033Z",
+	"timestamp": "2024-08-03T03:37:54.136Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -36,7 +36,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -95,6 +96,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-02T03:38:33.223Z",
+	"timestamp": "2024-08-03T03:37:53.540Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -8,11 +8,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.61
+			"chance": 28.61,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -56,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +112,31 @@
 		},
 		{
 			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
 			"chance": 0,
 			"killed": true
 		}

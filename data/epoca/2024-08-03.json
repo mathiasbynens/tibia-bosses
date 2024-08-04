@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-03T09:36:23.454Z",
+	"timestamp": "2024-08-04T03:38:06.400Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.93
+			"chance": 35.93,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.55
+			"chance": 19.55,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

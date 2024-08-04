@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-03T09:36:40.054Z",
+	"timestamp": "2024-08-04T03:38:08.928Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.97
+			"chance": 12.97,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -59,11 +61,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.31
+			"chance": 11.31,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.53
+			"chance": 7.53,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.96
+			"chance": 4.96,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +115,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.84
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

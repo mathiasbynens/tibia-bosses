@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-03T09:36:14.715Z",
+	"timestamp": "2024-08-04T03:38:05.161Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.5
+			"chance": 52.5,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 49.59
+			"chance": 49.59,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.96
+			"chance": 4.96,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -92,6 +95,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

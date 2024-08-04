@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-08-03T09:36:44.997Z",
+	"timestamp": "2024-08-04T03:38:09.642Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.98
+			"chance": 69.98,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.72
+			"chance": 61.72,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.23
+			"chance": 43.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -140,6 +144,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.92
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

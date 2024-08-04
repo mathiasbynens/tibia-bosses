@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-03T09:36:27.581Z",
+	"timestamp": "2024-08-04T03:38:06.992Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.45
+			"chance": 36.45,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 33.65
+			"chance": 33.65,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.15
+			"chance": 23.15,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.26
+			"chance": 18.26,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.89
+			"chance": 15.89,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +110,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.4
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

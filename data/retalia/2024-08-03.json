@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-08-03T09:36:35.918Z",
+	"timestamp": "2024-08-04T03:38:08.217Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.21
+			"chance": 65.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.28
+			"chance": 62.28,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.97
+			"chance": 31.97,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.42
+			"chance": 30.42,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +99,11 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.43
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

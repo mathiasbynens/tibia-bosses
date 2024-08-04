@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-03T09:36:19.242Z",
+	"timestamp": "2024-08-04T03:38:05.848Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.5
+			"chance": 52.5,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 33.21
+			"chance": 33.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -120,6 +122,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.38
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

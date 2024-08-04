@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-03T09:36:31.929Z",
+	"timestamp": "2024-08-04T03:38:07.666Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.67
+			"chance": 11.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.53
+			"chance": 9.53,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -140,6 +144,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.21
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

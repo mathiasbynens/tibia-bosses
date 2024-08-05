@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-04T09:36:19.708Z",
+	"timestamp": "2024-08-05T03:38:51.360Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

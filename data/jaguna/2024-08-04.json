@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-04T09:36:03.460Z",
+	"timestamp": "2024-08-05T03:38:48.158Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.69
+			"chance": 41.69,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 24.48
+			"chance": 24.48,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.59
+			"chance": 21.59,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -92,6 +95,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 5
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

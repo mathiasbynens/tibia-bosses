@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-04T09:35:54.224Z",
+	"timestamp": "2024-08-05T03:38:46.345Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.2
+			"chance": 7.2,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -100,6 +102,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

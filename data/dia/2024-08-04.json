@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-04T09:35:57.372Z",
+	"timestamp": "2024-08-05T03:38:47.004Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.69
+			"chance": 60.69,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.26
+			"chance": 43.26,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,19 +29,23 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.05
+			"chance": 23.05,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 22.69
+			"chance": 22.69,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.55
+			"chance": 17.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.44
+			"chance": 16.44,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -100,6 +107,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

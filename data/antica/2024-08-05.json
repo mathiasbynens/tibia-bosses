@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-05T09:36:09.882Z",
+	"timestamp": "2024-08-06T03:38:23.746Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 68.41
+			"chance": 68.41,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.89
+			"chance": 25.89,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.14
+			"chance": 23.14,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.71
+			"chance": 18.71,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -132,6 +137,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

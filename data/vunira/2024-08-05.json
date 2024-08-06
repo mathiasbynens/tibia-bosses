@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-05T09:36:33.787Z",
+	"timestamp": "2024-08-06T03:38:28.843Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -19,15 +19,18 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.21
+			"chance": 38.21,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.41
+			"chance": 30.41,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.1
+			"chance": 28.1,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -116,6 +120,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 5.95
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

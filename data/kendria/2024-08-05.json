@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-05T09:36:23.636Z",
+	"timestamp": "2024-08-06T03:38:26.550Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.71
+			"chance": 18.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -107,7 +109,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -128,6 +131,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

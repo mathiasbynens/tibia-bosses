@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-05T09:36:26.994Z",
+	"timestamp": "2024-08-06T03:38:27.204Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.22
+			"chance": 14.22,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -60,6 +64,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 7.83
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

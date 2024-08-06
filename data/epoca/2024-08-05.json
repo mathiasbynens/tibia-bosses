@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-05T09:36:16.943Z",
+	"timestamp": "2024-08-06T03:38:24.881Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.69
+			"chance": 39.69,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.44
+			"chance": 29.44,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

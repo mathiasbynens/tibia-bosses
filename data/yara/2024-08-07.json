@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-08-07T09:36:29.753Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.11
+		},
+		{
+			"name": "Zushuka",
+			"chance": 42.32
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.21
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.91
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.53
+		},
+		{
+			"name": "Hirintror",
+			"chance": 16.11
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.07
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.03
+		}
+	]
+}

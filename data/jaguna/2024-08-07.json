@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-08-07T09:36:12.033Z",
+	"timestamp": "2024-08-08T03:38:24.212Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.07
+			"chance": 81.07,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 67.08
+			"chance": 67.08,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.08
+			"chance": 67.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.44
+			"chance": 30.44,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +31,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.97
+			"chance": 21.97,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -99,7 +107,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +129,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

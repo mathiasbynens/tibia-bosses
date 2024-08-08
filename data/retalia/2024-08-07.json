@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-07T09:36:19.201Z",
+	"timestamp": "2024-08-08T03:38:25.646Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -64,6 +64,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 10.27
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-07T09:36:26.388Z",
+	"timestamp": "2024-08-08T03:38:27.818Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 29.92
+			"chance": 29.92,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 16.62
+			"chance": 16.62,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +74,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.4
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

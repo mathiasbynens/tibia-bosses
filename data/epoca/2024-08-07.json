@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-07T09:36:08.525Z",
+	"timestamp": "2024-08-08T03:38:23.600Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -80,6 +82,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

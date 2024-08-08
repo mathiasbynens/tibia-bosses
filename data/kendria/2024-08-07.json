@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-08-07T09:36:15.825Z",
+	"timestamp": "2024-08-08T03:38:24.957Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.96
+			"chance": 69.96,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.28
+			"chance": 62.28,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 45.39
+			"chance": 45.39,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -112,6 +116,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

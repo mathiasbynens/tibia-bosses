@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-07T09:36:29.753Z",
+	"timestamp": "2024-08-08T03:38:28.601Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.11
+			"chance": 74.11,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -36,6 +37,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

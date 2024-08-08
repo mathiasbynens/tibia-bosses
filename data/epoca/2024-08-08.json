@@ -1,0 +1,85 @@
+{
+	"timestamp": "2024-08-08T09:36:02.879Z",
+	"bosses": [
+		{
+			"name": "The Imperor",
+			"chance": 50.63
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 43.28
+		},
+		{
+			"name": "White Pale",
+			"chance": 38.18
+		},
+		{
+			"name": "General Murius",
+			"chance": 29.22
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 27.99
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.35
+		},
+		{
+			"name": "Xenia",
+			"chance": 22.45
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.57
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.16
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17.33
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.6
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.43
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 13.03
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.43
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.43
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.3
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 5.68
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.17
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.89
+		}
+	]
+}

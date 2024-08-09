@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-08T09:36:09.899Z",
+	"timestamp": "2024-08-09T03:38:31.098Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
-			"chance": 31.11
+			"chance": 31.11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.44
+			"chance": 30.44,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.84
+			"chance": 28.84,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -104,6 +107,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.17
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

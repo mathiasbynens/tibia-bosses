@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-08T09:36:24.039Z",
+	"timestamp": "2024-08-09T03:38:34.996Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -48,6 +48,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 6.86
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

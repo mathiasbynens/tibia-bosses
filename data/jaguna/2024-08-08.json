@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-08T09:36:06.470Z",
+	"timestamp": "2024-08-09T03:38:30.328Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 36
+			"chance": 36,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.88
+			"chance": 22.88,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.36
+			"chance": 21.36,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 17.39
+			"chance": 17.39,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -104,6 +109,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.86
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

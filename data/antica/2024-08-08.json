@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-08T09:35:56.395Z",
+	"timestamp": "2024-08-09T03:38:27.448Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.75
+			"chance": 25.75,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 19.76
+			"chance": 19.76,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -88,6 +91,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.82
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

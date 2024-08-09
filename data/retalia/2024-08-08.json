@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-08T09:36:13.659Z",
+	"timestamp": "2024-08-09T03:38:31.908Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -72,6 +72,16 @@
 		{
 			"name": "Big Boss Trolliver",
 			"chance": 8.25
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

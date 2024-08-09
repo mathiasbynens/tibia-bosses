@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-08T09:35:59.647Z",
+	"timestamp": "2024-08-09T03:38:28.476Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.47
+			"chance": 46.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.47
+			"chance": 25.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 18.51
+			"chance": 18.51,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -96,6 +102,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

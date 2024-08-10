@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-09T09:36:34.009Z",
+	"timestamp": "2024-08-10T03:39:11.077Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.79
+			"chance": 20.79,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 11.26
+			"chance": 11.26,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.33
+			"chance": 10.33,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

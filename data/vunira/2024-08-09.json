@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-09T09:36:51.551Z",
+	"timestamp": "2024-08-10T03:39:13.973Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.77
+			"chance": 23.77,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.29
+			"chance": 17.29,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -80,6 +82,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.67
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

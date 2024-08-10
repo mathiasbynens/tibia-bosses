@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-09T09:36:42.609Z",
+	"timestamp": "2024-08-10T03:39:12.582Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.7
+			"chance": 39.7,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.48
+			"chance": 17.48,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -80,6 +82,11 @@
 		{
 			"name": "yeti",
 			"chance": 5.86
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

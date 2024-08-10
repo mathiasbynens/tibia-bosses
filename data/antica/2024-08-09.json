@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-09T09:36:19.279Z",
+	"timestamp": "2024-08-10T03:39:09.208Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.97
+			"chance": 69.97,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.09
+			"chance": 31.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.86
+			"chance": 25.86,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -95,11 +98,27 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.97
+			"chance": 4.97,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.82
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

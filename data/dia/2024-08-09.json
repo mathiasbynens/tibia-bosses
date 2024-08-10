@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-09T09:36:23.303Z",
+	"timestamp": "2024-08-10T03:39:09.921Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.45
+			"chance": 15.45,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.26
+			"chance": 10.26,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +99,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

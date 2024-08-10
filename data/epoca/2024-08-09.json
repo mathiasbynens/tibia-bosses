@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-09T09:36:29.613Z",
+	"timestamp": "2024-08-10T03:39:10.481Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -76,6 +76,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

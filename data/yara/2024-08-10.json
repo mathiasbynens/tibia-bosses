@@ -1,0 +1,57 @@
+{
+	"timestamp": "2024-08-10T09:36:30.722Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 65.22
+		},
+		{
+			"name": "Hirintror",
+			"chance": 35.22
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 33.46
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 25.17
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.65
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.58
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.77
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.27
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.49
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.7
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.23
+		}
+	]
+}

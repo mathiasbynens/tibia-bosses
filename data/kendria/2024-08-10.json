@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-08-10T09:36:15.459Z",
+	"timestamp": "2024-08-11T03:38:05.147Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.17
+			"chance": 67.17,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 67.04
+			"chance": 67.04,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 42.49
+			"chance": 42.49,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 24.85
+			"chance": 24.85,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.53
+			"chance": 7.53,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -112,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

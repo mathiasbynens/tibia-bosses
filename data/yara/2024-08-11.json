@@ -1,0 +1,45 @@
+{
+	"timestamp": "2024-08-11T09:36:18.766Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 44.23
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.17
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.57
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.16
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 23.39
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 18.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.46
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.63
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.42
+		}
+	]
+}

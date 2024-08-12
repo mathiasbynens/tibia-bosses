@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-11T09:36:15.818Z",
+	"timestamp": "2024-08-12T03:38:49.079Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.09
+			"chance": 81.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 60.93
+			"chance": 60.93,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.87
+			"chance": 33.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.37
+			"chance": 20.37,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +104,26 @@
 		{
 			"name": "Orshabaal",
 			"chance": 3.83
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

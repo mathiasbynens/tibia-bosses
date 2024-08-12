@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-11T09:36:18.766Z",
+	"timestamp": "2024-08-12T03:38:49.588Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -40,6 +41,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 9.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

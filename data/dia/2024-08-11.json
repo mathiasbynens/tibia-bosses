@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-11T09:35:56.693Z",
+	"timestamp": "2024-08-12T03:38:45.522Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.67
+			"chance": 81.67,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.72
+			"chance": 41.72,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.72
+			"chance": 34.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.9
+			"chance": 29.9,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -96,6 +101,21 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.61
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

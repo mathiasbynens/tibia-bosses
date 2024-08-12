@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-08-11T09:35:53.574Z",
+	"timestamp": "2024-08-12T03:38:44.880Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.3
+			"chance": 30.3,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.11
+			"chance": 30.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.85
+			"chance": 26.85,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.26
+			"chance": 16.26,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.95
+			"chance": 8.95,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +97,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.07
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

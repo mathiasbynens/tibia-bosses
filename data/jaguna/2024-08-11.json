@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-11T09:36:03.102Z",
+	"timestamp": "2024-08-12T03:38:46.681Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.23
+			"chance": 65.23,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -107,11 +108,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.42
+			"chance": 3.42,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

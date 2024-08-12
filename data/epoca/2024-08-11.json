@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-11T09:35:59.765Z",
+	"timestamp": "2024-08-12T03:38:46.037Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.58
+			"chance": 39.58,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 9.32
+			"chance": 9.32,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

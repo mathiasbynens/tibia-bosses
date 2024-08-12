@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-11T09:36:06.262Z",
+	"timestamp": "2024-08-12T03:38:47.314Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.45
+			"chance": 11.45,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.21
+			"chance": 10.21,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +94,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.61
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

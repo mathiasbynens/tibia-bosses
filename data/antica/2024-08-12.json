@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-08-12T09:36:15.412Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 28.57
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 28.19
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.89
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.66
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.2
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.4
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16.99
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.09
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.68
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 13.91
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.09
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.05
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.31
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.78
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.25
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.17
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.92
+		},
+		{
+			"name": "yeti",
+			"chance": 5.87
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.86
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.44
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-08-13T09:37:33.029Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.32
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 31.08
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.45
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 19.8
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.61
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.2
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.34
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.36
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.39
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.21
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.39
+		}
+	]
+}

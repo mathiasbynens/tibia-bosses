@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-12T09:36:45.460Z",
+	"timestamp": "2024-08-13T03:38:39.494Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -56,6 +56,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.38
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

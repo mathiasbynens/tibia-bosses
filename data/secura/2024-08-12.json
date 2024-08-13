@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-12T09:36:37.904Z",
+	"timestamp": "2024-08-13T03:38:37.877Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.37
+			"chance": 15.37,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -104,6 +105,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

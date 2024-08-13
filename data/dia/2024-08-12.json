@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-12T09:36:19.024Z",
+	"timestamp": "2024-08-13T03:38:33.923Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.81
+			"chance": 61.81,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.73
+			"chance": 60.73,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.64
+			"chance": 6.64,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-12T09:36:30.052Z",
+	"timestamp": "2024-08-13T03:38:36.257Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.73
+			"chance": 60.73,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.5
+			"chance": 21.5,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

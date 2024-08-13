@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-12T09:36:22.648Z",
+	"timestamp": "2024-08-13T03:38:34.710Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.7
+			"chance": 7.7,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -64,6 +65,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.75
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

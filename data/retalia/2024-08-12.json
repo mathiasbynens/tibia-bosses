@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-12T09:36:34.273Z",
+	"timestamp": "2024-08-13T03:38:36.999Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.25
+			"chance": 38.25,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -68,6 +70,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.41
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

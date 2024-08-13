@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-12T09:36:26.470Z",
+	"timestamp": "2024-08-13T03:38:35.463Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.44
+			"chance": 52.44,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.62
+			"chance": 37.62,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.49
+			"chance": 16.49,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +127,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-12T09:36:41.713Z",
+	"timestamp": "2024-08-13T03:38:38.752Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 29.56
+			"chance": 29.56,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -104,6 +105,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-08-14T09:36:23.844Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 40.34
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 36.79
+		},
+		{
+			"name": "yeti",
+			"chance": 26.84
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.86
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.12
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.5
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.66
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.66
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 4.69
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-08-14T09:36:13.025Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 30.98
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 29.58
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.59
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.74
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.86
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.6
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.46
+		},
+		{
+			"name": "Shlorg",
+			"chance": 13.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.9
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 8.77
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.59
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.57
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.41
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.41
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-13T09:37:08.729Z",
+	"timestamp": "2024-08-14T03:39:16.305Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.41
+			"chance": 9.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-13T09:37:20.634Z",
+	"timestamp": "2024-08-14T03:39:17.983Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 23.47
+			"chance": 23.47,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +98,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

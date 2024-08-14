@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-13T09:37:12.854Z",
+	"timestamp": "2024-08-14T03:39:16.800Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.73
+			"chance": 39.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.9
+			"chance": 22.9,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -64,6 +67,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

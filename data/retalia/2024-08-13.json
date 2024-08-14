@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-13T09:37:23.729Z",
+	"timestamp": "2024-08-14T03:39:18.496Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.67
+			"chance": 81.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -56,6 +58,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.39
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

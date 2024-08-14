@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-13T09:37:26.857Z",
+	"timestamp": "2024-08-14T03:39:19.145Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.58
+			"chance": 39.58,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.95
+			"chance": 31.95,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -116,6 +121,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-14T09:36:13.025Z",
+	"timestamp": "2024-08-15T03:38:35.531Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 8.77
+			"chance": 8.77,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -68,6 +70,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

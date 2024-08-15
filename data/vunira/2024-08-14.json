@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-14T09:36:31.201Z",
+	"timestamp": "2024-08-15T03:38:39.626Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.74
+			"chance": 60.74,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.29
+			"chance": 21.29,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.76
+			"chance": 11.76,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -128,6 +132,21 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

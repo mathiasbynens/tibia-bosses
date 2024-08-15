@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-14T09:36:16.656Z",
+	"timestamp": "2024-08-15T03:38:36.337Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.99
+			"chance": 69.99,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.02
+			"chance": 24.02,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -116,6 +118,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

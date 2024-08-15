@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-14T09:36:09.146Z",
+	"timestamp": "2024-08-15T03:38:34.756Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.1
+			"chance": 81.1,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 49.69
+			"chance": 49.69,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -100,6 +103,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.16
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

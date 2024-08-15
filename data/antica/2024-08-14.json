@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-14T09:36:05.187Z",
+	"timestamp": "2024-08-15T03:38:34.037Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.32
+			"chance": 62.32,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.02
+			"chance": 24.02,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.28
+			"chance": 12.28,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.47
+			"chance": 11.47,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -96,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

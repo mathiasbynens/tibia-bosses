@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-14T09:36:27.404Z",
+	"timestamp": "2024-08-15T03:38:38.826Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.25
+			"chance": 28.25,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -43,19 +45,23 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.46
+			"chance": 14.46,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 14.14
+			"chance": 14.14,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.5
+			"chance": 13.5,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.91
+			"chance": 12.91,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -111,7 +119,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.05
+			"chance": 6.05,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -119,7 +128,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.86
+			"chance": 3.86,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -128,6 +138,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.1
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

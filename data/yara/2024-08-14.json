@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-14T09:36:35.948Z",
+	"timestamp": "2024-08-15T03:38:40.310Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.49
+			"chance": 15.49,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-08-15T09:36:00.939Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 40.74
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.29
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.49
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.87
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.43
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.09
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.63
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.38
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.25
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.08
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.93
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.04
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 10.3
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.82
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.64
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.39
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.6
+		}
+	]
+}

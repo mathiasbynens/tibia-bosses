@@ -1,0 +1,57 @@
+{
+	"timestamp": "2024-08-15T09:36:19.240Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 77.55
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.13
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 37.68
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 33.73
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.48
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 20.51
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.37
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.11
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.72
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.62
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.6
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.15
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.32
+		}
+	]
+}

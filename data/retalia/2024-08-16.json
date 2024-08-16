@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-08-16T09:36:48.456Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.95
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.54
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.2
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.67
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.22
+		},
+		{
+			"name": "Dracola",
+			"chance": 16.46
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.02
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.75
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.71
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.6
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.6
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.01
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.2
+		}
+	]
+}

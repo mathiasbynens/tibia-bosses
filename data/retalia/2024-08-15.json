@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-15T09:36:10.321Z",
+	"timestamp": "2024-08-16T03:40:00.855Z",
 	"bosses": [
 		{
 			"name": "yeti",
-			"chance": 37.79
+			"chance": 37.79,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 25.24
+			"chance": 25.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -52,6 +54,16 @@
 		{
 			"name": "Omrafir",
 			"chance": 4.94
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

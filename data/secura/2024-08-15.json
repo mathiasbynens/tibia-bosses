@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-15T09:36:13.585Z",
+	"timestamp": "2024-08-16T03:40:01.563Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 33.22
+			"chance": 33.22,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 28.86
+			"chance": 28.86,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.7
+			"chance": 21.7,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.81
+			"chance": 19.81,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -128,6 +134,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

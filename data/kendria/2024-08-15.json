@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-15T09:36:07.357Z",
+	"timestamp": "2024-08-16T03:40:00.285Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 81.06
+			"chance": 81.06,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.02
+			"chance": 24.02,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

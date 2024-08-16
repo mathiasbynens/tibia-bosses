@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-15T09:35:54.848Z",
+	"timestamp": "2024-08-16T03:39:56.587Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.74
+			"chance": 60.74,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.95
+			"chance": 31.95,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.59
+			"chance": 20.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -116,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

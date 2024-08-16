@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-15T09:36:19.240Z",
+	"timestamp": "2024-08-16T03:40:02.833Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.11
+			"chance": 15.11,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

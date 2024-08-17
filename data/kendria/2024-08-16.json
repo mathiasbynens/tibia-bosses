@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-16T09:36:45.592Z",
+	"timestamp": "2024-08-17T03:37:53.093Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.04
+			"chance": 23.04,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.79
+			"chance": 20.79,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.34
+			"chance": 17.34,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +105,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-16T09:36:36.696Z",
+	"timestamp": "2024-08-17T03:37:51.034Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.46
+			"chance": 36.46,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.35
+			"chance": 17.35,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 15.37
+			"chance": 15.37,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -116,6 +122,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

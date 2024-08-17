@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-08-16T09:36:42.752Z",
+	"timestamp": "2024-08-17T03:37:52.068Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.5
+			"chance": 79.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.46
+			"chance": 35.46,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -123,7 +128,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -140,6 +146,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

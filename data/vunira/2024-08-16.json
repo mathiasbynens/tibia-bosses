@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-16T09:36:54.412Z",
+	"timestamp": "2024-08-17T03:37:55.000Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.91
+			"chance": 19.91,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.43
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

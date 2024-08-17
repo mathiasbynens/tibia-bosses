@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-16T09:36:57.477Z",
+	"timestamp": "2024-08-17T03:37:55.614Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,11 +44,17 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
 			"chance": 5.9
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

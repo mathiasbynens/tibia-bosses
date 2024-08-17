@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-16T09:36:39.668Z",
+	"timestamp": "2024-08-17T03:37:51.530Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -88,6 +88,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.66
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

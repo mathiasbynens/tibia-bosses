@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-17T09:36:22.959Z",
+	"timestamp": "2024-08-18T03:37:54.359Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.27
+			"chance": 22.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +94,16 @@
 		{
 			"name": "Gaz'haragoth",
 			"chance": 6.67
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

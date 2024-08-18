@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-17T09:36:34.271Z",
+	"timestamp": "2024-08-18T03:37:56.371Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.74
+			"chance": 39.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -68,6 +69,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.63
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

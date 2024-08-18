@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-08-18T09:36:08.079Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 36.1
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.95
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.19
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.4
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.49
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 14.7
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.28
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.8
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.61
+		}
+	]
+}

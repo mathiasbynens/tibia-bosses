@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-08-18T09:35:44.296Z",
+	"timestamp": "2024-08-19T03:38:30.182Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 54.11
+			"chance": 54.11,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.76
+			"chance": 39.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.6
+			"chance": 38.6,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.35
+			"chance": 29.35,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.96
+			"chance": 19.96,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.5
+			"chance": 17.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.81
+			"chance": 9.81,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -112,6 +119,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

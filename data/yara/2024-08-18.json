@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-18T09:36:08.079Z",
+	"timestamp": "2024-08-19T03:38:36.393Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -36,6 +36,16 @@
 		{
 			"name": "The Blightfather",
 			"chance": 10.61
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-18T09:35:56.431Z",
+	"timestamp": "2024-08-19T03:38:32.699Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -108,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.89
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

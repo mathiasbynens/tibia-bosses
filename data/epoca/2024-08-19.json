@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-19T09:36:20.958Z",
+	"timestamp": "2024-08-20T03:39:08.700Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

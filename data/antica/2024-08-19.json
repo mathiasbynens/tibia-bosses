@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-19T09:36:13.315Z",
+	"timestamp": "2024-08-20T03:39:07.609Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 13
+			"chance": 13,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 9
+			"chance": 9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +116,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

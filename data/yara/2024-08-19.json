@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-19T09:36:39.162Z",
+	"timestamp": "2024-08-20T03:39:12.560Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70
+			"chance": 70,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.75
+			"chance": 39.75,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -40,6 +42,11 @@
 		{
 			"name": "Zomba",
 			"chance": 9.2
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-19T09:36:36.362Z",
+	"timestamp": "2024-08-20T03:39:12.021Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 59.27
+			"chance": 59.27,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.3
+			"chance": 43.3,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.06
+			"chance": 21.06,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +116,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

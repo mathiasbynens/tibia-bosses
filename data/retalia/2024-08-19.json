@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-19T09:36:30.407Z",
+	"timestamp": "2024-08-20T03:39:10.594Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.47
+			"chance": 30.47,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.18
+			"chance": 21.18,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -72,6 +74,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.22
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

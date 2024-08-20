@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-19T09:36:16.778Z",
+	"timestamp": "2024-08-20T03:39:08.164Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.33
+			"chance": 17.33,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.66
+			"chance": 6.66,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

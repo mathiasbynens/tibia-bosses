@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-19T09:36:33.394Z",
+	"timestamp": "2024-08-20T03:39:11.251Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.79
+			"chance": 20.79,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.21
+			"chance": 13.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.52
+			"chance": 5.52,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -72,6 +77,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

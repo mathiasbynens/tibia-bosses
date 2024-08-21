@@ -1,0 +1,33 @@
+{
+	"timestamp": "2024-08-21T09:36:44.739Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.4
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.49
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 23.93
+		},
+		{
+			"name": "The Welter",
+			"chance": 22.94
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.26
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.71
+		}
+	]
+}

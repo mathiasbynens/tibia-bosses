@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-20T09:36:40.619Z",
+	"timestamp": "2024-08-21T03:38:16.534Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19
+			"chance": 19,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.98
+			"chance": 18.98,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -72,6 +74,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

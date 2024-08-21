@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-20T09:36:27.403Z",
+	"timestamp": "2024-08-21T03:38:14.322Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.62
+			"chance": 14.62,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +86,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.73
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

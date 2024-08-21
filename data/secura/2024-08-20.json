@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-20T09:36:44.007Z",
+	"timestamp": "2024-08-21T03:38:17.167Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.97
+			"chance": 25.97,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 25.76
+			"chance": 25.76,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -68,6 +71,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-20T09:36:50.715Z",
+	"timestamp": "2024-08-21T03:38:18.234Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +27,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

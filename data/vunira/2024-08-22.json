@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-22T09:36:28.935Z",
+	"timestamp": "2024-08-23T03:38:17.683Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 8.94
+			"chance": 8.94,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -100,6 +102,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

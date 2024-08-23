@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-22T09:36:14.375Z",
+	"timestamp": "2024-08-23T03:38:15.125Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.2
+			"chance": 30.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -112,6 +114,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.16
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

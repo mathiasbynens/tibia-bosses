@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-22T09:36:10.490Z",
+	"timestamp": "2024-08-23T03:38:14.600Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,19 +11,23 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.99
+			"chance": 18.99,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -60,6 +65,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 8.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

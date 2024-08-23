@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-22T09:36:02.976Z",
+	"timestamp": "2024-08-23T03:38:13.361Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.53
+			"chance": 19.53,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.37
+			"chance": 8.37,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

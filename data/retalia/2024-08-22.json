@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-22T09:36:21.550Z",
+	"timestamp": "2024-08-23T03:38:16.441Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -59,11 +59,22 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.68
+			"chance": 5.68,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
 			"chance": 2.13
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

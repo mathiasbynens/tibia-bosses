@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-22T09:36:32.223Z",
+	"timestamp": "2024-08-23T03:38:18.187Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

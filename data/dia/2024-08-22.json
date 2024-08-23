@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-22T09:36:06.974Z",
+	"timestamp": "2024-08-23T03:38:14.018Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.92
+			"chance": 10.92,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +112,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.62
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

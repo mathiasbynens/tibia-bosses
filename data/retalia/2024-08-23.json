@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-23T09:36:16.264Z",
+	"timestamp": "2024-08-24T03:38:07.160Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.26
+			"chance": 43.26,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -60,6 +61,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.66
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

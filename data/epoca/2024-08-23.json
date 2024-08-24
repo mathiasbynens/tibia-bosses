@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-23T09:36:05.960Z",
+	"timestamp": "2024-08-24T03:38:04.831Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -48,6 +49,16 @@
 		{
 			"name": "Countess Sorrow",
 			"chance": 6.89
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

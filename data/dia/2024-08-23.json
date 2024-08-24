@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-23T09:36:02.855Z",
+	"timestamp": "2024-08-24T03:38:04.020Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.25
+			"chance": 30.25,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.19
+			"chance": 30.19,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.4
+			"chance": 25.4,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,15 +38,18 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.7
+			"chance": 21.7,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.8
+			"chance": 20.8,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.53
+			"chance": 19.53,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -132,6 +138,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

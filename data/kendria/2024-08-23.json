@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-23T09:36:13.195Z",
+	"timestamp": "2024-08-24T03:38:06.370Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.49
+			"chance": 30.49,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -83,11 +84,17 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.42
+			"chance": 6.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

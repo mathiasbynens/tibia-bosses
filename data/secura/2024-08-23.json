@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-23T09:36:19.191Z",
+	"timestamp": "2024-08-24T03:38:08.276Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.72
+			"chance": 20.72,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.35
+			"chance": 14.35,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.87
+			"chance": 11.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",

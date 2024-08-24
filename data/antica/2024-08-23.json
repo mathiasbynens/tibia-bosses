@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-23T09:35:59.902Z",
+	"timestamp": "2024-08-24T03:38:03.038Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.09
+			"chance": 81.09,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 34.9
+			"chance": 34.9,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -107,7 +109,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.2
+			"chance": 5.2,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -124,6 +127,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

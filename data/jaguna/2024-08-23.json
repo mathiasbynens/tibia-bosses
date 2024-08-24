@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-23T09:36:10.192Z",
+	"timestamp": "2024-08-24T03:38:05.577Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.15
+			"chance": 45.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 33.86
+			"chance": 33.86,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 33.4
+			"chance": 33.4,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -39,15 +43,18 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.74
+			"chance": 25.74,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.99
+			"chance": 23.99,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.38
+			"chance": 20.38,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,11 +70,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.78
+			"chance": 15.78,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 15.41
+			"chance": 15.41,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -108,6 +117,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

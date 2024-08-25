@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-24T09:36:02.495Z",
+	"timestamp": "2024-08-25T03:38:23.092Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -76,6 +77,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.37
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

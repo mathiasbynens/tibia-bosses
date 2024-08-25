@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-24T09:35:59.315Z",
+	"timestamp": "2024-08-25T03:38:22.526Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.66
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

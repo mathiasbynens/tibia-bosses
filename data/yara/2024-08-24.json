@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-24T09:36:11.770Z",
+	"timestamp": "2024-08-25T03:38:25.258Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.06
+			"chance": 11.06,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -28,6 +29,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

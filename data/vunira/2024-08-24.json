@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-08-24T09:36:08.871Z",
+	"timestamp": "2024-08-25T03:38:24.675Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 54.2
+			"chance": 54.2,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 46.87
+			"chance": 46.87,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.02
+			"chance": 7.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -84,6 +90,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.17
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

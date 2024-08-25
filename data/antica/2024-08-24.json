@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-24T09:35:47.017Z",
+	"timestamp": "2024-08-25T03:38:19.634Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.85
+			"chance": 52.85,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.32
+			"chance": 31.32,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.59
+			"chance": 30.59,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.35
+			"chance": 20.35,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.16
+			"chance": 10.16,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -119,7 +127,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.17
+			"chance": 3.17,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

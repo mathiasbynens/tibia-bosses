@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-24T09:35:56.255Z",
+	"timestamp": "2024-08-25T03:38:21.810Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.89
+			"chance": 22.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -92,6 +94,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.06
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-24T09:36:05.563Z",
+	"timestamp": "2024-08-25T03:38:23.806Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.74
+			"chance": 41.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.31
+			"chance": 40.31,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.18
+			"chance": 34.18,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.8
+			"chance": 18.8,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.76
+			"chance": 8.76,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.72
+			"chance": 7.72,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -119,7 +125,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.93
+			"chance": 2.93,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

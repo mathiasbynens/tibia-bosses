@@ -1,0 +1,37 @@
+{
+	"timestamp": "2024-08-25T09:36:46.062Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.26
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.27
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.94
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.9
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.36
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.41
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.4
+		}
+	]
+}

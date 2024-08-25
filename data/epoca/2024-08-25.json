@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-08-25T09:36:26.411Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 60.11
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 38.07
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.53
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.58
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 19.87
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.27
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.68
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.55
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 11.07
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.07
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.12
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.71
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.7
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-25T09:36:43.383Z",
+	"timestamp": "2024-08-26T03:39:33.276Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.96
+			"chance": 17.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -92,6 +93,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

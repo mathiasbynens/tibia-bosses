@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-25T09:36:46.062Z",
+	"timestamp": "2024-08-26T03:39:33.821Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.9
+			"chance": 22.9,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -32,6 +34,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.4
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

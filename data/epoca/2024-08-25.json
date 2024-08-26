@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-25T09:36:26.411Z",
+	"timestamp": "2024-08-26T03:39:29.558Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.07
+			"chance": 11.07,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -60,6 +61,11 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.7
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-25T09:36:36.815Z",
+	"timestamp": "2024-08-26T03:39:31.825Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -72,6 +73,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.43
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

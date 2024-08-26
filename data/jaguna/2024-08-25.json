@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-25T09:36:29.567Z",
+	"timestamp": "2024-08-26T03:39:30.415Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94
+			"chance": 94,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 66.76
+			"chance": 66.76,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.75
+			"chance": 13.75,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.6
+			"chance": 8.6,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +88,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.99
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

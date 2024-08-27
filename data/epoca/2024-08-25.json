@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-26T03:39:29.558Z",
+	"timestamp": "2024-08-27T03:38:24.365Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.53
+			"chance": 30.53,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -64,6 +66,11 @@
 		},
 		{
 			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
 			"chance": 0,
 			"killed": true
 		}

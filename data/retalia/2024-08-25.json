@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-26T03:39:31.825Z",
+	"timestamp": "2024-08-27T03:38:27.749Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -48,7 +48,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.62
+			"chance": 11.62,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +77,21 @@
 		},
 		{
 			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
 			"chance": 0,
 			"killed": true
 		}

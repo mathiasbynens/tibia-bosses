@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-26T03:39:31.256Z",
+	"timestamp": "2024-08-27T03:38:26.115Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -8,7 +8,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 35.76
+			"chance": 35.76,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -70,11 +71,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -115,6 +118,16 @@
 		},
 		{
 			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
 			"chance": 0,
 			"killed": true
 		}

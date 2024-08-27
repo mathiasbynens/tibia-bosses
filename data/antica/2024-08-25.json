@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-26T03:39:27.925Z",
+	"timestamp": "2024-08-27T03:38:22.814Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 42.33
+			"chance": 42.33,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -24,7 +25,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -85,7 +87,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.69
+			"chance": 5.69,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -105,6 +108,21 @@
 		},
 		{
 			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
 			"chance": 0,
 			"killed": true
 		}

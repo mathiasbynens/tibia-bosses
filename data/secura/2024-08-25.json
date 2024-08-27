@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-26T03:39:32.565Z",
+	"timestamp": "2024-08-27T03:38:28.972Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -12,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -24,7 +25,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.64
+			"chance": 25.64,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.48
+			"chance": 9.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -103,7 +106,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.18
+			"chance": 8.18,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -135,6 +139,21 @@
 		},
 		{
 			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
 			"chance": 0,
 			"killed": true
 		}

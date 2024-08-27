@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-26T03:39:33.821Z",
+	"timestamp": "2024-08-27T03:38:30.964Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.26
+			"chance": 65.26,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -42,6 +44,21 @@
 		},
 		{
 			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
 			"chance": 0,
 			"killed": true
 		}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-26T03:39:28.949Z",
+	"timestamp": "2024-08-27T03:38:23.553Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -37,7 +37,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -45,7 +46,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -57,7 +59,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -93,7 +96,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.21
+			"chance": 5.21,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -115,6 +119,26 @@
 		},
 		{
 			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
 			"chance": 0,
 			"killed": true
 		}

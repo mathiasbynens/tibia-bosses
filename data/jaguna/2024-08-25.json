@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-26T03:39:30.415Z",
+	"timestamp": "2024-08-27T03:38:25.134Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -25,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.18
+			"chance": 21.18,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.76
+			"chance": 6.76,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +98,16 @@
 		},
 		{
 			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
 			"chance": 0,
 			"killed": true
 		}

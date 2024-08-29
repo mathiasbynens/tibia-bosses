@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-08-28T09:36:17.808Z",
+	"timestamp": "2024-08-29T03:38:51.566Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.01
+			"chance": 70.01,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.93
+			"chance": 35.93,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.63
+			"chance": 27.63,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.38
+			"chance": 6.38,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -88,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-28T09:36:30.275Z",
+	"timestamp": "2024-08-29T03:38:54.220Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 50.3
+			"chance": 50.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.27
+			"chance": 42.27,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.5
+			"chance": 16.5,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

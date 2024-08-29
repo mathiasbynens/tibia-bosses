@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-28T09:36:33.776Z",
+	"timestamp": "2024-08-29T03:38:54.918Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 20.92
+			"chance": 20.92,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.14
+			"chance": 14.14,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.3
+			"chance": 8.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -80,6 +83,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

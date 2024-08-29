@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-28T09:36:20.980Z",
+	"timestamp": "2024-08-29T03:38:52.099Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -48,6 +50,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.86
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

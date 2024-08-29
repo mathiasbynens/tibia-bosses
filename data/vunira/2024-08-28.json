@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-28T09:36:37.224Z",
+	"timestamp": "2024-08-29T03:38:55.560Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.87
+			"chance": 33.87,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.63
+			"chance": 25.63,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.8
+			"chance": 13.8,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -108,6 +111,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-28T09:36:14.167Z",
+	"timestamp": "2024-08-29T03:38:50.958Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.43
+			"chance": 17.43,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.61
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

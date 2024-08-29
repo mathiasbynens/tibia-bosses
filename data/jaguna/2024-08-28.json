@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-28T09:36:24.104Z",
+	"timestamp": "2024-08-29T03:38:52.959Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 40.32
+			"chance": 40.32,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 8.16
+			"chance": 8.16,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +90,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.61
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

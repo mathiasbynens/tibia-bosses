@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-28T09:36:40.468Z",
+	"timestamp": "2024-08-29T03:38:56.116Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -32,6 +32,16 @@
 		{
 			"name": "Yaga the Crone",
 			"chance": 6.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

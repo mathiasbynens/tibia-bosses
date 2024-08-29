@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-08-29T09:36:52.531Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 41.78
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.38
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.84
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 19.41
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 18.45
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.61
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.39
+		},
+		{
+			"name": "Omrafir",
+			"chance": 13.26
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.73
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.58
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.45
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.39
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.44
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.71
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.54
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 8.18
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.67
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.23
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.01
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.61
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.54
+		}
+	]
+}

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-29T09:37:12.066Z",
+	"timestamp": "2024-08-30T03:39:05.080Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.79
+			"chance": 60.79,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.2
+			"chance": 28.2,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.07
+			"chance": 8.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -124,6 +131,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.24
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

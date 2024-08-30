@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-29T09:37:15.587Z",
+	"timestamp": "2024-08-30T03:39:05.584Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 30.51
+			"chance": 30.51,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.5
+			"chance": 16.5,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -40,6 +42,26 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

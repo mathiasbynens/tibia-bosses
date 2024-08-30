@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-29T09:36:48.882Z",
+	"timestamp": "2024-08-30T03:39:01.011Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.46
+			"chance": 79.46,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.64
+			"chance": 24.64,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.93
+			"chance": 11.93,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.62
+			"chance": 11.62,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -112,6 +117,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

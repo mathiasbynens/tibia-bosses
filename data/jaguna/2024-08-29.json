@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-08-29T09:36:59.512Z",
+	"timestamp": "2024-08-30T03:39:02.655Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.29
+			"chance": 53.29,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.4
+			"chance": 43.4,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 33.39
+			"chance": 33.39,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.74
+			"chance": 25.74,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.24
+			"chance": 14.24,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.08
+			"chance": 10.08,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

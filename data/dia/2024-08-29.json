@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-29T09:36:52.531Z",
+	"timestamp": "2024-08-30T03:39:01.614Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -88,6 +88,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

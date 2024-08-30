@@ -1,0 +1,37 @@
+{
+	"timestamp": "2024-08-30T09:37:12.072Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 36.67
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.91
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.57
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.83
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.65
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.64
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.45
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.31
+		}
+	]
+}

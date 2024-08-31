@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-30T09:37:01.600Z",
+	"timestamp": "2024-08-31T03:38:23.945Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 66.78
+			"chance": 66.78,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.62
+			"chance": 39.62,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -76,6 +78,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

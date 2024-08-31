@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-30T09:36:49.284Z",
+	"timestamp": "2024-08-31T03:38:20.726Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -108,6 +109,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-30T09:37:12.072Z",
+	"timestamp": "2024-08-31T03:38:27.312Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -32,6 +32,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.31
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

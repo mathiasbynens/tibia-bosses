@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-30T09:36:52.436Z",
+	"timestamp": "2024-08-31T03:38:21.486Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.68
+			"chance": 31.68,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.07
+			"chance": 11.07,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

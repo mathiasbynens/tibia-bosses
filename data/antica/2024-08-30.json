@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-08-30T09:36:46.052Z",
+	"timestamp": "2024-08-31T03:38:19.985Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.02
+			"chance": 70.02,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.89
+			"chance": 20.89,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

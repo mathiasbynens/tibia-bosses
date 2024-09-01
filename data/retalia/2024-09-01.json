@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-09-01T09:36:15.276Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 40.42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.02
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.15
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.51
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.92
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.84
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.7
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.48
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.37
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.32
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.09
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.04
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.86
+		}
+	]
+}

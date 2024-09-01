@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-31T09:36:24.539Z",
+	"timestamp": "2024-09-01T03:41:21.177Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -52,6 +52,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.01
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

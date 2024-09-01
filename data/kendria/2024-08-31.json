@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-31T09:36:10.276Z",
+	"timestamp": "2024-09-01T03:41:17.607Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.85
+			"chance": 19.85,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.79
+			"chance": 14.79,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -64,6 +68,36 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

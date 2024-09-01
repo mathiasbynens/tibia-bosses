@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-31T09:36:13.827Z",
+	"timestamp": "2024-09-01T03:41:18.444Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 32.09
+			"chance": 32.09,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.92
+			"chance": 19.92,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.11
+			"chance": 9.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -68,6 +71,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.78
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

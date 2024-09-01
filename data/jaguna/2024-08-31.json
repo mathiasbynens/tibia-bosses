@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-31T09:36:06.198Z",
+	"timestamp": "2024-09-01T03:41:16.810Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.76
+			"chance": 6.76,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",

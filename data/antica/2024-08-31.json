@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-31T09:35:54.983Z",
+	"timestamp": "2024-09-01T03:41:14.478Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.92
+			"chance": 24.92,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.81
+			"chance": 23.81,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.49
+			"chance": 20.49,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.79
+			"chance": 16.79,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 10.86
+			"chance": 10.86,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -108,6 +114,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

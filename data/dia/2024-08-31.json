@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-31T09:35:58.600Z",
+	"timestamp": "2024-09-01T03:41:15.237Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.57
+			"chance": 30.57,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 6.98
+			"chance": 6.98,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -115,11 +118,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.41
+			"chance": 5.41,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.4
+			"chance": 5.4,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -128,6 +133,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

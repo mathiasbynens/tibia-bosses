@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-08-31T09:36:02.674Z",
+	"timestamp": "2024-09-01T03:41:16.027Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -80,6 +83,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.67
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

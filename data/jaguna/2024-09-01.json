@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-01T09:36:08.288Z",
+	"timestamp": "2024-09-02T03:39:01.671Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.26
+			"chance": 22.26,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.34
+			"chance": 17.34,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -111,11 +114,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.05
+			"chance": 3.05,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
 			"chance": 2.45
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

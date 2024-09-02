@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-01T09:36:04.568Z",
+	"timestamp": "2024-09-02T03:39:00.656Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.08
+			"chance": 81.08,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 29.38
+			"chance": 29.38,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

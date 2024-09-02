@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-01T09:35:56.939Z",
+	"timestamp": "2024-09-02T03:38:58.885Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.81
+			"chance": 60.81,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.63
+			"chance": 30.63,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.75
+			"chance": 17.75,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 15.33
+			"chance": 15.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -104,6 +109,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-01T09:36:26.319Z",
+	"timestamp": "2024-09-02T03:39:05.526Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.75
+			"chance": 39.75,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +52,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.88
+			"chance": 6.88,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

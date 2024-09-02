@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-09-02T09:37:40.789Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 42.48
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.75
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 29.6
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.03
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 22.99
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.19
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 20.54
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.42
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 18.48
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.27
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.94
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.73
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.69
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.32
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.4
+		}
+	]
+}

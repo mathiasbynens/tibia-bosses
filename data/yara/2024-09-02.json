@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-09-02T09:38:03.425Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.01
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.34
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.31
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.28
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.58
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.79
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.79
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.51
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.81
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.43
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.8
+		}
+	]
+}

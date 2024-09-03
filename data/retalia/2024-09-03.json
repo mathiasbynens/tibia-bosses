@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-09-03T09:36:53.713Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 17.74
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.49
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.41
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.66
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.64
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 14.96
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.02
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.83
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 11.02
+		},
+		{
+			"name": "yeti",
+			"chance": 10.35
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 8.13
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.17
+		}
+	]
+}

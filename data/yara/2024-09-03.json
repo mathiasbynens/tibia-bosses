@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-09-03T09:37:04.520Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81.06
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.14
+		},
+		{
+			"name": "General Murius",
+			"chance": 46.57
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.32
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 30.34
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 30.15
+		},
+		{
+			"name": "Xenia",
+			"chance": 15.79
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.99
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.92
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.56
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.61
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-02T09:37:48.767Z",
+	"timestamp": "2024-09-03T03:39:23.055Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.51
+			"chance": 16.51,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -60,6 +62,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.96
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

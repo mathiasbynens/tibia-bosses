@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-02T09:37:56.197Z",
+	"timestamp": "2024-09-03T03:39:24.442Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.01
+			"chance": 70.01,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.65
+			"chance": 30.65,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.54
+			"chance": 18.54,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.41
+			"chance": 15.41,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.33
+			"chance": 10.33,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.53
+			"chance": 7.53,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -107,11 +113,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.21
+			"chance": 4.21,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.15
+			"chance": 4.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -120,6 +128,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

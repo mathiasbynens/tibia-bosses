@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-02T09:37:40.789Z",
+	"timestamp": "2024-09-03T03:39:21.618Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -60,6 +62,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.4
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-02T09:37:37.034Z",
+	"timestamp": "2024-09-03T03:39:21.020Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 43.47
+			"chance": 43.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.3
+			"chance": 40.3,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.24
+			"chance": 18.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -87,11 +92,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.49
+			"chance": 9.49,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +123,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

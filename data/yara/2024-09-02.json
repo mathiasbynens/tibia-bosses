@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-02T09:38:03.425Z",
+	"timestamp": "2024-09-03T03:39:25.732Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.34
+			"chance": 62.34,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.51
+			"chance": 16.51,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

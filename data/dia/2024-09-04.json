@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-09-04T09:37:02.932Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70
+		},
+		{
+			"name": "Omrafir",
+			"chance": 50.25
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.91
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.89
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.42
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.66
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.52
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 23.74
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.56
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 22.29
+		},
+		{
+			"name": "midnight panther",
+			"chance": 21.28
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 19.91
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.94
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.4
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.4
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.79
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.4
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.87
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.52
+		},
+		{
+			"name": "Dracola",
+			"chance": 6.88
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.97
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.66
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.61
+		}
+	]
+}

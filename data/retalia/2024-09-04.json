@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-09-04T09:37:16.237Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 23.25
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.54
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.56
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.09
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.56
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.28
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 16.32
+		},
+		{
+			"name": "yeti",
+			"chance": 14.08
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.17
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.46
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.79
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.56
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.98
+		}
+	]
+}

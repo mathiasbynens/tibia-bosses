@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-03T09:36:57.325Z",
+	"timestamp": "2024-09-04T03:38:46.112Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.96
+			"chance": 23.96,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.36
+			"chance": 18.36,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 15.45
+			"chance": 15.45,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -120,6 +124,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

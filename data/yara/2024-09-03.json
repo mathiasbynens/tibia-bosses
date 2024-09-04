@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-03T09:37:04.520Z",
+	"timestamp": "2024-09-04T03:38:47.991Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.56
+			"chance": 10.56,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

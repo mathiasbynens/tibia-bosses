@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-03T09:36:38.168Z",
+	"timestamp": "2024-09-04T03:38:42.024Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.68
+			"chance": 13.68,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +110,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.26
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

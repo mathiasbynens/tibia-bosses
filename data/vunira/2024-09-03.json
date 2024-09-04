@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-03T09:37:00.880Z",
+	"timestamp": "2024-09-04T03:38:47.113Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 60
+			"chance": 60,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 40.4
+			"chance": 40.4,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.97
+			"chance": 10.97,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",

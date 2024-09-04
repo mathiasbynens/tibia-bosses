@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-03T09:36:50.245Z",
+	"timestamp": "2024-09-04T03:38:44.366Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -68,6 +69,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

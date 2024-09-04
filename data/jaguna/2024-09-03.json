@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-03T09:36:46.081Z",
+	"timestamp": "2024-09-04T03:38:43.584Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.61
+			"chance": 37.61,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -96,6 +97,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-03T09:36:42.239Z",
+	"timestamp": "2024-09-04T03:38:42.774Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.57
+			"chance": 28.57,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -56,6 +57,26 @@
 		{
 			"name": "The Welter",
 			"chance": 4.67
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

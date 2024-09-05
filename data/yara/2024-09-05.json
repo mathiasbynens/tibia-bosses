@@ -1,0 +1,37 @@
+{
+	"timestamp": "2024-09-05T09:36:41.892Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.75
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.94
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.4
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.96
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.44
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.37
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 5.88
+		}
+	]
+}

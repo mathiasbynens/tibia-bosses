@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-04T09:37:02.932Z",
+	"timestamp": "2024-09-05T03:39:18.758Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70
+			"chance": 70,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.89
+			"chance": 33.89,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.42
+			"chance": 28.42,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.56
+			"chance": 23.56,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",

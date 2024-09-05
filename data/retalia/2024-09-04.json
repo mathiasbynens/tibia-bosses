@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-04T09:37:16.237Z",
+	"timestamp": "2024-09-05T03:39:21.606Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.56
+			"chance": 19.56,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.79
+			"chance": 6.79,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -56,6 +58,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

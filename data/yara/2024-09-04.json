@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-04T09:37:26.059Z",
+	"timestamp": "2024-09-05T03:39:23.934Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.24
+			"chance": 65.24,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.95
+			"chance": 40.95,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.89
+			"chance": 40.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -44,6 +47,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 10.21
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-09-04T09:36:59.473Z",
+	"timestamp": "2024-09-05T03:39:18.070Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.31
+			"chance": 53.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.41
+			"chance": 29.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.33
+			"chance": 17.33,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.43
+			"chance": 8.43,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -100,6 +106,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.98
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

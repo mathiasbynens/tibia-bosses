@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-04T09:37:19.361Z",
+	"timestamp": "2024-09-05T03:39:22.458Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.32
+			"chance": 30.32,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 25.33
+			"chance": 25.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.32
+			"chance": 21.32,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -71,11 +76,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.21
+			"chance": 10.21,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -120,6 +127,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

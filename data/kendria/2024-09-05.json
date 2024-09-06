@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-05T09:36:24.755Z",
+	"timestamp": "2024-09-06T03:39:08.286Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.6
+			"chance": 17.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -84,6 +86,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.03
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

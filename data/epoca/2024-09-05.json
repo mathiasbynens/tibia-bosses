@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-05T09:36:17.235Z",
+	"timestamp": "2024-09-06T03:39:06.112Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 28.95
+			"chance": 28.95,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -52,6 +56,11 @@
 		{
 			"name": "The Imperor",
 			"chance": 7.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

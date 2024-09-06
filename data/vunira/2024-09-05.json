@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-05T09:36:37.530Z",
+	"timestamp": "2024-09-06T03:39:11.289Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.41
+			"chance": 33.41,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.6
+			"chance": 19.6,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.3
+			"chance": 18.3,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.57
+			"chance": 17.57,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +125,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

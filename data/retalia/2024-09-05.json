@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-05T09:36:29.041Z",
+	"timestamp": "2024-09-06T03:39:09.129Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.16
+			"chance": 25.16,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -64,6 +65,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.79
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-09-05T09:36:33.336Z",
+	"timestamp": "2024-09-06T03:39:10.288Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.27
+			"chance": 36.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.45
+			"chance": 27.45,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.89
+			"chance": 19.89,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.34
+			"chance": 17.34,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.73
+			"chance": 10.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.09
+			"chance": 7.09,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -112,6 +120,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

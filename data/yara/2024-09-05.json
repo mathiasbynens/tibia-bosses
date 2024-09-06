@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-05T09:36:41.892Z",
+	"timestamp": "2024-09-06T03:39:12.121Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -32,6 +32,21 @@
 		{
 			"name": "Ocyakao",
 			"chance": 5.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

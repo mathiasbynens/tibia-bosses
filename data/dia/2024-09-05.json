@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-05T09:36:13.574Z",
+	"timestamp": "2024-09-06T03:39:05.244Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
-			"chance": 34.16
+			"chance": 34.16,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.78
+			"chance": 11.78,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -95,11 +100,22 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 4.39
+			"chance": 4.39,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

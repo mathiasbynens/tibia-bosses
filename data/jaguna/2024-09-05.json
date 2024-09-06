@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-09-05T09:36:21.318Z",
+	"timestamp": "2024-09-06T03:39:07.101Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.05
+			"chance": 64.05,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 49.95
+			"chance": 49.95,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 33.92
+			"chance": 33.92,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.73
+			"chance": 30.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,15 +27,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.6
+			"chance": 19.6,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -39,7 +46,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.2
+			"chance": 18.2,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -47,7 +55,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -71,7 +80,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.52
+			"chance": 11.52,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -116,6 +126,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.82
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

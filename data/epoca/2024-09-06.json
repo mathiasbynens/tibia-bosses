@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-06T09:37:15.741Z",
+	"timestamp": "2024-09-07T03:38:50.193Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.83
+			"chance": 61.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -52,6 +53,11 @@
 		{
 			"name": "Ocyakao",
 			"chance": 5.88
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

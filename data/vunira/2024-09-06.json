@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-09-06T09:37:31.655Z",
+	"timestamp": "2024-09-07T03:39:11.112Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.99
+			"chance": 69.99,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.32
+			"chance": 62.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.8
+			"chance": 60.8,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,15 +26,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.57
+			"chance": 28.57,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.71
+			"chance": 24.71,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.84
+			"chance": 23.84,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -116,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.67
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

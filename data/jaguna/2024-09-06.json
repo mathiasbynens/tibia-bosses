@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-06T09:37:18.817Z",
+	"timestamp": "2024-09-07T03:39:04.361Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -99,7 +99,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.65
+			"chance": 3.65,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -108,6 +109,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

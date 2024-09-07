@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-06T09:37:35.213Z",
+	"timestamp": "2024-09-07T03:39:13.101Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -40,6 +41,11 @@
 		{
 			"name": "Fleabringer",
 			"chance": 7.88
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

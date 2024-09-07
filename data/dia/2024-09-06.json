@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-06T09:37:12.379Z",
+	"timestamp": "2024-09-07T03:38:49.563Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 37.84
+			"chance": 37.84,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.44
+			"chance": 16.44,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.71
+			"chance": 6.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +96,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.19
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-09-07T09:36:08.128Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.32
+		},
+		{
+			"name": "White Pale",
+			"chance": 25.94
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 25.57
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 25.45
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.78
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.53
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.37
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 18.31
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.24
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.09
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.74
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.82
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.7
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.22
+		}
+	]
+}

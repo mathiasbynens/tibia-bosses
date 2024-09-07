@@ -1,0 +1,45 @@
+{
+	"timestamp": "2024-09-07T09:36:18.672Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 49.97
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.84
+		},
+		{
+			"name": "Xenia",
+			"chance": 17.89
+		},
+		{
+			"name": "General Murius",
+			"chance": 15.01
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.62
+		},
+		{
+			"name": "Shlorg",
+			"chance": 13.02
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.36
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.81
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.57
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		}
+	]
+}

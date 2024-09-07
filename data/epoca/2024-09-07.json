@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-09-07T09:35:56.577Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.26
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.79
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.61
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.66
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.91
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.93
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.51
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.73
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.1
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.48
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.82
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.61
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.51
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.04
+		}
+	]
+}

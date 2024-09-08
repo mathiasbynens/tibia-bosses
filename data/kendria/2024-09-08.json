@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-09-08T09:36:09.593Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 52.68
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 33.41
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.58
+		},
+		{
+			"name": "Hirintror",
+			"chance": 25.69
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 24.13
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.39
+		},
+		{
+			"name": "Dracola",
+			"chance": 22.93
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.1
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.49
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.42
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.22
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.76
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.51
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.48
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.13
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 8.94
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.64
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 8.1
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.77
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.02
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.27
+		}
+	]
+}

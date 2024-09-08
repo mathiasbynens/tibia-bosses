@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-07T09:36:14.936Z",
+	"timestamp": "2024-09-08T03:39:34.601Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 30.92
+			"chance": 30.92,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.06
+			"chance": 20.06,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 8.21
+			"chance": 8.21,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -112,6 +116,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

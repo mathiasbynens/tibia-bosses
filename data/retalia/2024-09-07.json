@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-07T09:36:08.128Z",
+	"timestamp": "2024-09-08T03:39:17.841Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 25.94
+			"chance": 25.94,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",

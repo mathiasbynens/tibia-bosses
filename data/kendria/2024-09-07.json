@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-07T09:36:04.057Z",
+	"timestamp": "2024-09-08T03:39:17.353Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.85
+			"chance": 28.85,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -68,6 +70,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.42
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

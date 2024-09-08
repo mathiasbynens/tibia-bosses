@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-07T09:36:18.672Z",
+	"timestamp": "2024-09-08T03:39:47.578Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-07T09:35:52.748Z",
+	"timestamp": "2024-09-08T03:39:10.232Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.08
+			"chance": 19.08,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -96,6 +97,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

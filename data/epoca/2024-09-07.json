@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-07T09:35:56.577Z",
+	"timestamp": "2024-09-08T03:39:16.153Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.48
+			"chance": 11.48,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.21
+			"chance": 10.21,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -60,6 +63,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.04
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

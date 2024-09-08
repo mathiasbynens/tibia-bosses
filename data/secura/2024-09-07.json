@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-07T09:36:11.480Z",
+	"timestamp": "2024-09-08T03:39:25.857Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.62
+			"chance": 19.62,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.49
+			"chance": 18.49,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.84
+			"chance": 14.84,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.32
+			"chance": 9.32,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.56
+			"chance": 5.56,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,11 +81,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 5.28
+			"chance": 5.28,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 4.42
+			"chance": 4.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -91,7 +99,33 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.15
+			"chance": 3.15,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

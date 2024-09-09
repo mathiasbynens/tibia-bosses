@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-08T09:36:01.809Z",
+	"timestamp": "2024-09-09T03:40:11.203Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.98
+			"chance": 69.98,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.04
+			"chance": 64.04,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.31
+			"chance": 53.31,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.86
+			"chance": 19.86,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -60,6 +64,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 6.91
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

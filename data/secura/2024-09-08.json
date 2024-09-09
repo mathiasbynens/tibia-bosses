@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-08T09:36:17.578Z",
+	"timestamp": "2024-09-09T03:40:21.784Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.56
+			"chance": 30.56,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 29.27
+			"chance": 29.27,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

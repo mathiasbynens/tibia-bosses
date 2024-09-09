@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-08T09:36:25.381Z",
+	"timestamp": "2024-09-09T03:40:25.315Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

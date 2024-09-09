@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-08T09:35:52.409Z",
+	"timestamp": "2024-09-09T03:40:03.605Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.79
+			"chance": 39.79,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.64
+			"chance": 37.64,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.53
+			"chance": 23.53,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.63
+			"chance": 21.63,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.16
+			"chance": 10.16,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -111,7 +119,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.39
+			"chance": 8.39,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -128,6 +137,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.67
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-09-09T09:37:45.960Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 69.99
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.29
+		},
+		{
+			"name": "yeti",
+			"chance": 26.83
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 22.75
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.68
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 22.07
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.53
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.9
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.11
+		},
+		{
+			"name": "Dracola",
+			"chance": 18.84
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 18.44
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.14
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.67
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.09
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.42
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 13.94
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.81
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.42
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 12.97
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.67
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.62
+		},
+		{
+			"name": "The Abomination",
+			"chance": 5.22
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.97
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.16
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.1
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.91
+		}
+	]
+}

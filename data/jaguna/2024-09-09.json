@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-09T09:37:45.960Z",
+	"timestamp": "2024-09-10T03:39:39.636Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.29
+			"chance": 40.29,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.75
+			"chance": 22.75,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.9
+			"chance": 19.9,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -103,11 +108,22 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.1
+			"chance": 3.1,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-09T09:37:54.336Z",
+	"timestamp": "2024-09-10T03:39:40.665Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 24.91
+			"chance": 24.91,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.61
+			"chance": 6.61,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -68,6 +71,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.88
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

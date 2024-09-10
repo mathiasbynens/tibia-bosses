@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-09T09:37:58.148Z",
+	"timestamp": "2024-09-10T03:39:41.297Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +93,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

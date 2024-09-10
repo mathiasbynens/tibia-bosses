@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-09T09:38:05.904Z",
+	"timestamp": "2024-09-10T03:39:42.505Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -52,6 +53,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.88
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

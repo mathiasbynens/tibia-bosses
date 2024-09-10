@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-09T09:37:37.820Z",
+	"timestamp": "2024-09-10T03:39:38.643Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 65.67
+			"chance": 65.67,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.26
+			"chance": 31.26,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 26.82
+			"chance": 26.82,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.91
+			"chance": 11.91,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.39
+			"chance": 6.39,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -112,6 +119,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.06
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

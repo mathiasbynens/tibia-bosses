@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-09T09:38:01.856Z",
+	"timestamp": "2024-09-10T03:39:41.959Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.92
+			"chance": 21.92,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.1
+			"chance": 12.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -108,6 +112,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

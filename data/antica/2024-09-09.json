@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-09T09:37:33.663Z",
+	"timestamp": "2024-09-10T03:39:38.071Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.26
+			"chance": 36.26,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.94
+			"chance": 15.94,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -132,6 +134,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-09-10T09:37:46.473Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.45
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.95
+		},
+		{
+			"name": "Shlorg",
+			"chance": 22.28
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.59
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.74
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.45
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.63
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.36
+		},
+		{
+			"name": "Xenia",
+			"chance": 7.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		}
+	]
+}

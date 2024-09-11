@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-10T09:37:36.051Z",
+	"timestamp": "2024-09-11T03:39:24.720Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-09-10T09:37:39.515Z",
+	"timestamp": "2024-09-11T03:39:25.491Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.11
+			"chance": 81.11,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.75
+			"chance": 30.75,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 29
+			"chance": 29,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.53
+			"chance": 21.53,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.92
+			"chance": 19.92,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,11 +44,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.81
+			"chance": 18.81,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.2
+			"chance": 14.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,7 +79,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.06
+			"chance": 10.06,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -116,6 +125,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

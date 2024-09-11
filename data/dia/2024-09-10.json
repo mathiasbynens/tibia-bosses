@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-10T09:37:22.692Z",
+	"timestamp": "2024-09-11T03:38:49.231Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 65.14
+			"chance": 65.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.82
+			"chance": 60.82,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -83,11 +86,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.58
+			"chance": 7.58,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.62
+			"chance": 6.62,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -111,11 +116,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.41
+			"chance": 3.41,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.28
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-10T09:37:30.012Z",
+	"timestamp": "2024-09-11T03:39:16.197Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.11
+			"chance": 81.11,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 43.52
+			"chance": 43.52,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.33
+			"chance": 30.33,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.02
+			"chance": 23.02,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.1
+			"chance": 12.1,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -120,6 +125,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.34
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

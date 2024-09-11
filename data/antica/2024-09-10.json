@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-10T09:37:18.827Z",
+	"timestamp": "2024-09-11T03:38:48.395Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.41
+			"chance": 29.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.38
+			"chance": 12.38,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 10.94
+			"chance": 10.94,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -119,7 +122,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 5.97
+			"chance": 5.97,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -128,6 +132,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

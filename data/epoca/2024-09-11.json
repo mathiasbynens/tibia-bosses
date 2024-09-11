@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-09-11T09:38:00.996Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 26.35
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 21.77
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.85
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.43
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.48
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.39
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.23
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.52
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.45
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.42
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.2
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.98
+		}
+	]
+}

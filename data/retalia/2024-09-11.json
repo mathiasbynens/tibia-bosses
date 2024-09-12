@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-11T09:38:11.933Z",
+	"timestamp": "2024-09-12T03:39:14.274Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -80,6 +80,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

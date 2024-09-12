@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-11T09:38:05.000Z",
+	"timestamp": "2024-09-12T03:39:11.319Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 28.87
+			"chance": 28.87,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.49
+			"chance": 25.49,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 24.63
+			"chance": 24.63,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.12
+			"chance": 13.12,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -120,6 +125,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

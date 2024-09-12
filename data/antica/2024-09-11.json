@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-11T09:37:51.356Z",
+	"timestamp": "2024-09-12T03:39:05.714Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.67
+			"chance": 66.67,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.59
+			"chance": 21.59,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.41
+			"chance": 19.41,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.39
+			"chance": 17.39,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -120,6 +124,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.08
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-11T09:38:20.340Z",
+	"timestamp": "2024-09-12T03:39:17.371Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.46
+			"chance": 8.46,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -104,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

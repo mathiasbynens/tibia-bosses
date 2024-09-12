@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-09-12T09:37:05.865Z",
+	"bosses": [
+		{
+			"name": "Shlorg",
+			"chance": 38.46
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 30.65
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.54
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 28.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.81
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.65
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.43
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.11
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.25
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.41
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.39
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.67
+		}
+	]
+}

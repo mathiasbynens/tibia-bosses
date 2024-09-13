@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-12T09:36:39.569Z",
+	"timestamp": "2024-09-13T03:39:14.098Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.31
+			"chance": 62.31,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 4.83
+			"chance": 4.83,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -112,6 +114,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

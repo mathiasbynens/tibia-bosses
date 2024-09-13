@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-12T09:36:46.161Z",
+	"timestamp": "2024-09-13T03:39:15.650Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",

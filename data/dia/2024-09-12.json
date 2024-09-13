@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-12T09:36:42.673Z",
+	"timestamp": "2024-09-13T03:39:14.864Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.32
+			"chance": 53.32,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.43
+			"chance": 33.43,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +86,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

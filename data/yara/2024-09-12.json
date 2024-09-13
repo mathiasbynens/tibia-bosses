@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-12T09:37:05.865Z",
+	"timestamp": "2024-09-13T03:39:20.282Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -48,6 +49,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

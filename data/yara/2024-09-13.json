@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-09-13T09:36:59.973Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Shlorg",
+			"chance": 65.42
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.59
+		},
+		{
+			"name": "midnight panther",
+			"chance": 22.96
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.7
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.04
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.91
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.46
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.64
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.63
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.43
+		}
+	]
+}

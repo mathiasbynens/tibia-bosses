@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-09-13T09:36:34.956Z",
+	"timestamp": "2024-09-14T03:38:50.886Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.81
+			"chance": 61.81,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.6
+			"chance": 46.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.82
+			"chance": 23.82,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.54
+			"chance": 22.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -99,7 +107,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +137,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

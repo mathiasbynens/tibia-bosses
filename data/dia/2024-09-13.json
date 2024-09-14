@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-13T09:36:37.948Z",
+	"timestamp": "2024-09-14T03:38:51.569Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.81
+			"chance": 61.81,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.74
+			"chance": 26.74,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

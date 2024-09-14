@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-09-13T09:36:57.156Z",
+	"timestamp": "2024-09-14T03:38:56.334Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.98
+			"chance": 69.98,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 46.84
+			"chance": 46.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.96
+			"chance": 29.96,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.21
+			"chance": 8.21,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -116,6 +123,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.27
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

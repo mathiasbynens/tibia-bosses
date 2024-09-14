@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-13T09:36:53.652Z",
+	"timestamp": "2024-09-14T03:38:55.423Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.62
+			"chance": 37.62,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.28
+			"chance": 12.28,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.27
+			"chance": 10.27,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,15 +98,18 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.19
+			"chance": 7.19,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.18
+			"chance": 6.18,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +118,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

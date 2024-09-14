@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-13T09:36:41.504Z",
+	"timestamp": "2024-09-14T03:38:52.312Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.2
+			"chance": 28.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -88,6 +89,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

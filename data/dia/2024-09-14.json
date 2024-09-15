@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-14T09:35:48.094Z",
+	"timestamp": "2024-09-15T03:41:06.471Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 40.4
+			"chance": 40.4,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -84,6 +86,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.34
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-14T09:36:08.266Z",
+	"timestamp": "2024-09-15T03:41:11.498Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.3
+			"chance": 62.3,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -52,6 +53,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.4
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

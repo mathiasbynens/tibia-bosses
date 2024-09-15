@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-09-14T09:35:54.010Z",
+	"timestamp": "2024-09-15T03:41:07.850Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 76.38
+			"chance": 76.38,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.05
+			"chance": 64.05,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 41.2
+			"chance": 41.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -128,6 +133,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.13
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

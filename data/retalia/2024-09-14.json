@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-14T09:35:59.662Z",
+	"timestamp": "2024-09-15T03:41:09.201Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -68,6 +71,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-09-14T09:36:05.531Z",
+	"timestamp": "2024-09-15T03:41:10.896Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.85
+			"chance": 60.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.65
+			"chance": 21.65,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.91
+			"chance": 12.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 6.21
+			"chance": 6.21,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

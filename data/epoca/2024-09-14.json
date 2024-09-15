@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-14T09:35:51.266Z",
+	"timestamp": "2024-09-15T03:41:07.180Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -92,6 +94,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.76
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

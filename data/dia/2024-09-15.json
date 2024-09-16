@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-15T09:36:26.815Z",
+	"timestamp": "2024-09-16T03:42:21.025Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.82
+			"chance": 17.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.06
+			"chance": 11.06,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -96,6 +100,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.12
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

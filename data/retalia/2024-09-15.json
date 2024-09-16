@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-15T09:36:40.026Z",
+	"timestamp": "2024-09-16T03:42:24.380Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 5.85
+			"chance": 5.85,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -60,6 +63,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

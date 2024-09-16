@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-15T09:36:50.570Z",
+	"timestamp": "2024-09-16T03:42:26.984Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -44,6 +44,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 7.4
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

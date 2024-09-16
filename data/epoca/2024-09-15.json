@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-15T09:36:30.062Z",
+	"timestamp": "2024-09-16T03:42:21.859Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.82
+			"chance": 61.82,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.29
+			"chance": 45.29,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.19
+			"chance": 15.19,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",

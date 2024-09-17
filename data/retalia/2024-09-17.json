@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-09-17T09:37:21.839Z",
+	"bosses": [
+		{
+			"name": "The Big Bad One",
+			"chance": 18.47
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.23
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.4
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.45
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.69
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.22
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 8.92
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.61
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.2
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.2
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.09
+		},
+		{
+			"name": "Xenia",
+			"chance": 6.34
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.36
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-16T09:39:40.334Z",
+	"timestamp": "2024-09-17T03:38:49.978Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.74
+			"chance": 39.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		}
 	]
 }

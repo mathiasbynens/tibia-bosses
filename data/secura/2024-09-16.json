@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-16T09:39:33.798Z",
+	"timestamp": "2024-09-17T03:38:48.640Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.8
+			"chance": 23.8,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.17
+			"chance": 17.17,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.38
+			"chance": 4.38,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -119,7 +125,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.08
+			"chance": 3.08,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

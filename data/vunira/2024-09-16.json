@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-16T09:39:37.063Z",
+	"timestamp": "2024-09-17T03:38:49.350Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.63
+			"chance": 30.63,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.81
+			"chance": 25.81,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -112,6 +115,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.28
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

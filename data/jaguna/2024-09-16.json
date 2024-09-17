@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-16T09:39:25.682Z",
+	"timestamp": "2024-09-17T03:38:46.657Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.97
+			"chance": 22.97,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.4
+			"chance": 17.4,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -124,6 +127,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.74
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

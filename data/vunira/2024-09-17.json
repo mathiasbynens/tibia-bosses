@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-17T09:37:29.914Z",
+	"timestamp": "2024-09-18T03:39:20.686Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.92
+			"chance": 18.92,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,15 +61,18 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.05
+			"chance": 11.05,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.23
+			"chance": 10.23,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.61
+			"chance": 8.61,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +117,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

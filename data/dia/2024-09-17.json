@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-17T09:37:03.955Z",
+	"timestamp": "2024-09-18T03:39:16.022Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.97
+			"chance": 22.97,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 6.89
+			"chance": 6.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +94,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.7
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

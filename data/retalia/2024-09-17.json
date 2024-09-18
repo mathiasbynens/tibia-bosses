@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-17T09:37:21.839Z",
+	"timestamp": "2024-09-18T03:39:18.921Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -56,6 +57,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-17T09:37:12.994Z",
+	"timestamp": "2024-09-18T03:39:17.474Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.21
+			"chance": 33.21,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.55
+			"chance": 21.55,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.36
+			"chance": 21.36,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 13.24
+			"chance": 13.24,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -132,6 +138,11 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 6.24
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

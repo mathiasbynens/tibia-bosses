@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-17T09:37:34.051Z",
+	"timestamp": "2024-09-18T03:39:21.435Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.14
+			"chance": 24.14,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

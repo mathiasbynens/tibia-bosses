@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-09-19T09:37:16.178Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 23.86
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.78
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.52
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.02
+		},
+		{
+			"name": "Omrafir",
+			"chance": 17.02
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.73
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.76
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.09
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.87
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.61
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.5
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.75
+		},
+		{
+			"name": "Xenia",
+			"chance": 7.75
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.92
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.98
+		}
+	]
+}

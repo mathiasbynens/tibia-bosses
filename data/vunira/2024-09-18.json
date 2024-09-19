@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-18T09:38:17.834Z",
+	"timestamp": "2024-09-19T03:39:51.429Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.81
+			"chance": 25.81,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.99
+			"chance": 23.99,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -116,6 +119,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

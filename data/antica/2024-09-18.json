@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-18T09:37:48.866Z",
+	"timestamp": "2024-09-19T03:39:47.632Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.9
+			"chance": 22.9,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.69
+			"chance": 17.69,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

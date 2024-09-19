@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-18T09:37:57.706Z",
+	"timestamp": "2024-09-19T03:39:48.595Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -76,6 +79,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.69
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

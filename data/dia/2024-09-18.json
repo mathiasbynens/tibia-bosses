@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-18T09:37:53.474Z",
+	"timestamp": "2024-09-19T03:39:48.115Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.94
+			"chance": 69.94,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,11 +60,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

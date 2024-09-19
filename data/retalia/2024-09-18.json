@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-18T09:38:09.531Z",
+	"timestamp": "2024-09-19T03:39:50.210Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -64,6 +67,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.42
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-20T09:38:54.610Z",
+	"timestamp": "2024-09-21T03:38:46.325Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.28
+			"chance": 53.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.88
+			"chance": 35.88,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,15 +29,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.56
+			"chance": 23.56,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.58
+			"chance": 21.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +123,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.88
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

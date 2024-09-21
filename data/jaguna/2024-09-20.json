@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-20T09:38:41.367Z",
+	"timestamp": "2024-09-21T03:38:43.155Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.21
+			"chance": 54.21,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.77
+			"chance": 23.77,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -116,6 +119,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.13
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

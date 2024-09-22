@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-21T09:35:57.291Z",
+	"timestamp": "2024-09-22T03:41:25.973Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 59.38
+			"chance": 59.38,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.58
+			"chance": 39.58,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.68
+			"chance": 30.68,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,15 +42,18 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.82
+			"chance": 22.82,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -116,6 +122,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

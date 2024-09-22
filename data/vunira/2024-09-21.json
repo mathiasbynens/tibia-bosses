@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-21T09:36:08.894Z",
+	"timestamp": "2024-09-22T03:41:28.499Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.05
+			"chance": 81.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.61
+			"chance": 37.61,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.6
+			"chance": 21.6,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.99
+			"chance": 17.99,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.86
+			"chance": 8.86,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

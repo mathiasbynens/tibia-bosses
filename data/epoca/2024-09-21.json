@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-21T09:35:54.376Z",
+	"timestamp": "2024-09-22T03:41:25.363Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.94
+			"chance": 69.94,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

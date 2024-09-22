@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-09-22T09:36:25.563Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.28
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.57
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 24.95
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.05
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.02
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.13
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.54
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.5
+		}
+	]
+}

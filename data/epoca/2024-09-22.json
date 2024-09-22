@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-09-22T09:36:02.070Z",
+	"bosses": [
+		{
+			"name": "The Handmaiden",
+			"chance": 39.89
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 30.34
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 30.11
+		},
+		{
+			"name": "General Murius",
+			"chance": 28.9
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.01
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.11
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.55
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.36
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.1
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.01
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.8
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 12.02
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.57
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.49
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "yeti",
+			"chance": 10.28
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 9.45
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.48
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.91
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.85
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 4.41
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-09-23T09:39:06.855Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.01
+		},
+		{
+			"name": "Omrafir",
+			"chance": 33.85
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.54
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 25.61
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 21.64
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.83
+		},
+		{
+			"name": "Barbaria",
+			"chance": 18.79
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.41
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.23
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.06
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.6
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.61
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.35
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.37
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.05
+		}
+	]
+}

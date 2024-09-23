@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-22T09:35:54.067Z",
+	"timestamp": "2024-09-23T03:41:33.439Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 50.44
+			"chance": 50.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.73
+			"chance": 41.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -108,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-22T09:35:57.903Z",
+	"timestamp": "2024-09-23T03:41:34.231Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.61
+			"chance": 39.61,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.15
+			"chance": 29.15,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.85
+			"chance": 23.85,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.51
+			"chance": 16.51,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.72
+			"chance": 9.72,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +114,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.95
+			"chance": 4.95,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -120,6 +128,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.25
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

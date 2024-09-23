@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-22T09:36:05.928Z",
+	"timestamp": "2024-09-23T03:41:35.394Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 15.65
+			"chance": 15.65,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.49
+			"chance": 11.49,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +98,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.08
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

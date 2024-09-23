@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-22T09:36:21.696Z",
+	"timestamp": "2024-09-23T03:41:37.744Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.29
+			"chance": 79.29,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.79
+			"chance": 25.79,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,15 +25,18 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.03
+			"chance": 20.03,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,11 +48,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.35
+			"chance": 15.35,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 11.59
+			"chance": 11.59,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +104,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

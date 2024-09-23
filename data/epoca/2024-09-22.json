@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-22T09:36:02.070Z",
+	"timestamp": "2024-09-23T03:41:34.758Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -79,7 +79,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.91
+			"chance": 6.91,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -92,6 +93,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.41
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

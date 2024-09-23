@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-22T09:36:13.767Z",
+	"timestamp": "2024-09-23T03:41:36.458Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 16.7
+			"chance": 16.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -68,6 +69,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 8.63
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

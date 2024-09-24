@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-23T09:38:53.435Z",
+	"timestamp": "2024-09-24T03:41:30.583Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.51
+			"chance": 52.51,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.02
+			"chance": 36.02,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -112,6 +114,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-23T09:38:49.755Z",
+	"timestamp": "2024-09-24T03:41:29.958Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.33
+			"chance": 81.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.46
+			"chance": 43.46,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 30.84
+			"chance": 30.84,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 27.34
+			"chance": 27.34,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.8
+			"chance": 25.8,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.68
+			"chance": 21.68,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.73
+			"chance": 10.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -136,6 +144,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

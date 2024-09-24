@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-23T09:39:10.591Z",
+	"timestamp": "2024-09-24T03:41:33.901Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.93
+			"chance": 69.93,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.53
+			"chance": 46.53,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.27
+			"chance": 20.27,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.93
+			"chance": 11.93,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.75
+			"chance": 8.75,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +113,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-23T09:39:06.855Z",
+	"timestamp": "2024-09-24T03:41:33.266Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.61
+			"chance": 11.61,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -76,6 +78,16 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 6.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

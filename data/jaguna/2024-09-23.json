@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-23T09:39:00.609Z",
+	"timestamp": "2024-09-24T03:41:31.830Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.93
+			"chance": 69.93,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.82
+			"chance": 61.82,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -96,6 +100,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.92
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

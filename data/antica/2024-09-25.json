@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-09-25T09:38:00.826Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 52.99
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 40.49
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.75
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.56
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.38
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.22
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.98
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.63
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.22
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.88
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.83
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.99
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 12.01
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.95
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.71
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.69
+		},
+		{
+			"name": "yeti",
+			"chance": 10.27
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.23
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.64
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.63
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 4.39
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.42
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.28
+		}
+	]
+}

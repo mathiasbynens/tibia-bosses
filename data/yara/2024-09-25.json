@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-09-25T09:38:32.578Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.72
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.4
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 22.48
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.02
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.26
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.74
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.62
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		}
+	]
+}

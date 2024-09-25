@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-24T09:37:58.535Z",
+	"timestamp": "2024-09-25T03:42:37.140Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.78
+			"chance": 20.78,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",

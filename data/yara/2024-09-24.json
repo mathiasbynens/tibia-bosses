@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-24T09:38:11.033Z",
+	"timestamp": "2024-09-25T03:42:39.183Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.82
+			"chance": 61.82,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

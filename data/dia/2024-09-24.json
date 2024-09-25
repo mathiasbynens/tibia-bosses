@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-24T09:37:41.780Z",
+	"timestamp": "2024-09-25T03:42:34.623Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.15
+			"chance": 65.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.49
+			"chance": 14.49,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -116,6 +118,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

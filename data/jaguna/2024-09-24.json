@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-24T09:37:50.002Z",
+	"timestamp": "2024-09-25T03:42:35.939Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.67
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

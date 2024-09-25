@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-09-24T09:37:45.869Z",
+	"timestamp": "2024-09-25T03:42:35.166Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.95
+			"chance": 66.95,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.64
+			"chance": 66.64,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.83
+			"chance": 60.83,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.62
+			"chance": 14.62,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -96,6 +100,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,29 +1,35 @@
 {
-	"timestamp": "2024-09-25T09:38:04.853Z",
+	"timestamp": "2024-09-26T03:42:01.419Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.96
+			"chance": 69.96,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 68.25
+			"chance": 68.25,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.99
+			"chance": 52.99,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 40.49
+			"chance": 40.49,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.41
+			"chance": 30.41,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -140,6 +146,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.97
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

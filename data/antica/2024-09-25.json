@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-25T09:38:00.826Z",
+	"timestamp": "2024-09-26T03:42:00.647Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.99
+			"chance": 52.99,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 40.49
+			"chance": 40.49,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.99
+			"chance": 12.99,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -108,6 +114,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.28
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

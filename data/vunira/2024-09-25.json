@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-25T09:38:27.835Z",
+	"timestamp": "2024-09-26T03:42:05.477Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.19
+			"chance": 12.19,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -88,6 +92,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.43
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-26T09:37:59.008Z",
+	"timestamp": "2024-09-27T03:41:40.212Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.31
+			"chance": 62.31,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 36.41
+			"chance": 36.41,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.85
+			"chance": 26.85,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.65
+			"chance": 15.65,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -72,6 +76,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.92
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

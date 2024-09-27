@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-26T09:37:55.844Z",
+	"timestamp": "2024-09-27T03:41:39.700Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -79,11 +79,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.63
+			"chance": 9.63,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.63
+			"chance": 9.63,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -115,7 +118,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.37
+			"chance": 4.37,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

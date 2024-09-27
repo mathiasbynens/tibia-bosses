@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-09-26T09:38:14.844Z",
+	"timestamp": "2024-09-27T03:41:43.137Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.27
+			"chance": 42.27,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.53
+			"chance": 27.53,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.61
+			"chance": 24.61,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.44
+			"chance": 11.44,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.55
+			"chance": 7.55,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -104,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

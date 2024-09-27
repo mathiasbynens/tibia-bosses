@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-26T09:38:11.645Z",
+	"timestamp": "2024-09-27T03:41:42.536Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
-			"chance": 30.86
+			"chance": 30.86,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.72
+			"chance": 30.72,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.08
+			"chance": 13.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -111,11 +117,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.99
+			"chance": 6.99,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -144,6 +152,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

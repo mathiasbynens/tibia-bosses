@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-26T09:38:02.462Z",
+	"timestamp": "2024-09-27T03:41:40.846Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.47
+			"chance": 14.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +113,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

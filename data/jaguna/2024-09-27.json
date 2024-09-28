@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-27T09:37:37.617Z",
+	"timestamp": "2024-09-28T03:41:14.992Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.39
+			"chance": 20.39,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.65
+			"chance": 12.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-27T09:37:26.048Z",
+	"timestamp": "2024-09-28T03:41:13.195Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.17
+			"chance": 26.17,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.23
+			"chance": 16.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -108,6 +110,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

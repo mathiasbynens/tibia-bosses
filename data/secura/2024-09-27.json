@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-27T09:37:48.806Z",
+	"timestamp": "2024-09-28T03:41:16.916Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.83
+			"chance": 23.83,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.68
+			"chance": 22.68,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.92
+			"chance": 8.92,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -119,11 +124,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.65
+			"chance": 3.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

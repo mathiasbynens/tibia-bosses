@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-27T09:37:29.741Z",
+	"timestamp": "2024-09-28T03:41:13.852Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.71
+			"chance": 21.71,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 9.01
+			"chance": 9.01,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +111,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

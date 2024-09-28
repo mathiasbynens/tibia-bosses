@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-27T09:37:56.767Z",
+	"timestamp": "2024-09-28T03:41:18.196Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.17
+			"chance": 65.17,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.56
+			"chance": 33.56,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -44,6 +47,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.41
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

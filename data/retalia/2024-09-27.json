@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-27T09:37:45.041Z",
+	"timestamp": "2024-09-28T03:41:16.179Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 39.55
+			"chance": 39.55,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.54
+			"chance": 18.54,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -80,6 +82,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.61
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

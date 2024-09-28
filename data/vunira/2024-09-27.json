@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-27T09:37:52.153Z",
+	"timestamp": "2024-09-28T03:41:17.645Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.87
+			"chance": 33.87,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.07
+			"chance": 29.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.98
+			"chance": 22.98,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.23
+			"chance": 16.23,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

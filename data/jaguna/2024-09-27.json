@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-28T03:41:14.992Z",
+	"timestamp": "2024-09-29T03:42:51.502Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.83
+			"chance": 60.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -12,11 +13,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.29
+			"chance": 36.29,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.79
+			"chance": 28.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -37,7 +40,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.63
+			"chance": 24.63,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -120,6 +124,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

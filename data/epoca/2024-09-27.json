@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-28T03:41:14.408Z",
+	"timestamp": "2024-09-29T03:42:50.893Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,6 +63,11 @@
 		},
 		{
 			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
 			"chance": 0,
 			"killed": true
 		}

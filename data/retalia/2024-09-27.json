@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-28T03:41:16.179Z",
+	"timestamp": "2024-09-29T03:42:52.580Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -16,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -49,7 +50,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 15.01
+			"chance": 15.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -85,6 +87,11 @@
 		},
 		{
 			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
 			"chance": 0,
 			"killed": true
 		}

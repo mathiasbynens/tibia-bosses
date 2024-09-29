@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-28T03:41:17.645Z",
+	"timestamp": "2024-09-29T03:42:53.801Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -12,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -38,7 +39,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.81
+			"chance": 19.81,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -50,7 +52,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -111,7 +114,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.28
+			"chance": 3.28,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

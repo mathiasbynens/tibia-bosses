@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-28T03:41:13.852Z",
+	"timestamp": "2024-09-29T03:42:50.296Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.87
+			"chance": 33.87,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.14
+			"chance": 24.14,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -45,7 +47,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.57
+			"chance": 18.57,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -69,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.25
+			"chance": 13.25,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -106,7 +110,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +129,16 @@
 		},
 		{
 			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
 			"chance": 0,
 			"killed": true
 		}

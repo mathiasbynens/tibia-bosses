@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-28T03:41:13.195Z",
+	"timestamp": "2024-09-29T03:42:49.705Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -20,11 +20,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.44
+			"chance": 19.44,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -45,11 +47,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -65,7 +69,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -77,7 +82,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.09
+			"chance": 7.09,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -118,6 +124,21 @@
 		},
 		{
 			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
 			"chance": 0,
 			"killed": true
 		}

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-09-28T03:41:16.916Z",
+	"timestamp": "2024-09-29T03:42:53.207Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.61
+			"chance": 38.61,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -34,7 +36,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -46,7 +49,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.42
+			"chance": 17.42,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -138,6 +145,16 @@
 		},
 		{
 			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
 			"chance": 0,
 			"killed": true
 		}

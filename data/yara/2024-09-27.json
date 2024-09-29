@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-28T03:41:18.196Z",
+	"timestamp": "2024-09-29T03:42:54.349Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -55,6 +55,31 @@
 		},
 		{
 			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
 			"chance": 0,
 			"killed": true
 		}

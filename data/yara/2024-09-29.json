@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-29T09:36:38.158Z",
+	"timestamp": "2024-09-30T03:44:05.392Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -39,11 +40,17 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.55
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

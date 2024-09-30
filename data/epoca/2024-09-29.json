@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-29T09:36:19.703Z",
+	"timestamp": "2024-09-30T03:43:59.869Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.57
+			"chance": 93.57,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -80,6 +81,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.19
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

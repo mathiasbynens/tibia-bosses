@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-29T09:36:23.446Z",
+	"timestamp": "2024-09-30T03:44:00.481Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.72
+			"chance": 30.72,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -119,11 +124,27 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.86
+			"chance": 5.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

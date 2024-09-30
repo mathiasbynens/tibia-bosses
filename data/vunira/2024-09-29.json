@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-29T09:36:35.167Z",
+	"timestamp": "2024-09-30T03:44:04.562Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.42
+			"chance": 20.42,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.16
+			"chance": 18.16,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -104,6 +106,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

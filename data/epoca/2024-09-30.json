@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-30T09:38:39.231Z",
+	"timestamp": "2024-10-01T03:45:04.842Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -76,6 +77,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 8.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-30T09:39:00.060Z",
+	"timestamp": "2024-10-01T03:45:08.703Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.15
+			"chance": 14.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -40,6 +41,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.55
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

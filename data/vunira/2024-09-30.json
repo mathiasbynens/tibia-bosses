@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-09-30T09:38:56.550Z",
+	"timestamp": "2024-10-01T03:45:08.184Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.06
+			"chance": 53.06,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.13
+			"chance": 8.13,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -116,6 +119,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

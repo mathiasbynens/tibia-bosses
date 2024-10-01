@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-30T09:38:42.919Z",
+	"timestamp": "2024-10-01T03:45:05.526Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 33.84
+			"chance": 33.84,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.52
+			"chance": 19.52,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.19
+			"chance": 19.19,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.47
+			"chance": 17.47,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.67
+			"chance": 14.67,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -120,6 +125,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

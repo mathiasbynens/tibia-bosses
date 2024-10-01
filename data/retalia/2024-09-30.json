@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-09-30T09:38:49.227Z",
+	"timestamp": "2024-10-01T03:45:06.953Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -64,6 +64,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.86
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-01T09:38:34.502Z",
+	"timestamp": "2024-10-02T03:41:43.793Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -28,6 +28,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 9.53
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

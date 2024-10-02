@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-01T09:38:07.892Z",
+	"timestamp": "2024-10-02T03:41:38.938Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.49
+			"chance": 31.49,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.75
+			"chance": 30.75,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 24.86
+			"chance": 24.86,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.87
+			"chance": 18.87,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

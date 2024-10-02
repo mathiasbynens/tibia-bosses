@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-01T09:38:28.159Z",
+	"timestamp": "2024-10-02T03:41:42.633Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.07
+			"chance": 81.07,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.21
+			"chance": 36.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.35
+			"chance": 19.35,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 17.77
+			"chance": 17.77,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.42
+			"chance": 7.42,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

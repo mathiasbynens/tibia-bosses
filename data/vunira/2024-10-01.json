@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-01T09:38:31.470Z",
+	"timestamp": "2024-10-02T03:41:43.242Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.49
+			"chance": 43.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.21
+			"chance": 36.21,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -112,6 +115,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

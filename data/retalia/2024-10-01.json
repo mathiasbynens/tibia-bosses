@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-01T09:38:25.047Z",
+	"timestamp": "2024-10-02T03:41:41.891Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.4
+			"chance": 15.4,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -64,6 +65,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.96
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

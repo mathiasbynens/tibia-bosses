@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-01T09:38:19.032Z",
+	"timestamp": "2024-10-02T03:41:40.803Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.81
+			"chance": 34.81,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -108,6 +109,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.92
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

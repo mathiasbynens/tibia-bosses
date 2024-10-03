@@ -1,0 +1,45 @@
+{
+	"timestamp": "2024-10-03T09:38:01.389Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 39.79
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 31.22
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.44
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.23
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.56
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.1
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.68
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.67
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.93
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.61
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-03T09:37:38.433Z",
+	"timestamp": "2024-10-04T03:41:18.007Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.79
+			"chance": 39.79,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.76
+			"chance": 24.76,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.65
+			"chance": 22.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

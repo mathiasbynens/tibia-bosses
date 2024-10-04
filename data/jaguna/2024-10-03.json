@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-03T09:37:42.212Z",
+	"timestamp": "2024-10-04T03:41:18.566Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.5
+			"chance": 31.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -95,11 +96,22 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
 			"chance": 6.52
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-10-04T09:38:18.925Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 43.15
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.82
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.36
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.09
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.85
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.65
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 10.83
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.65
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.64
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.24
+		}
+	]
+}

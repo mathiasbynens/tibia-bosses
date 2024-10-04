@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-10-04T09:38:35.585Z",
+	"bosses": [
+		{
+			"name": "Zushuka",
+			"chance": 65.86
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 63.98
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 31.51
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.82
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.65
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.01
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.87
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.57
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.1
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.88
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.64
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.43
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.99
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.94
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.18
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.74
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.15
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.48
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.2
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.08
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.87
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.61
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.99
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		}
+	]
+}

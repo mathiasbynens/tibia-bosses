@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-05T09:38:02.760Z",
+	"timestamp": "2024-10-06T03:42:35.161Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.82
+			"chance": 30.82,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

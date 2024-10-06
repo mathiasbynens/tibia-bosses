@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-05T09:37:52.345Z",
+	"timestamp": "2024-10-06T03:42:32.604Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -72,6 +74,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.85
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

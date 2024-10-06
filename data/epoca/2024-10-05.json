@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-05T09:37:42.733Z",
+	"timestamp": "2024-10-06T03:42:30.124Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -47,7 +47,18 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.34
+			"chance": 4.34,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

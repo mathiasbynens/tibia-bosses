@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-05T09:37:35.249Z",
+	"timestamp": "2024-10-06T03:42:28.565Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +90,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

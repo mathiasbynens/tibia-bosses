@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-05T09:37:55.789Z",
+	"timestamp": "2024-10-06T03:42:33.533Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.45
+			"chance": 27.45,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.63
+			"chance": 23.63,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.32
+			"chance": 21.32,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.97
+			"chance": 19.97,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.22
+			"chance": 15.22,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 7.95
+			"chance": 7.95,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +123,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

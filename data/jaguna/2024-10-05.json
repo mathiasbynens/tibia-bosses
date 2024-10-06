@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-05T09:37:46.348Z",
+	"timestamp": "2024-10-06T03:42:30.916Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.31
+			"chance": 62.31,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.82
+			"chance": 10.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +100,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-06T09:36:26.581Z",
+	"timestamp": "2024-10-07T03:42:28.550Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 49.87
+			"chance": 49.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.07
+			"chance": 44.07,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.13
+			"chance": 24.13,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 22.78
+			"chance": 22.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -88,6 +95,26 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

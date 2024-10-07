@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-06T09:36:32.221Z",
+	"timestamp": "2024-10-07T03:42:29.539Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -64,6 +65,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.65
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

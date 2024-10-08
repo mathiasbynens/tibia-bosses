@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-07T09:38:29.380Z",
+	"timestamp": "2024-10-08T03:42:22.031Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.3
+			"chance": 53.3,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 36.75
+			"chance": 36.75,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 29.98
+			"chance": 29.98,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,15 +35,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 25.19
+			"chance": 25.19,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.76
+			"chance": 22.76,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -112,6 +120,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

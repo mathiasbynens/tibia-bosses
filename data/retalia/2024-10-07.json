@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-07T09:38:25.991Z",
+	"timestamp": "2024-10-08T03:42:21.378Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.48
+			"chance": 17.48,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.53
+			"chance": 10.53,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +80,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.52
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

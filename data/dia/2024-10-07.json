@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-07T09:38:12.591Z",
+	"timestamp": "2024-10-08T03:42:19.346Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.43
+			"chance": 7.43,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

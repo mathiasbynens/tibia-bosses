@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-07T09:38:33.417Z",
+	"timestamp": "2024-10-08T03:42:22.627Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.59
+			"chance": 37.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 29.88
+			"chance": 29.88,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 28.78
+			"chance": 28.78,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.73
+			"chance": 7.73,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -128,6 +133,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

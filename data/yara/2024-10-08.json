@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-10-08T09:37:53.618Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 60.78
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 18.48
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.19
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.34
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.69
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.27
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.1
+		}
+	]
+}

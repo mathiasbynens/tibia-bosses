@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-08T09:37:46.247Z",
+	"timestamp": "2024-10-09T03:41:40.319Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.15
+			"chance": 64.15,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.53
+			"chance": 52.53,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-08T09:37:33.713Z",
+	"timestamp": "2024-10-09T03:41:37.260Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -48,6 +48,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.6
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

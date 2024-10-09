@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-08T09:37:42.801Z",
+	"timestamp": "2024-10-09T03:41:39.444Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -60,6 +61,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.68
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

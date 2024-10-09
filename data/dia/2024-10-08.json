@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-08T09:37:30.332Z",
+	"timestamp": "2024-10-09T03:41:36.507Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 49.8
+			"chance": 49.8,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

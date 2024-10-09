@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-08T09:37:26.724Z",
+	"timestamp": "2024-10-09T03:41:35.557Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.5
+			"chance": 46.5,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.63
+			"chance": 17.63,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.13
+			"chance": 10.13,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -107,7 +113,28 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.42
+			"chance": 4.42,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

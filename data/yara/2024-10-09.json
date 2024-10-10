@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-09T09:38:26.497Z",
+	"timestamp": "2024-10-10T03:41:32.782Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.16
+			"chance": 53.16,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

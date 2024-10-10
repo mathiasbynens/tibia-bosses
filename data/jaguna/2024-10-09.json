@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-09T09:38:07.237Z",
+	"timestamp": "2024-10-10T03:41:27.841Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -84,6 +87,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.47
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

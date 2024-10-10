@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-09T09:38:18.886Z",
+	"timestamp": "2024-10-10T03:41:30.554Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 31.21
+			"chance": 31.21,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.59
+			"chance": 29.59,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.49
+			"chance": 26.49,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.65
+			"chance": 21.65,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

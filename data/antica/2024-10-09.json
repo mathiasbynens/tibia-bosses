@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-09T09:37:55.148Z",
+	"timestamp": "2024-10-10T03:41:25.284Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.64
+			"chance": 52.64,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.54
+			"chance": 31.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.24
+			"chance": 29.24,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.57
+			"chance": 21.57,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.89
+			"chance": 19.89,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.07
+			"chance": 11.07,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -104,6 +110,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

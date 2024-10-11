@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-10T09:37:43.468Z",
+	"timestamp": "2024-10-11T03:41:13.383Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.01
+			"chance": 64.01,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -116,6 +117,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.45
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

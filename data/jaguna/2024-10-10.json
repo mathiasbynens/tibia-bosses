@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-10T09:37:50.212Z",
+	"timestamp": "2024-10-11T03:41:14.923Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -80,6 +81,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.5
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

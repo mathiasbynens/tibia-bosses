@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-10T09:37:47.044Z",
+	"timestamp": "2024-10-11T03:41:14.157Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -47,11 +49,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.81
+			"chance": 9.81,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
 			"chance": 7.01
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

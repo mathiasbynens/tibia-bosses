@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-10T09:38:07.100Z",
+	"timestamp": "2024-10-11T03:41:18.836Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",

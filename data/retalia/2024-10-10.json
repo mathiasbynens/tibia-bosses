@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-10T09:37:56.576Z",
+	"timestamp": "2024-10-11T03:41:16.347Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 66.4
+			"chance": 66.4,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

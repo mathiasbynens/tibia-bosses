@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-11T09:37:54.786Z",
+	"timestamp": "2024-10-12T03:40:31.121Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.98
+			"chance": 69.98,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 44.81
+			"chance": 44.81,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.72
+			"chance": 33.72,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.58
+			"chance": 31.58,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.96
+			"chance": 20.96,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.3
+			"chance": 15.3,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.21
+			"chance": 7.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -128,6 +135,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-11T09:37:39.795Z",
+	"timestamp": "2024-10-12T03:40:28.548Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 35.52
+			"chance": 35.52,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.58
+			"chance": 31.58,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

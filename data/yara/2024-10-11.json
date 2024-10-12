@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-11T09:37:58.654Z",
+	"timestamp": "2024-10-12T03:40:32.053Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -40,6 +40,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

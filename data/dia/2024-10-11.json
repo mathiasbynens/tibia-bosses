@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-11T09:37:31.170Z",
+	"timestamp": "2024-10-12T03:40:27.373Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -128,6 +133,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.58
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

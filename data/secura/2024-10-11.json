@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-11T09:37:50.882Z",
+	"timestamp": "2024-10-12T03:40:30.469Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.78
+			"chance": 35.78,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.44
+			"chance": 19.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.89
+			"chance": 15.89,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.53
+			"chance": 7.53,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

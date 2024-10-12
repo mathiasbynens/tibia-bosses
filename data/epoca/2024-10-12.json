@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-10-12T09:36:31.407Z",
+	"bosses": [
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 40.88
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 40.83
+		},
+		{
+			"name": "Tyrn",
+			"chance": 39.57
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.53
+		},
+		{
+			"name": "The Imperor",
+			"chance": 22.63
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.17
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.52
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.21
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.63
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.7
+		}
+	]
+}

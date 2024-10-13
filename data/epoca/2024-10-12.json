@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-12T09:36:31.407Z",
+	"timestamp": "2024-10-13T03:42:13.241Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.88
+			"chance": 40.88,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.83
+			"chance": 40.83,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -44,6 +46,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

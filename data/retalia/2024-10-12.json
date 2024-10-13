@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-12T09:36:41.166Z",
+	"timestamp": "2024-10-13T03:42:14.921Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,11 +59,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +82,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

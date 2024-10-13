@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-12T09:36:34.827Z",
+	"timestamp": "2024-10-13T03:42:13.916Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 42.13
+			"chance": 42.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -92,6 +93,11 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.38
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-12T09:36:27.350Z",
+	"timestamp": "2024-10-13T03:42:12.672Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.87
+			"chance": 20.87,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 8.99
+			"chance": 8.99,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -111,11 +114,22 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.93
+			"chance": 4.93,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
 			"chance": 3.03
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

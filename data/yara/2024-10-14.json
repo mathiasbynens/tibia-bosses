@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-14T16:43:47.308Z",
+	"timestamp": "2024-10-15T03:42:05.610Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 68.59
+			"chance": 68.59,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -40,6 +41,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.45
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

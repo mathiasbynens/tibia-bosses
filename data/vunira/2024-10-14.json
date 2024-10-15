@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-14T16:43:45.004Z",
+	"timestamp": "2024-10-15T03:42:04.825Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.54
+			"chance": 38.54,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 38.01
+			"chance": 38.01,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.66
+			"chance": 17.66,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,11 +76,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

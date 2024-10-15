@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-14T16:43:30.520Z",
+	"timestamp": "2024-10-15T03:42:00.134Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -39,7 +39,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.24
+			"chance": 4.24,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

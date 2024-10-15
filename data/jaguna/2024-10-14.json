@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-14T16:43:32.650Z",
+	"timestamp": "2024-10-15T03:42:01.057Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.79
+			"chance": 93.79,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.25
+			"chance": 40.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.59
+			"chance": 21.59,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -100,6 +104,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.99
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

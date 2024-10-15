@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-14T16:43:42.831Z",
+	"timestamp": "2024-10-15T03:42:03.853Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.98
+			"chance": 69.98,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.85
+			"chance": 60.85,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.46
+			"chance": 25.46,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.67
+			"chance": 24.67,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.91
+			"chance": 20.91,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.95
+			"chance": 11.95,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.49
+			"chance": 9.49,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -91,7 +99,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.46
+			"chance": 6.46,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +129,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

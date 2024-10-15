@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-14T16:43:28.233Z",
+	"timestamp": "2024-10-15T03:41:59.199Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.86
+			"chance": 40.86,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.85
+			"chance": 40.85,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.45
+			"chance": 20.45,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.37
+			"chance": 19.37,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.16
+			"chance": 9.16,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +101,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.16
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

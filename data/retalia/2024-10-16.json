@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-10-16T09:38:12.913Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 43.47
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 33.66
+		},
+		{
+			"name": "The Welter",
+			"chance": 29.13
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.88
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.56
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 20.35
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.96
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 15
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.91
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.89
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 12
+		},
+		{
+			"name": "yeti",
+			"chance": 11.54
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.47
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.88
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.25
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-10-16T09:38:24.193Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.6
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.03
+		},
+		{
+			"name": "Xenia",
+			"chance": 17.82
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.85
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 12.72
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.81
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.29
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.48
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.6
+		}
+	]
+}

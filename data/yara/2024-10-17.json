@@ -1,0 +1,33 @@
+{
+	"timestamp": "2024-10-17T09:38:07.169Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.7
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.58
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.35
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.25
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 9.36
+		},
+		{
+			"name": "Xenia",
+			"chance": 6.36
+		}
+	]
+}

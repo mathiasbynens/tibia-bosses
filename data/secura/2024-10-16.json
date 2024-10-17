@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-16T09:38:16.265Z",
+	"timestamp": "2024-10-17T03:41:38.362Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 26.05
+			"chance": 26.05,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 25.68
+			"chance": 25.68,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,15 +25,18 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.07
+			"chance": 23.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.84
+			"chance": 21.84,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.29
+			"chance": 19.29,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.54
+			"chance": 8.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +87,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.61
+			"chance": 7.61,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -103,11 +112,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.42
+			"chance": 3.42,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-16T09:37:59.689Z",
+	"timestamp": "2024-10-17T03:41:35.465Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.99
+			"chance": 69.99,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.19
+			"chance": 53.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.33
+			"chance": 31.33,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.12
+			"chance": 18.12,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -104,6 +108,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

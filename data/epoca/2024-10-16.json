@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-16T09:38:03.249Z",
+	"timestamp": "2024-10-17T03:41:36.027Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -56,6 +57,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.7
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

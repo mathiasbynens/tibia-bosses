@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-16T09:38:12.913Z",
+	"timestamp": "2024-10-17T03:41:37.670Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 43.47
+			"chance": 43.47,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.13
+			"chance": 29.13,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.63
+			"chance": 23.63,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

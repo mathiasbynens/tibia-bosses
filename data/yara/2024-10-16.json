@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-16T09:38:24.193Z",
+	"timestamp": "2024-10-17T03:41:39.568Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.6
+			"chance": 37.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -36,6 +37,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 8.6
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

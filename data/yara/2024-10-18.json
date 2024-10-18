@@ -1,0 +1,57 @@
+{
+	"timestamp": "2024-10-18T09:38:10.840Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.89
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.04
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 19.11
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 14.32
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.12
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.64
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.06
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.43
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.74
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.04
+		}
+	]
+}

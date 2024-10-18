@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-17T09:37:47.497Z",
+	"timestamp": "2024-10-18T03:42:27.660Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 34.44
+			"chance": 34.44,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 24.29
+			"chance": 24.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -108,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.05
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

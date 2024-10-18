@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-17T09:38:07.169Z",
+	"timestamp": "2024-10-18T03:42:30.480Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -28,6 +29,11 @@
 		{
 			"name": "Xenia",
 			"chance": 6.36
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

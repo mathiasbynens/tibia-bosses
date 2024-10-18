@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-17T09:37:43.233Z",
+	"timestamp": "2024-10-18T03:42:27.106Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -60,6 +60,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

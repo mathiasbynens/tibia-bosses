@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-17T09:37:38.876Z",
+	"timestamp": "2024-10-18T03:42:26.609Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.76
+			"chance": 12.76,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.11
+			"chance": 6.11,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",

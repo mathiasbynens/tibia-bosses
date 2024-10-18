@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-10-17T09:37:54.413Z",
+	"timestamp": "2024-10-18T03:42:28.658Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.75
+			"chance": 35.75,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.43
+			"chance": 29.43,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.12
+			"chance": 13.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -64,6 +69,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 8.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-18T09:37:41.748Z",
+	"timestamp": "2024-10-19T03:40:55.547Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.12
+			"chance": 81.12,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64
+			"chance": 64,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.74
+			"chance": 24.74,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +87,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.64
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

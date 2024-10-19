@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-18T09:37:59.944Z",
+	"timestamp": "2024-10-19T03:40:58.331Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -60,6 +61,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

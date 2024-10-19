@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-18T09:38:10.840Z",
+	"timestamp": "2024-10-19T03:41:00.072Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.06
+			"chance": 11.06,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

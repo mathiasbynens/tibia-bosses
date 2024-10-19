@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-18T09:37:53.117Z",
+	"timestamp": "2024-10-19T03:40:57.213Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.67
+			"chance": 52.67,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 25.34
+			"chance": 25.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.73
+			"chance": 16.73,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -100,6 +105,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

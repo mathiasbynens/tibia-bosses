@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-18T09:37:49.204Z",
+	"timestamp": "2024-10-19T03:40:56.652Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.24
+			"chance": 22.24,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.05
+			"chance": 13.05,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.65
+			"chance": 4.65,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -88,6 +92,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

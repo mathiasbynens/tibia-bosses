@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-10-19T09:36:27.914Z",
+	"bosses": [
+		{
+			"name": "yeti",
+			"chance": 26.28
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 25.44
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 24.84
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.6
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.26
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.83
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.38
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.73
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.4
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.01
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 12.22
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.53
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.44
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.93
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-19T09:36:31.298Z",
+	"timestamp": "2024-10-20T03:43:43.154Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.18
+			"chance": 24.18,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

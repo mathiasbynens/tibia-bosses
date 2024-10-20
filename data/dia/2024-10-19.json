@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-19T09:36:15.062Z",
+	"timestamp": "2024-10-20T03:43:39.093Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.29
+			"chance": 53.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.64
+			"chance": 12.64,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +117,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

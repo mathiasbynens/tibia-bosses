@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-19T09:36:21.818Z",
+	"timestamp": "2024-10-20T03:43:40.700Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -108,6 +110,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

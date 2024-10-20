@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-19T09:36:11.915Z",
+	"timestamp": "2024-10-20T03:43:38.153Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 43.45
+			"chance": 43.45,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.53
+			"chance": 16.53,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.06
+			"chance": 9.06,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -96,6 +99,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.29
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

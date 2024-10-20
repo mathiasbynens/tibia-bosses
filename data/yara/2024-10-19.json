@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-19T09:36:38.194Z",
+	"timestamp": "2024-10-20T03:43:44.845Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -48,6 +49,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 6.99
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

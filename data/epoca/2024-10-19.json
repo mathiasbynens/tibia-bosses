@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-19T09:36:18.439Z",
+	"timestamp": "2024-10-20T03:43:39.863Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -84,6 +85,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

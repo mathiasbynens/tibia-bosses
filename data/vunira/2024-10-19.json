@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-19T09:36:34.434Z",
+	"timestamp": "2024-10-20T03:43:44.087Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.04
+			"chance": 36.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 28.34
+			"chance": 28.34,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +114,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.26
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

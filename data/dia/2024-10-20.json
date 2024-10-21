@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-10-20T09:36:29.751Z",
+	"timestamp": "2024-10-21T03:43:17.137Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.8
+			"chance": 79.8,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.23
+			"chance": 62.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.81
+			"chance": 41.81,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.61
+			"chance": 31.61,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.77
+			"chance": 23.77,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -104,6 +109,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.43
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

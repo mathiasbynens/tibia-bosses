@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-20T09:36:52.419Z",
+	"timestamp": "2024-10-21T03:43:21.546Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.26
+			"chance": 28.26,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -48,6 +50,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.33
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

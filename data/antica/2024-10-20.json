@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-20T09:36:26.157Z",
+	"timestamp": "2024-10-21T03:43:16.454Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.38
+			"chance": 19.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.22
+			"chance": 11.22,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.22
+			"chance": 7.22,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +94,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

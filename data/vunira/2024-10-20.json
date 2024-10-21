@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-20T09:36:49.215Z",
+	"timestamp": "2024-10-21T03:43:20.943Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 43.5
+			"chance": 43.5,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.61
+			"chance": 31.61,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.41
+			"chance": 29.41,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.5
+			"chance": 19.5,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.17
+			"chance": 14.17,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -128,6 +134,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.36
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,45 @@
+{
+	"timestamp": "2024-10-21T09:38:40.944Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.31
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 31.11
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.42
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.57
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.13
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.58
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.29
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.65
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.68
+		}
+	]
+}

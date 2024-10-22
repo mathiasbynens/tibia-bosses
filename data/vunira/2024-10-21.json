@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-21T09:38:37.374Z",
+	"timestamp": "2024-10-22T03:41:53.192Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.99
+			"chance": 63.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.43
+			"chance": 29.43,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 25.95
+			"chance": 25.95,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.31
+			"chance": 16.31,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.64
+			"chance": 6.64,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +126,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

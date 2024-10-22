@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-21T09:38:12.044Z",
+	"timestamp": "2024-10-22T03:41:47.433Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.6
+			"chance": 21.6,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 6.99
+			"chance": 6.99,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +93,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.89
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

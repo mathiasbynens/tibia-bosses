@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-21T09:38:23.629Z",
+	"timestamp": "2024-10-22T03:41:49.924Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -23,15 +23,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 23.45
+			"chance": 23.45,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.83
+			"chance": 22.83,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.29
+			"chance": 19.29,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +103,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

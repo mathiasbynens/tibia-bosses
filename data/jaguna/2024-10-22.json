@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-22T09:37:40.035Z",
+	"timestamp": "2024-10-23T03:41:33.365Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 49.7
+			"chance": 49.7,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.57
+			"chance": 11.57,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

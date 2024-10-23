@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-22T09:38:00.299Z",
+	"timestamp": "2024-10-23T03:41:36.429Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.19
+			"chance": 12.19,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -52,6 +53,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.21
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

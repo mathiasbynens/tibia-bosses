@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-22T09:37:55.987Z",
+	"timestamp": "2024-10-23T03:41:35.893Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 33.93
+			"chance": 33.93,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.57
+			"chance": 28.57,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,15 +33,18 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.46
+			"chance": 22.46,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.61
+			"chance": 21.61,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,15 +52,18 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -75,7 +83,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.21
+			"chance": 10.21,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -91,11 +100,37 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.87
+			"chance": 7.87,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 5.46
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

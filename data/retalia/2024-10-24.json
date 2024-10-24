@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-10-24T09:37:49.891Z",
+	"bosses": [
+		{
+			"name": "White Pale",
+			"chance": 52.4
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.23
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 32.73
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 25.65
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.03
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 21.97
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 21.72
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.39
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.64
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.22
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 16.06
+		},
+		{
+			"name": "Xenia",
+			"chance": 15.87
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.88
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.87
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.73
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.2
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.11
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.73
+		}
+	]
+}

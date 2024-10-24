@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-23T03:41:35.893Z",
+	"timestamp": "2024-10-24T03:41:43.511Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.61
+			"chance": 37.61,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -71,15 +72,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -129,6 +133,21 @@
 		},
 		{
 			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
 			"chance": 0,
 			"killed": true
 		}

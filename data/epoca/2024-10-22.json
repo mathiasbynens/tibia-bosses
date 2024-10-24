@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-23T03:41:32.654Z",
+	"timestamp": "2024-10-24T03:41:39.520Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.12
+			"chance": 15.12,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +68,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.99
+			"chance": 2.99,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

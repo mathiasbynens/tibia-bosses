@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-23T03:41:34.636Z",
+	"timestamp": "2024-10-24T03:41:41.742Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,6 +93,16 @@
 		},
 		{
 			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
 			"chance": 0,
 			"killed": true
 		}

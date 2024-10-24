@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-23T03:41:30.865Z",
+	"timestamp": "2024-10-24T03:41:37.968Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -17,7 +17,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.71
+			"chance": 25.71,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -30,7 +31,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.92
+			"chance": 11.92,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -118,6 +121,11 @@
 		},
 		{
 			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
 			"chance": 0,
 			"killed": true
 		}

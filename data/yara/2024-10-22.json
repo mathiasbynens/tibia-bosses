@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-23T03:41:36.429Z",
+	"timestamp": "2024-10-24T03:41:44.274Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.62
+			"chance": 39.62,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.14
+			"chance": 19.14,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -56,6 +59,16 @@
 		},
 		{
 			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
 			"chance": 0,
 			"killed": true
 		}

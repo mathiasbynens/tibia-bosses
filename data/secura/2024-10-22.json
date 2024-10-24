@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-23T03:41:35.289Z",
+	"timestamp": "2024-10-24T03:41:42.642Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -44,7 +44,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.26
+			"chance": 14.26,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -92,7 +93,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -125,6 +127,16 @@
 		},
 		{
 			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
 			"chance": 0,
 			"killed": true
 		}

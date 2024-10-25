@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-24T09:37:49.891Z",
+	"timestamp": "2024-10-25T03:42:16.793Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.23
+			"chance": 42.23,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.62
+			"chance": 37.62,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +78,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

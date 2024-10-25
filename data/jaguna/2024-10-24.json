@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-24T09:37:42.906Z",
+	"timestamp": "2024-10-25T03:42:15.798Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.96
+			"chance": 40.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.88
+			"chance": 40.88,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -108,6 +111,31 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

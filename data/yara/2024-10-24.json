@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-24T09:38:00.275Z",
+	"timestamp": "2024-10-25T03:42:18.649Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -52,6 +53,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 8.16
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

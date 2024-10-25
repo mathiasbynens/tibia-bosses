@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-10-24T09:37:57.026Z",
+	"timestamp": "2024-10-25T03:42:18.161Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 70.52
+			"chance": 70.52,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 70.09
+			"chance": 70.09,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 69.98
+			"chance": 69.98,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.51
+			"chance": 13.51,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -72,6 +76,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.07
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

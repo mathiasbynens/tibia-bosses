@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-24T09:37:39.395Z",
+	"timestamp": "2024-10-25T03:42:15.171Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 8.9
+			"chance": 8.9,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -80,6 +81,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

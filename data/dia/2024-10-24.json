@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-24T09:37:35.780Z",
+	"timestamp": "2024-10-25T03:42:14.653Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.88
+			"chance": 60.88,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.55
+			"chance": 39.55,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,15 +25,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +101,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.37
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

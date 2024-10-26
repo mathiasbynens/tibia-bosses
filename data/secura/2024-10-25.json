@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-25T09:37:57.953Z",
+	"timestamp": "2024-10-26T03:40:23.616Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.62
+			"chance": 39.62,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.4
+			"chance": 25.4,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.57
+			"chance": 18.57,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.56
+			"chance": 16.56,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.51
+			"chance": 13.51,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -107,7 +114,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -140,6 +148,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

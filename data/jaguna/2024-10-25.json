@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-25T09:37:47.323Z",
+	"timestamp": "2024-10-26T03:40:21.598Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -108,6 +108,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.11
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

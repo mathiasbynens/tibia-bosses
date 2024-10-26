@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-25T09:37:54.230Z",
+	"timestamp": "2024-10-26T03:40:22.781Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.75
+			"chance": 12.75,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

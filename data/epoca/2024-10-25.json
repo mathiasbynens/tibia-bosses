@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-25T09:37:43.046Z",
+	"timestamp": "2024-10-26T03:40:20.931Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.08
+			"chance": 65.08,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.73
+			"chance": 22.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.46
+			"chance": 17.46,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -84,6 +87,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

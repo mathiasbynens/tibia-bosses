@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-25T09:38:06.978Z",
+	"timestamp": "2024-10-26T03:40:25.036Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 37.26
+			"chance": 37.26,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -52,6 +53,11 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 9.69
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-25T09:38:02.830Z",
+	"timestamp": "2024-10-26T03:40:24.401Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.37
+			"chance": 16.37,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.57
+			"chance": 10.57,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -76,6 +79,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.68
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

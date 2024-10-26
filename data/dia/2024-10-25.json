@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-25T09:37:39.062Z",
+	"timestamp": "2024-10-26T03:40:20.305Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.33
+			"chance": 19.33,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 12
+			"chance": 12,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +127,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.65
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-10-26T09:36:20.827Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 27.61
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 27.22
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.83
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.66
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.16
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.65
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.45
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.19
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.56
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 16.03
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.17
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.54
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.26
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.25
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.16
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 7.98
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.92
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.74
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.99
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 5.98
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.2
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5
+		}
+	]
+}

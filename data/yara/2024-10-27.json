@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-10-27T09:36:44.800Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 63.95
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 61.75
+		},
+		{
+			"name": "Xenia",
+			"chance": 31.21
+		},
+		{
+			"name": "General Murius",
+			"chance": 28.96
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.06
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 16.99
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.58
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.88
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.87
+		}
+	]
+}

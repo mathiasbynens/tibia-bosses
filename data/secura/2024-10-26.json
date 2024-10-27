@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-26T09:36:20.827Z",
+	"timestamp": "2024-10-27T03:43:17.711Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -92,6 +95,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 5
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-26T09:36:27.181Z",
+	"timestamp": "2024-10-27T03:43:18.996Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.08
+			"chance": 81.08,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 65.11
+			"chance": 65.11,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

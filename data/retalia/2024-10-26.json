@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-26T09:36:17.147Z",
+	"timestamp": "2024-10-27T03:43:17.243Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -84,6 +85,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.64
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

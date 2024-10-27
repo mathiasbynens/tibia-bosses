@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-26T09:36:07.867Z",
+	"timestamp": "2024-10-27T03:43:15.425Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

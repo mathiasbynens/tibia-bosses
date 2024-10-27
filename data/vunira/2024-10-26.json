@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-26T09:36:24.060Z",
+	"timestamp": "2024-10-27T03:43:18.399Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -80,6 +80,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

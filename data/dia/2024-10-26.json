@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-26T09:36:04.659Z",
+	"timestamp": "2024-10-27T03:43:14.824Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.52
+			"chance": 14.52,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.42
+			"chance": 6.42,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

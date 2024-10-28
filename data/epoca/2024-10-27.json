@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-27T09:36:23.224Z",
+	"timestamp": "2024-10-28T03:44:05.100Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.84
+			"chance": 12.84,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

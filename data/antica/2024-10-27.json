@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-27T09:36:16.500Z",
+	"timestamp": "2024-10-28T03:44:03.170Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.2
+			"chance": 30.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,11 +93,27 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

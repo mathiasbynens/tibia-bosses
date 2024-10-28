@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-27T09:36:44.800Z",
+	"timestamp": "2024-10-28T03:44:09.963Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.95
+			"chance": 63.95,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -36,6 +38,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 11.87
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

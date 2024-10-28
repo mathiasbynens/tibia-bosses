@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-27T09:36:41.421Z",
+	"timestamp": "2024-10-28T03:44:09.185Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -115,7 +115,18 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.05
+			"chance": 4.05,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

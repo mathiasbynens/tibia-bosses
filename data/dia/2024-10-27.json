@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-27T09:36:19.872Z",
+	"timestamp": "2024-10-28T03:44:04.145Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.14
+			"chance": 28.14,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.85
+			"chance": 25.85,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.72
+			"chance": 17.72,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +116,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.34
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

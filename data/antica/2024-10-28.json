@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-28T09:38:12.488Z",
+	"timestamp": "2024-10-29T03:42:17.378Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.74
+			"chance": 79.74,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.23
+			"chance": 42.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.71
+			"chance": 25.71,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

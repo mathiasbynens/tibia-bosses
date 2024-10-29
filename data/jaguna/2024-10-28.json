@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-28T09:38:25.269Z",
+	"timestamp": "2024-10-29T03:42:19.270Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 21.26
+			"chance": 21.26,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -84,6 +85,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

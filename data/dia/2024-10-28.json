@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-28T09:38:17.216Z",
+	"timestamp": "2024-10-29T03:42:17.962Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.17
+			"chance": 36.17,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -83,11 +84,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.75
+			"chance": 9.75,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +115,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

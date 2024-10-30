@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-29T09:37:51.525Z",
+	"timestamp": "2024-10-30T03:42:23.430Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.27
+			"chance": 62.27,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.02
+			"chance": 22.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 17.8
+			"chance": 17.8,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 14.5
+			"chance": 14.5,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.78
+			"chance": 6.78,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.65
+			"chance": 6.65,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -124,6 +131,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

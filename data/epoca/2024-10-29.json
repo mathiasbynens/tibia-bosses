@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-29T09:37:57.973Z",
+	"timestamp": "2024-10-30T03:42:24.641Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.96
+			"chance": 63.96,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 59.69
+			"chance": 59.69,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -60,6 +65,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

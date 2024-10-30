@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-29T09:37:54.921Z",
+	"timestamp": "2024-10-30T03:42:24.085Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.77
+			"chance": 24.77,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,19 +46,23 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -116,6 +123,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

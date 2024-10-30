@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-10-30T09:37:53.760Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 52.81
+		},
+		{
+			"name": "Dracola",
+			"chance": 46.79
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 30.42
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.35
+		},
+		{
+			"name": "Shlorg",
+			"chance": 22.21
+		},
+		{
+			"name": "Omrafir",
+			"chance": 19.81
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.72
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.77
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.38
+		},
+		{
+			"name": "The Abomination",
+			"chance": 9.24
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.99
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 4.27
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.75
+		}
+	]
+}

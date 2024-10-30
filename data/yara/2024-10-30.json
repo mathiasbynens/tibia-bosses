@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-10-30T09:38:14.729Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 58.03
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.6
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 38.03
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.67
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.47
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.58
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.8
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19.11
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 19.1
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.61
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.71
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.23
+		}
+	]
+}

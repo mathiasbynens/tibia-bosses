@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-30T09:37:57.292Z",
+	"timestamp": "2024-10-31T03:43:00.468Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 66.55
+			"chance": 66.55,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.18
+			"chance": 64.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -104,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

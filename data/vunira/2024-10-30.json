@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-30T09:38:11.004Z",
+	"timestamp": "2024-10-31T03:43:04.234Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 35.68
+			"chance": 35.68,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.75
+			"chance": 28.75,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.09
+			"chance": 23.09,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.94
+			"chance": 20.94,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.43
+			"chance": 15.43,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +134,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.22
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

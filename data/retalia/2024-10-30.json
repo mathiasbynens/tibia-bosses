@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-30T09:38:03.609Z",
+	"timestamp": "2024-10-31T03:43:02.347Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 69.99
+			"chance": 69.99,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.24
+			"chance": 62.24,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-30T09:38:07.184Z",
+	"timestamp": "2024-10-31T03:43:03.267Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.52
+			"chance": 14.52,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -92,6 +96,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

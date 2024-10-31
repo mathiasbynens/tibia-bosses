@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-30T09:38:14.729Z",
+	"timestamp": "2024-10-31T03:43:05.172Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.6
+			"chance": 39.6,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.67
+			"chance": 37.67,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -51,11 +57,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

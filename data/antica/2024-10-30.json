@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-10-30T09:37:45.562Z",
+	"timestamp": "2024-10-31T03:42:58.147Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.12
+			"chance": 65.12,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.87
+			"chance": 41.87,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.59
+			"chance": 34.59,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.89
+			"chance": 30.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,15 +31,18 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 22.83
+			"chance": 22.83,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.51
+			"chance": 20.51,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

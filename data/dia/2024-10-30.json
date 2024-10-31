@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-30T09:37:49.123Z",
+	"timestamp": "2024-10-31T03:42:58.895Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.78
+			"chance": 61.78,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.1
+			"chance": 25.1,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.24
+			"chance": 4.24,
+			"killed": true
 		}
 	]
 }

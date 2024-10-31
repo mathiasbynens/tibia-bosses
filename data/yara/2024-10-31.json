@@ -1,0 +1,37 @@
+{
+	"timestamp": "2024-10-31T09:37:48.252Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.23
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.24
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.21
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.57
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.26
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.25
+		}
+	]
+}

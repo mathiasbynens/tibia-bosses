@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-10-31T09:37:45.143Z",
+	"timestamp": "2024-11-01T03:45:16.360Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.82
+			"chance": 79.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.52
+			"chance": 17.52,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.56
+			"chance": 13.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.84
+			"chance": 11.84,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +116,26 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

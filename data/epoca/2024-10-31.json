@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-31T09:37:29.948Z",
+	"timestamp": "2024-11-01T03:45:12.388Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -68,6 +69,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.94
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

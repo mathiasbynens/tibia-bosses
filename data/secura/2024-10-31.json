@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-10-31T09:37:42.031Z",
+	"timestamp": "2024-11-01T03:45:15.482Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.2
+			"chance": 26.2,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.08
+			"chance": 24.08,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.59
+			"chance": 20.59,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +115,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

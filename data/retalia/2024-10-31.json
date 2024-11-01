@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-31T09:37:38.647Z",
+	"timestamp": "2024-11-01T03:45:14.663Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.67
+			"chance": 37.67,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.42
+			"chance": 14.42,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.89
+			"chance": 11.89,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

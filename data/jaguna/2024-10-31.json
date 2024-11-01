@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-10-31T09:37:33.236Z",
+	"timestamp": "2024-11-01T03:45:13.093Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.4
+			"chance": 16.4,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 9.06
+			"chance": 9.06,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -120,6 +124,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.43
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

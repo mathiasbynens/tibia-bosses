@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-01T09:37:35.811Z",
+	"timestamp": "2024-11-02T03:41:05.173Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 14.58
+			"chance": 14.58,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.16
+			"chance": 13.16,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -116,6 +121,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-01T09:37:39.363Z",
+	"timestamp": "2024-11-02T03:41:06.088Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.27
+			"chance": 81.27,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.2
+			"chance": 33.2,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.85
+			"chance": 25.85,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.68
+			"chance": 21.68,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.84
+			"chance": 5.84,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +115,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.33
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

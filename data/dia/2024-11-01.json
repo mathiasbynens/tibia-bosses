@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-01T09:37:18.823Z",
+	"timestamp": "2024-11-02T03:41:00.043Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20
+			"chance": 20,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.89
+			"chance": 19.89,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -84,6 +86,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.29
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

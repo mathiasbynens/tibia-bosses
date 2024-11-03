@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-02T09:36:07.664Z",
+	"timestamp": "2024-11-03T03:43:20.646Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.82
+			"chance": 21.82,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -52,6 +53,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

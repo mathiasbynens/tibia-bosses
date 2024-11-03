@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-02T09:36:22.716Z",
+	"timestamp": "2024-11-03T03:43:23.448Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -80,6 +82,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.68
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

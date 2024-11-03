@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-02T09:36:16.996Z",
+	"timestamp": "2024-11-03T03:43:22.427Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.47
+			"chance": 36.47,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.14
+			"chance": 28.14,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.86
+			"chance": 25.86,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.11
+			"chance": 25.11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 20.53
+			"chance": 20.53,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.01
+			"chance": 14.01,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -120,6 +127,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

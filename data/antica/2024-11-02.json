@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-02T09:36:04.616Z",
+	"timestamp": "2024-11-03T03:43:20.136Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -96,6 +98,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.5
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

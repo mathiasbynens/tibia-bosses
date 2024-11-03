@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-02T09:36:13.789Z",
+	"timestamp": "2024-11-03T03:43:21.842Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.24
+			"chance": 42.24,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -68,6 +70,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.69
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

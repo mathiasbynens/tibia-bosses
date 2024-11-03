@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-02T09:36:10.736Z",
+	"timestamp": "2024-11-03T03:43:21.341Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.37
+			"chance": 81.37,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.75
+			"chance": 23.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 13.93
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.51
+			"chance": 12.51,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -92,6 +97,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.06
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

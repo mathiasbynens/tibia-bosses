@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-11-03T09:37:07.457Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81.07
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 44.51
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.92
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.06
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.78
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.84
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.47
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		}
+	]
+}

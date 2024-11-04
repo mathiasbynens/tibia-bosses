@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-03T09:37:04.009Z",
+	"timestamp": "2024-11-04T03:43:38.299Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.77
+			"chance": 18.77,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.73
+			"chance": 4.73,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

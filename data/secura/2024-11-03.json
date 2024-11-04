@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-03T09:37:00.532Z",
+	"timestamp": "2024-11-04T03:43:37.663Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 43.59
+			"chance": 43.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.8
+			"chance": 41.8,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 33.86
+			"chance": 33.86,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.61
+			"chance": 12.61,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 10.28
+			"chance": 10.28,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -95,7 +103,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.96
+			"chance": 8.96,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +129,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

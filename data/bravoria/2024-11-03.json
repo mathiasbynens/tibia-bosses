@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-03T09:36:41.089Z",
+	"timestamp": "2024-11-04T03:43:32.192Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -56,6 +57,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.24
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

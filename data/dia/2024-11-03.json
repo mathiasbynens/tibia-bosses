@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-03T09:36:44.385Z",
+	"timestamp": "2024-11-04T03:43:33.245Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.53
+			"chance": 46.53,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.16
+			"chance": 23.16,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.57
+			"chance": 10.57,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",

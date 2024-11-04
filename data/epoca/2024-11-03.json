@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-03T09:36:47.717Z",
+	"timestamp": "2024-11-04T03:43:34.470Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.12
+			"chance": 16.12,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -72,6 +74,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.66
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

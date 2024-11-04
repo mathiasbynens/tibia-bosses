@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-03T09:37:07.457Z",
+	"timestamp": "2024-11-04T03:43:38.869Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.07
+			"chance": 81.07,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 44.51
+			"chance": 44.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.92
+			"chance": 30.92,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -36,6 +39,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.47
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

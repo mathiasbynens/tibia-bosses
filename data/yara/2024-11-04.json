@@ -1,0 +1,41 @@
+{
+	"timestamp": "2024-11-04T09:38:46.466Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.52
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.64
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.55
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.3
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.18
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.83
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.76
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.53
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5
+		}
+	]
+}

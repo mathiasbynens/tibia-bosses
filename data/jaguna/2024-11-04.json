@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-04T09:38:30.449Z",
+	"timestamp": "2024-11-05T03:40:26.764Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.73
+			"chance": 26.73,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.64
+			"chance": 7.64,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +78,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.29
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

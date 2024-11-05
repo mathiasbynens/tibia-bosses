@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-04T09:38:27.262Z",
+	"timestamp": "2024-11-05T03:40:26.149Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.26
+			"chance": 62.26,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 42.2
+			"chance": 42.2,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -72,6 +75,11 @@
 		{
 			"name": "White Pale",
 			"chance": 7.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

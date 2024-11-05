@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-04T09:38:24.000Z",
+	"timestamp": "2024-11-05T03:40:25.608Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.87
+			"chance": 39.87,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.05
+			"chance": 24.05,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -92,6 +96,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.03
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

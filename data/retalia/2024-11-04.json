@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-04T09:38:36.262Z",
+	"timestamp": "2024-11-05T03:40:27.873Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 42.29
+			"chance": 42.29,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.56
+			"chance": 20.56,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -80,6 +82,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.24
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

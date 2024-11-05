@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-04T09:38:46.466Z",
+	"timestamp": "2024-11-05T03:40:29.504Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.64
+			"chance": 21.64,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -36,6 +37,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

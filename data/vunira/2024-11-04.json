@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-04T09:38:43.233Z",
+	"timestamp": "2024-11-05T03:40:28.991Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.21
+			"chance": 29.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.81
+			"chance": 20.81,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.69
+			"chance": 8.69,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +118,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

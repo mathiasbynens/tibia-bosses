@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-11-06T09:39:08.282Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.7
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.12
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.84
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.59
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.46
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.44
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.77
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.43
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.42
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.18
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.32
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.74
+		}
+	]
+}

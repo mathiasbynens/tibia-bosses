@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-11-06T09:38:36.805Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.28
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.32
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 30.94
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.26
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.36
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.53
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.46
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.81
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.66
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.31
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.62
+		}
+	]
+}

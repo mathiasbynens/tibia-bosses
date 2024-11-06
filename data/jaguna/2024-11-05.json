@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-05T09:37:13.049Z",
+	"timestamp": "2024-11-06T03:40:15.394Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.95
+			"chance": 60.95,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.04
+			"chance": 23.04,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -80,6 +82,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.97
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-05T09:37:18.681Z",
+	"timestamp": "2024-11-06T03:40:16.408Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -84,6 +85,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

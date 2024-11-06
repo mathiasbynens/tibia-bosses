@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-05T09:37:02.090Z",
+	"timestamp": "2024-11-06T03:40:13.529Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -48,6 +49,16 @@
 		{
 			"name": "Big Boss Trolliver",
 			"chance": 8.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

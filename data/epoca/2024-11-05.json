@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-05T09:37:09.729Z",
+	"timestamp": "2024-11-06T03:40:14.833Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "yeti",

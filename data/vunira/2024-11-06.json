@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-06T09:39:04.598Z",
+	"timestamp": "2024-11-07T03:41:41.290Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.51
+			"chance": 66.51,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.32
+			"chance": 53.32,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 27.56
+			"chance": 27.56,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.13
+			"chance": 13.13,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +116,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-06T09:38:49.117Z",
+	"timestamp": "2024-11-07T03:41:38.825Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 26.16
+			"chance": 26.16,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.99
+			"chance": 20.99,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -76,6 +78,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

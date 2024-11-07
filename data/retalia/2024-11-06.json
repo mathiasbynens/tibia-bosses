@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-06T09:38:56.198Z",
+	"timestamp": "2024-11-07T03:41:39.844Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.87
+			"chance": 39.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.64
+			"chance": 39.64,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 25.31
+			"chance": 25.31,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -100,6 +104,21 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

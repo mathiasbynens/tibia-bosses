@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-06T09:38:45.478Z",
+	"timestamp": "2024-11-07T03:41:38.239Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.94
+			"chance": 30.94,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -67,7 +69,18 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.37
+			"chance": 6.37,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

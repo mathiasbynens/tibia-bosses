@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-06T09:38:33.463Z",
+	"timestamp": "2024-11-07T03:41:33.963Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.06
+			"chance": 36.06,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 33.89
+			"chance": 33.89,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.35
+			"chance": 31.35,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -120,6 +125,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

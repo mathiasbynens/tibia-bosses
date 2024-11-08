@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-07T09:36:57.726Z",
+	"timestamp": "2024-11-08T03:40:44.839Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 58.81
+			"chance": 58.81,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 44.92
+			"chance": 44.92,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.27
+			"chance": 42.27,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.76
+			"chance": 9.76,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 7.33
+			"chance": 7.33,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -127,11 +132,42 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.79
+			"chance": 4.79,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

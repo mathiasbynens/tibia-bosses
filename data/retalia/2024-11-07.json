@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-07T09:37:08.925Z",
+	"timestamp": "2024-11-08T03:40:47.221Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.24
+			"chance": 22.24,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -92,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

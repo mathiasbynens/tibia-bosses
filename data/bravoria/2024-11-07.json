@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-07T09:36:54.565Z",
+	"timestamp": "2024-11-08T03:40:44.245Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -60,6 +60,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

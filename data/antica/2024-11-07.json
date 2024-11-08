@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-07T09:36:52.129Z",
+	"timestamp": "2024-11-08T03:40:43.573Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.84
+			"chance": 79.84,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 60.44
+			"chance": 60.44,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 40.74
+			"chance": 40.74,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.99
+			"chance": 31.99,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.94
+			"chance": 30.94,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.64
+			"chance": 21.64,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.94
+			"chance": 19.94,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +83,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.71
+			"chance": 13.71,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +133,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

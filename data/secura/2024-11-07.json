@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-07T09:37:12.080Z",
+	"timestamp": "2024-11-08T03:40:48.072Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.28
+			"chance": 53.28,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.66
+			"chance": 35.66,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.93
+			"chance": 12.93,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -76,6 +80,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.31
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

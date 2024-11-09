@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-11-09T09:36:22.192Z",
+	"bosses": [
+		{
+			"name": "Xenia",
+			"chance": 44.86
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.26
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 29.71
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.61
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.27
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.09
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.57
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.41
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.51
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.56
+		},
+		{
+			"name": "yeti",
+			"chance": 14.11
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.82
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.77
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.74
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.59
+		},
+		{
+			"name": "Dracola",
+			"chance": 6.82
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.98
+		}
+	]
+}

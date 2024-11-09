@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-08T09:36:59.032Z",
+	"timestamp": "2024-11-09T03:40:09.653Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 67.56
+			"chance": 67.56,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.65
+			"chance": 21.65,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

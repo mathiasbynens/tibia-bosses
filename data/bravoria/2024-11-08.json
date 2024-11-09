@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-08T09:36:50.016Z",
+	"timestamp": "2024-11-09T03:40:07.658Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.8
+			"chance": 33.8,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,11 +61,32 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 6.09
+			"chance": 6.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

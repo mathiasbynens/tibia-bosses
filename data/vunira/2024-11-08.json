@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-08T09:37:10.560Z",
+	"timestamp": "2024-11-09T03:40:12.399Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 47.07
+			"chance": 47.07,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.61
+			"chance": 28.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.26
+			"chance": 11.26,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.71
+			"chance": 7.71,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -116,6 +122,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

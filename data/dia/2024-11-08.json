@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-08T09:36:53.092Z",
+	"timestamp": "2024-11-09T03:40:08.385Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.97
+			"chance": 60.97,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.2
+			"chance": 18.2,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -120,6 +122,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.45
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

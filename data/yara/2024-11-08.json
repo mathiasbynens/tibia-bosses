@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-08T09:37:13.685Z",
+	"timestamp": "2024-11-09T03:40:16.875Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.27
+			"chance": 42.27,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -60,6 +61,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

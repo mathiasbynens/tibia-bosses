@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-08T09:37:04.375Z",
+	"timestamp": "2024-11-09T03:40:10.787Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.97
+			"chance": 60.97,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.27
+			"chance": 42.27,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

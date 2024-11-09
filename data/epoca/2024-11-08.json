@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-08T09:36:56.047Z",
+	"timestamp": "2024-11-09T03:40:09.001Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 29.96
+			"chance": 29.96,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.2
+			"chance": 21.2,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -64,6 +66,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.65
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

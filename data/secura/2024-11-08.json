@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-08T09:37:07.420Z",
+	"timestamp": "2024-11-09T03:40:11.661Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.12
+			"chance": 20.12,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.83
+			"chance": 12.83,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.55
+			"chance": 11.55,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -92,6 +95,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.72
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

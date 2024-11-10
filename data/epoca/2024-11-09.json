@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-09T09:36:13.376Z",
+	"timestamp": "2024-11-10T03:40:42.064Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.33
+			"chance": 11.33,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

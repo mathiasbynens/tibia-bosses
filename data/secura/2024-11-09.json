@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-09T09:36:25.236Z",
+	"timestamp": "2024-11-10T03:40:44.771Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.96
+			"chance": 25.96,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.82
+			"chance": 21.82,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.28
+			"chance": 9.28,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.72
+			"chance": 5.72,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -91,7 +96,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.22
+			"chance": 3.22,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

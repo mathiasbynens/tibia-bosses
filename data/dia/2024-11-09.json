@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-09T09:36:10.444Z",
+	"timestamp": "2024-11-10T03:40:41.487Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 26.17
+			"chance": 26.17,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.15
+			"chance": 18.15,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -128,6 +132,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

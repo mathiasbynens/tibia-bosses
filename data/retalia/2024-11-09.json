@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-09T09:36:22.192Z",
+	"timestamp": "2024-11-10T03:40:44.129Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -51,11 +51,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.77
+			"chance": 10.77,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -72,6 +74,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

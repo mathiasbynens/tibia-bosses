@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-09T09:36:04.177Z",
+	"timestamp": "2024-11-10T03:40:39.832Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.82
+			"chance": 21.82,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.61
+			"chance": 16.61,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -55,11 +61,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.47
+			"chance": 11.47,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -92,6 +100,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.65
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

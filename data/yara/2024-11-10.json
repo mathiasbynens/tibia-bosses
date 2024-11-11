@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-10T09:36:22.044Z",
+	"timestamp": "2024-11-11T03:41:21.359Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -56,6 +57,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

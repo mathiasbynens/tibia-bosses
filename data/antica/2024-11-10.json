@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-10T09:35:55.443Z",
+	"timestamp": "2024-11-11T03:41:13.859Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -76,6 +78,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

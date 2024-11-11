@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-10T09:36:03.976Z",
+	"timestamp": "2024-11-11T03:41:16.224Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -64,6 +64,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

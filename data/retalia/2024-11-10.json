@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-10T09:36:13.124Z",
+	"timestamp": "2024-11-11T03:41:18.500Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 42.91
+			"chance": 42.91,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 22.96
+			"chance": 22.96,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.44
+			"chance": 8.44,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -68,6 +72,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.67
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

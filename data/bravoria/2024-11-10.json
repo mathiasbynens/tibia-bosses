@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-10T09:35:58.236Z",
+	"timestamp": "2024-11-11T03:41:14.622Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 21.31
+			"chance": 21.31,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -80,6 +81,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

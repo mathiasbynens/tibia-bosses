@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-11-11T09:37:47.437Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.63
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.7
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.85
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 18.54
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 15.59
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.41
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.71
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.69
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.37
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.94
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.57
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.43
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.13
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.71
+		}
+	]
+}

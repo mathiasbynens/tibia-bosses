@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-11T09:37:57.582Z",
+	"timestamp": "2024-11-12T03:39:52.670Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.08
+			"chance": 11.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -60,6 +63,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

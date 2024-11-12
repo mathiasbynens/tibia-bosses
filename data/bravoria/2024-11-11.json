@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-11T09:37:39.917Z",
+	"timestamp": "2024-11-12T03:39:47.241Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.06
+			"chance": 70.06,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -84,6 +86,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.05
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

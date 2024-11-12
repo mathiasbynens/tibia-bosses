@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-11T09:38:01.301Z",
+	"timestamp": "2024-11-12T03:39:57.163Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.89
+			"chance": 39.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.63
+			"chance": 16.63,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -80,6 +84,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.07
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

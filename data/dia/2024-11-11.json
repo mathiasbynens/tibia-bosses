@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-11T09:37:43.893Z",
+	"timestamp": "2024-11-12T03:39:49.403Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.95
+			"chance": 21.95,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.24
+			"chance": 7.24,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

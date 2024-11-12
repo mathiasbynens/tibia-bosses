@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-11T09:37:36.545Z",
+	"timestamp": "2024-11-12T03:39:43.476Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.5
+			"chance": 22.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.54
+			"chance": 16.54,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -84,6 +90,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.18
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

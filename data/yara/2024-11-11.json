@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-11T09:38:09.141Z",
+	"timestamp": "2024-11-12T03:40:05.853Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -52,6 +52,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

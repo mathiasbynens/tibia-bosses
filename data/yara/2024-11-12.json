@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-11-12T09:37:52.192Z",
+	"bosses": [
+		{
+			"name": "Ocyakao",
+			"chance": 67.21
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.27
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 43.65
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 37.87
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.26
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.78
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.39
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.78
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.27
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.74
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.95
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.41
+		}
+	]
+}

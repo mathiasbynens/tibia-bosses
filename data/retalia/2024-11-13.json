@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-11-13T09:37:37.910Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "yeti",
+			"chance": 37.72
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 28.33
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 26.8
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.28
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.47
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.62
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.08
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 15.55
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.96
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.18
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.01
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.47
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.45
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.72
+		}
+	]
+}

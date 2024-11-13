@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-11-13T09:37:47.662Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 33.88
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.2
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.12
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 18.17
+		},
+		{
+			"name": "Xenia",
+			"chance": 17.89
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.96
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.66
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.54
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.69
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.87
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.47
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.69
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2024-11-13T09:37:20.522Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.13
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 33.84
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.39
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.8
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.62
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 18.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.64
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.4
+		},
+		{
+			"name": "yeti",
+			"chance": 14.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.69
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.54
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.54
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.48
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.31
+		},
+		{
+			"name": "General Murius",
+			"chance": 11.82
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.56
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.08
+		},
+		{
+			"name": "Omrafir",
+			"chance": 9
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.72
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.49
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.53
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 6.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.51
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.94
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.04
+		}
+	]
+}

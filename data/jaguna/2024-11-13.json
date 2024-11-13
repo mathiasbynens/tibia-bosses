@@ -1,0 +1,85 @@
+{
+	"timestamp": "2024-11-13T09:37:32.598Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61
+		},
+		{
+			"name": "yeti",
+			"chance": 37.72
+		},
+		{
+			"name": "Barbaria",
+			"chance": 35.7
+		},
+		{
+			"name": "General Murius",
+			"chance": 29.02
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 27.42
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.72
+		},
+		{
+			"name": "Massacre",
+			"chance": 25.71
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.08
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.84
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.37
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.82
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.55
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.46
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.52
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 11.19
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.4
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.16
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.6
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.99
+		}
+	]
+}

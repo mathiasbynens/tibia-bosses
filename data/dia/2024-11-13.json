@@ -1,0 +1,109 @@
+{
+	"timestamp": "2024-11-13T09:37:26.546Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 39.84
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 34.81
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 28.75
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.09
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 26.02
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.08
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.06
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.89
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 19.12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19.12
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.47
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.48
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.01
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.25
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.16
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.25
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.87
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.29
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.73
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.98
+		}
+	]
+}

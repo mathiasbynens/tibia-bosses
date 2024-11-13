@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-12T09:37:44.129Z",
+	"timestamp": "2024-11-13T03:41:00.871Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.29
+			"chance": 19.29,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.43
+			"chance": 14.43,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.07
+			"chance": 9.07,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -104,6 +109,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

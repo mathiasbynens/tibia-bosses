@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-12T09:37:25.097Z",
+	"timestamp": "2024-11-13T03:40:58.159Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.37
+			"chance": 81.37,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 65.04
+			"chance": 65.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.51
+			"chance": 46.51,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.85
+			"chance": 41.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.91
+			"chance": 39.91,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,11 +82,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +100,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.6
+			"chance": 7.6,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -132,6 +142,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

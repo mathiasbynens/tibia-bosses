@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-12T09:37:48.517Z",
+	"timestamp": "2024-11-13T03:41:01.966Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.06
+			"chance": 70.06,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.13
+			"chance": 54.13,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 25.83
+			"chance": 25.83,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.59
+			"chance": 15.59,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.93
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.21
+			"chance": 13.21,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.47
+			"chance": 11.47,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +120,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

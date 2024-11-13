@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-12T09:37:29.552Z",
+	"timestamp": "2024-11-13T03:40:58.659Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,15 +27,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.62
+			"chance": 15.62,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.14
+			"chance": 10.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +80,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

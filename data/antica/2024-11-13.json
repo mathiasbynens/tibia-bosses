@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-13T09:37:20.522Z",
+	"timestamp": "2024-11-14T03:41:36.249Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.13
+			"chance": 36.13,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.8
+			"chance": 20.8,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.07
+			"chance": 14.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.49
+			"chance": 7.49,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -108,6 +115,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.04
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

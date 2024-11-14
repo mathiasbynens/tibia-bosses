@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-13T09:37:23.682Z",
+	"timestamp": "2024-11-14T03:41:36.808Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.98
+			"chance": 63.98,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -84,6 +88,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

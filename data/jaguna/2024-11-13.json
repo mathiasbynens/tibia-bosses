@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-13T09:37:32.598Z",
+	"timestamp": "2024-11-14T03:41:38.753Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61
+			"chance": 61,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.72
+			"chance": 25.72,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -80,6 +84,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

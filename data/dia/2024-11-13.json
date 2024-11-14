@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-13T09:37:26.546Z",
+	"timestamp": "2024-11-14T03:41:37.569Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 28.75
+			"chance": 28.75,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

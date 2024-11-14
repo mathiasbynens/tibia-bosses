@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-11-14T09:37:58.605Z",
+	"bosses": [
+		{
+			"name": "Dracola",
+			"chance": 31.28
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "yeti",
+			"chance": 28.4
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.08
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.44
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.13
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.42
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.59
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.48
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.99
+		}
+	]
+}

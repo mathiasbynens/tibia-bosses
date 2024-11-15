@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-14T09:37:37.437Z",
+	"timestamp": "2024-11-15T03:44:40.378Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -23,15 +23,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -103,7 +106,18 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.89
+			"chance": 3.89,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

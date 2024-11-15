@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-14T09:38:09.770Z",
+	"timestamp": "2024-11-15T03:44:45.558Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -60,6 +61,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

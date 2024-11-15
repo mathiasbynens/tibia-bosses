@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-14T09:38:06.041Z",
+	"timestamp": "2024-11-15T03:44:45.060Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.19
+			"chance": 12.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.59
+			"chance": 8.59,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

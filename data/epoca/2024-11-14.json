@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-14T09:37:48.253Z",
+	"timestamp": "2024-11-15T03:44:42.176Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 29.58
+			"chance": 29.58,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.62
+			"chance": 27.62,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -92,6 +95,11 @@
 		{
 			"name": "Captain Jones",
 			"chance": 5.41
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

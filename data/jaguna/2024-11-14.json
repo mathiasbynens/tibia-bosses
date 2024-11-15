@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-14T09:37:52.069Z",
+	"timestamp": "2024-11-15T03:44:42.718Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.49
+			"chance": 11.49,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +81,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.47
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

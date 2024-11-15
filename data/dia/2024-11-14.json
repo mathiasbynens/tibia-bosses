@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-14T09:37:44.570Z",
+	"timestamp": "2024-11-15T03:44:41.580Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 19.63
+			"chance": 19.63,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -100,6 +102,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

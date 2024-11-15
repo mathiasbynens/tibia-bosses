@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-14T09:37:40.777Z",
+	"timestamp": "2024-11-15T03:44:40.884Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.45
+			"chance": 81.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.23
+			"chance": 62.23,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.63
+			"chance": 18.63,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -72,6 +75,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.89
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

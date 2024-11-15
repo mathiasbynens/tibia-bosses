@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-11-15T09:37:55.664Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 58.33
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 32.64
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.17
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19.13
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 19.12
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.46
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 17.41
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.26
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.76
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.97
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.19
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.75
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.04
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.36
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.43
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.79
+		}
+	]
+}

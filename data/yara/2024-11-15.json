@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-15T09:38:18.596Z",
+	"timestamp": "2024-11-16T03:43:49.398Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -64,6 +65,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

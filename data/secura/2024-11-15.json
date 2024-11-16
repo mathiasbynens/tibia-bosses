@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-15T09:38:12.861Z",
+	"timestamp": "2024-11-16T03:43:48.180Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.78
+			"chance": 24.78,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.29
+			"chance": 23.29,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,15 +95,37 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.68
+			"chance": 3.68,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.4
+			"chance": 3.4,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.78
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-15T09:37:55.664Z",
+	"timestamp": "2024-11-16T03:43:44.656Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -68,6 +68,26 @@
 		{
 			"name": "Xenia",
 			"chance": 5.79
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

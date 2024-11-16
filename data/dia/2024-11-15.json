@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-15T09:37:58.652Z",
+	"timestamp": "2024-11-16T03:43:45.267Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.07
+			"chance": 34.07,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.66
+			"chance": 18.66,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -92,6 +95,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

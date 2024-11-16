@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-15T09:38:04.596Z",
+	"timestamp": "2024-11-16T03:43:46.542Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 32.4
+			"chance": 32.4,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +113,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.4
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

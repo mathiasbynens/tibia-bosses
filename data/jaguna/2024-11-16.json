@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-16T09:36:33.826Z",
+	"timestamp": "2024-11-17T03:45:18.432Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.37
+			"chance": 16.37,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -116,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

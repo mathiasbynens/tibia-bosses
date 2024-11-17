@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-16T09:36:50.502Z",
+	"timestamp": "2024-11-17T03:45:22.977Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -88,6 +88,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.28
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

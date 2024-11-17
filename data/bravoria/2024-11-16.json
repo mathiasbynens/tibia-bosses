@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-16T09:36:23.567Z",
+	"timestamp": "2024-11-17T03:45:14.146Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.1
+			"chance": 23.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -80,6 +81,16 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 6.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

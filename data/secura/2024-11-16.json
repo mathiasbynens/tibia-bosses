@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-11-16T09:36:42.686Z",
+	"timestamp": "2024-11-17T03:45:21.032Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.84
+			"chance": 41.84,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.91
+			"chance": 10.91,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.96
+			"chance": 6.96,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

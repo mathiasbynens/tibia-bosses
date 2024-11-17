@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-16T09:36:27.254Z",
+	"timestamp": "2024-11-17T03:45:16.583Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.79
+			"chance": 24.79,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.48
+			"chance": 16.48,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.43
+			"chance": 14.43,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 11.62
+			"chance": 11.62,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

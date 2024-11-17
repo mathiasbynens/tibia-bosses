@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-16T09:36:46.678Z",
+	"timestamp": "2024-11-17T03:45:22.108Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.21
+			"chance": 62.21,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.46
+			"chance": 16.46,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.78
+			"chance": 15.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

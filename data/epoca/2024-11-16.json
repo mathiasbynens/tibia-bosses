@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-16T09:36:30.597Z",
+	"timestamp": "2024-11-17T03:45:17.458Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.87
+			"chance": 19.87,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -64,6 +66,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 8.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

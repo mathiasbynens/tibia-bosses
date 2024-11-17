@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-16T09:36:20.407Z",
+	"timestamp": "2024-11-17T03:45:12.069Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.29
+			"chance": 42.29,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -92,6 +94,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.04
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-17T09:38:11.944Z",
+	"timestamp": "2024-11-18T03:45:33.313Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.97
+			"chance": 19.97,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,11 +64,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 11.89
+			"chance": 11.89,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 11.88
+			"chance": 11.88,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.74
+			"chance": 8.74,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +116,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

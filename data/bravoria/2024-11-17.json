@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-17T09:37:50.627Z",
+	"timestamp": "2024-11-18T03:45:27.606Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.74
+			"chance": 13.74,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +93,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

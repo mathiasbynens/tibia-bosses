@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-17T09:38:15.037Z",
+	"timestamp": "2024-11-18T03:45:34.170Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.47
+			"chance": 81.47,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +90,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.96
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

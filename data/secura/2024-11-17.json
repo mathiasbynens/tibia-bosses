@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-17T09:38:09.125Z",
+	"timestamp": "2024-11-18T03:45:32.255Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.12
+			"chance": 31.12,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.08
+			"chance": 27.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.18
+			"chance": 24.18,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,11 +44,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.48
+			"chance": 17.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,11 +74,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8
+			"chance": 8,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

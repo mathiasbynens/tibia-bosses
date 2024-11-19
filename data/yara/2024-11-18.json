@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-18T09:39:44.604Z",
+	"timestamp": "2024-11-19T03:45:39.641Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.04
+			"chance": 64.04,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.62
+			"chance": 38.62,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.16
+			"chance": 22.16,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.86
+			"chance": 18.86,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

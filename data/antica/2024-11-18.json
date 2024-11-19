@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-18T09:39:16.616Z",
+	"timestamp": "2024-11-19T03:45:33.708Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 40.85
+			"chance": 40.85,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.84
+			"chance": 31.84,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.86
+			"chance": 11.86,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -136,6 +142,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.4
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

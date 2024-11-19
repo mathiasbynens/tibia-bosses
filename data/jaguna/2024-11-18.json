@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-18T09:39:29.204Z",
+	"timestamp": "2024-11-19T03:45:36.552Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.07
+			"chance": 28.07,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -112,6 +114,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.26
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

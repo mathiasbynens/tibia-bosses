@@ -1,0 +1,85 @@
+{
+	"timestamp": "2024-11-20T09:38:18.289Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81.05
+		},
+		{
+			"name": "Zomba",
+			"chance": 79.19
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 64.03
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 41.89
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 35.12
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 24.68
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.19
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.66
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.92
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.06
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.75
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.51
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.79
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.74
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.62
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.51
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.94
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.37
+		},
+		{
+			"name": "The Abomination",
+			"chance": 2.27
+		}
+	]
+}

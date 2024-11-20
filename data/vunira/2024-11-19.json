@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-19T09:38:40.130Z",
+	"timestamp": "2024-11-20T03:44:58.645Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.76
+			"chance": 37.76,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.86
+			"chance": 33.86,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.67
+			"chance": 21.67,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.85
+			"chance": 12.85,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +122,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-19T09:38:12.513Z",
+	"timestamp": "2024-11-20T03:44:53.490Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.88
+			"chance": 41.88,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.7
+			"chance": 35.7,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.32
+			"chance": 23.32,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 19.82
+			"chance": 19.82,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.31
+			"chance": 18.31,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -124,6 +131,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

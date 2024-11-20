@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-19T09:38:36.558Z",
+	"timestamp": "2024-11-20T03:44:57.862Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.05
+			"chance": 70.05,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.89
+			"chance": 39.89,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.7
+			"chance": 23.7,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.42
+			"chance": 16.42,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.78
+			"chance": 11.78,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -124,6 +130,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.17
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-19T09:38:27.694Z",
+	"timestamp": "2024-11-20T03:44:56.105Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.18
+			"chance": 24.18,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.31
+			"chance": 23.31,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.18
+			"chance": 12.18,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -119,7 +123,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.61
+			"chance": 6.61,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

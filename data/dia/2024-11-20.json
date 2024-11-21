@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-20T09:38:08.043Z",
+	"timestamp": "2024-11-21T03:44:45.737Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 37.67
+			"chance": 37.67,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -108,6 +110,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.72
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

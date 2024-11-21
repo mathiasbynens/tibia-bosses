@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-20T09:38:02.741Z",
+	"timestamp": "2024-11-21T03:44:44.452Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.21
+			"chance": 25.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.19
+			"chance": 24.19,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.58
+			"chance": 11.58,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.04
+			"chance": 10.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

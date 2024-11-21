@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-20T09:38:26.444Z",
+	"timestamp": "2024-11-21T03:44:49.499Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.25
+			"chance": 62.25,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.76
+			"chance": 37.76,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -72,6 +75,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.4
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

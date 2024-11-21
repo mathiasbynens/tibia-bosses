@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-11-21T09:38:15.736Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 76
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 66.82
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.84
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.61
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 27.13
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 24.82
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.77
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.07
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.22
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.31
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.27
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 17.01
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.28
+		}
+	]
+}

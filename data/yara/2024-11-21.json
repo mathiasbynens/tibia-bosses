@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-21T09:38:32.088Z",
+	"timestamp": "2024-11-22T03:45:09.049Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.84
+			"chance": 31.84,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.07
+			"chance": 23.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -68,6 +72,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

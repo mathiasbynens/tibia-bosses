@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-21T09:38:07.364Z",
+	"timestamp": "2024-11-22T03:45:03.327Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.32
+			"chance": 53.32,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.86
+			"chance": 28.86,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.7
+			"chance": 25.7,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.65
+			"chance": 25.65,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 16.22
+			"chance": 16.22,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.12
+			"chance": 7.12,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -120,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-11-21T09:38:26.533Z",
+	"timestamp": "2024-11-22T03:45:07.831Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.96
+			"chance": 60.96,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.74
+			"chance": 35.74,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.29
+			"chance": 31.29,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.16
+			"chance": 26.16,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.64
+			"chance": 16.64,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.48
+			"chance": 16.48,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 9.03
+			"chance": 9.03,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.89
+			"chance": 3.89,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -112,6 +121,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-21T09:38:10.128Z",
+	"timestamp": "2024-11-22T03:45:03.955Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.79
+			"chance": 16.79,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.74
+			"chance": 7.74,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -68,6 +70,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.34
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

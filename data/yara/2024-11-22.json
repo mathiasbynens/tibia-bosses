@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-11-22T09:38:34.214Z",
+	"bosses": [
+		{
+			"name": "Shlorg",
+			"chance": 37.95
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.42
+		},
+		{
+			"name": "Xenia",
+			"chance": 24.22
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.95
+		},
+		{
+			"name": "Zushuka",
+			"chance": 14.75
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.03
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.84
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.71
+		},
+		{
+			"name": "General Murius",
+			"chance": 11.82
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.43
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.44
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.25
+		}
+	]
+}

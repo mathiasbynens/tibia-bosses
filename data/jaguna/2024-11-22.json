@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-22T09:38:19.670Z",
+	"timestamp": "2024-11-23T03:43:22.123Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
-			"chance": 60.09
+			"chance": 60.09,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.49
+			"chance": 13.49,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +102,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.53
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-22T09:38:31.373Z",
+	"timestamp": "2024-11-23T03:43:24.644Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.91
+			"chance": 33.91,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -96,6 +97,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.98
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

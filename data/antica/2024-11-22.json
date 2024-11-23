@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-22T09:38:04.913Z",
+	"timestamp": "2024-11-23T03:43:19.612Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.99
+			"chance": 63.99,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.98
+			"chance": 60.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 42.24
+			"chance": 42.24,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.55
+			"chance": 12.55,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.01
+			"chance": 8.01,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-22T09:38:34.214Z",
+	"timestamp": "2024-11-23T03:43:25.249Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 37.95
+			"chance": 37.95,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.42
+			"chance": 24.42,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -56,6 +59,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.25
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

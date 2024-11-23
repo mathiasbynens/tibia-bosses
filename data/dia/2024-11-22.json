@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-22T09:38:10.334Z",
+	"timestamp": "2024-11-23T03:43:20.850Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.98
+			"chance": 60.98,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.19
+			"chance": 24.19,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.19
+			"chance": 7.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

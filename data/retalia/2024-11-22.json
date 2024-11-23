@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-22T09:38:25.714Z",
+	"timestamp": "2024-11-23T03:43:23.398Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -68,6 +68,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.35
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-11-23T09:36:34.155Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.28
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.62
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.19
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.96
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.32
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.52
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.66
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.17
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.78
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.11
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.48
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.19
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.74
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.46
+		}
+	]
+}

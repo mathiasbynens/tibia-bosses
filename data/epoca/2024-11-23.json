@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-11-23T09:36:26.387Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 61.84
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 45.17
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 35.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.13
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 28.98
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.49
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.3
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.64
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.59
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.42
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.08
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.12
+		}
+	]
+}

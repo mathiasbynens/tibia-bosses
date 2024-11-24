@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-23T09:36:29.379Z",
+	"timestamp": "2024-11-24T03:45:15.570Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 25.87
+			"chance": 25.87,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.65
+			"chance": 16.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -116,6 +119,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.41
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

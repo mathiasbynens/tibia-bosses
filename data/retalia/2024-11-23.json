@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-23T09:36:34.155Z",
+	"timestamp": "2024-11-24T03:45:17.003Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -72,6 +74,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.46
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

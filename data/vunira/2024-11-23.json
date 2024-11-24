@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-23T09:36:41.169Z",
+	"timestamp": "2024-11-24T03:45:18.868Z",
 	"bosses": [
 		{
 			"name": "Xenia",
-			"chance": 27.07
+			"chance": 27.07,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

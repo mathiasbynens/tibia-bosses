@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-23T09:36:23.583Z",
+	"timestamp": "2024-11-24T03:45:14.170Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -96,6 +98,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

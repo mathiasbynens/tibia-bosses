@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-11-23T09:36:37.115Z",
+	"timestamp": "2024-11-24T03:45:17.842Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 40.94
+			"chance": 40.94,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.3
+			"chance": 30.3,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.11
+			"chance": 30.11,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.5
+			"chance": 13.5,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.64
+			"chance": 6.64,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -100,6 +106,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

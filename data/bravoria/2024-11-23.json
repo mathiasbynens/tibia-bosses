@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-23T09:36:20.796Z",
+	"timestamp": "2024-11-24T03:45:13.434Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.84
+			"chance": 79.84,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.07
+			"chance": 65.07,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -72,6 +74,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

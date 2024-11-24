@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-23T09:36:26.387Z",
+	"timestamp": "2024-11-24T03:45:14.867Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -56,6 +56,11 @@
 		{
 			"name": "The Welter",
 			"chance": 8.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

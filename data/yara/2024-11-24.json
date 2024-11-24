@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-11-24T09:36:39.249Z",
+	"bosses": [
+		{
+			"name": "Xenia",
+			"chance": 31.12
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.59
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.06
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 22.12
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.79
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.63
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 17.02
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 15
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.42
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.12
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.07
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.14
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.14
+		}
+	]
+}

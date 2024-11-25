@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-11-25T09:38:38.243Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 42.56
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 25.96
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.52
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.98
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.67
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.85
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.74
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.63
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.38
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		}
+	]
+}

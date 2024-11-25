@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-11-25T09:38:53.453Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 43.04
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 42.34
+		},
+		{
+			"name": "Barbaria",
+			"chance": 35.66
+		},
+		{
+			"name": "The Imperor",
+			"chance": 34.09
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.41
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.97
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.92
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.09
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.98
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.87
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.09
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 10.76
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.43
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.51
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.24
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.71
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-24T09:36:30.477Z",
+	"timestamp": "2024-11-25T03:45:32.152Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.86
+			"chance": 61.86,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -76,6 +80,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.25
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

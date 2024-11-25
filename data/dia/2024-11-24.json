@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-24T09:36:19.885Z",
+	"timestamp": "2024-11-25T03:45:29.657Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

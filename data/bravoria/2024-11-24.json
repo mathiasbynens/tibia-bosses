@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-24T09:36:17.045Z",
+	"timestamp": "2024-11-25T03:45:29.042Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.88
+			"chance": 33.88,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.46
+			"chance": 11.46,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -60,6 +64,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

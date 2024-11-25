@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-24T09:36:22.791Z",
+	"timestamp": "2024-11-25T03:45:30.191Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.99
+			"chance": 13.99,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -64,6 +66,16 @@
 		{
 			"name": "The Welter",
 			"chance": 9.15
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

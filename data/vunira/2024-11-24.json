@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-24T09:36:36.349Z",
+	"timestamp": "2024-11-25T03:45:33.932Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.77
+			"chance": 25.77,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -136,6 +140,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

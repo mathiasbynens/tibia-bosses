@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-24T09:36:25.657Z",
+	"timestamp": "2024-11-25T03:45:30.750Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.74
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

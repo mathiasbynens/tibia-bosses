@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-25T09:38:53.453Z",
+	"timestamp": "2024-11-26T03:45:27.309Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -68,6 +69,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.71
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

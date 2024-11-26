@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-25T09:38:38.243Z",
+	"timestamp": "2024-11-26T03:45:24.573Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
-			"chance": 42.56
+			"chance": 42.56,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 25.96
+			"chance": 25.96,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -44,6 +46,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.47
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

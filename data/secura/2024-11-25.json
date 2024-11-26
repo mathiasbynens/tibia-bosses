@@ -1,25 +1,30 @@
 {
-	"timestamp": "2024-11-25T09:38:56.550Z",
+	"timestamp": "2024-11-26T03:45:27.791Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.23
+			"chance": 62.23,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.91
+			"chance": 33.91,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.86
+			"chance": 31.86,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.62
+			"chance": 27.62,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.84
+			"chance": 25.84,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.81
+			"chance": 4.81,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +122,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

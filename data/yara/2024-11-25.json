@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-25T09:39:02.486Z",
+	"timestamp": "2024-11-26T03:45:28.891Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -68,6 +68,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

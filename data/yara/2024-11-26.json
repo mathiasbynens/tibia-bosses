@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-26T09:38:53.015Z",
+	"timestamp": "2024-11-27T03:45:48.996Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.63
+			"chance": 38.63,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.96
+			"chance": 30.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.88
+			"chance": 26.88,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.08
+			"chance": 6.08,
+			"killed": true
 		}
 	]
 }

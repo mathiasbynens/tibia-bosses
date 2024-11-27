@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-26T09:38:31.166Z",
+	"timestamp": "2024-11-27T03:45:41.505Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -56,6 +56,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.42
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

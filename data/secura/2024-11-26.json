@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-26T09:38:47.583Z",
+	"timestamp": "2024-11-27T03:45:47.076Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.53
+			"chance": 22.53,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.62
+			"chance": 10.62,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +108,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

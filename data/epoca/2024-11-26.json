@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-26T09:38:36.775Z",
+	"timestamp": "2024-11-27T03:45:43.417Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.68
+			"chance": 15.68,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

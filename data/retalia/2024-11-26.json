@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-26T09:38:44.802Z",
+	"timestamp": "2024-11-27T03:45:46.301Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 68.29
+			"chance": 68.29,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 50.61
+			"chance": 50.61,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.35
+			"chance": 30.35,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.14
+			"chance": 30.14,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -84,6 +89,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

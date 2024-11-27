@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-26T09:38:28.222Z",
+	"timestamp": "2024-11-27T03:45:40.576Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.13
+			"chance": 36.13,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.85
+			"chance": 25.85,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,11 +69,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -91,11 +99,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.76
+			"chance": 3.76,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

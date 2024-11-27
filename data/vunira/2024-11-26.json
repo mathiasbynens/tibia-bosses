@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-26T09:38:50.223Z",
+	"timestamp": "2024-11-27T03:45:48.176Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 68.29
+			"chance": 68.29,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 41.93
+			"chance": 41.93,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 28.42
+			"chance": 28.42,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.45
+			"chance": 14.45,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -144,6 +149,21 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.41
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

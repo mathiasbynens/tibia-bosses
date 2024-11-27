@@ -1,0 +1,69 @@
+{
+	"timestamp": "2024-11-27T09:38:46.832Z",
+	"bosses": [
+		{
+			"name": "The Welter",
+			"chance": 64.35
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.36
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.13
+		},
+		{
+			"name": "Omrafir",
+			"chance": 18.58
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.1
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.69
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.64
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.51
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 15.52
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.27
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.83
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.3
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.25
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.13
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.49
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.06
+		}
+	]
+}

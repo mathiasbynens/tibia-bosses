@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-11-27T09:38:59.295Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 64.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 47.08
+		},
+		{
+			"name": "General Murius",
+			"chance": 44.38
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.26
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.75
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.86
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 30.36
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.89
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.42
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.53
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.99
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.17
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.78
+		}
+	]
+}

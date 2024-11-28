@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-11-27T09:38:43.885Z",
+	"timestamp": "2024-11-28T03:45:48.694Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.15
+			"chance": 74.15,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.01
+			"chance": 64.01,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -68,6 +71,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.25
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

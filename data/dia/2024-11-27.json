@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-27T09:38:40.507Z",
+	"timestamp": "2024-11-28T03:45:47.910Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.91
+			"chance": 39.91,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 24.93
+			"chance": 24.93,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

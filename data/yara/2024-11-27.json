@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-27T09:38:59.295Z",
+	"timestamp": "2024-11-28T03:45:53.301Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.38
+			"chance": 44.38,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.86
+			"chance": 31.86,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -60,6 +63,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 6.78
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

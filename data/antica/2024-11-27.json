@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-27T09:38:35.268Z",
+	"timestamp": "2024-11-28T03:45:46.137Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.21
+			"chance": 26.21,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.79
+			"chance": 25.79,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -92,6 +96,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

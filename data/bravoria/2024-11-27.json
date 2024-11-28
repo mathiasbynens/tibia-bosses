@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-27T09:38:37.735Z",
+	"timestamp": "2024-11-28T03:45:47.033Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.49
+			"chance": 15.49,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.75
+			"chance": 8.75,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -60,6 +63,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.7
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

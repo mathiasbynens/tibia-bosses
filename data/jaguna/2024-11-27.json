@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-11-27T09:38:46.832Z",
+	"timestamp": "2024-11-28T03:45:49.487Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.35
+			"chance": 64.35,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.36
+			"chance": 23.36,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.64
+			"chance": 16.64,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

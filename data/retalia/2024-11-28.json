@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-28T09:38:48.786Z",
+	"timestamp": "2024-11-29T03:45:40.463Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.29
+			"chance": 10.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -64,6 +66,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

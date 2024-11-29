@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-28T09:38:33.170Z",
+	"timestamp": "2024-11-29T03:45:36.446Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.99
+			"chance": 30.99,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.38
+			"chance": 14.38,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.56
+			"chance": 8.56,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +108,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-28T09:38:35.670Z",
+	"timestamp": "2024-11-29T03:45:37.002Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -72,6 +73,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

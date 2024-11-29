@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-11-28T09:38:54.458Z",
+	"timestamp": "2024-11-29T03:45:41.722Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.84
+			"chance": 79.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 79.19
+			"chance": 79.19,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.23
+			"chance": 53.23,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 49.87
+			"chance": 49.87,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.29
+			"chance": 26.29,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.01
+			"chance": 11.01,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -116,6 +123,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

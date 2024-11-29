@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-28T09:38:44.409Z",
+	"timestamp": "2024-11-29T03:45:39.157Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -68,6 +68,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

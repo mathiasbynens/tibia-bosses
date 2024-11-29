@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-11-29T09:38:35.211Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 43.15
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.89
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.25
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.46
+		},
+		{
+			"name": "Omrafir",
+			"chance": 27.45
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.81
+		},
+		{
+			"name": "Xenia",
+			"chance": 22.38
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.89
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 16.98
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.92
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.82
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.7
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 7.47
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.48
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.03
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.74
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.42
+		}
+	]
+}

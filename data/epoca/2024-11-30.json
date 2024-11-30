@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-11-30T09:36:31.412Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 44.35
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 42.3
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 26
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 24.67
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 23.07
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.13
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.66
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.54
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.66
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.46
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.55
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.02
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.71
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.71
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.8
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.78
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.81
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"timestamp": "2024-11-30T09:36:34.501Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 73.18
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.3
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.61
+		},
+		{
+			"name": "Omrafir",
+			"chance": 33.96
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 29.61
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.49
+		},
+		{
+			"name": "Xenia",
+			"chance": 24.38
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.84
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 21.8
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 20.42
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 13.49
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.84
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 12.41
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.16
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.77
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.61
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.76
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.11
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.33
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.36
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.69
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.42
+		}
+	]
+}

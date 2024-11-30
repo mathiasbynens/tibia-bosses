@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-29T09:38:35.211Z",
+	"timestamp": "2024-11-30T03:44:30.150Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

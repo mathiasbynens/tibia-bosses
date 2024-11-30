@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-29T09:38:43.163Z",
+	"timestamp": "2024-11-30T03:44:32.559Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.34
+			"chance": 29.34,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 26.77
+			"chance": 26.77,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -43,15 +46,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.59
+			"chance": 11.59,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

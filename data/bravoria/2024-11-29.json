@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-29T09:38:26.668Z",
+	"timestamp": "2024-11-30T03:44:28.117Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.89
+			"chance": 61.89,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.7
+			"chance": 9.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +83,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

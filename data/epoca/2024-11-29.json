@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-29T09:38:32.427Z",
+	"timestamp": "2024-11-30T03:44:29.463Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.08
+			"chance": 65.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -76,6 +77,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.74
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

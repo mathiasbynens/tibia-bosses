@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-29T09:38:46.069Z",
+	"timestamp": "2024-11-30T03:44:33.634Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.11
+			"chance": 13.11,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +90,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.9
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

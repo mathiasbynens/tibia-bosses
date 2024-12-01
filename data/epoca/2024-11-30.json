@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-30T09:36:31.412Z",
+	"timestamp": "2024-12-01T03:50:11.198Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.66
+			"chance": 18.66,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -76,6 +80,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-30T09:36:34.501Z",
+	"timestamp": "2024-12-01T03:50:11.902Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.61
+			"chance": 39.61,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -92,6 +93,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

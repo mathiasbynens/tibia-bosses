@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-30T09:36:47.720Z",
+	"timestamp": "2024-12-01T03:50:14.897Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -52,6 +52,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

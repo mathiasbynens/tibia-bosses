@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-11-30T09:36:41.617Z",
+	"timestamp": "2024-12-01T03:50:13.550Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.42
+			"chance": 23.42,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.05
+			"chance": 23.05,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.79
+			"chance": 9.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 9.08
+			"chance": 9.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

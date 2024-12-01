@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-30T09:36:26.285Z",
+	"timestamp": "2024-12-01T03:50:09.759Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.25
+			"chance": 42.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -76,6 +77,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

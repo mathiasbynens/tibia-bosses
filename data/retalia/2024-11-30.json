@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-30T09:36:38.920Z",
+	"timestamp": "2024-12-01T03:50:13.005Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.25
+			"chance": 42.25,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-11-30T09:36:44.828Z",
+	"timestamp": "2024-12-01T03:50:14.253Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.89
+			"chance": 52.89,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.79
+			"chance": 19.79,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.68
+			"chance": 15.68,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

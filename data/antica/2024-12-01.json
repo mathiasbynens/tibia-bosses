@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-01T09:36:52.814Z",
+	"timestamp": "2024-12-02T03:46:51.691Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.05
+			"chance": 70.05,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.04
+			"chance": 32.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.3
+			"chance": 23.3,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.12
+			"chance": 14.12,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -116,6 +121,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.75
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

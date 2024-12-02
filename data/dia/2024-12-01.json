@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-01T09:36:58.240Z",
+	"timestamp": "2024-12-02T03:46:53.188Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.93
+			"chance": 36.93,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 35.09
+			"chance": 35.09,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -100,6 +106,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.18
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

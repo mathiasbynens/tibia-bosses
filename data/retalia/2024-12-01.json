@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-01T09:37:08.591Z",
+	"timestamp": "2024-12-02T03:46:55.507Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -64,6 +66,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.26
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

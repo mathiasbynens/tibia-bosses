@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-01T09:36:55.742Z",
+	"timestamp": "2024-12-02T03:46:52.413Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.89
+			"chance": 39.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.59
+			"chance": 15.59,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +72,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.26
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

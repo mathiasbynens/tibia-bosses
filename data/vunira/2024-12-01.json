@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-01T09:37:14.498Z",
+	"timestamp": "2024-12-02T03:46:56.979Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.23
+			"chance": 29.23,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +99,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

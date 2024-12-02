@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-01T09:37:01.002Z",
+	"timestamp": "2024-12-02T03:46:53.750Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 22.97
+			"chance": 22.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -60,6 +61,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.46
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

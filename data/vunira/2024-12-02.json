@@ -1,0 +1,93 @@
+{
+	"timestamp": "2024-12-02T09:39:29.262Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.16
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.45
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 23.29
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 23.24
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 20.33
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19.13
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 19.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.16
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.1
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.72
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.62
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.28
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.76
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.49
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.22
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.78
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.6
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.4
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.96
+		}
+	]
+}

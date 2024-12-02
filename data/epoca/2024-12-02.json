@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-12-02T09:39:15.528Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 67.69
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.67
+		},
+		{
+			"name": "Dracola",
+			"chance": 18.9
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.5
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.43
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.5
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.07
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.19
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.15
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.93
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.49
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 5.46
+		}
+	]
+}

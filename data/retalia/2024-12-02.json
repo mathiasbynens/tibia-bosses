@@ -1,0 +1,73 @@
+{
+	"timestamp": "2024-12-02T09:39:23.022Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.61
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.61
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.7
+		},
+		{
+			"name": "Dracola",
+			"chance": 32.42
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 26.13
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.66
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.99
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.58
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.07
+		},
+		{
+			"name": "Barbaria",
+			"chance": 10.25
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.86
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.22
+		},
+		{
+			"name": "The Abomination",
+			"chance": 2.35
+		}
+	]
+}

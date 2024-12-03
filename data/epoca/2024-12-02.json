@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-02T09:39:15.528Z",
+	"timestamp": "2024-12-03T03:46:15.825Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -56,6 +57,21 @@
 		{
 			"name": "Captain Jones",
 			"chance": 5.46
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

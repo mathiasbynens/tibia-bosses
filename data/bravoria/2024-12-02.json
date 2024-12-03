@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-02T09:39:09.555Z",
+	"timestamp": "2024-12-03T03:46:14.365Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.07
+			"chance": 81.07,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.25
+			"chance": 62.25,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.99
+			"chance": 30.99,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -68,6 +71,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

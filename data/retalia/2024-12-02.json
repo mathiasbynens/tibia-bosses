@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-02T09:39:23.022Z",
+	"timestamp": "2024-12-03T03:46:17.852Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.61
+			"chance": 39.61,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 32.42
+			"chance": 32.42,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.05
+			"chance": 23.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.07
+			"chance": 11.07,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -68,6 +72,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.35
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

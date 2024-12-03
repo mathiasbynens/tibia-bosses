@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-02T09:39:12.409Z",
+	"timestamp": "2024-12-03T03:46:15.157Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
-			"chance": 36.94
+			"chance": 36.94,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.12
+			"chance": 22.12,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -108,6 +111,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

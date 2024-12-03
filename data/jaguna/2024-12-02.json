@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-02T09:39:18.493Z",
+	"timestamp": "2024-12-03T03:46:16.525Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.44
+			"chance": 25.44,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.16
+			"chance": 24.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -112,6 +114,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.26
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-02T09:39:29.262Z",
+	"timestamp": "2024-12-03T03:46:19.337Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.16
+			"chance": 24.16,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.45
+			"chance": 23.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.76
+			"chance": 11.76,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +93,11 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.96
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

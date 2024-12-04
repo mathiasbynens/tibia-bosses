@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-03T09:38:57.880Z",
+	"timestamp": "2024-12-04T03:45:55.208Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.46
+			"chance": 14.46,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -99,7 +101,18 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

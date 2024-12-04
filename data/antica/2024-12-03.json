@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-03T09:38:35.037Z",
+	"timestamp": "2024-12-04T03:45:49.566Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.59
+			"chance": 17.59,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.51
+			"chance": 17.51,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "yeti",

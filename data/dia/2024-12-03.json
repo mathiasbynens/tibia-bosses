@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-03T09:38:41.380Z",
+	"timestamp": "2024-12-04T03:45:51.103Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 18.67
+			"chance": 18.67,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -112,6 +114,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

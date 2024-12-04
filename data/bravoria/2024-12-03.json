@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-03T09:38:38.194Z",
+	"timestamp": "2024-12-04T03:45:50.215Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

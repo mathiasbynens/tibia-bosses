@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-03T09:38:55.024Z",
+	"timestamp": "2024-12-04T03:45:54.297Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.39
+			"chance": 64.39,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.28
+			"chance": 53.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.42
+			"chance": 30.42,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.11
+			"chance": 22.11,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,15 +47,18 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.48
+			"chance": 14.48,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.7
+			"chance": 7.7,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -120,6 +128,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.18
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

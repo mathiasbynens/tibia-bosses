@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-03T09:38:47.025Z",
+	"timestamp": "2024-12-04T03:45:52.410Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 56.79
+			"chance": 56.79,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -120,6 +122,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.22
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

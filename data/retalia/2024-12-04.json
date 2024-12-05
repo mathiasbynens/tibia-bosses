@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-04T09:39:20.193Z",
+	"timestamp": "2024-12-05T03:45:55.710Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 30.98
+			"chance": 30.98,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.6
+			"chance": 11.6,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -71,7 +73,23 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 6.47
+			"chance": 6.47,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

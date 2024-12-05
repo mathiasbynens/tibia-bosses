@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-04T09:39:22.945Z",
+	"timestamp": "2024-12-05T03:45:56.507Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.91
+			"chance": 61.91,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.56
+			"chance": 29.56,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.99
+			"chance": 23.99,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.24
+			"chance": 13.24,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.61
+			"chance": 7.61,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -140,6 +146,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

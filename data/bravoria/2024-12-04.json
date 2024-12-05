@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-04T09:39:05.135Z",
+	"timestamp": "2024-12-05T03:45:52.430Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -44,6 +44,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

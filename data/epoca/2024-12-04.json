@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-04T09:39:11.061Z",
+	"timestamp": "2024-12-05T03:45:53.801Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.29
+			"chance": 42.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.06
+			"chance": 28.06,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 15.87
+			"chance": 15.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.69
+			"chance": 15.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

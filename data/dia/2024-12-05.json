@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-05T09:38:40.352Z",
+	"timestamp": "2024-12-06T03:45:49.494Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.41
+			"chance": 64.41,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.02
+			"chance": 42.02,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.51
+			"chance": 21.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.44
+			"chance": 16.44,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -112,6 +118,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

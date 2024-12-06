@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-05T09:38:56.148Z",
+	"timestamp": "2024-12-06T03:45:54.421Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 41
+			"chance": 41,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.92
+			"chance": 40.92,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 33.99
+			"chance": 33.99,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.9
+			"chance": 11.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +119,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.97
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

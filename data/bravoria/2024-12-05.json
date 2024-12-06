@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-05T09:38:37.344Z",
+	"timestamp": "2024-12-06T03:45:48.656Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.21
+			"chance": 29.21,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -52,6 +53,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

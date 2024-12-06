@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-05T09:38:51.064Z",
+	"timestamp": "2024-12-06T03:45:52.199Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.05
+			"chance": 20.05,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +77,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.41
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

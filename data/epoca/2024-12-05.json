@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-05T09:38:43.581Z",
+	"timestamp": "2024-12-06T03:45:50.180Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.02
+			"chance": 81.02,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.17
+			"chance": 21.17,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -60,6 +62,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 6.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

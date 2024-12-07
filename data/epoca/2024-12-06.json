@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-06T09:38:33.328Z",
+	"timestamp": "2024-12-07T03:45:45.327Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.78
+			"chance": 15.78,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",

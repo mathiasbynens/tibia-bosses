@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-06T09:38:35.939Z",
+	"timestamp": "2024-12-07T03:45:46.315Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.86
+			"chance": 26.86,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

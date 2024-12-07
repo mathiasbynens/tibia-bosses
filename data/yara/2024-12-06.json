@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-06T09:38:49.061Z",
+	"timestamp": "2024-12-07T03:45:51.048Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 38.98
+			"chance": 38.98,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

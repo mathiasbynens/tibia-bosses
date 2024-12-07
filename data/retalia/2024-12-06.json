@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-06T09:38:40.316Z",
+	"timestamp": "2024-12-07T03:45:48.015Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.41
+			"chance": 15.41,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

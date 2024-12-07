@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-06T09:38:30.275Z",
+	"timestamp": "2024-12-07T03:45:44.518Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,23 +7,28 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.04
+			"chance": 64.04,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.99
+			"chance": 41.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.62
+			"chance": 38.62,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.16
+			"chance": 24.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -91,11 +96,17 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.78
+			"chance": 3.78,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

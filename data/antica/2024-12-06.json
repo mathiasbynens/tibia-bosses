@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-06T09:38:25.312Z",
+	"timestamp": "2024-12-07T03:45:42.461Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 39.99
+			"chance": 39.99,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.88
+			"chance": 33.88,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.2
+			"chance": 31.2,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.01
+			"chance": 31.01,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 27.67
+			"chance": 27.67,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -67,11 +72,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 10.43
+			"chance": 10.43,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -128,6 +135,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.01
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

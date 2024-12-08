@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-07T09:37:05.643Z",
+	"timestamp": "2024-12-08T03:46:45.845Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 72.85
+			"chance": 72.85,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 9.4
+			"chance": 9.4,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +87,11 @@
 		{
 			"name": "Ocyakao",
 			"chance": 5.85
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

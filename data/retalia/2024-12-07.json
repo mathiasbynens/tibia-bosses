@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-07T09:37:10.403Z",
+	"timestamp": "2024-12-08T03:46:47.061Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.85
+			"chance": 79.85,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.17
+			"chance": 21.17,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -64,6 +66,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.26
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

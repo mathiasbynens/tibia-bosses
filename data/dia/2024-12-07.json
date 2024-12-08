@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-07T09:37:00.295Z",
+	"timestamp": "2024-12-08T03:46:44.586Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +77,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

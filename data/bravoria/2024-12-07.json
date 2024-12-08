@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-07T09:36:57.618Z",
+	"timestamp": "2024-12-08T03:46:43.917Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.76
+			"chance": 20.76,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 14.47
+			"chance": 14.47,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.04
+			"chance": 9.04,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -72,6 +76,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.01
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

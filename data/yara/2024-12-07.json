@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-07T09:37:18.519Z",
+	"timestamp": "2024-12-08T03:46:49.110Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.41
+			"chance": 64.41,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -68,6 +70,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 3.72
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-07T09:37:02.786Z",
+	"timestamp": "2024-12-08T03:46:45.210Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 76.24
+			"chance": 76.24,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.76
+			"chance": 37.76,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.18
+			"chance": 24.18,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

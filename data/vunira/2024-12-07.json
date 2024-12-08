@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-07T09:37:15.804Z",
+	"timestamp": "2024-12-08T03:46:48.525Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 79
+			"chance": 79,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.06
+			"chance": 70.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.59
+			"chance": 46.59,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.55
+			"chance": 27.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.43
+			"chance": 24.43,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.61
+			"chance": 17.61,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -120,6 +127,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-07T09:37:13.311Z",
+	"timestamp": "2024-12-08T03:46:47.789Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.76
+			"chance": 20.76,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.49
+			"chance": 14.49,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.14
+			"chance": 11.14,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +87,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

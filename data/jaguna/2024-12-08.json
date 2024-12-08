@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-12-08T09:37:16.537Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.22
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.2
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.46
+		},
+		{
+			"name": "Dracola",
+			"chance": 31.21
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 21.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.05
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.55
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.31
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.33
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 14.69
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.51
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.65
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.35
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.13
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.71
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.01
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.34
+		}
+	]
+}

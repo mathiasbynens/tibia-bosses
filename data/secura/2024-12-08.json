@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-08T09:37:23.750Z",
+	"timestamp": "2024-12-09T03:46:58.847Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.06
+			"chance": 70.06,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.18
+			"chance": 24.18,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.98
+			"chance": 18.98,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.35
+			"chance": 13.35,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +104,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

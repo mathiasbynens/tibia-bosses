@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-08T09:37:16.537Z",
+	"timestamp": "2024-12-09T03:46:56.997Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -72,6 +74,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-08T09:37:12.449Z",
+	"timestamp": "2024-12-09T03:46:56.280Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -56,6 +56,11 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 7.6
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

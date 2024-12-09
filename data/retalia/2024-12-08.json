@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-08T09:37:21.062Z",
+	"timestamp": "2024-12-09T03:46:58.185Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -72,6 +74,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.24
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

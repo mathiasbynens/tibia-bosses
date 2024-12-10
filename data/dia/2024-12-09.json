@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-09T09:39:20.617Z",
+	"timestamp": "2024-12-10T03:46:19.396Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.23
+			"chance": 62.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.28
+			"chance": 33.28,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.71
+			"chance": 8.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.99
+			"chance": 2.99,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-09T09:39:26.449Z",
+	"timestamp": "2024-12-10T03:46:21.093Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -72,6 +72,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

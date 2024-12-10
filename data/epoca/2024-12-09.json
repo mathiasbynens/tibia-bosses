@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-09T09:39:23.533Z",
+	"timestamp": "2024-12-10T03:46:20.243Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -68,6 +69,16 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 8.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

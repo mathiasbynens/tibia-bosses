@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-09T09:39:30.941Z",
+	"timestamp": "2024-12-10T03:46:22.620Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.34
+			"chance": 29.34,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -80,6 +81,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.65
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

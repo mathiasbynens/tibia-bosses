@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-09T09:39:15.501Z",
+	"timestamp": "2024-12-10T03:46:17.527Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.85
+			"chance": 79.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.15
+			"chance": 23.15,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +116,11 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 6.19
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

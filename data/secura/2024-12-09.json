@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-09T09:39:34.018Z",
+	"timestamp": "2024-12-10T03:46:23.652Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.76
+			"chance": 9.76,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 6.19
+			"chance": 6.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +104,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.08
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

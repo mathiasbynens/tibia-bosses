@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-10T09:39:25.817Z",
+	"timestamp": "2024-12-11T03:45:45.125Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,11 +60,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.69
+			"chance": 15.69,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -87,7 +90,18 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 3.72
+			"chance": 3.72,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

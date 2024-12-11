@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-10T09:39:18.780Z",
+	"timestamp": "2024-12-11T03:45:43.539Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.65
+			"chance": 16.65,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.35
+			"chance": 6.35,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

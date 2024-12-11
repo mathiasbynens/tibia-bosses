@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-10T09:39:02.833Z",
+	"timestamp": "2024-12-11T03:45:39.956Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.02
+			"chance": 79.02,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.36
+			"chance": 21.36,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.75
+			"chance": 13.75,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -63,19 +66,23 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.58
+			"chance": 12.58,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 12.2
+			"chance": 12.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +111,16 @@
 		{
 			"name": "White Pale",
 			"chance": 7.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

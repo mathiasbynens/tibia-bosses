@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-10T09:39:14.705Z",
+	"timestamp": "2024-12-11T03:45:42.753Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -64,6 +65,16 @@
 		{
 			"name": "Zomba",
 			"chance": 9.23
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-10T09:39:33.580Z",
+	"timestamp": "2024-12-11T03:45:47.044Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.51
+			"chance": 17.51,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -92,6 +93,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.35
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

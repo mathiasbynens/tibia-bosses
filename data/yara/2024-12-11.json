@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-11T09:39:08.500Z",
+	"timestamp": "2024-12-12T03:46:17.323Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 32.41
+			"chance": 32.41,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -88,6 +90,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.49
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

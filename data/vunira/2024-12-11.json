@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-11T09:39:05.332Z",
+	"timestamp": "2024-12-12T03:46:16.709Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 68.37
+			"chance": 68.37,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.47
+			"chance": 22.47,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.48
+			"chance": 19.48,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -59,15 +62,18 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.46
+			"chance": 14.46,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.41
+			"chance": 14.41,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.07
+			"chance": 8.07,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.63
+			"chance": 6.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +120,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.47
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

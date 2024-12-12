@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-11T09:38:43.696Z",
+	"timestamp": "2024-12-12T03:46:11.215Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 43.25
+			"chance": 43.25,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +98,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 6.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

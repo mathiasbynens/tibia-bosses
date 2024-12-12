@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-11T09:38:49.395Z",
+	"timestamp": "2024-12-12T03:46:12.713Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 67.88
+			"chance": 67.88,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.23
+			"chance": 29.23,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.52
+			"chance": 17.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -95,11 +99,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.27
+			"chance": 3.27,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

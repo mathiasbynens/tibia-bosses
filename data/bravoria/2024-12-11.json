@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-11T09:38:46.679Z",
+	"timestamp": "2024-12-12T03:46:11.876Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 11.9
+			"chance": 11.9,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 11.87
+			"chance": 11.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.62
+			"chance": 8.62,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -60,6 +64,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.45
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

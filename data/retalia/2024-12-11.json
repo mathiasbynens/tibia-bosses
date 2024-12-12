@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-11T09:38:59.776Z",
+	"timestamp": "2024-12-12T03:46:15.294Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 41.1
+			"chance": 41.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -64,6 +66,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

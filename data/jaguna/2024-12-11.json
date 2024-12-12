@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-11T09:38:54.717Z",
+	"timestamp": "2024-12-12T03:46:14.008Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -80,6 +80,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-12-12T09:38:37.041Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 23.21
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.17
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.92
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.46
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.96
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.85
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.46
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.07
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.61
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.49
+		}
+	]
+}

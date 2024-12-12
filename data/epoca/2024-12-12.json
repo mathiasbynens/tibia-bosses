@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-12-12T09:38:42.766Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 42.94
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.83
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 28.89
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.55
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.41
+		},
+		{
+			"name": "Massacre",
+			"chance": 20.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.76
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.73
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.41
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.9
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.89
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.61
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.51
+		}
+	]
+}

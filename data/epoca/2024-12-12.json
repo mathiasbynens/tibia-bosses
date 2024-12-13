@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-12T09:38:42.766Z",
+	"timestamp": "2024-12-13T03:46:06.458Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -56,6 +56,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

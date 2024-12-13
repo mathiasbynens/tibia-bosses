@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-12T09:38:52.284Z",
+	"timestamp": "2024-12-13T03:46:09.120Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 58.95
+			"chance": 58.95,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.05
+			"chance": 42.05,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 35.1
+			"chance": 35.1,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -128,6 +134,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.73
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

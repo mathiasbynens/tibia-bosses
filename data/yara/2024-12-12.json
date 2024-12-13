@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-12T09:38:57.236Z",
+	"timestamp": "2024-12-13T03:46:11.036Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.05
+			"chance": 70.05,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.24
+			"chance": 53.24,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 36.1
+			"chance": 36.1,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +90,28 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.05
+			"chance": 4.05,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-12T09:38:37.041Z",
+	"timestamp": "2024-12-13T03:46:04.854Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -56,6 +56,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.49
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

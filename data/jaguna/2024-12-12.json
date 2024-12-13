@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-12T09:38:45.528Z",
+	"timestamp": "2024-12-13T03:46:07.161Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.21
+			"chance": 30.21,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.02
+			"chance": 30.02,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.8
+			"chance": 7.8,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -91,7 +97,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.75
+			"chance": 3.75,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

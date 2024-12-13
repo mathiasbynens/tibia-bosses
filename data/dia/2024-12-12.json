@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-12T09:38:39.736Z",
+	"timestamp": "2024-12-13T03:46:05.662Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -87,7 +87,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.99
+			"chance": 3.99,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +97,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

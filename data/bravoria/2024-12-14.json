@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-12-14T09:36:38.645Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.26
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.03
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.65
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.56
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.79
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.41
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.69
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.08
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.69
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.05
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.46
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.5
+		}
+	]
+}

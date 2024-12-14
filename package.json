@@ -9,6 +9,6 @@
 	"devDependencies": {
 		"html-minifier-terser": "^7.2.0",
 		"lodash-es": "^4.17.21",
-		"puppeteer": "^21.4.1"
+		"puppeteer": "^23.10.4"
 	}
 }

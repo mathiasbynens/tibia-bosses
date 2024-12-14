@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-13T09:38:31.380Z",
+	"timestamp": "2024-12-14T03:45:20.695Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 22.98
+			"chance": 22.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -76,6 +78,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

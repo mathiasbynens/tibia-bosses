@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-13T09:38:19.573Z",
+	"timestamp": "2024-12-14T03:45:17.583Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.4
+			"chance": 31.4,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -124,6 +127,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.33
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-13T09:38:28.032Z",
+	"timestamp": "2024-12-14T03:45:19.925Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -64,6 +66,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

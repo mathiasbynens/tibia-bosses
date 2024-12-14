@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-13T09:38:36.568Z",
+	"timestamp": "2024-12-14T03:45:22.148Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.8
+			"chance": 19.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +86,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.87
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

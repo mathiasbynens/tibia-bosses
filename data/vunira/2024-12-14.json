@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-14T09:36:56.749Z",
+	"timestamp": "2024-12-15T03:43:12.549Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.06
+			"chance": 70.06,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 50.4
+			"chance": 50.4,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.72
+			"chance": 36.72,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.53
+			"chance": 27.53,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,11 +60,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 22.81
+			"chance": 22.81,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.87
+			"chance": 20.87,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -75,7 +82,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -160,6 +168,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

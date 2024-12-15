@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-14T09:36:44.297Z",
+	"timestamp": "2024-12-15T03:43:08.227Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-14T09:36:38.645Z",
+	"timestamp": "2024-12-15T03:43:06.001Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.41
+			"chance": 14.41,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.69
+			"chance": 13.69,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -60,6 +63,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

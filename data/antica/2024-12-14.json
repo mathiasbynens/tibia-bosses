@@ -1,37 +1,45 @@
 {
-	"timestamp": "2024-12-14T09:36:36.245Z",
+	"timestamp": "2024-12-15T03:43:04.349Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.06
+			"chance": 70.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.26
+			"chance": 53.26,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.08
+			"chance": 42.08,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.92
+			"chance": 40.92,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.9
+			"chance": 40.9,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.04
+			"chance": 31.04,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 29.01
+			"chance": 29.01,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -83,7 +91,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +117,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.27
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

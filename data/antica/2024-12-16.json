@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-12-16T09:34:30.041Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 41.02
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 28.9
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.04
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.19
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 20
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.77
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.79
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.33
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.28
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.9
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.35
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.28
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.33
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.77
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.49
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.39
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-12-16T09:34:57.322Z",
+	"bosses": [
+		{
+			"name": "Xenia",
+			"chance": 23.29
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.71
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.08
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 17.94
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 15.16
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.24
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.99
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.01
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.95
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.75
+		}
+	]
+}

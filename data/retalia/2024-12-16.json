@@ -1,0 +1,65 @@
+{
+	"timestamp": "2024-12-16T09:34:48.138Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 63.98
+		},
+		{
+			"name": "The Imperor",
+			"chance": 50.42
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 40.63
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.97
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.38
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.4
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 10.46
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.05
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.27
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.24
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.24
+		},
+		{
+			"name": "yeti",
+			"chance": 5.79
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.74
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.44
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.66
+		}
+	]
+}

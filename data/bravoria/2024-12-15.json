@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-15T09:32:05.526Z",
+	"timestamp": "2024-12-16T03:42:23.568Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.53
+			"chance": 27.53,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.48
+			"chance": 9.48,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -72,6 +74,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

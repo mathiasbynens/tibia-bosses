@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-15T09:32:24.695Z",
+	"timestamp": "2024-12-16T03:42:28.873Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.15
+			"chance": 74.15,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.33
+			"chance": 29.33,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.81
+			"chance": 11.81,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.27
+			"chance": 10.27,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -83,11 +87,17 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5
+			"chance": 5,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.93
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

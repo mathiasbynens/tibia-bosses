@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-15T09:32:14.986Z",
+	"timestamp": "2024-12-16T03:42:26.281Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -64,6 +65,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

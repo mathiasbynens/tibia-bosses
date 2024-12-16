@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-15T09:32:02.366Z",
+	"timestamp": "2024-12-16T03:42:22.523Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.57
+			"chance": 38.57,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.43
+			"chance": 30.43,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.46
+			"chance": 22.46,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.16
+			"chance": 22.16,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.71
+			"chance": 21.71,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.71
+			"chance": 16.71,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -84,6 +91,16 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.81
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

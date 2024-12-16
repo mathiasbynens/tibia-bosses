@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-15T09:32:12.041Z",
+	"timestamp": "2024-12-16T03:42:25.453Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.94
+			"chance": 26.94,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.75
+			"chance": 4.75,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

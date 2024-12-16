@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-15T09:32:09.333Z",
+	"timestamp": "2024-12-16T03:42:24.616Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.9
+			"chance": 61.9,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.78
+			"chance": 43.78,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 28.81
+			"chance": 28.81,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.37
+			"chance": 11.37,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 6.89
+			"chance": 6.89,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -108,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

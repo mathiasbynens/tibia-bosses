@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-16T09:34:30.041Z",
+	"timestamp": "2024-12-17T03:41:05.679Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.28
+			"chance": 12.28,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -71,7 +72,23 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

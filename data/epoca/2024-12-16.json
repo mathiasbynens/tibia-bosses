@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-16T09:34:40.250Z",
+	"timestamp": "2024-12-17T03:41:08.498Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.71
+			"chance": 21.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

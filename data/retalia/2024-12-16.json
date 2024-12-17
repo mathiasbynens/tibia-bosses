@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-16T09:34:48.138Z",
+	"timestamp": "2024-12-17T03:41:10.596Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.98
+			"chance": 63.98,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -60,6 +61,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.66
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

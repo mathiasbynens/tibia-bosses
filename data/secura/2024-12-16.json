@@ -1,17 +1,20 @@
 {
-	"timestamp": "2024-12-16T09:34:51.464Z",
+	"timestamp": "2024-12-17T03:41:11.142Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 33.98
+			"chance": 33.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.02
+			"chance": 31.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 27.89
+			"chance": 27.89,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.68
+			"chance": 21.68,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.07
+			"chance": 13.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.8
+			"chance": 9.8,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

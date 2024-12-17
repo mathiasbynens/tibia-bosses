@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-16T09:34:33.385Z",
+	"timestamp": "2024-12-17T03:41:06.569Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.08
+			"chance": 70.08,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.98
+			"chance": 63.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -80,6 +83,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

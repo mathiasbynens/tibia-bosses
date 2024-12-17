@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-16T09:34:54.307Z",
+	"timestamp": "2024-12-17T03:41:11.935Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 66.21
+			"chance": 66.21,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 65.22
+			"chance": 65.22,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.32
+			"chance": 30.32,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.4
+			"chance": 19.4,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 8.04
+			"chance": 8.04,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -112,6 +117,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.91
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

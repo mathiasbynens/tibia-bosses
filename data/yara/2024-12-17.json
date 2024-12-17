@@ -1,0 +1,69 @@
+{
+	"timestamp": "2024-12-17T09:34:29.973Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 42.05
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.45
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.04
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.12
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.69
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 15.93
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.18
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.99
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.14
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.26
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.61
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.73
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.1
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.06
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.71
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-17T09:34:00.004Z",
+	"timestamp": "2024-12-18T03:40:32.341Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 26.1
+			"chance": 26.1,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.98
+			"chance": 23.98,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.48
+			"chance": 19.48,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.2
+			"chance": 12.2,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.6
+			"chance": 8.6,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -96,6 +103,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-17T09:34:29.973Z",
+	"timestamp": "2024-12-18T03:40:40.630Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.69
+			"chance": 16.69,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.73
+			"chance": 8.73,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -64,6 +67,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

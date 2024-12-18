@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-17T09:34:10.714Z",
+	"timestamp": "2024-12-18T03:40:35.750Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -60,6 +60,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

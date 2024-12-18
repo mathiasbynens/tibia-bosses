@@ -1,0 +1,109 @@
+{
+	"timestamp": "2024-12-18T09:33:36.564Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.05
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.24
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 17.09
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.07
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.92
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.71
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.33
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.84
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.01
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.75
+		},
+		{
+			"name": "yeti",
+			"chance": 10.5
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.61
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.1
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.07
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.05
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.56
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.11
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.07
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.96
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 2.63
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-12-18T09:33:27.259Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.79
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 17.23
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.07
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.95
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.26
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.65
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.46
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.51
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.02
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.13
+		}
+	]
+}

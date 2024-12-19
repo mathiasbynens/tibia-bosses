@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-18T09:33:17.585Z",
+	"timestamp": "2024-12-19T03:40:29.084Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 68.41
+			"chance": 68.41,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.31
+			"chance": 13.31,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -96,6 +98,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.7
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

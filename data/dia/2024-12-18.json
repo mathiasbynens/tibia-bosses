@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-18T09:33:21.324Z",
+	"timestamp": "2024-12-19T03:40:29.998Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.27
+			"chance": 53.27,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.27
+			"chance": 13.27,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.45
+			"chance": 5.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -107,7 +111,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.35
+			"chance": 4.35,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

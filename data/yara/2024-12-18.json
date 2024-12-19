@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-18T09:33:43.055Z",
+	"timestamp": "2024-12-19T03:40:35.692Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -64,6 +64,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-18T09:33:39.440Z",
+	"timestamp": "2024-12-19T03:40:34.651Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.01
+			"chance": 22.01,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.09
+			"chance": 11.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -96,6 +98,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

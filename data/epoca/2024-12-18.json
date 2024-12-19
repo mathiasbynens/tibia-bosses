@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-12-18T09:33:23.753Z",
+	"timestamp": "2024-12-19T03:40:30.658Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.07
+			"chance": 70.07,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 41.01
+			"chance": 41.01,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.93
+			"chance": 40.93,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.54
+			"chance": 27.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -64,6 +68,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

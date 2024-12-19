@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-12-19T09:33:35.367Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 23.18
+		},
+		{
+			"name": "The Imperor",
+			"chance": 20.05
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.06
+		},
+		{
+			"name": "yeti",
+			"chance": 17.73
+		},
+		{
+			"name": "Dracola",
+			"chance": 16.33
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 15.98
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.51
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 9.49
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.45
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.36
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.24
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.64
+		}
+	]
+}

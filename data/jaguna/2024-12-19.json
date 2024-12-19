@@ -1,0 +1,69 @@
+{
+	"timestamp": "2024-12-19T09:33:37.945Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.72
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 19.78
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.42
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.92
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 14.51
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.23
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.04
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.23
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.17
+		},
+		{
+			"name": "Omrafir",
+			"chance": 9.09
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.09
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.5
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.39
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.88
+		}
+	]
+}

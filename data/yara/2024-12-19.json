@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-19T09:33:53.401Z",
+	"timestamp": "2024-12-20T03:36:47.278Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.07
+			"chance": 70.07,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.23
+			"chance": 62.23,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",

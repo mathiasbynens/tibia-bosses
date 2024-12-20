@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-19T09:33:37.945Z",
+	"timestamp": "2024-12-20T03:36:43.520Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -64,6 +64,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

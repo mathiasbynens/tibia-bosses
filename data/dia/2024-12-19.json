@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-19T09:33:32.589Z",
+	"timestamp": "2024-12-20T03:36:42.113Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.55
+			"chance": 93.55,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.46
+			"chance": 14.46,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -120,6 +125,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

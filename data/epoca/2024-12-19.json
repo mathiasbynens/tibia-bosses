@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-19T09:33:35.367Z",
+	"timestamp": "2024-12-20T03:36:42.746Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 20.05
+			"chance": 20.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

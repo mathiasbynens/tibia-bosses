@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-19T09:33:29.885Z",
+	"timestamp": "2024-12-20T03:36:41.354Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 21.69
+			"chance": 21.69,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.29
+			"chance": 13.29,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.66
+			"chance": 7.66,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +104,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

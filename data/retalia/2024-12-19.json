@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-19T09:33:42.728Z",
+	"timestamp": "2024-12-20T03:36:44.862Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -84,6 +84,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

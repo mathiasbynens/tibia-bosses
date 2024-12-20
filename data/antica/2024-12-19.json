@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-19T09:33:26.685Z",
+	"timestamp": "2024-12-20T03:36:40.517Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -15,19 +15,23 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.54
+			"chance": 22.54,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 20.05
+			"chance": 20.05,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +100,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

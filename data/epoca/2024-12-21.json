@@ -1,0 +1,53 @@
+{
+	"timestamp": "2024-12-21T09:31:25.092Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.47
+		},
+		{
+			"name": "midnight panther",
+			"chance": 29.11
+		},
+		{
+			"name": "Dracola",
+			"chance": 28.75
+		},
+		{
+			"name": "yeti",
+			"chance": 26.95
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 22.71
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.8
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.15
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.9
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 6.36
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.26
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.69
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.47
+		}
+	]
+}

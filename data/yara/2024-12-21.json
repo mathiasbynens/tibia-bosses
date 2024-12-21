@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-12-21T09:31:43.702Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 46.63
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 43.79
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.35
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 22.05
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.16
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.72
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.94
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.67
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.31
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.67
+		},
+		{
+			"name": "Xenia",
+			"chance": 7.65
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.9
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.39
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.93
+		}
+	]
+}

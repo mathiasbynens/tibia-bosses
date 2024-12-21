@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-20T09:32:11.492Z",
+	"timestamp": "2024-12-21T03:35:05.717Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.14
+			"chance": 19.14,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 14.5
+			"chance": 14.5,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -60,6 +63,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

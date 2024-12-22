@@ -1,0 +1,101 @@
+{
+	"timestamp": "2024-12-22T09:31:27.984Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.16
+		},
+		{
+			"name": "yeti",
+			"chance": 37.65
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 33.39
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 31.08
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 30.5
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.34
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.73
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.67
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.1
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.35
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.25
+		},
+		{
+			"name": "Massacre",
+			"chance": 14.14
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.22
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13
+		},
+		{
+			"name": "Shlorg",
+			"chance": 12.99
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.82
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.75
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.01
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.8
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.6
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.57
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.27
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.28
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.93
+		}
+	]
+}

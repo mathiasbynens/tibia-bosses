@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-21T09:31:39.614Z",
+	"timestamp": "2024-12-22T03:37:30.658Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.33
+			"chance": 39.33,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.47
+			"chance": 30.47,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.7
+			"chance": 18.7,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.74
+			"chance": 15.74,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -92,6 +97,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.88
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

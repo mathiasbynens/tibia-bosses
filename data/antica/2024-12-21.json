@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-21T09:31:16.099Z",
+	"timestamp": "2024-12-22T03:37:25.561Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -112,6 +115,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

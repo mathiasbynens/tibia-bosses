@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-21T09:31:28.198Z",
+	"timestamp": "2024-12-22T03:37:28.298Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 25.8
+			"chance": 25.8,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

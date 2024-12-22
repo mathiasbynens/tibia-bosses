@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-21T09:31:43.702Z",
+	"timestamp": "2024-12-22T03:37:31.231Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.79
+			"chance": 43.79,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -72,6 +73,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

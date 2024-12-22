@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-21T09:31:18.948Z",
+	"timestamp": "2024-12-22T03:37:26.256Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.18
+			"chance": 62.18,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -79,11 +81,32 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 4.24
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

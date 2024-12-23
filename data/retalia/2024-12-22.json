@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-22T09:31:27.984Z",
+	"timestamp": "2024-12-23T03:36:52.623Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.16
+			"chance": 62.16,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 37.65
+			"chance": 37.65,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -96,6 +98,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

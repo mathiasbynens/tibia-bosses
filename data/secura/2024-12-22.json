@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-22T09:31:30.867Z",
+	"timestamp": "2024-12-23T03:36:53.183Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.07
+			"chance": 22.07,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.91
+			"chance": 6.91,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -108,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-22T09:31:34.042Z",
+	"timestamp": "2024-12-23T03:36:54.031Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.28
+			"chance": 53.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.5
+			"chance": 30.5,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 6.91
+			"chance": 6.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +92,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

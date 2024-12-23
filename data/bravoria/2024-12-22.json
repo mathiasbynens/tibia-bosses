@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-22T09:31:15.205Z",
+	"timestamp": "2024-12-23T03:36:49.219Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 43.77
+			"chance": 43.77,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.54
+			"chance": 27.54,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.81
+			"chance": 17.81,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -92,6 +95,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.41
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

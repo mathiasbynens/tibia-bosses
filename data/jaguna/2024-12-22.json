@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-22T09:31:23.355Z",
+	"timestamp": "2024-12-23T03:36:51.308Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.88
+			"chance": 19.88,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.7
+			"chance": 13.7,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -72,6 +75,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

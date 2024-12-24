@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-23T09:32:47.568Z",
+	"timestamp": "2024-12-24T03:36:40.975Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.18
+			"chance": 62.18,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.58
+			"chance": 8.58,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -84,6 +87,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-12-23T09:32:23.276Z",
+	"timestamp": "2024-12-24T03:36:35.544Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.18
+			"chance": 62.18,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.55
+			"chance": 30.55,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,11 +31,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 20.49
+			"chance": 20.49,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.52
+			"chance": 14.52,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +58,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -84,6 +92,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.46
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

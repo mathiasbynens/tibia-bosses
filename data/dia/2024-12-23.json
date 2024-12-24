@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-23T09:32:29.321Z",
+	"timestamp": "2024-12-24T03:36:36.940Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.43
+			"chance": 31.43,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.02
+			"chance": 29.02,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -104,6 +109,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

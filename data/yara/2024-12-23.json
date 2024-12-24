@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-23T09:32:50.560Z",
+	"timestamp": "2024-12-24T03:36:41.617Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.99
+			"chance": 63.99,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.05
+			"chance": 42.05,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

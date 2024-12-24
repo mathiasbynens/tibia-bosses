@@ -1,0 +1,49 @@
+{
+	"timestamp": "2024-12-24T09:32:01.582Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 93.56
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.09
+		},
+		{
+			"name": "The Welter",
+			"chance": 14.73
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.18
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.52
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.22
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.09
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.03
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.4
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-24T09:31:56.145Z",
+	"timestamp": "2024-12-25T03:35:45.565Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -64,6 +65,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

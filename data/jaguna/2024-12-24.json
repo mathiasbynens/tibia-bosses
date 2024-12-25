@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-24T09:32:04.311Z",
+	"timestamp": "2024-12-25T03:35:47.459Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.14
+			"chance": 38.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -64,6 +65,11 @@
 		{
 			"name": "yeti",
 			"chance": 5.79
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

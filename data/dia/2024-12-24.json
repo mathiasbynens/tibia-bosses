@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-24T09:31:58.787Z",
+	"timestamp": "2024-12-25T03:35:46.258Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.92
+			"chance": 61.92,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.16
+			"chance": 33.16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -116,6 +121,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

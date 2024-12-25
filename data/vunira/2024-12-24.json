@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-24T09:32:14.733Z",
+	"timestamp": "2024-12-25T03:35:50.043Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.88
+			"chance": 29.88,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.73
+			"chance": 20.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.81
+			"chance": 4.81,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -84,6 +89,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

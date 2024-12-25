@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-24T09:32:11.630Z",
+	"timestamp": "2024-12-25T03:35:49.399Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.07
+			"chance": 42.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.74
+			"chance": 16.74,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +84,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

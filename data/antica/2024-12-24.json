@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-24T09:31:53.714Z",
+	"timestamp": "2024-12-25T03:35:44.826Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.89
+			"chance": 9.89,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -80,6 +81,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

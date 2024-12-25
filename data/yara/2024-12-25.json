@@ -1,0 +1,77 @@
+{
+	"timestamp": "2024-12-25T09:32:14.116Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 41.58
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 22.91
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.38
+		},
+		{
+			"name": "Xenia",
+			"chance": 19.42
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.08
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.7
+		},
+		{
+			"name": "General Murius",
+			"chance": 14.97
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.16
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.85
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.7
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.67
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.11
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.23
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.76
+		}
+	]
+}

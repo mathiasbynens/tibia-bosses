@@ -1,0 +1,89 @@
+{
+	"timestamp": "2024-12-25T09:32:10.576Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.09
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 32.94
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.1
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.8
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 14.69
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.44
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.07
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.89
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.37
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.22
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.96
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.53
+		},
+		{
+			"name": "Barbaria",
+			"chance": 10.25
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.69
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.22
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.61
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.79
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.48
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.78
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-25T09:31:56.957Z",
+	"timestamp": "2024-12-26T03:36:30.734Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

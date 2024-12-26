@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-25T09:32:10.576Z",
+	"timestamp": "2024-12-26T03:36:35.404Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.07
+			"chance": 14.07,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +85,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.78
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

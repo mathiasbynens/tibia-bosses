@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-25T09:31:48.851Z",
+	"timestamp": "2024-12-26T03:36:28.547Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.55
+			"chance": 23.55,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.35
+			"chance": 13.35,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.32
+			"chance": 11.32,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -80,6 +83,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.06
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

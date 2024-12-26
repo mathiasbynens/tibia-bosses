@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-25T09:32:14.116Z",
+	"timestamp": "2024-12-26T03:36:35.981Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -47,11 +47,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -72,6 +74,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

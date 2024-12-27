@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-12-27T09:32:12.951Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 29.13
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.52
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.2
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.59
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16.13
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.95
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.43
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.26
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.13
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.61
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.08
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 6.88
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.28
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.05
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.52
+		}
+	]
+}

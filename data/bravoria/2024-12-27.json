@@ -1,0 +1,81 @@
+{
+	"timestamp": "2024-12-27T09:31:53.584Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 46.59
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.45
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 28.33
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 22.18
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 21.86
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 19.23
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.66
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.79
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.99
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.1
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.62
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.65
+		},
+		{
+			"name": "Xenia",
+			"chance": 9.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.73
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.61
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.46
+		}
+	]
+}

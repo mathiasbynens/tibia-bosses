@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-26T09:32:23.488Z",
+	"timestamp": "2024-12-27T03:36:08.787Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.09
+			"chance": 70.09,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",

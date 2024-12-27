@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-26T09:32:14.230Z",
+	"timestamp": "2024-12-27T03:36:06.909Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -104,6 +105,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-26T09:31:59.438Z",
+	"timestamp": "2024-12-27T03:36:02.287Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -76,6 +76,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

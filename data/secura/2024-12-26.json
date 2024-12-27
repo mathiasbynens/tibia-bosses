@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-26T09:32:17.381Z",
+	"timestamp": "2024-12-27T03:36:07.455Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 34.08
+			"chance": 34.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.92
+			"chance": 20.92,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.51
+			"chance": 19.51,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.18
+			"chance": 12.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8
+			"chance": 8,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +96,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

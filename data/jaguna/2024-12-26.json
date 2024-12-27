@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-26T09:32:09.053Z",
+	"timestamp": "2024-12-27T03:36:04.648Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -72,6 +73,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.38
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

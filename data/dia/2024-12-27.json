@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-27T09:31:57.021Z",
+	"timestamp": "2024-12-28T03:35:01.538Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.21
+			"chance": 62.21,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.92
+			"chance": 14.92,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +112,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

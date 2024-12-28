@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-27T09:32:19.190Z",
+	"timestamp": "2024-12-28T03:35:09.084Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.17
+			"chance": 10.17,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -80,6 +81,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-27T09:32:12.951Z",
+	"timestamp": "2024-12-28T03:35:07.398Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.61
+			"chance": 8.61,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -76,6 +79,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

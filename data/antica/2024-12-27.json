@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-27T09:31:50.269Z",
+	"timestamp": "2024-12-28T03:34:59.657Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.77
+			"chance": 15.77,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.98
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

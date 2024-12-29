@@ -1,0 +1,61 @@
+{
+	"timestamp": "2024-12-29T09:31:24.889Z",
+	"bosses": [
+		{
+			"name": "The Welter",
+			"chance": 64.66
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 43.86
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 40.51
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 30.72
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.74
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 20.63
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.15
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.9
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.71
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.68
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.33
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.76
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.77
+		}
+	]
+}

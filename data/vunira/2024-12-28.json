@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-28T09:31:35.786Z",
+	"timestamp": "2024-12-29T03:38:30.374Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.98
+			"chance": 60.98,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.79
+			"chance": 31.79,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 31.77
+			"chance": 31.77,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.72
+			"chance": 21.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 16.62
+			"chance": 16.62,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +117,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.19
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

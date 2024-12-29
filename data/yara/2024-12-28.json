@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-28T09:31:38.356Z",
+	"timestamp": "2024-12-29T03:38:31.156Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 60.98
+			"chance": 60.98,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.72
+			"chance": 21.72,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -96,6 +100,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-28T09:31:20.946Z",
+	"timestamp": "2024-12-29T03:38:26.487Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.96
+			"chance": 52.96,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

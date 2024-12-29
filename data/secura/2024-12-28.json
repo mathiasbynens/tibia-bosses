@@ -1,21 +1,25 @@
 {
-	"timestamp": "2024-12-28T09:31:32.842Z",
+	"timestamp": "2024-12-29T03:38:29.429Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.09
+			"chance": 70.09,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.2
+			"chance": 40.2,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.62
+			"chance": 34.62,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.65
+			"chance": 25.65,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.07
+			"chance": 6.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -88,6 +94,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

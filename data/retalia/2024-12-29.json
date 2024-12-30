@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-29T09:31:32.422Z",
+	"timestamp": "2024-12-30T03:37:05.644Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.19
+			"chance": 40.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +113,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

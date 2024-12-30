@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-29T09:31:19.192Z",
+	"timestamp": "2024-12-30T03:37:00.478Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.67
+			"chance": 93.67,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -96,6 +100,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

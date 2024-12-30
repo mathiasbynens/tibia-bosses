@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-29T09:31:41.717Z",
+	"timestamp": "2024-12-30T03:37:07.696Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.98
+			"chance": 64.98,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.61
+			"chance": 17.61,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -80,6 +82,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

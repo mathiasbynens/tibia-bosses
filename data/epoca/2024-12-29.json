@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-29T09:31:24.889Z",
+	"timestamp": "2024-12-30T03:37:01.812Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.66
+			"chance": 64.66,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 40.51
+			"chance": 40.51,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -56,6 +58,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

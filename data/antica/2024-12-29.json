@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-29T09:31:15.577Z",
+	"timestamp": "2024-12-30T03:36:59.813Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.28
+			"chance": 53.28,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +104,11 @@
 		{
 			"name": "Xenia",
 			"chance": 5.76
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

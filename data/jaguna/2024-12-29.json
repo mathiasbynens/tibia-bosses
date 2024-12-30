@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-29T09:31:27.709Z",
+	"timestamp": "2024-12-30T03:37:02.887Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",

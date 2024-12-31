@@ -1,13 +1,15 @@
 {
-	"timestamp": "2024-12-30T09:32:41.237Z",
+	"timestamp": "2024-12-31T03:35:47.309Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.1
+			"chance": 81.1,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 43.72
+			"chance": 43.72,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.19
+			"chance": 12.19,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +108,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

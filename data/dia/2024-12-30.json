@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-30T09:32:48.261Z",
+	"timestamp": "2024-12-31T03:35:49.267Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.12
+			"chance": 31.12,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -96,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.27
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-30T09:33:02.116Z",
+	"timestamp": "2024-12-31T03:35:52.441Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.73
+			"chance": 20.73,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -112,6 +113,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

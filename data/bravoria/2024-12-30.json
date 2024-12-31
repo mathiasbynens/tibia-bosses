@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-30T09:32:44.424Z",
+	"timestamp": "2024-12-31T03:35:48.324Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.42
+			"chance": 11.42,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +114,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

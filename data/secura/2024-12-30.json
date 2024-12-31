@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-30T09:33:05.965Z",
+	"timestamp": "2024-12-31T03:35:53.255Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.21
+			"chance": 42.21,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.23
+			"chance": 34.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.12
+			"chance": 18.12,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.25
+			"chance": 14.25,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,11 +59,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.33
+			"chance": 13.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.46
+			"chance": 5.46,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +111,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.35
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

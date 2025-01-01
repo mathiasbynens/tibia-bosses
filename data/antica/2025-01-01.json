@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-01-01T09:31:56.571Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 54.02
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 32.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 29.44
+		},
+		{
+			"name": "Barbaria",
+			"chance": 25.41
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.1
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.47
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.27
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.16
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.07
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.78
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.57
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.48
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.88
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.06
+		}
+	]
+}

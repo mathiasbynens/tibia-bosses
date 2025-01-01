@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-31T09:32:04.527Z",
+	"timestamp": "2025-01-01T03:40:04.977Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.57
+			"chance": 9.57,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -64,6 +65,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

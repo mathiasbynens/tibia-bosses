@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-31T09:31:56.640Z",
+	"timestamp": "2025-01-01T03:40:02.515Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 35.85
+			"chance": 35.85,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.93
+			"chance": 11.93,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.7
+			"chance": 3.7,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +121,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

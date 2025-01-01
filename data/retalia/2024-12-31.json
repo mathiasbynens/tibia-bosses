@@ -1,5 +1,5 @@
 {
-	"timestamp": "2024-12-31T09:31:53.707Z",
+	"timestamp": "2025-01-01T03:40:01.870Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.23
+			"chance": 29.23,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -116,6 +118,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

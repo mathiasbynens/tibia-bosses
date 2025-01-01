@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-31T09:32:01.223Z",
+	"timestamp": "2025-01-01T03:40:03.882Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.96
+			"chance": 36.96,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -108,6 +109,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.45
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

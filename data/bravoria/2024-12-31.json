@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-31T09:31:39.317Z",
+	"timestamp": "2025-01-01T03:39:58.943Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.94
+			"chance": 61.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +106,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

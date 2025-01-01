@@ -1,9 +1,10 @@
 {
-	"timestamp": "2024-12-31T09:31:41.874Z",
+	"timestamp": "2025-01-01T03:39:59.639Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 32.84
+			"chance": 32.84,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,15 +53,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.81
+			"chance": 16.81,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.74
+			"chance": 15.74,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.73
+			"chance": 15.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.63
+			"chance": 9.63,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -116,6 +122,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-01T09:32:26.988Z",
+	"timestamp": "2025-01-02T03:36:25.009Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.01
+			"chance": 64.01,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 26.54
+			"chance": 26.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23
+			"chance": 23,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -72,6 +76,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

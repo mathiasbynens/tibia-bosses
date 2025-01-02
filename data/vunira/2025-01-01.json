@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-01T09:32:23.972Z",
+	"timestamp": "2025-01-02T03:36:24.242Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.1
+			"chance": 29.1,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.17
+			"chance": 23.17,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.1
+			"chance": 20.1,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -103,11 +106,27 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 4.47
+			"chance": 4.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 4.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

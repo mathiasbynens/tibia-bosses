@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-01-02T09:32:01.451Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 41.12
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 41.01
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.85
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.77
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.28
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.84
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.38
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.42
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.1
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.21
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.53
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.23
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.38
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.24
+		}
+	]
+}

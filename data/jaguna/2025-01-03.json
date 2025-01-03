@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-01-03T09:32:26.108Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.09
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 35.22
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.83
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.43
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 27.34
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.46
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 20.51
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.69
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.27
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.71
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.68
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.38
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.13
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-02T09:32:28.806Z",
+	"timestamp": "2025-01-03T03:36:42.642Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.83
+			"chance": 71.83,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -72,6 +74,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

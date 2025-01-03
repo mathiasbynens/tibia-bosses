@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-02T09:32:11.349Z",
+	"timestamp": "2025-01-03T03:36:38.893Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -52,6 +53,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

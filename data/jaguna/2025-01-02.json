@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-02T09:32:14.218Z",
+	"timestamp": "2025-01-03T03:36:39.512Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.82
+			"chance": 39.82,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.13
+			"chance": 31.13,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -60,6 +62,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

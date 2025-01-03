@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-02T09:32:26.118Z",
+	"timestamp": "2025-01-03T03:36:42.057Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.38
+			"chance": 12.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.58
+			"chance": 8.58,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.74
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

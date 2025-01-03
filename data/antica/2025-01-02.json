@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-02T09:32:01.451Z",
+	"timestamp": "2025-01-03T03:36:36.966Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 41.01
+			"chance": 41.01,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.21
+			"chance": 10.21,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -72,6 +74,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

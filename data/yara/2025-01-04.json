@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-01-04T09:31:37.674Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 41.35
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.55
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.7
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 37.19
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 35.19
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.66
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 26.29
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.02
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.58
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.51
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.82
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.64
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.74
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.72
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.67
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.09
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.66
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.75
+		}
+	]
+}

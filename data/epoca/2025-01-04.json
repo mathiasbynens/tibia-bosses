@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-01-04T09:31:20.994Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.02
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 30.25
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 30.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 28.24
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.54
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.79
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.29
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.43
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.25
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.28
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4
+		}
+	]
+}

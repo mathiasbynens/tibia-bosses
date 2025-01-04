@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-03T09:32:22.972Z",
+	"timestamp": "2025-01-04T03:35:42.597Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -48,6 +48,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

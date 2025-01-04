@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-03T09:32:19.544Z",
+	"timestamp": "2025-01-04T03:35:42.018Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 66.19
+			"chance": 66.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.36
+			"chance": 53.36,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.56
+			"chance": 19.56,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.58
+			"chance": 10.58,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

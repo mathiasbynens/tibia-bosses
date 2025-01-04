@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-03T09:32:26.108Z",
+	"timestamp": "2025-01-04T03:35:43.294Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.43
+			"chance": 29.43,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -56,6 +57,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

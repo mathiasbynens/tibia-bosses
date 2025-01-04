@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-03T09:32:34.743Z",
+	"timestamp": "2025-01-04T03:35:45.092Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.02
+			"chance": 64.02,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.01
+			"chance": 20.01,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.82
+			"chance": 12.82,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -100,6 +104,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.09
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

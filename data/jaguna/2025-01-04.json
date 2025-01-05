@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-04T09:31:23.978Z",
+	"timestamp": "2025-01-05T03:37:57.823Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.36
+			"chance": 53.36,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 29.16
+			"chance": 29.16,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -64,6 +67,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

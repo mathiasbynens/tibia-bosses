@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-04T09:31:14.926Z",
+	"timestamp": "2025-01-05T03:37:55.441Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 79.87
+			"chance": 79.87,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.55
+			"chance": 39.55,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.72
+			"chance": 4.72,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +93,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

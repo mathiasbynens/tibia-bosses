@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-04T09:31:34.626Z",
+	"timestamp": "2025-01-05T03:38:00.735Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 34.04
+			"chance": 34.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.1
+			"chance": 11.1,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -103,11 +107,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.01
+			"chance": 7.01,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.8
+			"chance": 6.8,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -116,6 +122,11 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.66
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

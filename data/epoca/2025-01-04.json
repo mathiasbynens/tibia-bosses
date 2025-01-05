@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-04T09:31:20.994Z",
+	"timestamp": "2025-01-05T03:37:57.069Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.24
+			"chance": 28.24,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -56,6 +57,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

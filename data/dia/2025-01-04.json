@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-04T09:31:18.234Z",
+	"timestamp": "2025-01-05T03:37:56.219Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.13
+			"chance": 13.13,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.59
+			"chance": 8.59,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -96,6 +100,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.41
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-01-06T09:33:30.964Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 78.92
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 53.16
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.14
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.82
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.08
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 16.86
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.73
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.01
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.63
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.4
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.97
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.95
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.11
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.2
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 4.46
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.2
+		}
+	]
+}

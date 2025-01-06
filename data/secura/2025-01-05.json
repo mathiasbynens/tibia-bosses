@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-05T09:31:41.145Z",
+	"timestamp": "2025-01-06T03:38:08.755Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.16
+			"chance": 40.16,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.57
+			"chance": 27.57,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.57
+			"chance": 21.57,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.8
+			"chance": 17.8,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -100,6 +105,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

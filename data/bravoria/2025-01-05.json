@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-05T09:31:23.152Z",
+	"timestamp": "2025-01-06T03:38:02.983Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.89
+			"chance": 23.89,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -96,6 +98,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

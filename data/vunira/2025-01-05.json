@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-05T09:31:44.177Z",
+	"timestamp": "2025-01-06T03:38:09.668Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.27
+			"chance": 42.27,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.93
+			"chance": 22.93,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.64
+			"chance": 19.64,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.61
+			"chance": 9.61,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.25
+			"chance": 9.25,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -127,11 +133,22 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

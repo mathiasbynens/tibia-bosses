@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-01-07T09:32:58.883Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.37
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 52.92
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.44
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.03
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.87
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.19
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.34
+		},
+		{
+			"name": "Hirintror",
+			"chance": 16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.06
+		},
+		{
+			"name": "yeti",
+			"chance": 11.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.12
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.6
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.36
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-06T09:33:30.964Z",
+	"timestamp": "2025-01-07T03:37:01.309Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 78.92
+			"chance": 78.92,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

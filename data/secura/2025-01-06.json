@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-06T09:33:25.244Z",
+	"timestamp": "2025-01-07T03:36:59.992Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.31
+			"chance": 34.31,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

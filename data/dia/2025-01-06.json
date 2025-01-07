@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-06T09:33:10.591Z",
+	"timestamp": "2025-01-07T03:36:55.917Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.44
+			"chance": 29.44,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.83
+			"chance": 26.83,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.72
+			"chance": 21.72,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.5
+			"chance": 13.5,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.55
+			"chance": 10.55,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 6.85
+			"chance": 6.85,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +98,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.72
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

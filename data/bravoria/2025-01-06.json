@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-06T09:33:07.627Z",
+	"timestamp": "2025-01-07T03:36:55.113Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 28.24
+			"chance": 28.24,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.69
+			"chance": 13.69,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.9
+			"chance": 4.9,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

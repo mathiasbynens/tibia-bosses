@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-01-06T09:33:28.231Z",
+	"timestamp": "2025-01-07T03:37:00.684Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.16
+			"chance": 53.16,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.19
+			"chance": 40.19,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.62
+			"chance": 35.62,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.1
+			"chance": 34.1,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -124,6 +128,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

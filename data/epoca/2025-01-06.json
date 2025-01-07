@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-06T09:33:13.391Z",
+	"timestamp": "2025-01-07T03:36:56.793Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.98
+			"chance": 66.98,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.76
+			"chance": 66.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.84
+			"chance": 25.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",

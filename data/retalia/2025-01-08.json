@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-01-08T09:32:48.493Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 28.44
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.15
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.71
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.57
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 20.46
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.12
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.15
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.1
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.03
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16.06
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.17
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.82
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.86
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.04
+		},
+		{
+			"name": "Xenia",
+			"chance": 9.02
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.13
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.2
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.38
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.86
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.43
+		}
+	]
+}

@@ -1,0 +1,145 @@
+{
+	"timestamp": "2025-01-08T09:32:51.193Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.29
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.66
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 35.74
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.44
+		},
+		{
+			"name": "The Imperor",
+			"chance": 25.89
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.73
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 23.08
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 20.49
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.66
+		},
+		{
+			"name": "Dracola",
+			"chance": 19.08
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.04
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.77
+		},
+		{
+			"name": "Omrafir",
+			"chance": 17.06
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.9
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.84
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.31
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.56
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.97
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.95
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.12
+		},
+		{
+			"name": "yeti",
+			"chance": 10.61
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.7
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.08
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.4
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.29
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.02
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 6.94
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 6.87
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.78
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.59
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.91
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.72
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.32
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.19
+		}
+	]
+}

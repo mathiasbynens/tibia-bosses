@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-07T09:33:02.179Z",
+	"timestamp": "2025-01-08T03:36:09.717Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -72,6 +74,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-07T09:33:07.716Z",
+	"timestamp": "2025-01-08T03:36:10.970Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.72
+			"chance": 18.72,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.86
+			"chance": 15.86,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",

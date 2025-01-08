@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-07T09:33:15.106Z",
+	"timestamp": "2025-01-08T03:36:12.264Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.38
+			"chance": 43.38,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.83
+			"chance": 16.83,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.58
+			"chance": 10.58,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -116,6 +120,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

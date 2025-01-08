@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-07T09:32:55.587Z",
+	"timestamp": "2025-01-08T03:36:08.424Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.1
+			"chance": 13.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

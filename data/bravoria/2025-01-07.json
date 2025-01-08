@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-01-07T09:32:52.334Z",
+	"timestamp": "2025-01-08T03:36:07.642Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
-			"chance": 35.15
+			"chance": 35.15,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.19
+			"chance": 29.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,15 +22,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -35,7 +41,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.83
+			"chance": 16.83,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +107,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.43
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

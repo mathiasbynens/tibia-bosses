@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-07T09:32:49.287Z",
+	"timestamp": "2025-01-08T03:36:06.900Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 32.38
+			"chance": 32.38,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.99
+			"chance": 20.99,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.53
+			"chance": 14.53,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -95,11 +99,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.31
+			"chance": 9.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +122,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

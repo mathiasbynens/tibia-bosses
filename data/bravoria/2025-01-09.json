@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-01-09T09:32:42.216Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.12
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "Massacre",
+			"chance": 28.52
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 26.89
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.73
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.14
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.96
+		},
+		{
+			"name": "yeti",
+			"chance": 17.82
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.73
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 15.66
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 15.48
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.47
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.41
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.81
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.17
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.11
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 6.2
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.2
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.24
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.44
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.92
+		}
+	]
+}

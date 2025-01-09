@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-08T09:32:48.493Z",
+	"timestamp": "2025-01-09T03:42:37.904Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -88,6 +88,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.43
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

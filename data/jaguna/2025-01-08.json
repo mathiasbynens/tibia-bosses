@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-08T09:32:43.849Z",
+	"timestamp": "2025-01-09T03:42:36.601Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.98
+			"chance": 64.98,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -84,6 +86,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.19
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

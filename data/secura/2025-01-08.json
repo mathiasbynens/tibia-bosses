@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-08T09:32:51.193Z",
+	"timestamp": "2025-01-09T03:42:38.392Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 35.74
+			"chance": 35.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.73
+			"chance": 25.73,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.61
+			"chance": 10.61,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -115,7 +121,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 6.87
+			"chance": 6.87,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -140,6 +147,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.19
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

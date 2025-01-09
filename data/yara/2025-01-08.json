@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-08T09:32:56.853Z",
+	"timestamp": "2025-01-09T03:42:39.724Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -64,6 +64,11 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 6.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-08T09:32:34.126Z",
+	"timestamp": "2025-01-09T03:42:34.758Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.55
+			"chance": 19.55,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -84,6 +85,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.22
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

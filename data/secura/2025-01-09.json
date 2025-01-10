@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-09T09:33:00.356Z",
+	"timestamp": "2025-01-10T03:37:17.884Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.15
+			"chance": 74.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.11
+			"chance": 33.11,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.71
+			"chance": 21.71,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,15 +66,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -119,7 +125,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.74
+			"chance": 5.74,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -132,6 +139,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

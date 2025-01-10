@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-09T09:32:42.216Z",
+	"timestamp": "2025-01-10T03:37:12.897Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.12
+			"chance": 42.12,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 26.89
+			"chance": 26.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

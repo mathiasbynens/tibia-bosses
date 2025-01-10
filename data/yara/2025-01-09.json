@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-09T09:33:07.980Z",
+	"timestamp": "2025-01-10T03:37:19.554Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.17
+			"chance": 12.17,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -80,6 +82,16 @@
 		{
 			"name": "Ghazbaran",
 			"chance": 8.17
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

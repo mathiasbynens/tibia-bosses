@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-09T09:32:51.794Z",
+	"timestamp": "2025-01-10T03:37:15.554Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -76,6 +77,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.19
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

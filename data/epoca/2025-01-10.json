@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-01-10T09:32:43.718Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.08
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 34.57
+		},
+		{
+			"name": "Hirintror",
+			"chance": 34.15
+		},
+		{
+			"name": "yeti",
+			"chance": 26.63
+		},
+		{
+			"name": "midnight panther",
+			"chance": 19.02
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.74
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.86
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 13.96
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.69
+		}
+	]
+}

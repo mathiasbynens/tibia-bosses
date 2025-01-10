@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-01-10T09:32:34.983Z",
+	"bosses": [
+		{
+			"name": "The Handmaiden",
+			"chance": 29.27
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.14
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.16
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.32
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.54
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.71
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.59
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.97
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.56
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.03
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.37
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.81
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.11
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.82
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.09
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.08
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 7.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.92
+		},
+		{
+			"name": "The Abomination",
+			"chance": 4.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.81
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.47
+		}
+	]
+}

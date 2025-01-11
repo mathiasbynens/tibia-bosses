@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-10T09:32:40.695Z",
+	"timestamp": "2025-01-11T03:36:30.691Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.55
+			"chance": 38.55,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.72
+			"chance": 15.72,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -115,7 +119,33 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.47
+			"chance": 3.47,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

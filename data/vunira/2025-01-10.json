@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-10T09:32:57.873Z",
+	"timestamp": "2025-01-11T03:36:35.675Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.09
+			"chance": 70.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.42
+			"chance": 22.42,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.74
+			"chance": 20.74,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.78
+			"chance": 19.78,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -95,7 +99,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.71
+			"chance": 2.71,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

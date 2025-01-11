@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-10T09:32:51.319Z",
+	"timestamp": "2025-01-11T03:36:33.901Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.06
+			"chance": 61.06,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.62
+			"chance": 35.62,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.87
+			"chance": 16.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.23
+			"chance": 8.23,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +112,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.38
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

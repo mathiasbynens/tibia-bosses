@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-10T09:32:37.978Z",
+	"timestamp": "2025-01-11T03:36:29.391Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -96,6 +97,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

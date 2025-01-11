@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-10T09:32:34.983Z",
+	"timestamp": "2025-01-11T03:36:28.380Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.16
+			"chance": 23.16,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.32
+			"chance": 22.32,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -88,6 +91,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

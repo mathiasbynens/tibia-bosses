@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-01-12T09:31:32.088Z",
+	"bosses": [
+		{
+			"name": "yeti",
+			"chance": 37.86
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 32.65
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 24.53
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.2
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19
+		},
+		{
+			"name": "General Murius",
+			"chance": 14.89
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.3
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.27
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.86
+		}
+	]
+}

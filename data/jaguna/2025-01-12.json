@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-01-12T09:31:35.096Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.42
+		},
+		{
+			"name": "Massacre",
+			"chance": 45.53
+		},
+		{
+			"name": "Dracola",
+			"chance": 32.99
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 31.65
+		},
+		{
+			"name": "The Imperor",
+			"chance": 25.8
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 22.59
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.77
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.14
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.89
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 11.95
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.94
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.87
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.1
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.54
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 7
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.37
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.42
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.7
+		}
+	]
+}

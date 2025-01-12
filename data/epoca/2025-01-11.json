@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-11T09:31:22.132Z",
+	"timestamp": "2025-01-12T03:38:56.457Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 51.68
+			"chance": 51.68,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -36,6 +37,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 6.41
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

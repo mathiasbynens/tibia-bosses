@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-11T09:31:19.220Z",
+	"timestamp": "2025-01-12T03:38:55.868Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.03
+			"chance": 65.03,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -79,11 +82,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.73
+			"chance": 10.73,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.84
+			"chance": 5.84,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -120,6 +126,46 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-11T09:31:39.380Z",
+	"timestamp": "2025-01-12T03:39:00.911Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.02
+			"chance": 9.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +77,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.37
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

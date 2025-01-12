@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-11T09:31:16.313Z",
+	"timestamp": "2025-01-12T03:38:55.114Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -103,11 +105,17 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.47
+			"chance": 6.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.82
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

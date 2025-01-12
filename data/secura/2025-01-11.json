@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-11T09:31:33.424Z",
+	"timestamp": "2025-01-12T03:38:59.522Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 47.01
+			"chance": 47.01,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.66
+			"chance": 46.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.95
+			"chance": 34.95,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.32
+			"chance": 29.32,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.43
+			"chance": 18.43,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.21
+			"chance": 6.21,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -124,6 +130,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.82
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

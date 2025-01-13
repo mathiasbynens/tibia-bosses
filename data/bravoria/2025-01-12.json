@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-12T09:31:25.877Z",
+	"timestamp": "2025-01-13T03:38:49.008Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.2
+			"chance": 81.2,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.66
+			"chance": 37.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.53
+			"chance": 30.53,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19
+			"chance": 19,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,7 +110,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -120,6 +128,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.22
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

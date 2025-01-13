@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-12T09:31:29.037Z",
+	"timestamp": "2025-01-13T03:38:49.810Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.08
+			"chance": 70.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 36.38
+			"chance": 36.38,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.16
+			"chance": 31.16,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 24.8
+			"chance": 24.8,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +105,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

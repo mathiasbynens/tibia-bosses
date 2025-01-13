@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-12T09:31:49.753Z",
+	"timestamp": "2025-01-13T03:38:55.254Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 14.6
+			"chance": 14.6,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

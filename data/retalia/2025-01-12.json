@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-12T09:31:40.461Z",
+	"timestamp": "2025-01-13T03:38:53.283Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.58
+			"chance": 10.58,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -103,7 +105,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +119,11 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 4.9
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

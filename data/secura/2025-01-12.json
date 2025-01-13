@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-01-12T09:31:43.829Z",
+	"timestamp": "2025-01-13T03:38:53.849Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 34.16
+			"chance": 34.16,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.16
+			"chance": 31.16,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.57
+			"chance": 30.57,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,15 +35,18 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.55
+			"chance": 23.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.33
+			"chance": 20.33,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +54,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 17.17
+			"chance": 17.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,11 +63,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,7 +85,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +98,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -116,6 +128,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

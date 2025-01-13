@@ -1,0 +1,89 @@
+{
+	"timestamp": "2025-01-13T09:33:38.160Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.22
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.55
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 34.46
+		},
+		{
+			"name": "Massacre",
+			"chance": 30.35
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.23
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.73
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.64
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.09
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.88
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.02
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.93
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.86
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.39
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.27
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.3
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.23
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.07
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.67
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.24
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.52
+		}
+	]
+}

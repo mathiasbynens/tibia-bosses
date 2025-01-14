@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-01-13T09:33:19.062Z",
+	"timestamp": "2025-01-14T03:33:43.886Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 78.92
+			"chance": 78.92,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.1
+			"chance": 29.1,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -104,6 +108,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-13T09:33:35.076Z",
+	"timestamp": "2025-01-14T03:33:47.091Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.42
+			"chance": 81.42,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.74
+			"chance": 18.74,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -116,6 +121,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

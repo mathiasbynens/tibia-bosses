@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-13T09:33:14.888Z",
+	"timestamp": "2025-01-14T03:33:43.319Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -124,6 +127,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

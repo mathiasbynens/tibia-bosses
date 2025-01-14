@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-13T09:33:42.382Z",
+	"timestamp": "2025-01-14T03:33:48.269Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.2
+			"chance": 74.2,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 23.32
+			"chance": 23.32,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.83
+			"chance": 9.83,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.59
+			"chance": 5.59,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +109,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

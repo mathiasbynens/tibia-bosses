@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-13T09:33:45.498Z",
+	"timestamp": "2025-01-14T03:33:48.829Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.14
+			"chance": 67.14,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.76
+			"chance": 66.76,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 52.86
+			"chance": 52.86,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.23
+			"chance": 7.23,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -92,6 +97,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

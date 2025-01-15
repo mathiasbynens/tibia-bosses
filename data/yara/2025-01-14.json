@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-14T09:32:31.768Z",
+	"timestamp": "2025-01-15T03:34:23.024Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 68.59
+			"chance": 68.59,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 14.78
+			"chance": 14.78,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -72,6 +74,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

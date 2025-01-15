@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-14T09:32:17.124Z",
+	"timestamp": "2025-01-15T03:34:18.734Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -80,6 +81,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

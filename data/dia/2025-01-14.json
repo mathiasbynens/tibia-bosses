@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-01-14T09:32:10.585Z",
+	"timestamp": "2025-01-15T03:34:17.134Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.98
+			"chance": 63.98,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 45.51
+			"chance": 45.51,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.16
+			"chance": 42.16,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -80,6 +85,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

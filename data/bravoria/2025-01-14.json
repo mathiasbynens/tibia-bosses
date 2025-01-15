@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-14T09:32:07.644Z",
+	"timestamp": "2025-01-15T03:34:16.049Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 31.2
+			"chance": 31.2,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.22
+			"chance": 5.22,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +104,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

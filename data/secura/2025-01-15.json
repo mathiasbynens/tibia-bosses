@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-01-15T09:32:11.551Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 41.61
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 35.83
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.03
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.85
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.27
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.57
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.27
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.19
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 11.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.89
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.56
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.93
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.77
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.9
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 4.91
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.9
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.76
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.5
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.24
+		}
+	]
+}

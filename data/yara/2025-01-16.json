@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-01-16T09:32:02.230Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.08
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 43.3
+		},
+		{
+			"name": "Tyrn",
+			"chance": 39.41
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 31.95
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.43
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 21.38
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 19.01
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.52
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 17.26
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.17
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.53
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.17
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.41
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.39
+		}
+	]
+}

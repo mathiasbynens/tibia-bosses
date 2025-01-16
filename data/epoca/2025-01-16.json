@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-01-16T09:31:45.170Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 65.48
+		},
+		{
+			"name": "General Murius",
+			"chance": 59.79
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.85
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.57
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.12
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.76
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.75
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.7
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.68
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.17
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 3.74
+		}
+	]
+}

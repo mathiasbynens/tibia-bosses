@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-01-15T09:31:48.417Z",
+	"timestamp": "2025-01-16T03:34:16.442Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.02
+			"chance": 44.02,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.68
+			"chance": 30.68,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 9.94
+			"chance": 9.94,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -100,6 +105,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

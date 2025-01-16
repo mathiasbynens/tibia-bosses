@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-15T09:32:11.551Z",
+	"timestamp": "2025-01-16T03:34:20.652Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 41.61
+			"chance": 41.61,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.83
+			"chance": 35.83,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.27
+			"chance": 18.27,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -76,6 +80,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

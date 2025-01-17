@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-01-17T09:31:54.209Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.65
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 28.42
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.1
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.78
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.26
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.74
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.71
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.21
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.25
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.39
+		}
+	]
+}

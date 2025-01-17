@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-16T09:31:42.478Z",
+	"timestamp": "2025-01-17T03:34:35.036Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.21
+			"chance": 29.21,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.01
+			"chance": 21.01,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.9
+			"chance": 6.9,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.4
+			"chance": 6.4,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -96,6 +102,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

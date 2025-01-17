@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-16T09:31:56.383Z",
+	"timestamp": "2025-01-17T03:34:39.299Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.35
+			"chance": 13.35,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.81
+			"chance": 4.81,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +87,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-16T09:31:36.721Z",
+	"timestamp": "2025-01-17T03:34:33.170Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.11
+			"chance": 29.11,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

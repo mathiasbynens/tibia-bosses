@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-16T09:31:59.634Z",
+	"timestamp": "2025-01-17T03:34:40.245Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 59.79
+			"chance": 59.79,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 36.39
+			"chance": 36.39,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.83
+			"chance": 25.83,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.07
+			"chance": 22.07,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.6
+			"chance": 19.6,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -108,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-16T09:31:45.170Z",
+	"timestamp": "2025-01-17T03:34:35.795Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.12
+			"chance": 25.12,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

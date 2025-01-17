@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-16T09:31:48.902Z",
+	"timestamp": "2025-01-17T03:34:36.734Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -39,11 +39,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -80,6 +82,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

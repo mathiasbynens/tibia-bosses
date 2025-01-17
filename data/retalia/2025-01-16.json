@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-16T09:31:53.631Z",
+	"timestamp": "2025-01-17T03:34:38.369Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.5
+			"chance": 39.5,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 13.56
+			"chance": 13.56,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.91
+			"chance": 12.91,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -76,6 +79,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

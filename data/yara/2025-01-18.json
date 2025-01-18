@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-01-18T09:31:41.561Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 80.06
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.2
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 27.22
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.88
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.79
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.59
+		},
+		{
+			"name": "White Pale",
+			"chance": 15.05
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.78
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.18
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.68
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.79
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.46
+		}
+	]
+}

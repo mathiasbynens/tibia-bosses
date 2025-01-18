@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-17T09:31:42.177Z",
+	"timestamp": "2025-01-18T03:33:32.563Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.35
+			"chance": 39.35,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 25
+			"chance": 25,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -92,6 +95,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-17T09:31:45.116Z",
+	"timestamp": "2025-01-18T03:33:33.284Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.02
+			"chance": 64.02,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.11
+			"chance": 24.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 5.89
+			"chance": 5.89,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -52,6 +55,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

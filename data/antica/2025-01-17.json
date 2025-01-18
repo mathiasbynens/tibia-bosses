@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-17T09:31:36.324Z",
+	"timestamp": "2025-01-18T03:33:30.846Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 20.48
+			"chance": 20.48,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.35
+			"chance": 13.35,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -104,6 +107,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.6
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

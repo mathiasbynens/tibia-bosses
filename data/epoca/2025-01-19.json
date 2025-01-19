@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-01-19T09:31:25.592Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.11
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 34.7
+		},
+		{
+			"name": "Barbaria",
+			"chance": 23.53
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.65
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.94
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.44
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.56
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.69
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.71
+		}
+	]
+}

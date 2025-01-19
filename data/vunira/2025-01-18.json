@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-18T09:31:38.779Z",
+	"timestamp": "2025-01-19T03:35:20.649Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.5
+			"chance": 15.5,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.19
+			"chance": 7.19,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -108,6 +110,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.46
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

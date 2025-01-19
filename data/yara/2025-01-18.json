@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-18T09:31:41.561Z",
+	"timestamp": "2025-01-19T03:35:21.226Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -56,6 +56,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.46
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

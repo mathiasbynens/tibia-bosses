@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-18T09:31:20.590Z",
+	"timestamp": "2025-01-19T03:35:17.055Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 41.31
+			"chance": 41.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 20.95
+			"chance": 20.95,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.27
+			"chance": 5.27,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

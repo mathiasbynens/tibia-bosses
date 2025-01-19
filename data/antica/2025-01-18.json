@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-18T09:31:14.196Z",
+	"timestamp": "2025-01-19T03:35:15.698Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 36.52
+			"chance": 36.52,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.84
+			"chance": 33.84,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.76
+			"chance": 24.76,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 8.76
+			"chance": 8.76,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -124,6 +128,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.33
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

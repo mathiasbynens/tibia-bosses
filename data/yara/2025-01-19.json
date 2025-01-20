@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-19T09:31:41.813Z",
+	"timestamp": "2025-01-20T03:35:36.420Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.11
+			"chance": 24.11,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 14.77
+			"chance": 14.77,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -60,6 +62,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.21
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

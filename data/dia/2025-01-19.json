@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-19T09:31:21.635Z",
+	"timestamp": "2025-01-20T03:35:31.141Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.12
+			"chance": 70.12,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.96
+			"chance": 61.96,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.64
+			"chance": 19.64,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

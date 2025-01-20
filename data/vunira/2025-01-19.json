@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-19T09:31:39.028Z",
+	"timestamp": "2025-01-20T03:35:35.718Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 29.92
+			"chance": 29.92,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.98
+			"chance": 23.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -112,6 +115,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

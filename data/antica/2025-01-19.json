@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-19T09:31:16.075Z",
+	"timestamp": "2025-01-20T03:35:29.090Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.19
+			"chance": 81.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.54
+			"chance": 38.54,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,11 +61,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -124,6 +128,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

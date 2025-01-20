@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-19T09:31:28.183Z",
+	"timestamp": "2025-01-20T03:35:32.694Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.05
+			"chance": 67.05,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.86
+			"chance": 66.86,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -56,6 +58,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

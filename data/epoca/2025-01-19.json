@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-19T09:31:25.592Z",
+	"timestamp": "2025-01-20T03:35:31.911Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -44,6 +44,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.71
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

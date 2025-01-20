@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-19T09:31:36.275Z",
+	"timestamp": "2025-01-20T03:35:34.848Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.13
+			"chance": 22.13,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -112,6 +117,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.46
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

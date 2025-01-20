@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-01-20T09:32:56.081Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 77.23
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 29
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 28.99
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.61
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.54
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.65
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 11.81
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.13
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.11
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 5.4
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.37
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.36
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.19
+		}
+	]
+}

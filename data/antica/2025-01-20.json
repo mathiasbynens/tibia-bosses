@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-20T09:32:29.490Z",
+	"timestamp": "2025-01-21T03:33:58.146Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.53
+			"chance": 23.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.56
+			"chance": 17.56,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.91
+			"chance": 7.91,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +122,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.71
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

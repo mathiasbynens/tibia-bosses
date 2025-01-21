@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-01-21T09:32:21.137Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 26.43
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.04
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "The Welter",
+			"chance": 14.8
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.4
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.17
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.24
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.34
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.69
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.38
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 5.91
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.63
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.49
+		}
+	]
+}

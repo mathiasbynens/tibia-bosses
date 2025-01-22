@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-21T09:32:17.645Z",
+	"timestamp": "2025-01-22T03:35:21.958Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 28
+			"chance": 28,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.65
+			"chance": 19.65,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -108,6 +111,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

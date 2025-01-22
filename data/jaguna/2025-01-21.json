@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-21T09:32:25.216Z",
+	"timestamp": "2025-01-22T03:35:23.350Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.12
+			"chance": 70.12,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 59.16
+			"chance": 59.16,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-01-23T09:32:56.888Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 34.15
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.47
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.59
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.04
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.96
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 19.2
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.65
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.96
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.59
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.82
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.77
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.35
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.08
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 8.47
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.02
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.5
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.21
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.89
+		}
+	]
+}

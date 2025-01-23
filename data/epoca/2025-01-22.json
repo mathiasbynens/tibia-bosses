@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-22T09:32:28.538Z",
+	"timestamp": "2025-01-23T03:34:23.024Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

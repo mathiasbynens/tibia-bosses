@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-22T09:32:43.543Z",
+	"timestamp": "2025-01-23T03:34:27.904Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.9
+			"chance": 71.9,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.13
+			"chance": 61.13,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28
+			"chance": 28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.42
+			"chance": 11.42,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.98
+			"chance": 7.98,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -108,6 +114,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.41
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

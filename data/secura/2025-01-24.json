@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-01-24T09:32:16.178Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 77.72
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.69
+		},
+		{
+			"name": "Barbaria",
+			"chance": 25.27
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.13
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.25
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 21.85
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.12
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.67
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.47
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.23
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.81
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.43
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.76
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.62
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.67
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.61
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.4
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.4
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.07
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.89
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.81
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 3.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.48
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-23T09:32:56.888Z",
+	"timestamp": "2025-01-24T03:34:39.184Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -72,6 +73,21 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.89
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

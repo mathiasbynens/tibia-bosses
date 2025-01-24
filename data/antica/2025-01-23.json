@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-23T09:32:39.515Z",
+	"timestamp": "2025-01-24T03:34:34.014Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.26
+			"chance": 43.26,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 27.14
+			"chance": 27.14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.86
+			"chance": 18.86,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -88,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-23T09:32:48.963Z",
+	"timestamp": "2025-01-24T03:34:36.834Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 23.27
+			"chance": 23.27,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -56,6 +57,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.89
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

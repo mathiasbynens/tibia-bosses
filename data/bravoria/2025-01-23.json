@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-23T09:32:43.116Z",
+	"timestamp": "2025-01-24T03:34:35.011Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.97
+			"chance": 21.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -80,6 +84,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-24T09:31:55.745Z",
+	"timestamp": "2025-01-25T03:33:21.093Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +93,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.38
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

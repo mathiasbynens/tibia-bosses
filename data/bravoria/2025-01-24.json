@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-24T09:31:59.274Z",
+	"timestamp": "2025-01-25T03:33:21.740Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
-			"chance": 29.09
+			"chance": 29.09,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -76,6 +77,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.57
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

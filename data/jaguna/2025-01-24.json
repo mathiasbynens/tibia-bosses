@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-24T09:32:08.287Z",
+	"timestamp": "2025-01-25T03:33:23.633Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.69
+			"chance": 15.69,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -84,6 +86,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.02
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

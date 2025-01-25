@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-01-24T09:32:13.062Z",
+	"timestamp": "2025-01-25T03:33:24.913Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 34.67
+			"chance": 34.67,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.46
+			"chance": 34.46,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -83,19 +88,32 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.66
+			"chance": 5.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.38
+			"chance": 5.38,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.38
+			"chance": 5.38,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

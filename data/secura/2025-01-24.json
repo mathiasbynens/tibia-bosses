@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-24T09:32:16.178Z",
+	"timestamp": "2025-01-25T03:33:25.566Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 77.72
+			"chance": 77.72,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,19 +12,23 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.27
+			"chance": 25.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.13
+			"chance": 24.13,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.25
+			"chance": 22.25,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -92,6 +97,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

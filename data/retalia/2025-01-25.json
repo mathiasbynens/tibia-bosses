@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-25T09:31:41.971Z",
+	"timestamp": "2025-01-26T03:34:14.760Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 9.46
+			"chance": 9.46,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -72,6 +75,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.76
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

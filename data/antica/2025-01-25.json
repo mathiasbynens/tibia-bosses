@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-25T09:31:23.059Z",
+	"timestamp": "2025-01-26T03:34:10.443Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.2
+			"chance": 30.2,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.02
+			"chance": 30.02,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.54
+			"chance": 8.54,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -103,11 +107,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.69
+			"chance": 6.69,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -120,6 +126,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

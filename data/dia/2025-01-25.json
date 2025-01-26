@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-25T09:31:30.370Z",
+	"timestamp": "2025-01-26T03:34:12.026Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.34
+			"chance": 20.34,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.62
+			"chance": 16.62,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.53
+			"chance": 16.53,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,11 +92,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.01
+			"chance": 9.01,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.6
+			"chance": 8.6,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +119,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.48
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-25T09:31:47.992Z",
+	"timestamp": "2025-01-26T03:34:16.311Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 70.89
+			"chance": 70.89,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 70.32
+			"chance": 70.32,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.77
+			"chance": 8.77,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +92,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

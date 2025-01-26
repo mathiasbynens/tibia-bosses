@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-01-26T09:31:16.249Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 51.37
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.18
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 28.35
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.75
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 21.74
+		},
+		{
+			"name": "Zushuka",
+			"chance": 18.08
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 16.94
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.67
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.11
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.98
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 7.85
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.48
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.79
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-26T09:31:26.768Z",
+	"timestamp": "2025-01-27T03:35:13.803Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.66
+			"chance": 35.66,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.08
+			"chance": 22.08,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.72
+			"chance": 20.72,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,11 +83,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.63
+			"chance": 8.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.96
+			"chance": 6.96,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -124,6 +131,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.1
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

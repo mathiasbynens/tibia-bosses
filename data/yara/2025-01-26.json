@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-26T09:31:33.180Z",
+	"timestamp": "2025-01-27T03:35:15.141Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.99
+			"chance": 14.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

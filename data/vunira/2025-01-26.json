@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-26T09:31:30.234Z",
+	"timestamp": "2025-01-27T03:35:14.553Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.28
+			"chance": 23.28,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -87,11 +91,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.21
+			"chance": 7.21,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -112,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.48
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-26T09:31:23.673Z",
+	"timestamp": "2025-01-27T03:35:13.261Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.14
+			"chance": 42.14,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

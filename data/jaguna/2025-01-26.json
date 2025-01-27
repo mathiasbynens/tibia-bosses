@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-26T09:31:19.290Z",
+	"timestamp": "2025-01-27T03:35:11.940Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 64.97
+			"chance": 64.97,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.38
+			"chance": 13.38,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -84,6 +86,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.23
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

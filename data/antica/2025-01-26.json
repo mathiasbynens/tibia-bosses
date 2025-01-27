@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-01-26T09:31:07.694Z",
+	"timestamp": "2025-01-27T03:35:09.057Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.13
+			"chance": 70.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.38
+			"chance": 53.38,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 35.37
+			"chance": 35.37,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.77
+			"chance": 12.77,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.34
+			"chance": 12.34,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +121,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.89
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

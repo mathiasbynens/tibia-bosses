@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-01-27T09:32:52.561Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 46.7
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 32.52
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 23.58
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.21
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.56
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.28
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.53
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.42
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.56
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.51
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.75
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.14
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.63
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.9
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.55
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.78
+		}
+	]
+}

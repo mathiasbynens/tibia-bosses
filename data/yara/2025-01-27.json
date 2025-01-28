@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-27T09:33:01.457Z",
+	"timestamp": "2025-01-28T03:34:14.384Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 31.24
+			"chance": 31.24,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 16.16
+			"chance": 16.16,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -64,6 +67,16 @@
 		{
 			"name": "Ferumbras",
 			"chance": 6.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

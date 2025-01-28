@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-27T09:32:58.099Z",
+	"timestamp": "2025-01-28T03:34:13.623Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
-			"chance": 36.66
+			"chance": 36.66,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.26
+			"chance": 24.26,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.77
+			"chance": 16.77,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.79
+			"chance": 11.79,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.69
+			"chance": 5.69,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +115,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

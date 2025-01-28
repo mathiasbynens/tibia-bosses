@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-27T09:32:52.561Z",
+	"timestamp": "2025-01-28T03:34:11.779Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.56
+			"chance": 22.56,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.53
+			"chance": 16.53,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +82,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.78
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

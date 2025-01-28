@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-27T09:32:41.617Z",
+	"timestamp": "2025-01-28T03:34:08.604Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.23
+			"chance": 74.23,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 37.91
+			"chance": 37.91,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.25
+			"chance": 18.25,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.27
+			"chance": 10.27,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -104,6 +109,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.27
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

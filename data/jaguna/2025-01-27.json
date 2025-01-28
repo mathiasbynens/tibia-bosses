@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-27T09:32:48.186Z",
+	"timestamp": "2025-01-28T03:34:10.142Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 40.4
+			"chance": 40.4,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.67
+			"chance": 19.67,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.52
+			"chance": 15.52,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +111,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

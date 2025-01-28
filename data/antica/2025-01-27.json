@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-27T09:32:36.355Z",
+	"timestamp": "2025-01-28T03:34:06.481Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.41
+			"chance": 25.41,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.28
+			"chance": 17.28,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.36
+			"chance": 15.36,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -128,6 +134,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

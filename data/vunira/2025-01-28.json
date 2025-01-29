@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-28T09:32:30.815Z",
+	"timestamp": "2025-01-29T03:34:17.289Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
-			"chance": 31.97
+			"chance": 31.97,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

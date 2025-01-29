@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-28T09:32:15.551Z",
+	"timestamp": "2025-01-29T03:34:13.729Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.04
+			"chance": 27.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.57
+			"chance": 11.57,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",

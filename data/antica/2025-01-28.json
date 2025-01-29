@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-28T09:32:04.757Z",
+	"timestamp": "2025-01-29T03:34:11.548Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.17
+			"chance": 40.17,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 24.94
+			"chance": 24.94,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 23.65
+			"chance": 23.65,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.31
+			"chance": 16.31,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.76
+			"chance": 13.76,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -128,6 +134,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

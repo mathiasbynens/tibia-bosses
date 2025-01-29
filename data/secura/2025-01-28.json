@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-28T09:32:27.422Z",
+	"timestamp": "2025-01-29T03:34:16.407Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.55
+			"chance": 25.55,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -128,6 +130,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

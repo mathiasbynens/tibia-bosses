@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-28T09:32:24.419Z",
+	"timestamp": "2025-01-29T03:34:15.761Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.35
+			"chance": 16.35,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -76,6 +77,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

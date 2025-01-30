@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-01-30T09:31:44.738Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.5
+		},
+		{
+			"name": "Xenia",
+			"chance": 30.5
+		},
+		{
+			"name": "The Welter",
+			"chance": 29.28
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.53
+		},
+		{
+			"name": "Barbaria",
+			"chance": 23.47
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.04
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.58
+		},
+		{
+			"name": "yeti",
+			"chance": 20.78
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.49
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.39
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.25
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.5
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.74
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.15
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.42
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.99
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.39
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.12
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.54
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.51
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.46
+		}
+	]
+}

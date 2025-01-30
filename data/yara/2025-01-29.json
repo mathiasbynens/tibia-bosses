@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-29T09:32:06.894Z",
+	"timestamp": "2025-01-30T03:34:48.765Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.91
+			"chance": 22.91,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.9
+			"chance": 22.9,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -64,6 +67,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 7.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-29T09:31:39.515Z",
+	"timestamp": "2025-01-30T03:34:42.506Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.65
+			"chance": 93.65,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.03
+			"chance": 54.03,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.02
+			"chance": 21.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.76
+			"chance": 4.76,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -115,11 +119,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.09
+			"chance": 3.09,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

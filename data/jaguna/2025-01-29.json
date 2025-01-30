@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-29T09:31:51.385Z",
+	"timestamp": "2025-01-30T03:34:45.353Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 38.52
+			"chance": 38.52,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.69
+			"chance": 37.69,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -88,6 +90,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

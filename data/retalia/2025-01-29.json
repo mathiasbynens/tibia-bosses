@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-29T09:31:57.618Z",
+	"timestamp": "2025-01-30T03:34:46.609Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.91
+			"chance": 34.91,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.79
+			"chance": 30.79,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.52
+			"chance": 20.52,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +92,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

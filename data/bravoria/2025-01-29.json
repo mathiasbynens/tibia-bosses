@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-29T09:31:42.818Z",
+	"timestamp": "2025-01-30T03:34:43.297Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.8
+			"chance": 29.8,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.75
+			"chance": 8.75,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.63
+			"chance": 8.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +100,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.2
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

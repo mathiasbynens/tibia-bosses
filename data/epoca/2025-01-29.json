@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-29T09:31:48.294Z",
+	"timestamp": "2025-01-30T03:34:44.736Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.18
+			"chance": 62.18,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.13
+			"chance": 24.13,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -52,6 +55,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 8.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-30T09:32:10.152Z",
+	"timestamp": "2025-01-31T03:34:02.642Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 73.73
+			"chance": 73.73,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -56,6 +59,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 7.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

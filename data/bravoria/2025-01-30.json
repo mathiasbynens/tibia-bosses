@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-30T09:31:44.738Z",
+	"timestamp": "2025-01-31T03:33:54.977Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.04
+			"chance": 23.04,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 20.78
+			"chance": 20.78,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.54
+			"chance": 7.54,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +101,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-30T09:31:51.058Z",
+	"timestamp": "2025-01-31T03:33:57.466Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 10.55
+			"chance": 10.55,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

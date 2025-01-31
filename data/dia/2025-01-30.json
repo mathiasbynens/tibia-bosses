@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-30T09:31:47.984Z",
+	"timestamp": "2025-01-31T03:33:55.757Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.7
+			"chance": 46.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.98
+			"chance": 41.98,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.69
+			"chance": 19.69,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.7
+			"chance": 13.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -132,6 +139,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

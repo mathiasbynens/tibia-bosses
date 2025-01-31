@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-01-31T09:31:39.417Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.91
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.78
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.88
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.98
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.58
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.3
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.04
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.27
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.05
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.84
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.26
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.67
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.43
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 11.83
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.33
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 8.87
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.49
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.39
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.2
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.08
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.38
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 5.41
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.97
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.51
+		}
+	]
+}

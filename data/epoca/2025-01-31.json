@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-01-31T09:31:42.983Z",
+	"bosses": [
+		{
+			"name": "Zushuka",
+			"chance": 60.24
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.73
+		},
+		{
+			"name": "Barbaria",
+			"chance": 20.69
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.66
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.14
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.71
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.68
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 9.95
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.32
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.84
+		}
+	]
+}

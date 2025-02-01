@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-02-01T09:31:32.287Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.19
+		},
+		{
+			"name": "General Murius",
+			"chance": 28.99
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.81
+		},
+		{
+			"name": "White Pale",
+			"chance": 26.05
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.15
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 18.51
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.05
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.74
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.36
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.11
+		},
+		{
+			"name": "yeti",
+			"chance": 10.65
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.11
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.4
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.38
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.22
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.97
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.46
+		}
+	]
+}

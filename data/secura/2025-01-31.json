@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-31T09:31:55.054Z",
+	"timestamp": "2025-02-01T03:35:30.897Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.2
+			"chance": 81.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.03
+			"chance": 62.03,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 40.44
+			"chance": 40.44,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.81
+			"chance": 15.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.36
+			"chance": 6.36,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -112,6 +118,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.2
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

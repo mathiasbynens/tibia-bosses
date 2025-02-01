@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-01-31T09:31:46.102Z",
+	"timestamp": "2025-02-01T03:35:28.281Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.32
+			"chance": 43.32,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.89
+			"chance": 39.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.63
+			"chance": 22.63,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.53
+			"chance": 16.53,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +101,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

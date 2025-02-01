@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-01-31T09:31:36.290Z",
+	"timestamp": "2025-02-01T03:35:25.949Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 31.18
+			"chance": 31.18,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.67
+			"chance": 19.67,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -95,11 +98,27 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.26
+			"chance": 4.26,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

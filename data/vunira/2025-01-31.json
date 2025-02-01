@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-31T09:31:58.043Z",
+	"timestamp": "2025-02-01T03:35:31.866Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,23 +7,28 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.07
+			"chance": 64.07,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 37.94
+			"chance": 37.94,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -112,6 +117,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

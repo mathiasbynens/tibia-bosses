@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-01-31T09:32:01.785Z",
+	"timestamp": "2025-02-01T03:35:32.580Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 25.2
+			"chance": 25.2,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.69
+			"chance": 8.69,
+			"killed": true
 		}
 	]
 }

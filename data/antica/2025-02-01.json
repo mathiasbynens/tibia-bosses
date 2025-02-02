@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-01T09:31:13.426Z",
+	"timestamp": "2025-02-02T03:34:51.161Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.59
+			"chance": 23.59,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -107,7 +108,33 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.88
+			"chance": 2.88,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

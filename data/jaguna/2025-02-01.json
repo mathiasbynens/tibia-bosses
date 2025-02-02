@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-01T09:31:26.796Z",
+	"timestamp": "2025-02-02T03:34:54.047Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,11 +39,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.69
+			"chance": 13.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -72,6 +74,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

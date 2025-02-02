@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-01T09:31:16.736Z",
+	"timestamp": "2025-02-02T03:34:51.933Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.14
+			"chance": 29.14,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.76
+			"chance": 18.76,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.85
+			"chance": 15.85,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -99,7 +102,23 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.12
+			"chance": 3.12,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

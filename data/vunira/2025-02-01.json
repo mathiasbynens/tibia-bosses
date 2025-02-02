@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-01T09:31:38.515Z",
+	"timestamp": "2025-02-02T03:34:57.447Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.26
+			"chance": 81.26,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.79
+			"chance": 36.79,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.71
+			"chance": 19.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.29
+			"chance": 5.29,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -124,6 +129,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-01T09:31:32.287Z",
+	"timestamp": "2025-02-02T03:34:55.376Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 28.99
+			"chance": 28.99,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -76,6 +78,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-01T09:31:41.525Z",
+	"timestamp": "2025-02-02T03:34:58.310Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.78
+			"chance": 11.78,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -60,6 +61,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

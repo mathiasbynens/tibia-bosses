@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-02T09:31:38.774Z",
+	"timestamp": "2025-02-03T03:36:19.216Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -72,6 +73,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

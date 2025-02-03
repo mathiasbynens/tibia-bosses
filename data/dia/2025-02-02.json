@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-02T09:31:26.967Z",
+	"timestamp": "2025-02-03T03:36:15.834Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 41.84
+			"chance": 41.84,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.03
+			"chance": 21.03,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.97
+			"chance": 7.97,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -120,6 +124,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

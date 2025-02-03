@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-02-02T09:31:33.222Z",
+	"timestamp": "2025-02-03T03:36:17.525Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 66.15
+			"chance": 66.15,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.11
+			"chance": 53.11,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.82
+			"chance": 36.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -72,6 +76,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.13
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

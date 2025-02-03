@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-02T09:31:44.126Z",
+	"timestamp": "2025-02-03T03:36:21.323Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.68
+			"chance": 35.68,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.74
+			"chance": 6.74,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -124,6 +128,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.51
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

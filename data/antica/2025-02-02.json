@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-02T09:31:20.842Z",
+	"timestamp": "2025-02-03T03:36:13.841Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.95
+			"chance": 35.95,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -111,7 +114,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.14
+			"chance": 8.14,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

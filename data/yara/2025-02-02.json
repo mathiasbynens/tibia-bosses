@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-02T09:31:47.152Z",
+	"timestamp": "2025-02-03T03:36:22.324Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.26
+			"chance": 42.26,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 41.64
+			"chance": 41.64,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,19 +17,23 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.16
+			"chance": 27.16,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 26.59
+			"chance": 26.59,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.17
+			"chance": 21.17,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.76
+			"chance": 18.76,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -64,6 +70,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.43
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

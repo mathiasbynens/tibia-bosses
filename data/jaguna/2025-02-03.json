@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-02-03T09:32:56.340Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.12
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.84
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.44
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 22.96
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.94
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.05
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.34
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 17.95
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.96
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.6
+		},
+		{
+			"name": "yeti",
+			"chance": 10.67
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.81
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 6.08
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.61
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.43
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.7
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.97
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.91
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 2.66
+		}
+	]
+}

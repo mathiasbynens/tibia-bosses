@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-03T09:32:56.340Z",
+	"timestamp": "2025-02-04T03:34:38.197Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.95
+			"chance": 17.95,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -76,6 +78,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.66
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

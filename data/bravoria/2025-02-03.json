@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-03T09:32:46.828Z",
+	"timestamp": "2025-02-04T03:34:36.075Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.17
+			"chance": 6.17,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.61
+			"chance": 5.61,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -92,6 +96,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

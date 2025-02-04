@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-03T09:33:12.116Z",
+	"timestamp": "2025-02-04T03:34:41.504Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -44,6 +45,21 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-03T09:32:50.167Z",
+	"timestamp": "2025-02-04T03:34:36.865Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.76
+			"chance": 18.76,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -124,6 +125,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

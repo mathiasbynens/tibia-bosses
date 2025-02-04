@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-03T09:33:04.537Z",
+	"timestamp": "2025-02-04T03:34:40.060Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 26.59
+			"chance": 26.59,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.32
+			"chance": 16.32,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.43
+			"chance": 11.43,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +105,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

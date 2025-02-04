@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-03T09:33:01.476Z",
+	"timestamp": "2025-02-04T03:34:39.420Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.61
+			"chance": 29.61,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.83
+			"chance": 17.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.79
+			"chance": 11.79,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.13
+			"chance": 8.13,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-03T09:33:08.445Z",
+	"timestamp": "2025-02-04T03:34:40.783Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.31
+			"chance": 31.31,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.78
+			"chance": 25.78,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.09
+			"chance": 14.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -124,6 +127,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.23
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

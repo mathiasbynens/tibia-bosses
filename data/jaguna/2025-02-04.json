@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-04T09:32:12.225Z",
+	"timestamp": "2025-02-05T03:36:26.684Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.12
+			"chance": 29.12,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -68,6 +70,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.5
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

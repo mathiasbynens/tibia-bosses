@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-04T09:32:00.877Z",
+	"timestamp": "2025-02-05T03:36:23.047Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.7
+			"chance": 28.7,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.37
+			"chance": 27.37,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.44
+			"chance": 22.44,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +106,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

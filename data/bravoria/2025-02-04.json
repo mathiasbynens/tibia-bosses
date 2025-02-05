@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-04T09:32:03.554Z",
+	"timestamp": "2025-02-05T03:36:24.058Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.42
+			"chance": 53.42,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.77
+			"chance": 17.77,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.64
+			"chance": 13.64,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -96,6 +101,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

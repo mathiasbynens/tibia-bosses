@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-04T09:32:26.254Z",
+	"timestamp": "2025-02-05T03:36:31.666Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -52,6 +52,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.7
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

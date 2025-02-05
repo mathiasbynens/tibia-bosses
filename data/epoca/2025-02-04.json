@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-04T09:32:09.233Z",
+	"timestamp": "2025-02-05T03:36:25.787Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.76
+			"chance": 11.76,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -40,6 +41,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 6.48
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

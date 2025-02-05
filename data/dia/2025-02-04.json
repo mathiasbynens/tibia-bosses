@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-04T09:32:06.571Z",
+	"timestamp": "2025-02-05T03:36:25.012Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 30.67
+			"chance": 30.67,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.69
+			"chance": 22.69,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 19.82
+			"chance": 19.82,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.92
+			"chance": 16.92,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.17
+			"chance": 13.17,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.8
+			"chance": 11.8,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -87,11 +95,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.54
+			"chance": 9.54,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -128,6 +138,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.21
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-04T09:32:20.734Z",
+	"timestamp": "2025-02-05T03:36:29.815Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.84
+			"chance": 26.84,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.46
+			"chance": 22.46,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 11.97
+			"chance": 11.97,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +100,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

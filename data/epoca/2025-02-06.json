@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-02-06T09:32:15.504Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 31.31
+		},
+		{
+			"name": "Tyrn",
+			"chance": 27.99
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.08
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.53
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 15.12
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.29
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.93
+		}
+	]
+}

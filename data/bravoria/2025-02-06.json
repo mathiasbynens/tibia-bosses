@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-02-06T09:32:08.982Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.12
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 30.77
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.45
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 25.1
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.35
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.37
+		},
+		{
+			"name": "White Pale",
+			"chance": 15.12
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.71
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.3
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.63
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.9
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.75
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.85
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.3
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.32
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.44
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.37
+		}
+	]
+}

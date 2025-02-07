@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-06T09:32:34.589Z",
+	"timestamp": "2025-02-07T03:36:42.938Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -64,6 +64,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.3
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

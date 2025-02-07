@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-06T09:32:31.356Z",
+	"timestamp": "2025-02-07T03:36:42.023Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.4
+			"chance": 53.4,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 27.13
+			"chance": 27.13,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.09
+			"chance": 20.09,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.21
+			"chance": 19.21,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.36
+			"chance": 18.36,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -112,6 +117,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

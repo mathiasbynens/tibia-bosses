@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-06T09:32:08.982Z",
+	"timestamp": "2025-02-07T03:36:35.028Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -72,6 +73,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

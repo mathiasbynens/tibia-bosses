@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-06T09:32:15.504Z",
+	"timestamp": "2025-02-07T03:36:37.139Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -44,6 +44,11 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

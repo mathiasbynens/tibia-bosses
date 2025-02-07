@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-06T09:32:27.394Z",
+	"timestamp": "2025-02-07T03:36:40.652Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.53
+			"chance": 39.53,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.38
+			"chance": 13.38,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.29
+			"chance": 12.29,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.57
+			"chance": 9.57,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.46
+			"chance": 6.46,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -96,6 +103,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

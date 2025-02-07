@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-06T09:32:18.702Z",
+	"timestamp": "2025-02-07T03:36:38.103Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.15
+			"chance": 19.15,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -80,6 +83,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.17
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

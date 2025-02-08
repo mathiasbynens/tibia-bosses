@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-07T09:32:30.238Z",
+	"timestamp": "2025-02-08T03:34:14.607Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.79
+			"chance": 30.79,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.63
+			"chance": 27.63,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.36
+			"chance": 16.36,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +93,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-07T09:32:37.992Z",
+	"timestamp": "2025-02-08T03:34:16.198Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.23
+			"chance": 81.23,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.86
+			"chance": 39.86,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

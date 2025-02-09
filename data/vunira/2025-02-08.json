@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-08T09:31:36.377Z",
+	"timestamp": "2025-02-09T03:35:27.892Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.09
+			"chance": 70.09,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.88
+			"chance": 39.88,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.55
+			"chance": 38.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.04
+			"chance": 36.04,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -91,11 +96,13 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 6.1
+			"chance": 6.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.3
+			"chance": 5.3,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.44
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

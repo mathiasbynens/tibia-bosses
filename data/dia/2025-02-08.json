@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-08T09:31:19.181Z",
+	"timestamp": "2025-02-09T03:35:23.785Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.96
+			"chance": 26.96,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.69
+			"chance": 5.69,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +119,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.45
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

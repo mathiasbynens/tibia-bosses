@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-08T09:31:25.372Z",
+	"timestamp": "2025-02-09T03:35:25.140Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.17
+			"chance": 21.17,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +106,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

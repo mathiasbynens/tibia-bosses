@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-02-10T09:33:09.068Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 54.04
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 20.14
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.31
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16.33
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.56
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.31
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.14
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.25
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.69
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.62
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.61
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.33
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.55
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.92
+		}
+	]
+}

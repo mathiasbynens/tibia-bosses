@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-09T09:31:20.822Z",
+	"timestamp": "2025-02-10T03:37:31.022Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.2
+			"chance": 40.2,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -68,6 +69,16 @@
 		{
 			"name": "The Welter",
 			"chance": 8.09
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

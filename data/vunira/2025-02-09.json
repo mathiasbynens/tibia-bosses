@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-09T09:31:35.618Z",
+	"timestamp": "2025-02-10T03:37:35.021Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.38
+			"chance": 45.38,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 30.67
+			"chance": 30.67,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.88
+			"chance": 17.88,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 5.45
+			"chance": 5.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -108,6 +113,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

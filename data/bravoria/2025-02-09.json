@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-09T09:31:14.529Z",
+	"timestamp": "2025-02-10T03:37:29.366Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.2
+			"chance": 20.2,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.83
+			"chance": 17.83,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -108,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.44
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

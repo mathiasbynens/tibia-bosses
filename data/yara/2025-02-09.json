@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-09T09:31:38.963Z",
+	"timestamp": "2025-02-10T03:37:35.852Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.39
+			"chance": 14.39,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -80,6 +82,11 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 6.57
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-09T09:31:29.507Z",
+	"timestamp": "2025-02-10T03:37:33.410Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -64,6 +64,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.49
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

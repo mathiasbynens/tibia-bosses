@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-09T09:31:32.595Z",
+	"timestamp": "2025-02-10T03:37:34.270Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 44.12
+			"chance": 44.12,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.7
+			"chance": 20.7,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.2
+			"chance": 20.2,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.11
+			"chance": 9.11,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +98,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

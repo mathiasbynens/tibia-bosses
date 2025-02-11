@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-10T09:33:05.962Z",
+	"timestamp": "2025-02-11T03:36:13.141Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -64,6 +64,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.84
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

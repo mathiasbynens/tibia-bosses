@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-10T09:32:48.005Z",
+	"timestamp": "2025-02-11T03:36:05.604Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.26
+			"chance": 61.26,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.54
+			"chance": 29.54,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.69
+			"chance": 23.69,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 5.97
+			"chance": 5.97,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -140,6 +145,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.11
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

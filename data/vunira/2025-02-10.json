@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-10T09:33:12.226Z",
+	"timestamp": "2025-02-11T03:36:14.868Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.6
+			"chance": 81.6,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +90,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

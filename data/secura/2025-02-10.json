@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-10T09:33:09.068Z",
+	"timestamp": "2025-02-11T03:36:13.911Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 54.04
+			"chance": 54.04,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.31
+			"chance": 19.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,15 +38,18 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.14
+			"chance": 13.14,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.61
+			"chance": 7.61,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -76,6 +83,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

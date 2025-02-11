@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-10T09:33:15.406Z",
+	"timestamp": "2025-02-11T03:36:15.641Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -64,6 +64,11 @@
 		{
 			"name": "Ocyakao",
 			"chance": 5.95
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

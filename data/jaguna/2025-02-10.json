@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-10T09:33:00.405Z",
+	"timestamp": "2025-02-11T03:36:10.697Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.06
+			"chance": 29.06,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.62
+			"chance": 8.62,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +112,16 @@
 		{
 			"name": "Ferumbras",
 			"chance": 4.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

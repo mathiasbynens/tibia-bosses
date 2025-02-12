@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-11T09:32:44.356Z",
+	"timestamp": "2025-02-12T03:35:26.314Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.03
+			"chance": 65.03,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 34.7
+			"chance": 34.7,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -64,6 +66,11 @@
 		{
 			"name": "Ocyakao",
 			"chance": 10.7
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

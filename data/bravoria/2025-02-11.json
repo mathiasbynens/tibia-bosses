@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-11T09:32:20.937Z",
+	"timestamp": "2025-02-12T03:35:20.769Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.03
+			"chance": 65.03,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.08
+			"chance": 29.08,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -112,6 +116,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.59
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

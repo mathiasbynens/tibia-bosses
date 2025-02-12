@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-11T09:32:26.832Z",
+	"timestamp": "2025-02-12T03:35:22.251Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -56,6 +57,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.39
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

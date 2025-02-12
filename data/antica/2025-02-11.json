@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-11T09:32:18.044Z",
+	"timestamp": "2025-02-12T03:35:20.017Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.42
+			"chance": 53.42,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.62
+			"chance": 34.62,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.02
+			"chance": 34.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.84
+			"chance": 11.84,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.75
+			"chance": 5.75,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +125,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

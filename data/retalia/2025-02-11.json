@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-11T09:32:35.023Z",
+	"timestamp": "2025-02-12T03:35:24.286Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.59
+			"chance": 8.59,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

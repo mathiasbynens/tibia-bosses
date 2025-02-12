@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-02-12T09:32:35.470Z",
+	"bosses": [
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 34.8
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 30.28
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 30.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.52
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 21.46
+		},
+		{
+			"name": "midnight panther",
+			"chance": 21.24
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.82
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.15
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.74
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.69
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.08
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.85
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.61
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 4.85
+		}
+	]
+}

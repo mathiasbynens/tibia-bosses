@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-02-12T09:32:54.906Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 34.36
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 20.97
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.16
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.78
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.49
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.71
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 16.09
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.76
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.73
+		},
+		{
+			"name": "General Murius",
+			"chance": 15.03
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.45
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.81
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.15
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.49
+		}
+	]
+}

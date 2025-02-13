@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-12T09:32:25.046Z",
+	"timestamp": "2025-02-13T03:35:39.624Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -112,6 +113,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.44
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

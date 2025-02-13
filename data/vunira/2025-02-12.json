@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-02-12T09:32:51.561Z",
+	"timestamp": "2025-02-13T03:35:45.911Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.21
+			"chance": 62.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.14
+			"chance": 44.14,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 21.44
+			"chance": 21.44,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.49
+			"chance": 13.49,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +121,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

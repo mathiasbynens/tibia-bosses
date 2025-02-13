@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-12T09:32:44.471Z",
+	"timestamp": "2025-02-13T03:35:43.793Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -100,6 +101,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.54
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

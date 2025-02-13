@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-12T09:32:28.693Z",
+	"timestamp": "2025-02-13T03:35:40.359Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.42
+			"chance": 53.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.72
+			"chance": 19.72,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

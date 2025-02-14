@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-02-14T09:32:24.532Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 59.79
+		},
+		{
+			"name": "The Welter",
+			"chance": 38.17
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 25.1
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 24.82
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.65
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 22.8
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.19
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.24
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 17.32
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.33
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.65
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.32
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.32
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.19
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.74
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.83
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.15
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 9.56
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.43
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.95
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.71
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.45
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.37
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.03
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.86
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.01
+		}
+	]
+}

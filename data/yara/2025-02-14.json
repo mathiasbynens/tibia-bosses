@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-02-14T09:32:37.746Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.1
+		},
+		{
+			"name": "General Murius",
+			"chance": 44.32
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 30.74
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 23.04
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 23.04
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.66
+		},
+		{
+			"name": "midnight panther",
+			"chance": 21.18
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.72
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.15
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.61
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 9.44
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.39
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.9
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.16
+		}
+	]
+}

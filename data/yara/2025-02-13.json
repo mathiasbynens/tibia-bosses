@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-13T09:33:09.003Z",
+	"timestamp": "2025-02-14T03:35:37.507Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -68,6 +69,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

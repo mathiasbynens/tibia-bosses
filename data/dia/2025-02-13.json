@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-13T09:32:45.265Z",
+	"timestamp": "2025-02-14T03:35:33.080Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.84
+			"chance": 21.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

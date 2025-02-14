@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-13T09:32:52.723Z",
+	"timestamp": "2025-02-14T03:35:34.282Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.36
+			"chance": 34.36,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.92
+			"chance": 23.92,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -100,6 +103,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.38
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

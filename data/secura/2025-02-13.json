@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-13T09:33:01.614Z",
+	"timestamp": "2025-02-14T03:35:36.146Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.44
+			"chance": 53.44,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.97
+			"chance": 19.97,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.89
+			"chance": 15.89,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -100,6 +105,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

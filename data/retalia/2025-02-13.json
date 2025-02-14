@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-13T09:32:58.001Z",
+	"timestamp": "2025-02-14T03:35:35.406Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.18
+			"chance": 40.18,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.37
+			"chance": 31.37,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -116,6 +118,16 @@
 		{
 			"name": "Captain Jones",
 			"chance": 5.49
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

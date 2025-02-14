@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-13T09:32:38.430Z",
+	"timestamp": "2025-02-14T03:35:29.513Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.08
+			"chance": 54.08,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 33.58
+			"chance": 33.58,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -127,7 +135,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 5.56
+			"chance": 5.56,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

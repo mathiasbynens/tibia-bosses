@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-13T09:32:41.812Z",
+	"timestamp": "2025-02-14T03:35:30.352Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.44
+			"chance": 27.44,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +102,16 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 6.14
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

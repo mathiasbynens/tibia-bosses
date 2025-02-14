@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-13T09:32:49.058Z",
+	"timestamp": "2025-02-14T03:35:33.638Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.72
+			"chance": 20.72,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -52,6 +54,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

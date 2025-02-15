@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-14T09:32:29.324Z",
+	"timestamp": "2025-02-15T03:35:23.092Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -112,6 +113,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.01
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-14T09:32:24.532Z",
+	"timestamp": "2025-02-15T03:35:21.951Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.83
+			"chance": 11.83,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

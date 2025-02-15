@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-14T09:32:37.746Z",
+	"timestamp": "2025-02-15T03:35:25.590Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.1
+			"chance": 70.1,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

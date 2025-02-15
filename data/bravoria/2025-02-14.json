@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-14T09:32:15.267Z",
+	"timestamp": "2025-02-15T03:35:19.696Z",
 	"bosses": [
 		{
 			"name": "White Pale",
-			"chance": 52.91
+			"chance": 52.91,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.64
+			"chance": 30.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.16
+			"chance": 24.16,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.1
+			"chance": 8.1,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -95,11 +100,17 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.9
+			"chance": 5.9,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.59
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

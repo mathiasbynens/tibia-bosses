@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-14T09:32:12.507Z",
+	"timestamp": "2025-02-15T03:35:18.985Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.09
+			"chance": 64.09,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.14
+			"chance": 21.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.38
+			"chance": 19.38,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.89
+			"chance": 15.89,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.68
+			"chance": 5.68,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +125,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.57
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

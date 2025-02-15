@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-14T09:32:18.077Z",
+	"timestamp": "2025-02-15T03:35:20.466Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 33.53
+			"chance": 33.53,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.45
+			"chance": 23.45,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.5
+			"chance": 14.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.79
+			"chance": 5.79,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -99,11 +106,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.33
+			"chance": 4.33,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

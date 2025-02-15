@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-14T09:32:32.075Z",
+	"timestamp": "2025-02-15T03:35:24.191Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.26
+			"chance": 81.26,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.1
+			"chance": 42.1,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.82
+			"chance": 3.82,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +107,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.53
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

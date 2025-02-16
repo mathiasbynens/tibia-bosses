@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-02-16T09:31:24.207Z",
+	"bosses": [
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 31.37
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 29.24
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.23
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.69
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.07
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.46
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.31
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.11
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 8.57
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.25
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.39
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.82
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.78
+		}
+	]
+}

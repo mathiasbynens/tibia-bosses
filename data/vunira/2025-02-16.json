@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-02-16T09:31:43.540Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.58
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 26.61
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 26.29
+		},
+		{
+			"name": "Barbaria",
+			"chance": 23
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.07
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.19
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.43
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.68
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.08
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 17.52
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.15
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.87
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.35
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.28
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.37
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.33
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.95
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.55
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 8.57
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.53
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.44
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.34
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.36
+		}
+	]
+}

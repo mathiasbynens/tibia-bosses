@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-15T09:31:29.407Z",
+	"timestamp": "2025-02-16T03:36:26.285Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.97
+			"chance": 64.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.24
+			"chance": 16.24,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -59,15 +61,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +118,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.17
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-15T09:31:42.303Z",
+	"timestamp": "2025-02-16T03:36:30.543Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.1
+			"chance": 36.1,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 30.82
+			"chance": 30.82,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.17
+			"chance": 21.17,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -120,6 +124,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

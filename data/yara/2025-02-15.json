@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-15T09:31:45.170Z",
+	"timestamp": "2025-02-16T03:36:31.674Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -68,6 +68,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

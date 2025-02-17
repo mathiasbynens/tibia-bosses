@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-16T09:31:17.576Z",
+	"timestamp": "2025-02-17T03:37:00.908Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 43.04
+			"chance": 43.04,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 26.08
+			"chance": 26.08,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.28
+			"chance": 19.28,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -116,6 +119,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.2
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

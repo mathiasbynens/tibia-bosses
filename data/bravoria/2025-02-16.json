@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-16T09:31:20.999Z",
+	"timestamp": "2025-02-17T03:37:02.908Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -91,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.69
+			"chance": 6.69,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -108,6 +109,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.95
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

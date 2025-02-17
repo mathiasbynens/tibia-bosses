@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-16T09:31:38.739Z",
+	"timestamp": "2025-02-17T03:37:09.378Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28
+			"chance": 28,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

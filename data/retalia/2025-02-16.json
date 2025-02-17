@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-16T09:31:35.486Z",
+	"timestamp": "2025-02-17T03:37:08.518Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -87,7 +88,18 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.39
+			"chance": 6.39,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

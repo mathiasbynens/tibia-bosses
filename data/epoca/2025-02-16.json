@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-16T09:31:27.428Z",
+	"timestamp": "2025-02-17T03:37:06.014Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -48,6 +50,11 @@
 		{
 			"name": "yeti",
 			"chance": 5.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

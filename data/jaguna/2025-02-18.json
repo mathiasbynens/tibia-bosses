@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-02-18T09:32:39.148Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.12
+		},
+		{
+			"name": "Barbaria",
+			"chance": 31.83
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 26.27
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.04
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.23
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.15
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.49
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.97
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.75
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.88
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 12.17
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.35
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.64
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.15
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.53
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.31
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.61
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.38
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.14
+		}
+	]
+}

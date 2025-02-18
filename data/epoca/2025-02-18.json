@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-02-18T09:32:35.269Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.12
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.54
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.56
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.74
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 29.76
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 25.04
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.35
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.04
+		},
+		{
+			"name": "yeti",
+			"chance": 14.04
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.14
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.49
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.25
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-17T09:33:37.683Z",
+	"timestamp": "2025-02-18T03:35:33.078Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -68,6 +68,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.74
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

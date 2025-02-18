@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-17T09:33:28.230Z",
+	"timestamp": "2025-02-18T03:35:30.954Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.74
+			"chance": 23.74,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -96,6 +98,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-17T09:33:34.786Z",
+	"timestamp": "2025-02-18T03:35:32.476Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 11.48
+			"chance": 11.48,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -103,7 +104,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.74
+			"chance": 3.74,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

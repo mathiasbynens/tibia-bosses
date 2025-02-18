@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-17T09:33:13.474Z",
+	"timestamp": "2025-02-18T03:35:27.066Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.11
+			"chance": 70.11,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.96
+			"chance": 41.96,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.83
+			"chance": 11.83,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -132,6 +136,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.87
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

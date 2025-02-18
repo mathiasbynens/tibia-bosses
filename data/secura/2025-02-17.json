@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-17T09:33:31.309Z",
+	"timestamp": "2025-02-18T03:35:31.683Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.25
+			"chance": 53.25,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.14
+			"chance": 34.14,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,15 +30,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.91
+			"chance": 21.91,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.73
+			"chance": 21.73,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -112,6 +119,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.58
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

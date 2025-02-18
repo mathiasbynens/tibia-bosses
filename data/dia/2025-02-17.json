@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-17T09:33:17.018Z",
+	"timestamp": "2025-02-18T03:35:27.952Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.71
+			"chance": 30.71,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.37
+			"chance": 7.37,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +79,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

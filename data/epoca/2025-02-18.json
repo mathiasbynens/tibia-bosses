@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-18T09:32:35.269Z",
+	"timestamp": "2025-02-19T03:38:43.297Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.74
+			"chance": 37.74,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -48,6 +50,21 @@
 		{
 			"name": "Gaz'haragoth",
 			"chance": 10.25
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

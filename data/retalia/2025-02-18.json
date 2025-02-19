@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-18T09:32:44.749Z",
+	"timestamp": "2025-02-19T03:38:45.296Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.95
+			"chance": 14.95,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +107,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-18T09:32:56.007Z",
+	"timestamp": "2025-02-19T03:38:48.265Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -72,6 +74,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.78
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

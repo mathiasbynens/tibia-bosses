@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-18T09:32:48.308Z",
+	"timestamp": "2025-02-19T03:38:46.720Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.63
+			"chance": 34.63,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.79
+			"chance": 19.79,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -96,6 +101,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

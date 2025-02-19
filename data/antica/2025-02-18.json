@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-02-18T09:32:25.658Z",
+	"timestamp": "2025-02-19T03:38:40.508Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.22
+			"chance": 61.22,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.63
+			"chance": 34.63,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,11 +31,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.92
+			"chance": 21.92,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -79,11 +86,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.68
+			"chance": 11.68,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.61
+			"chance": 8.61,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

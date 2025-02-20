@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-19T09:32:38.464Z",
+	"timestamp": "2025-02-20T03:36:43.925Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.09
+			"chance": 62.09,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.67
+			"chance": 30.67,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

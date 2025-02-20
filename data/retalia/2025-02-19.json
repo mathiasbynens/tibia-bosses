@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-19T09:32:47.471Z",
+	"timestamp": "2025-02-20T03:36:46.393Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -92,6 +93,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.77
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

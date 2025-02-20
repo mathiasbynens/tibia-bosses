@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-19T09:32:53.674Z",
+	"timestamp": "2025-02-20T03:36:48.250Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.44
+			"chance": 22.44,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.58
+			"chance": 16.58,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -115,7 +119,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.83
+			"chance": 6.83,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -136,6 +141,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

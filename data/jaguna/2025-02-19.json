@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-19T09:32:42.382Z",
+	"timestamp": "2025-02-20T03:36:44.759Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.23
+			"chance": 24.23,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.78
+			"chance": 18.78,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +79,16 @@
 		{
 			"name": "High Templar Cobrass",
 			"chance": 4.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

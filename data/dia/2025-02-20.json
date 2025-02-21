@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-20T09:32:44.518Z",
+	"timestamp": "2025-02-21T03:36:30.339Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 65.44
+			"chance": 65.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.06
+			"chance": 42.06,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.54
+			"chance": 39.54,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.57
+			"chance": 33.57,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.53
+			"chance": 14.53,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

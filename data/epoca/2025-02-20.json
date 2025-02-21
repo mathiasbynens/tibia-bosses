@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-20T09:32:47.856Z",
+	"timestamp": "2025-02-21T03:36:31.358Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -28,6 +28,11 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.92
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

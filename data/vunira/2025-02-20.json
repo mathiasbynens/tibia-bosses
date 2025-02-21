@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-20T09:33:05.256Z",
+	"timestamp": "2025-02-21T03:36:36.699Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.22
+			"chance": 42.22,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.72
+			"chance": 20.72,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.07
+			"chance": 14.07,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -148,6 +154,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.17
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

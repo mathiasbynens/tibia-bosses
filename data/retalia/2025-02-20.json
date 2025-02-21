@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-20T09:32:58.165Z",
+	"timestamp": "2025-02-21T03:36:35.137Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 42.03
+			"chance": 42.03,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.86
+			"chance": 39.86,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -92,6 +94,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

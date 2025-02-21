@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-20T09:33:08.560Z",
+	"timestamp": "2025-02-21T03:36:37.422Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 60.75
+			"chance": 60.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -60,6 +61,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.29
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

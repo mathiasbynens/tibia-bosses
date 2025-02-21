@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-20T09:32:41.112Z",
+	"timestamp": "2025-02-21T03:36:28.870Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.52
+			"chance": 25.52,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.58
+			"chance": 10.58,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -100,6 +103,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

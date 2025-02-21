@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-02-21T09:32:51.700Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.12
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.25
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.28
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 43.38
+		},
+		{
+			"name": "Zushuka",
+			"chance": 42.02
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 32.18
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 26.92
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.94
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 19.07
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.77
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.69
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.14
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.87
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.61
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.88
+		}
+	]
+}

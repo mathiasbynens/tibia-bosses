@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-02-21T09:32:30.945Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 42.71
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.84
+		},
+		{
+			"name": "yeti",
+			"chance": 27.13
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.19
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.53
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 14.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.16
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 11.75
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.72
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.88
+		}
+	]
+}

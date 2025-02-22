@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-21T09:32:47.327Z",
+	"timestamp": "2025-02-22T03:34:45.327Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.17
+			"chance": 44.17,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.61
+			"chance": 7.61,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -128,6 +133,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.49
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

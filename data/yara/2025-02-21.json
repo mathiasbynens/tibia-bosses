@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-21T09:32:51.700Z",
+	"timestamp": "2025-02-22T03:34:45.895Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.12
+			"chance": 70.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 32.18
+			"chance": 32.18,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -60,6 +62,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.88
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

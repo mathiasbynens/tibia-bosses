@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-21T09:32:43.813Z",
+	"timestamp": "2025-02-22T03:34:44.700Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.12
+			"chance": 70.12,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.29
+			"chance": 30.29,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.09
+			"chance": 30.09,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +122,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

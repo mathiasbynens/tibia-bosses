@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-02-21T09:32:34.404Z",
+	"timestamp": "2025-02-22T03:34:42.884Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.9
+			"chance": 93.9,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.46
+			"chance": 53.46,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.58
+			"chance": 33.58,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.88
+			"chance": 21.88,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.01
+			"chance": 19.01,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -84,6 +89,26 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.67
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-21T09:32:39.768Z",
+	"timestamp": "2025-02-22T03:34:43.986Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.06
+			"chance": 7.06,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",

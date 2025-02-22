@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-21T09:32:30.945Z",
+	"timestamp": "2025-02-22T03:34:42.278Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -35,11 +35,22 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
 			"chance": 9.88
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

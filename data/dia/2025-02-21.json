@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-21T09:32:27.795Z",
+	"timestamp": "2025-02-22T03:34:41.724Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.46
+			"chance": 5.46,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

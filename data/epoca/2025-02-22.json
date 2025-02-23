@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-22T09:31:59.992Z",
+	"timestamp": "2025-02-23T03:36:41.360Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.16
+			"chance": 15.16,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -36,6 +38,16 @@
 		{
 			"name": "Zomba",
 			"chance": 9.24
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

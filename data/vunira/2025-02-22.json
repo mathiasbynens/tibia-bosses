@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-22T09:32:16.420Z",
+	"timestamp": "2025-02-23T03:36:45.090Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.05
+			"chance": 36.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.2
+			"chance": 21.2,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -120,6 +123,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

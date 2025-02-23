@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-22T09:31:49.876Z",
+	"timestamp": "2025-02-23T03:36:39.106Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.78
+			"chance": 30.78,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.29
+			"chance": 30.29,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,15 +26,18 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 25.6
+			"chance": 25.6,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.16
+			"chance": 24.16,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,11 +73,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -79,7 +87,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -91,7 +100,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.02
+			"chance": 9.02,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -116,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.26
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

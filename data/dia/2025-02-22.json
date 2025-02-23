@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-22T09:31:56.486Z",
+	"timestamp": "2025-02-23T03:36:40.663Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.13
+			"chance": 80.13,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.65
+			"chance": 38.65,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.67
+			"chance": 17.67,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.26
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

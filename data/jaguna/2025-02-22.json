@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-22T09:32:03.303Z",
+	"timestamp": "2025-02-23T03:36:42.533Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.22
+			"chance": 14.22,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +85,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.46
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

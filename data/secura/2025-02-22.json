@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-22T09:32:12.558Z",
+	"timestamp": "2025-02-23T03:36:44.342Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.72
+			"chance": 16.72,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -47,15 +48,18 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.91
+			"chance": 15.91,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -108,6 +113,41 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

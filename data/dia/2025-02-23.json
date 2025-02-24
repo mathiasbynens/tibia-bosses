@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-23T09:31:47.062Z",
+	"timestamp": "2025-02-24T03:37:53.505Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.3
+			"chance": 81.3,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.28
+			"chance": 61.28,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.36
+			"chance": 29.36,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.16
+			"chance": 13.16,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,11 +72,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.13
+			"chance": 9.13,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +128,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

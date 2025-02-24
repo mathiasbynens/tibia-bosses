@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-23T09:32:02.876Z",
+	"timestamp": "2025-02-24T03:38:00.105Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.99
+			"chance": 71.99,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.28
+			"chance": 61.28,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.69
+			"chance": 23.69,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.66
+			"chance": 17.66,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.21
+			"chance": 14.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -108,6 +115,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

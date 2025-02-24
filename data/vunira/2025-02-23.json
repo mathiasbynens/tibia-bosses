@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-02-23T09:32:05.847Z",
+	"timestamp": "2025-02-24T03:38:01.415Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 46.89
+			"chance": 46.89,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.66
+			"chance": 30.66,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.36
+			"chance": 29.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -104,6 +107,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.75
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

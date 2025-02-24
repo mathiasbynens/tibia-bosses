@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-23T09:31:40.178Z",
+	"timestamp": "2025-02-24T03:37:51.494Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.12
+			"chance": 70.12,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.15
+			"chance": 9.15,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.58
+			"chance": 6.58,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +100,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

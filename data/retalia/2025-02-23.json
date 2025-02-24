@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-23T09:31:59.710Z",
+	"timestamp": "2025-02-24T03:37:59.263Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
-			"chance": 40.52
+			"chance": 40.52,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 31.14
+			"chance": 31.14,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

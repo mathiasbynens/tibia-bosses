@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-23T09:31:50.810Z",
+	"timestamp": "2025-02-24T03:37:55.215Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

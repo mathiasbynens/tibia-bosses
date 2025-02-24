@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-23T09:31:54.653Z",
+	"timestamp": "2025-02-24T03:37:56.343Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
-			"chance": 51.99
+			"chance": 51.99,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -92,6 +94,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

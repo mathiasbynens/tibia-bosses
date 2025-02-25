@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-24T09:33:18.372Z",
+	"timestamp": "2025-02-25T03:37:10.647Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.05
+			"chance": 31.05,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.2
+			"chance": 21.2,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +96,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

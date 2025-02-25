@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-24T09:33:14.588Z",
+	"timestamp": "2025-02-25T03:37:08.810Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.96
+			"chance": 31.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.62
+			"chance": 19.62,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.15
+			"chance": 19.15,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -99,11 +104,17 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.55
+			"chance": 3.55,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.14
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

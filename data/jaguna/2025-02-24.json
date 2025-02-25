@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-24T09:33:28.260Z",
+	"timestamp": "2025-02-25T03:37:14.423Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,11 +68,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.74
+			"chance": 8.74,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -100,6 +103,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

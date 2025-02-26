@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-25T09:33:09.912Z",
+	"timestamp": "2025-02-26T03:38:21.887Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -56,6 +56,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

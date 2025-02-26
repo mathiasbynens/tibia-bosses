@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-25T09:33:01.495Z",
+	"timestamp": "2025-02-26T03:38:20.482Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.92
+			"chance": 21.92,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.15
+			"chance": 19.15,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -84,6 +86,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

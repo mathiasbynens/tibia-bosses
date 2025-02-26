@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-25T09:33:28.136Z",
+	"timestamp": "2025-02-26T03:38:24.926Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.72
+			"chance": 16.72,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,15 +82,18 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12
+			"chance": 12,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 11.97
+			"chance": 11.97,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.96
+			"chance": 11.96,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 7.01
+			"chance": 7.01,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +119,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

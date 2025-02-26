@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-25T09:33:19.800Z",
+	"timestamp": "2025-02-26T03:38:23.635Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.73
+			"chance": 23.73,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.04
+			"chance": 23.04,
+			"killed": true
 		},
 		{
 			"name": "yeti",

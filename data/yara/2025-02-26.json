@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-02-26T09:33:33.635Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 43.33
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.84
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.17
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 24.39
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.99
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 20.18
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.77
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.65
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.66
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.57
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.68
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		}
+	]
+}

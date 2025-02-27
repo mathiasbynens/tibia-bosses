@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-26T09:33:29.861Z",
+	"timestamp": "2025-02-27T03:38:11.791Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-26T09:33:10.160Z",
+	"timestamp": "2025-02-27T03:38:06.962Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.06
+			"chance": 42.06,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.01
+			"chance": 22.01,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -120,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.27
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

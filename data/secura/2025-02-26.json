@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-26T09:33:26.661Z",
+	"timestamp": "2025-02-27T03:38:10.992Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 26.9
+			"chance": 26.9,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 10.55
+			"chance": 10.55,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +96,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

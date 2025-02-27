@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-26T09:33:17.401Z",
+	"timestamp": "2025-02-27T03:38:08.808Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.06
+			"chance": 64.06,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Zomba",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-26T09:33:03.633Z",
+	"timestamp": "2025-02-27T03:38:05.165Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.92
+			"chance": 23.92,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -88,6 +91,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.06
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

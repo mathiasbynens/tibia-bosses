@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-26T09:33:14.346Z",
+	"timestamp": "2025-02-27T03:38:08.015Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 72.04
+			"chance": 72.04,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 56.85
+			"chance": 56.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -52,6 +55,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

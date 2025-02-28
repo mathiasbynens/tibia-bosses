@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-27T09:33:02.824Z",
+	"timestamp": "2025-02-28T03:37:53.914Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.42
+			"chance": 20.42,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.94
+			"chance": 11.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -80,6 +84,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

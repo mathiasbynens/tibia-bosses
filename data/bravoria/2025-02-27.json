@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-27T09:33:06.871Z",
+	"timestamp": "2025-02-28T03:37:54.904Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.91
+			"chance": 30.91,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.15
+			"chance": 14.15,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +91,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.26
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

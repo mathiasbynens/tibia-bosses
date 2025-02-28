@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-27T09:33:34.872Z",
+	"timestamp": "2025-02-28T03:38:04.389Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

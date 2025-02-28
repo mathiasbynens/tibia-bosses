@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-27T09:33:23.691Z",
+	"timestamp": "2025-02-28T03:38:00.458Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28
+			"chance": 28,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.22
+			"chance": 10.22,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +82,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.27
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

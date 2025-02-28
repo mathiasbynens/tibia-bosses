@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-27T09:33:17.880Z",
+	"timestamp": "2025-02-28T03:37:58.190Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 25.96
+			"chance": 25.96,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.55
+			"chance": 16.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -104,6 +106,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.74
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

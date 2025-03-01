@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-03-01T09:32:03.289Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 69.27
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.88
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.86
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.87
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 25.58
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.15
+		},
+		{
+			"name": "Hirintror",
+			"chance": 18.74
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 17.23
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.97
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.71
+		},
+		{
+			"name": "The Welter",
+			"chance": 14.94
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.34
+		},
+		{
+			"name": "Massacre",
+			"chance": 13.85
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.58
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.46
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.06
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.73
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.38
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"timestamp": "2025-03-01T09:31:53.555Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 30.64
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.47
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.34
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.09
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.78
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.73
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.4
+		}
+	]
+}

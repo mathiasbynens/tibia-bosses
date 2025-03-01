@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-02-28T09:33:05.984Z",
+	"timestamp": "2025-03-01T03:40:13.034Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.1
+			"chance": 70.1,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 46.87
+			"chance": 46.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.71
+			"chance": 24.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.3
+			"chance": 21.3,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.47
+			"chance": 16.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -59,11 +65,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.09
+			"chance": 14.09,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.95
+			"chance": 11.95,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -75,7 +83,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -107,7 +116,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -120,6 +130,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.47
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

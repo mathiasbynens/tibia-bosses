@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-28T09:32:48.340Z",
+	"timestamp": "2025-03-01T03:40:05.712Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 15.15
+			"chance": 15.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -104,6 +106,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

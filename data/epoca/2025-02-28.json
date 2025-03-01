@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-28T09:32:52.442Z",
+	"timestamp": "2025-03-01T03:40:07.189Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 78.9
+			"chance": 78.9,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -32,6 +33,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.38
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

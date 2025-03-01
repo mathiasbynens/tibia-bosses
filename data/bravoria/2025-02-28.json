@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-28T09:32:44.086Z",
+	"timestamp": "2025-03-01T03:40:04.601Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.14
+			"chance": 67.14,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.17
+			"chance": 24.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +83,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

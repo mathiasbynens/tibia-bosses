@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-02-28T09:33:09.296Z",
+	"timestamp": "2025-03-01T03:40:14.212Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.26
+			"chance": 81.26,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +85,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.63
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-28T09:33:01.996Z",
+	"timestamp": "2025-03-01T03:40:11.840Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -84,6 +85,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

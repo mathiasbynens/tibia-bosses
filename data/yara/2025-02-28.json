@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-02-28T09:33:13.362Z",
+	"timestamp": "2025-03-01T03:40:15.043Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.1
+			"chance": 70.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.4
+			"chance": 31.4,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

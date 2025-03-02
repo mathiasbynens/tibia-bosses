@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-01T09:32:07.589Z",
+	"timestamp": "2025-03-02T03:38:27.232Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 25.81
+			"chance": 25.81,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 17.26
+			"chance": 17.26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +107,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-01T09:31:57.251Z",
+	"timestamp": "2025-03-02T03:38:25.028Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.89
+			"chance": 66.89,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.83
+			"chance": 66.83,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.31
+			"chance": 12.31,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

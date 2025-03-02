@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-01T09:32:15.587Z",
+	"timestamp": "2025-03-02T03:38:29.934Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -51,11 +51,22 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 5.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

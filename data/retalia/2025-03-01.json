@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-01T09:32:03.289Z",
+	"timestamp": "2025-03-02T03:38:26.356Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -76,6 +76,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.38
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

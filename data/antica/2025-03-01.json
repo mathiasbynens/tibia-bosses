@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-01T09:31:42.988Z",
+	"timestamp": "2025-03-02T03:38:21.523Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.04
+			"chance": 64.04,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,15 +24,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.31
+			"chance": 21.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.74
+			"chance": 16.74,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.57
+			"chance": 14.57,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -95,11 +102,22 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.25
+			"chance": 3.25,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

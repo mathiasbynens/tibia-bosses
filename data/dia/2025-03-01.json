@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-01T09:31:49.622Z",
+	"timestamp": "2025-03-02T03:38:23.424Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.54
+			"chance": 34.54,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -136,6 +138,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.85
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

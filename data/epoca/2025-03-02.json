@@ -1,0 +1,33 @@
+{
+	"timestamp": "2025-03-02T09:32:12.090Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.24
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 42.18
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.83
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.48
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.63
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.18
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.88
+		}
+	]
+}

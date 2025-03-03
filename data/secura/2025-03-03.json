@@ -1,0 +1,129 @@
+{
+	"timestamp": "2025-03-03T09:34:18.307Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.18
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.23
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 42.21
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 28.48
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.01
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.63
+		},
+		{
+			"name": "Barbaria",
+			"chance": 25.5
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.76
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 22.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.05
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 21.77
+		},
+		{
+			"name": "Omrafir",
+			"chance": 18.55
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.83
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.68
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 15.21
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.56
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.54
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.92
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.7
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.67
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.62
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.64
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.37
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.18
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.08
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.02
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.63
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.52
+		}
+	]
+}

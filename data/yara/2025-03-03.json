@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-03-03T09:34:26.017Z",
+	"bosses": [
+		{
+			"name": "The Big Bad One",
+			"chance": 29.52
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 25.93
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.29
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.18
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.36
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.37
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.75
+		}
+	]
+}

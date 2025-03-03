@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-02T09:32:30.653Z",
+	"timestamp": "2025-03-03T03:39:32.491Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.24
+			"chance": 44.24,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.11
+			"chance": 32.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.8
+			"chance": 6.8,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -104,6 +108,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

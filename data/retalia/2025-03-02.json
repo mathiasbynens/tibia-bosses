@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-02T09:32:22.018Z",
+	"timestamp": "2025-03-03T03:39:30.776Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.43
+			"chance": 31.43,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.14
+			"chance": 14.14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -80,6 +82,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.4
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

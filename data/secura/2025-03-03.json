@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-03T09:34:18.307Z",
+	"timestamp": "2025-03-04T03:38:59.596Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,23 +7,28 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.23
+			"chance": 61.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 42.21
+			"chance": 42.21,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.01
+			"chance": 28.01,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.63
+			"chance": 27.63,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -35,19 +40,23 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.05
+			"chance": 22.05,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -99,7 +108,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.37
+			"chance": 7.37,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -111,7 +121,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.02
+			"chance": 6.02,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -124,6 +135,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

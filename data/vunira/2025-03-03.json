@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-03T09:34:22.027Z",
+	"timestamp": "2025-03-04T03:39:00.435Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.14
+			"chance": 11.14,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -84,6 +86,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

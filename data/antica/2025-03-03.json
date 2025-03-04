@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-03T09:33:53.000Z",
+	"timestamp": "2025-03-04T03:38:53.994Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.07
+			"chance": 36.07,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,19 +17,23 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -108,6 +114,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-04T09:33:48.315Z",
+	"timestamp": "2025-03-05T03:38:36.054Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 78.84
+			"chance": 78.84,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 32.03
+			"chance": 32.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,19 +17,23 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +45,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -88,6 +95,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

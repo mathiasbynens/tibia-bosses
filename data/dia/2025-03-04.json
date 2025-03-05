@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-04T09:33:30.282Z",
+	"timestamp": "2025-03-05T03:38:32.771Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.25
+			"chance": 42.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.04
+			"chance": 22.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.63
+			"chance": 7.63,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -120,6 +125,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

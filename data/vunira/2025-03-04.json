@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-04T09:33:51.295Z",
+	"timestamp": "2025-03-05T03:38:37.288Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.56
+			"chance": 33.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -96,6 +101,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

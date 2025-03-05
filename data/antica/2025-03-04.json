@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-04T09:33:22.753Z",
+	"timestamp": "2025-03-05T03:38:30.761Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.73
+			"chance": 10.73,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

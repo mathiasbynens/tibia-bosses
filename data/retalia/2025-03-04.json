@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-04T09:33:44.339Z",
+	"timestamp": "2025-03-05T03:38:35.246Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.17
+			"chance": 29.17,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -80,6 +81,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.35
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-04T09:33:26.015Z",
+	"timestamp": "2025-03-05T03:38:31.909Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 78.84
+			"chance": 78.84,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -96,6 +98,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

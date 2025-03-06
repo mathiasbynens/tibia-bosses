@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-03-06T09:33:38.700Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.52
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.7
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.51
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.14
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 18.19
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.2
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.12
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.34
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.26
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.36
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.4
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 4.39
+		}
+	]
+}

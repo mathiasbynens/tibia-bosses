@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-05T09:33:22.704Z",
+	"timestamp": "2025-03-06T03:38:42.062Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 50
+			"chance": 50,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.93
+			"chance": 29.93,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

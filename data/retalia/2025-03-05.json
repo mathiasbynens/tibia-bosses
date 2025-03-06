@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-05T09:33:43.865Z",
+	"timestamp": "2025-03-06T03:38:50.140Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 42.23
+			"chance": 42.23,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -76,6 +77,21 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 8.64
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

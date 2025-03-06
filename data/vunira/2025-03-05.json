@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-05T09:33:53.925Z",
+	"timestamp": "2025-03-06T03:38:52.949Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.14
+			"chance": 62.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 30.94
+			"chance": 30.94,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.59
+			"chance": 29.59,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.25
+			"chance": 10.25,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.09
+			"chance": 10.09,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -95,11 +100,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.86
+			"chance": 6.86,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +119,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

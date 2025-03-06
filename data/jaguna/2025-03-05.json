@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-05T09:33:36.516Z",
+	"timestamp": "2025-03-06T03:38:47.139Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.15
+			"chance": 9.15,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -80,6 +82,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

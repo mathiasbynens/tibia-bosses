@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-06T09:33:56.629Z",
+	"timestamp": "2025-03-07T03:39:24.026Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.26
+			"chance": 61.26,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.81
+			"chance": 31.81,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.82
+			"chance": 15.82,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.77
+			"chance": 8.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +89,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

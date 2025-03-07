@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-06T09:33:28.796Z",
+	"timestamp": "2025-03-07T03:39:16.832Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.43
+			"chance": 53.43,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.14
+			"chance": 24.14,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -31,15 +34,18 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.26
+			"chance": 20.26,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -104,6 +110,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.33
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

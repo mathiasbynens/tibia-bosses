@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-06T09:33:38.700Z",
+	"timestamp": "2025-03-07T03:39:19.861Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.16
+			"chance": 9.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -56,6 +57,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

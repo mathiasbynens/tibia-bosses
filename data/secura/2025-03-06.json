@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-06T09:33:53.091Z",
+	"timestamp": "2025-03-07T03:39:23.268Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.81
+			"chance": 31.81,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.79
+			"chance": 23.79,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.97
+			"chance": 12.97,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +88,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

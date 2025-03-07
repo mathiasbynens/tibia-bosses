@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-06T09:33:59.641Z",
+	"timestamp": "2025-03-07T03:39:24.616Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.75
+			"chance": 23.75,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.64
+			"chance": 8.64,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -52,6 +56,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-03-07T09:33:31.608Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.12
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.07
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.13
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.03
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.78
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.97
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.44
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.16
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 6.9
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.33
+		}
+	]
+}

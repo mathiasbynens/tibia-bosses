@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-03-08T09:31:32.144Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.1
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 31.46
+		},
+		{
+			"name": "Dracola",
+			"chance": 31.3
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.95
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.92
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 19
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.98
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.17
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.96
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.46
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.7
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.34
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.16
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.12
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.67
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.04
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.8
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.47
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.38
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.51
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.27
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.89
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.29
+		}
+	]
+}

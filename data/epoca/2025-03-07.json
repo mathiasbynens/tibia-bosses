@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-07T09:33:12.483Z",
+	"timestamp": "2025-03-08T03:32:54.420Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.16
+			"chance": 62.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.27
+			"chance": 61.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",

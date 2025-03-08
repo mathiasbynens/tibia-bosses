@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-07T09:33:25.195Z",
+	"timestamp": "2025-03-08T03:32:57.365Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.09
+			"chance": 40.09,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.8
+			"chance": 33.8,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.42
+			"chance": 21.42,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -96,6 +101,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.19
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

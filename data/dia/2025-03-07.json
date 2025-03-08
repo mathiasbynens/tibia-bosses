@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-07T09:33:09.553Z",
+	"timestamp": "2025-03-08T03:32:53.661Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.43
+			"chance": 53.43,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -112,6 +114,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

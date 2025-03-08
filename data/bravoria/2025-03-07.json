@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-07T09:33:05.841Z",
+	"timestamp": "2025-03-08T03:32:52.854Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 26.99
+			"chance": 26.99,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 9.42
+			"chance": 9.42,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.33
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

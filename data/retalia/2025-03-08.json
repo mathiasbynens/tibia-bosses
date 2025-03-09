@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-08T09:31:29.305Z",
+	"timestamp": "2025-03-09T03:33:02.752Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -72,6 +72,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

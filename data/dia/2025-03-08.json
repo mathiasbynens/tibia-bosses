@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-08T09:31:18.074Z",
+	"timestamp": "2025-03-09T03:32:57.691Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.18
+			"chance": 62.18,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.46
+			"chance": 25.46,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.77
+			"chance": 16.77,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -120,6 +125,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-08T09:31:32.144Z",
+	"timestamp": "2025-03-09T03:33:03.539Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.92
+			"chance": 25.92,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.7
+			"chance": 12.7,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -96,6 +98,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

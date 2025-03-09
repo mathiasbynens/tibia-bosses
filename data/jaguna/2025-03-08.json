@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-08T09:31:23.893Z",
+	"timestamp": "2025-03-09T03:33:00.069Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.29
+			"chance": 61.29,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -92,6 +93,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

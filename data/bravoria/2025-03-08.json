@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-08T09:31:15.296Z",
+	"timestamp": "2025-03-09T03:32:56.802Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.07
+			"chance": 22.07,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

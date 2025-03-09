@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-08T09:31:37.832Z",
+	"timestamp": "2025-03-09T03:33:05.911Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 81.29
+			"chance": 81.29,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

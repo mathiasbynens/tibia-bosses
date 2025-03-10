@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-03-10T09:31:31.509Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 73.27
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 32.13
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 30.86
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.38
+		},
+		{
+			"name": "The Imperor",
+			"chance": 20
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.61
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.74
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.17
+		},
+		{
+			"name": "yeti",
+			"chance": 10.98
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.72
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.69
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.68
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.53
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.02
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.27
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 3.53
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.5
+		}
+	]
+}

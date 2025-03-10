@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-09T09:31:16.477Z",
+	"timestamp": "2025-03-10T03:33:24.169Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.08
+			"chance": 27.08,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.09
+			"chance": 25.09,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

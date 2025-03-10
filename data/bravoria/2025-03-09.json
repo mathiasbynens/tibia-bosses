@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-09T09:31:13.085Z",
+	"timestamp": "2025-03-10T03:33:23.197Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.49
+			"chance": 53.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -104,6 +105,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.18
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

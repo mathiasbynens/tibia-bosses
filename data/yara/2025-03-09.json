@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-09T09:31:39.289Z",
+	"timestamp": "2025-03-10T03:33:30.177Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -60,6 +60,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.55
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

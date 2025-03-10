@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-09T09:31:09.375Z",
+	"timestamp": "2025-03-10T03:33:22.492Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.1
+			"chance": 42.1,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.9
+			"chance": 30.9,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -128,6 +132,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

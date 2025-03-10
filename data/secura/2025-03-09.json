@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-09T09:31:32.919Z",
+	"timestamp": "2025-03-10T03:33:28.081Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 47.11
+			"chance": 47.11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.29
+			"chance": 44.29,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.13
+			"chance": 36.13,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 23.09
+			"chance": 23.09,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 23.07
+			"chance": 23.07,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.95
+			"chance": 8.95,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.06
+			"chance": 7.06,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -120,6 +127,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-10T09:31:47.270Z",
+	"timestamp": "2025-03-11T03:39:36.870Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.45
+			"chance": 53.45,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.3
+			"chance": 32.3,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.85
+			"chance": 9.85,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +119,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

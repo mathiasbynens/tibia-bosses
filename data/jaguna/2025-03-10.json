@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-10T09:31:34.929Z",
+	"timestamp": "2025-03-11T03:39:33.855Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -103,7 +103,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +113,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.25
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

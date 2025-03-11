@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-10T09:31:27.543Z",
+	"timestamp": "2025-03-11T03:39:32.266Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 52.23
+			"chance": 52.23,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.3
+			"chance": 44.3,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 43.46
+			"chance": 43.46,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 30.95
+			"chance": 30.95,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.91
+			"chance": 25.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -128,6 +133,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.03
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

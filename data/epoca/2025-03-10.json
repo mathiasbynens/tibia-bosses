@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-10T09:31:31.509Z",
+	"timestamp": "2025-03-11T03:39:33.036Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

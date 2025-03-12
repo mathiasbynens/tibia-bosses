@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-11T09:33:22.665Z",
+	"timestamp": "2025-03-12T03:38:49.862Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.79
+			"chance": 33.79,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.51
+			"chance": 3.51,
+			"killed": true
 		}
 	]
 }

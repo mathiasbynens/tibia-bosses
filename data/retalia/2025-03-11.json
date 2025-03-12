@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-11T09:33:37.667Z",
+	"timestamp": "2025-03-12T03:38:52.886Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.73
+			"chance": 22.73,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.35
+			"chance": 15.35,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +88,21 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.66
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-11T09:33:40.484Z",
+	"timestamp": "2025-03-12T03:38:53.535Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.82
+			"chance": 39.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.88
+			"chance": 35.88,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.61
+			"chance": 14.61,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.85
+			"chance": 7.85,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.93
+			"chance": 6.93,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +115,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

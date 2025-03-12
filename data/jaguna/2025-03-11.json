@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-11T09:33:32.687Z",
+	"timestamp": "2025-03-12T03:38:51.764Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.85
+			"chance": 10.85,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -87,11 +88,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -120,6 +123,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.25
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

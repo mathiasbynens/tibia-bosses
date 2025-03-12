@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-11T09:33:45.995Z",
+	"timestamp": "2025-03-12T03:38:54.724Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.22
+			"chance": 7.22,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

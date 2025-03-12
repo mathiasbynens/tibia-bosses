@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-03-12T09:34:13.494Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 53.52
+		},
+		{
+			"name": "Xenia",
+			"chance": 31.1
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.3
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.65
+		},
+		{
+			"name": "Hirintror",
+			"chance": 19.01
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 18.48
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.15
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.18
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.56
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 9.42
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 4.83
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.53
+		}
+	]
+}

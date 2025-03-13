@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-12T09:33:51.224Z",
+	"timestamp": "2025-03-13T03:41:01.994Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 41.03
+			"chance": 41.03,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 31.2
+			"chance": 31.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.86
+			"chance": 15.86,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -116,6 +120,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

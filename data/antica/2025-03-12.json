@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-12T09:33:45.059Z",
+	"timestamp": "2025-03-13T03:41:00.269Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.57
+			"chance": 29.57,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.35
+			"chance": 17.35,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -91,11 +95,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.55
+			"chance": 7.55,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +122,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

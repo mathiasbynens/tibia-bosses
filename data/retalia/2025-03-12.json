@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-12T09:34:03.884Z",
+	"timestamp": "2025-03-13T03:41:04.999Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.94
+			"chance": 29.94,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -76,6 +77,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 8.63
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

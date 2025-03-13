@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-12T09:33:48.057Z",
+	"timestamp": "2025-03-13T03:41:01.136Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 51.5
+			"chance": 51.5,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.29
+			"chance": 12.29,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -100,6 +105,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

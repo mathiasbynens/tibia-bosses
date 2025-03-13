@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-03-13T09:34:10.776Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Xenia",
+			"chance": 44.95
+		},
+		{
+			"name": "Hirintror",
+			"chance": 25.72
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.76
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.73
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.7
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.27
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.11
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 14.63
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.13
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.79
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.38
+		}
+	]
+}

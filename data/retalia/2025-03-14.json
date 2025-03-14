@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-03-14T09:33:09.413Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.18
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 28.73
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.5
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.02
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 22.94
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 22.82
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.63
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.34
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 17.32
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.94
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.54
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.44
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 12.27
+		},
+		{
+			"name": "yeti",
+			"chance": 10.59
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.4
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 9.42
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.91
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.06
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.59
+		}
+	]
+}

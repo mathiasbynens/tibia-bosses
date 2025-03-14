@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-13T09:34:10.776Z",
+	"timestamp": "2025-03-14T03:40:40.807Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -60,6 +61,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.38
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

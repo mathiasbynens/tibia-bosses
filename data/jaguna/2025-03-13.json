@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-13T09:33:54.659Z",
+	"timestamp": "2025-03-14T03:40:36.398Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 41.14
+			"chance": 41.14,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -100,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-13T09:33:47.737Z",
+	"timestamp": "2025-03-14T03:40:34.612Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -79,11 +81,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -120,6 +124,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

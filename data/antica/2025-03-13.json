@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-13T09:33:40.517Z",
+	"timestamp": "2025-03-14T03:40:31.328Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.24
+			"chance": 54.24,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 43.47
+			"chance": 43.47,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -23,19 +26,23 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.13
+			"chance": 24.13,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.7
+			"chance": 20.7,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.35
+			"chance": 20.35,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 18.09
+			"chance": 18.09,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,11 +50,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.21
+			"chance": 14.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.83
+			"chance": 13.83,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -83,7 +93,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.13
+			"chance": 8.13,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -112,6 +123,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

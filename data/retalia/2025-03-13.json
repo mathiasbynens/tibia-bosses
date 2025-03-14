@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-13T09:34:00.292Z",
+	"timestamp": "2025-03-14T03:40:38.066Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.15
+			"chance": 70.15,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.8
+			"chance": 31.8,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +92,16 @@
 		{
 			"name": "Gaz'haragoth",
 			"chance": 6.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

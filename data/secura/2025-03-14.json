@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-14T09:33:12.407Z",
+	"timestamp": "2025-03-15T03:38:13.938Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.18
+			"chance": 74.18,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.56
+			"chance": 29.56,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.97
+			"chance": 7.97,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +123,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

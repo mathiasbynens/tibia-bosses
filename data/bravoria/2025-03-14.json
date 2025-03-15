@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-14T09:32:55.207Z",
+	"timestamp": "2025-03-15T03:38:08.346Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -72,6 +72,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.62
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

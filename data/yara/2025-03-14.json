@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-14T09:33:18.046Z",
+	"timestamp": "2025-03-15T03:38:15.245Z",
 	"bosses": [
 		{
 			"name": "Hirintror",
@@ -52,6 +52,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.35
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

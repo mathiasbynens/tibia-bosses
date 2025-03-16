@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-15T09:31:17.125Z",
+	"timestamp": "2025-03-16T03:40:18.283Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.43
+			"chance": 25.43,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 24.01
+			"chance": 24.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.15
+			"chance": 13.15,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -92,6 +98,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

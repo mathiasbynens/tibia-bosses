@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-15T09:31:25.924Z",
+	"timestamp": "2025-03-16T03:40:20.608Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.09
+			"chance": 80.09,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.32
+			"chance": 61.32,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

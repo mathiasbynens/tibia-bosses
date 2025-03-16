@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-15T09:31:36.658Z",
+	"timestamp": "2025-03-16T03:40:23.288Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.16
+			"chance": 42.16,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.5
+			"chance": 6.5,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -95,11 +97,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.81
+			"chance": 4.81,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.8
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

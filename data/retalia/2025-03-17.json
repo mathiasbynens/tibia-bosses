@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-03-17T09:34:08.173Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 37.26
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 34.44
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.16
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.11
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.6
+		},
+		{
+			"name": "Omrafir",
+			"chance": 27.06
+		},
+		{
+			"name": "Zushuka",
+			"chance": 21.93
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 21.23
+		},
+		{
+			"name": "midnight panther",
+			"chance": 21.2
+		},
+		{
+			"name": "yeti",
+			"chance": 20.73
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 19.49
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 18.29
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.61
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 14.05
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.66
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.01
+		}
+	]
+}

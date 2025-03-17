@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-16T09:31:11.572Z",
+	"timestamp": "2025-03-17T03:40:14.158Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.28
+			"chance": 81.28,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 20.93
+			"chance": 20.93,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.78
+			"chance": 11.78,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -92,6 +97,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.58
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

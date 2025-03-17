@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-16T09:31:34.326Z",
+	"timestamp": "2025-03-17T03:40:21.983Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
-			"chance": 26.73
+			"chance": 26.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.22
+			"chance": 16.22,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -120,6 +122,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

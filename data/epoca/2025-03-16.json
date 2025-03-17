@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-16T09:31:21.905Z",
+	"timestamp": "2025-03-17T03:40:18.077Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.36
+			"chance": 30.36,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.11
+			"chance": 30.11,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -60,6 +64,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-16T09:31:40.514Z",
+	"timestamp": "2025-03-17T03:40:23.925Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.1
+			"chance": 64.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -68,6 +72,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.86
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

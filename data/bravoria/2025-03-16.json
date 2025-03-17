@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-16T09:31:15.594Z",
+	"timestamp": "2025-03-17T03:40:15.622Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.45
+			"chance": 20.45,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.55
+			"chance": 9.55,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -104,6 +106,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

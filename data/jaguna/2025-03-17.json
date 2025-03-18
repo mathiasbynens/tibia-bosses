@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-17T09:34:03.267Z",
+	"timestamp": "2025-03-18T03:40:14.310Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.09
+			"chance": 80.09,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.02
+			"chance": 27.02,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 15.13
+			"chance": 15.13,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

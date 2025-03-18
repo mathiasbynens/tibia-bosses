@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-17T09:34:00.249Z",
+	"timestamp": "2025-03-18T03:40:13.612Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.36
+			"chance": 39.36,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.47
+			"chance": 31.47,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 17.32
+			"chance": 17.32,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -48,6 +52,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

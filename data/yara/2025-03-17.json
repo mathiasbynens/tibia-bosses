@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-17T09:34:18.274Z",
+	"timestamp": "2025-03-18T03:40:18.476Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -52,6 +52,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.69
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-17T09:34:08.173Z",
+	"timestamp": "2025-03-18T03:40:15.768Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 20.73
+			"chance": 20.73,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-03-18T09:34:02.271Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 31.47
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.77
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 22.87
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.66
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 18.41
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.14
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.17
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.62
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 6.73
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.34
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-18T09:34:12.306Z",
+	"timestamp": "2025-03-19T03:40:08.814Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 29.07
+			"chance": 29.07,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -124,6 +125,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

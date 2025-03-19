@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-18T09:33:54.788Z",
+	"timestamp": "2025-03-19T03:40:07.222Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 22.31
+			"chance": 22.31,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.23
+			"chance": 16.23,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -112,6 +117,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

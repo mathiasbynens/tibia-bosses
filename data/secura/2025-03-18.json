@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-18T09:34:42.114Z",
+	"timestamp": "2025-03-19T03:40:11.448Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.1
+			"chance": 27.1,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.08
+			"chance": 20.08,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.57
+			"chance": 17.57,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -136,6 +140,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

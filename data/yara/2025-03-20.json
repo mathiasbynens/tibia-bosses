@@ -1,0 +1,33 @@
+{
+	"timestamp": "2025-03-20T09:34:05.166Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 17.14
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 12.27
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.03
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.39
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.01
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.49
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.45
+		}
+	]
+}

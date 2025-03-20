@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-19T09:34:30.907Z",
+	"timestamp": "2025-03-20T03:39:48.740Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.7
+			"chance": 36.7,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.02
+			"chance": 27.02,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

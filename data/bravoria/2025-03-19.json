@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-19T09:34:34.168Z",
+	"timestamp": "2025-03-20T03:39:49.391Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.07
+			"chance": 64.07,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.48
+			"chance": 53.48,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.93
+			"chance": 25.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.67
+			"chance": 17.67,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -96,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.51
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-19T09:34:40.843Z",
+	"timestamp": "2025-03-20T03:39:50.767Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -56,6 +56,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

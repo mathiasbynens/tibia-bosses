@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-19T09:34:54.471Z",
+	"timestamp": "2025-03-20T03:39:53.521Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.01
+			"chance": 27.01,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.76
+			"chance": 23.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.22
+			"chance": 22.22,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6
+			"chance": 6,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +130,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.61
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

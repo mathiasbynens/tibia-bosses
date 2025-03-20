@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-19T09:34:50.615Z",
+	"timestamp": "2025-03-20T03:39:52.663Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 36.54
+			"chance": 36.54,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -68,6 +71,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

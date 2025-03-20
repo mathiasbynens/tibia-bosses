@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-19T09:34:37.380Z",
+	"timestamp": "2025-03-20T03:39:50.184Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.93
+			"chance": 29.93,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.02
+			"chance": 27.02,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.83
+			"chance": 17.83,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.12
+			"chance": 9.12,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -100,6 +106,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

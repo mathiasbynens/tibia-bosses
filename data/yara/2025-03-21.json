@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-03-21T09:34:01.938Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.81
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.78
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 16.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.13
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.14
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.38
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.18
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.68
+		}
+	]
+}

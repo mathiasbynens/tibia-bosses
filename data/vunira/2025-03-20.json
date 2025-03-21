@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-20T09:34:01.757Z",
+	"timestamp": "2025-03-21T03:40:44.717Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.16
+			"chance": 70.16,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.51
+			"chance": 38.51,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.17
+			"chance": 4.17,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +104,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

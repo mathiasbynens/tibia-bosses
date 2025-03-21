@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-03-20T09:33:59.096Z",
+	"timestamp": "2025-03-21T03:40:43.809Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.16
+			"chance": 70.16,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.12
+			"chance": 64.12,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.29
+			"chance": 61.29,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.78
+			"chance": 33.78,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.41
+			"chance": 29.41,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.91
+			"chance": 9.91,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -132,6 +140,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

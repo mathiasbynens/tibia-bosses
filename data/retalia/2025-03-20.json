@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-20T09:33:55.908Z",
+	"timestamp": "2025-03-21T03:40:42.976Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 66.19
+			"chance": 66.19,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -84,6 +89,26 @@
 		{
 			"name": "The Welter",
 			"chance": 4.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

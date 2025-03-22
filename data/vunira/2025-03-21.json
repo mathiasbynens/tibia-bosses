@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-21T09:33:58.958Z",
+	"timestamp": "2025-03-22T03:41:12.806Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 66.21
+			"chance": 66.21,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.17
+			"chance": 29.17,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.95
+			"chance": 15.95,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.13
+			"chance": 9.13,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-21T09:33:55.994Z",
+	"timestamp": "2025-03-22T03:41:12.035Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 42.31
+			"chance": 42.31,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 26.53
+			"chance": 26.53,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.89
+			"chance": 22.89,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -104,6 +110,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.33
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

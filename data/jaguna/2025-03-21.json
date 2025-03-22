@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-21T09:33:47.510Z",
+	"timestamp": "2025-03-22T03:41:09.871Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-21T09:34:01.938Z",
+	"timestamp": "2025-03-22T03:41:13.708Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.81
+			"chance": 31.81,
+			"killed": true
 		},
 		{
 			"name": "Zomba",

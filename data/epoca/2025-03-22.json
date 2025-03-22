@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-03-22T09:32:04.015Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 42.95
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.41
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.51
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.7
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.04
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.64
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.86
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.15
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 11.62
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.66
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.7
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.33
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-03-23T09:31:17.488Z",
+	"bosses": [
+		{
+			"name": "Zarabustor",
+			"chance": 33.48
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.53
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 22
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 21.93
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.46
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.42
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.95
+		},
+		{
+			"name": "Dracola",
+			"chance": 18.93
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.9
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.29
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.32
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.15
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 14.03
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.69
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.66
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.42
+		},
+		{
+			"name": "Barbaria",
+			"chance": 11.28
+		},
+		{
+			"name": "yeti",
+			"chance": 10.8
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.61
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.93
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.27
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.07
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 6.9
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.36
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.39
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.33
+		}
+	]
+}

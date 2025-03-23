@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-03-23T09:31:43.077Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 22.86
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 17.59
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.04
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.64
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.79
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.39
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.39
+		}
+	]
+}

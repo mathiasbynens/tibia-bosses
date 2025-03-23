@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-22T09:32:15.188Z",
+	"timestamp": "2025-03-23T03:40:25.103Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.07
+			"chance": 36.07,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 32.19
+			"chance": 32.19,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.48
+			"chance": 7.48,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +102,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

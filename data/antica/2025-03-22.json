@@ -1,29 +1,35 @@
 {
-	"timestamp": "2025-03-22T09:31:54.253Z",
+	"timestamp": "2025-03-23T03:40:17.147Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.09
+			"chance": 64.09,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.52
+			"chance": 53.52,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.38
+			"chance": 44.38,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.29
+			"chance": 42.29,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.51
+			"chance": 38.51,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.8
+			"chance": 31.8,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +37,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 26.53
+			"chance": 26.53,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +46,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 21.91
+			"chance": 21.91,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +55,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.62
+			"chance": 14.62,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +138,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

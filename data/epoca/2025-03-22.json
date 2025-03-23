@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-22T09:32:04.015Z",
+	"timestamp": "2025-03-23T03:40:21.246Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.41
+			"chance": 39.41,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

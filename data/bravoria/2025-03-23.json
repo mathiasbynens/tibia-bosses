@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-23T09:31:20.233Z",
+	"timestamp": "2025-03-24T03:40:46.461Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 37.32
+			"chance": 37.32,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

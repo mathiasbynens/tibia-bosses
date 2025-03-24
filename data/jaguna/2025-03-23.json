@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-23T09:31:29.505Z",
+	"timestamp": "2025-03-24T03:40:49.169Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 40.9
+			"chance": 40.9,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 26.69
+			"chance": 26.69,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

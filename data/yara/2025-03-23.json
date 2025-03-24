@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-23T09:31:43.077Z",
+	"timestamp": "2025-03-24T03:40:53.920Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -36,6 +36,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.39
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

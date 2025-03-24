@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-23T09:31:26.582Z",
+	"timestamp": "2025-03-24T03:40:48.270Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -64,6 +64,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

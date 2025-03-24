@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-23T09:31:37.428Z",
+	"timestamp": "2025-03-24T03:40:51.616Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -19,19 +19,23 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.22
+			"chance": 16.22,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.79
+			"chance": 15.79,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 15.24
+			"chance": 15.24,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -96,6 +101,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

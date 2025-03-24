@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-23T09:31:34.683Z",
+	"timestamp": "2025-03-24T03:40:50.861Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.1
+			"chance": 23.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -56,6 +58,21 @@
 		{
 			"name": "White Pale",
 			"chance": 7.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

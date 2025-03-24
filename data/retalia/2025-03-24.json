@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-03-24T09:34:10.145Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.17
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.9
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 42.29
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.85
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.55
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.26
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 18.95
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.12
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.23
+		}
+	]
+}

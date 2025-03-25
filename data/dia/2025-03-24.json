@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-24T09:33:58.732Z",
+	"timestamp": "2025-03-25T03:40:33.342Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 35.04
+			"chance": 35.04,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.09
+			"chance": 31.09,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -120,6 +123,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.58
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

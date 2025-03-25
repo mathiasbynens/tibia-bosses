@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-24T09:34:04.845Z",
+	"timestamp": "2025-03-25T03:40:35.172Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -84,6 +84,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

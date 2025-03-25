@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-24T09:34:02.037Z",
+	"timestamp": "2025-03-25T03:40:34.211Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.7
+			"chance": 53.7,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.57
+			"chance": 53.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -68,6 +71,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.15
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

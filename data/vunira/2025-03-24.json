@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-24T09:34:16.190Z",
+	"timestamp": "2025-03-25T03:40:38.658Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.52
+			"chance": 53.52,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.73
+			"chance": 8.73,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.49
+			"chance": 3.49,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -108,6 +112,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.28
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

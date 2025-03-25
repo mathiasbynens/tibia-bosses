@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-24T09:34:19.571Z",
+	"timestamp": "2025-03-25T03:40:39.603Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -52,6 +53,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-25T09:34:06.754Z",
+	"timestamp": "2025-03-26T03:40:21.467Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.17
+			"chance": 21.17,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -52,6 +53,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

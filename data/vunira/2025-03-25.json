@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-25T09:34:03.632Z",
+	"timestamp": "2025-03-26T03:40:20.761Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 24.39
+			"chance": 24.39,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.01
+			"chance": 12.01,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 11.99
+			"chance": 11.99,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -120,6 +124,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

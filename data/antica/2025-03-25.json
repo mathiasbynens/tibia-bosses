@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-25T09:33:38.333Z",
+	"timestamp": "2025-03-26T03:40:14.131Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.18
+			"chance": 62.18,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 25.84
+			"chance": 25.84,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.7
+			"chance": 8.7,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +107,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.51
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

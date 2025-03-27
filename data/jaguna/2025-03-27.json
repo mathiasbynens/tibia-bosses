@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-03-27T09:34:11.129Z",
+	"bosses": [
+		{
+			"name": "Zushuka",
+			"chance": 60.48
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.44
+		},
+		{
+			"name": "Shlorg",
+			"chance": 37.59
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.88
+		},
+		{
+			"name": "The Imperor",
+			"chance": 35.56
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.45
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.55
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 23.09
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 23.08
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.01
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.92
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.7
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.92
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.64
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.35
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.32
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.73
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.94
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.87
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.76
+		}
+	]
+}

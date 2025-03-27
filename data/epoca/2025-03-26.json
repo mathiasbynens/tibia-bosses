@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-26T09:33:56.899Z",
+	"timestamp": "2025-03-27T03:41:48.986Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -64,6 +64,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

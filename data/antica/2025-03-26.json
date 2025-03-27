@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-26T09:33:46.539Z",
+	"timestamp": "2025-03-27T03:41:44.326Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.87
+			"chance": 23.87,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.49
+			"chance": 5.49,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

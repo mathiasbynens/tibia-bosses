@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-03-28T09:34:04.157Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.16
+		},
+		{
+			"name": "General Murius",
+			"chance": 46.95
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 45.1
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.1
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 35.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.98
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.75
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.6
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.94
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.03
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.64
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.66
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.66
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.5
+		}
+	]
+}

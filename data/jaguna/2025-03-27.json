@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-27T09:34:11.129Z",
+	"timestamp": "2025-03-28T03:41:04.630Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 60.48
+			"chance": 60.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.7
+			"chance": 17.7,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +83,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

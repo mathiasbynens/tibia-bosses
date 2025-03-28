@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-27T09:33:59.469Z",
+	"timestamp": "2025-03-28T03:41:00.777Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 42.4
+			"chance": 42.4,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.83
+			"chance": 36.83,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.8
+			"chance": 16.8,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -83,11 +87,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.84
+			"chance": 8.84,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.76
+			"chance": 8.76,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -119,7 +125,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.32
+			"chance": 4.32,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -128,6 +135,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.73
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

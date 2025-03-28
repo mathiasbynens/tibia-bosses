@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-27T09:34:25.339Z",
+	"timestamp": "2025-03-28T03:41:09.945Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -60,6 +60,26 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.57
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

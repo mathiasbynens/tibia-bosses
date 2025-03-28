@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-27T09:34:08.368Z",
+	"timestamp": "2025-03-28T03:41:03.760Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -76,6 +76,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.87
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

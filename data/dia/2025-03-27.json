@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-27T09:34:05.259Z",
+	"timestamp": "2025-03-28T03:41:02.531Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -11,19 +11,23 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.08
+			"chance": 42.08,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.1
+			"chance": 27.1,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,11 +53,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.82
+			"chance": 15.82,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.81
+			"chance": 15.81,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +108,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.5
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

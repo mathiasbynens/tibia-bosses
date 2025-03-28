@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-27T09:34:02.321Z",
+	"timestamp": "2025-03-28T03:41:01.593Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.26
+			"chance": 62.26,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.29
+			"chance": 42.29,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.83
+			"chance": 39.83,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.33
+			"chance": 17.33,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.86
+			"chance": 6.86,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.54
+			"chance": 6.54,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

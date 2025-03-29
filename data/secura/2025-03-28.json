@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-28T09:34:20.701Z",
+	"timestamp": "2025-03-29T03:40:12.358Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.12
+			"chance": 42.12,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.93
+			"chance": 41.93,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.97
+			"chance": 26.97,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +109,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

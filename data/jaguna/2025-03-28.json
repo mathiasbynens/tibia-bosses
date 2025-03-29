@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-28T09:34:12.995Z",
+	"timestamp": "2025-03-29T03:40:08.684Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.29
+			"chance": 54.29,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.28
+			"chance": 23.28,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6
+			"chance": 6,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

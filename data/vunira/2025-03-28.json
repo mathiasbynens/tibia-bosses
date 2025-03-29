@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-03-28T09:34:23.578Z",
+	"timestamp": "2025-03-29T03:40:14.032Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.2
+			"chance": 62.2,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 38.74
+			"chance": 38.74,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.52
+			"chance": 38.52,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.9
+			"chance": 25.9,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.18
+			"chance": 20.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.66
+			"chance": 8.66,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -111,7 +120,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.7
+			"chance": 5.7,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +138,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

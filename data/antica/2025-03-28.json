@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-28T09:34:01.226Z",
+	"timestamp": "2025-03-29T03:40:04.854Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.64
+			"chance": 21.64,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.69
+			"chance": 20.69,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -103,7 +106,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -128,6 +132,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.51
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-28T09:34:09.960Z",
+	"timestamp": "2025-03-29T03:40:07.549Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.28
+			"chance": 43.28,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -76,6 +77,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.3
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

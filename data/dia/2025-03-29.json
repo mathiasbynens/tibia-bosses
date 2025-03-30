@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-29T09:32:08.876Z",
+	"timestamp": "2025-03-30T03:41:59.613Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.31
+			"chance": 61.31,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.79
+			"chance": 31.79,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -19,19 +21,23 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 17.25
+			"chance": 17.25,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.3
+			"chance": 16.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -43,11 +49,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.85
+			"chance": 14.85,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -83,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +105,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

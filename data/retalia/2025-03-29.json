@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-29T09:32:20.844Z",
+	"timestamp": "2025-03-30T03:42:03.757Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 24.14
+			"chance": 24.14,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -76,6 +77,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

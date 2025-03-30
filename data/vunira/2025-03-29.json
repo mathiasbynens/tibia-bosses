@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-29T09:32:26.682Z",
+	"timestamp": "2025-03-30T03:42:07.259Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 22.69
+			"chance": 22.69,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.81
+			"chance": 18.81,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.01
+			"chance": 4.01,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

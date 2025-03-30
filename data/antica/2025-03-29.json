@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-03-29T09:32:02.704Z",
+	"timestamp": "2025-03-30T03:41:56.044Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.17
+			"chance": 70.17,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.12
+			"chance": 40.12,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.71
+			"chance": 37.71,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.31
+			"chance": 11.31,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -132,6 +139,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.68
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

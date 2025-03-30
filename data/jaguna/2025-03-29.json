@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-03-29T09:32:15.449Z",
+	"timestamp": "2025-03-30T03:42:01.264Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 51.99
+			"chance": 51.99,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 41.16
+			"chance": 41.16,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 41.14
+			"chance": 41.14,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.94
+			"chance": 29.94,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -64,6 +68,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.25
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

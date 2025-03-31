@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-03-31T09:34:35.324Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.28
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 36.63
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.6
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.33
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 21.75
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.04
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.33
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.17
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.1
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.85
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-03-30T09:32:13.555Z",
+	"timestamp": "2025-03-31T03:41:44.345Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.74
+			"chance": 34.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.31
+			"chance": 16.31,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.17
+			"chance": 11.17,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.92
+			"chance": 4.92,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +111,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

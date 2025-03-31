@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-30T09:32:05.557Z",
+	"timestamp": "2025-03-31T03:41:41.729Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.8
+			"chance": 31.8,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -64,6 +67,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

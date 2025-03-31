@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-03-30T09:32:15.942Z",
+	"timestamp": "2025-03-31T03:41:45.542Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.31
+			"chance": 61.31,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 40.7
+			"chance": 40.7,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.38
+			"chance": 31.38,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.71
+			"chance": 29.71,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.51
+			"chance": 27.51,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -108,6 +114,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.77
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-30T09:32:10.546Z",
+	"timestamp": "2025-03-31T03:41:43.262Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -92,6 +94,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

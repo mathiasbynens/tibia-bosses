@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-30T09:31:56.345Z",
+	"timestamp": "2025-03-31T03:41:38.757Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -68,6 +68,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

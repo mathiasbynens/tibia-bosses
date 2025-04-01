@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-31T09:34:16.396Z",
+	"timestamp": "2025-04-01T03:45:13.874Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.28
+			"chance": 42.28,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.14
+			"chance": 21.14,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +117,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

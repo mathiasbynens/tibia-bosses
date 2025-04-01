@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-31T09:34:26.920Z",
+	"timestamp": "2025-04-01T03:45:16.247Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.16
+			"chance": 42.16,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.31
+			"chance": 14.31,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -88,6 +90,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.46
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

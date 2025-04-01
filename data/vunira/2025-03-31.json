@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-31T09:34:32.061Z",
+	"timestamp": "2025-04-01T03:45:17.741Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.12
+			"chance": 40.12,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -96,6 +98,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

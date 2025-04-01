@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-31T09:34:21.961Z",
+	"timestamp": "2025-04-01T03:45:15.113Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.16
+			"chance": 20.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -64,6 +66,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

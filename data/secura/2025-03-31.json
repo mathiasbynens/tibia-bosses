@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-31T09:34:29.427Z",
+	"timestamp": "2025-04-01T03:45:17.007Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.13
+			"chance": 16.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.27
+			"chance": 10.27,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +91,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.49
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

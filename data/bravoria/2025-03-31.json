@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-03-31T09:34:13.557Z",
+	"timestamp": "2025-04-01T03:45:13.095Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.82
+			"chance": 18.82,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.59
+			"chance": 13.59,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -79,11 +83,17 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.49
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-01T09:34:24.151Z",
+	"timestamp": "2025-04-02T03:41:54.673Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 29.27
+			"chance": 29.27,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

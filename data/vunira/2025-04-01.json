@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-01T09:34:30.735Z",
+	"timestamp": "2025-04-02T03:41:56.505Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.28
+			"chance": 54.28,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.5
+			"chance": 53.5,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.37
+			"chance": 17.37,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.86
+			"chance": 12.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +109,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

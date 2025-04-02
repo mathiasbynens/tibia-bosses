@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-01T09:34:09.455Z",
+	"timestamp": "2025-04-02T03:41:50.128Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -92,6 +92,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

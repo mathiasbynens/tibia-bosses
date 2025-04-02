@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-01T09:34:18.937Z",
+	"timestamp": "2025-04-02T03:41:53.260Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.25
+			"chance": 81.25,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -84,6 +85,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.49
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

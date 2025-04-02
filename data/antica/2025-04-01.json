@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-01T09:34:05.928Z",
+	"timestamp": "2025-04-02T03:41:48.385Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.36
+			"chance": 37.36,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 23.86
+			"chance": 23.86,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.45
+			"chance": 14.45,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -104,6 +108,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

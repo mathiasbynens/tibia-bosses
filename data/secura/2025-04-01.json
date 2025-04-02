@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-01T09:34:27.838Z",
+	"timestamp": "2025-04-02T03:41:55.533Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.26
+			"chance": 16.26,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -100,6 +101,41 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-01T09:34:33.558Z",
+	"timestamp": "2025-04-02T03:41:57.405Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -36,6 +36,11 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 6.89
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

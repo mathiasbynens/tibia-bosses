@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-04-03T09:34:24.029Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.1
+		},
+		{
+			"name": "Dharalion",
+			"chance": 42.89
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 22.47
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.3
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.14
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.25
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.6
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.11
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.49
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.79
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.86
+		}
+	]
+}

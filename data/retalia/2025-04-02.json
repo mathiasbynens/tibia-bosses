@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-02T09:35:25.865Z",
+	"timestamp": "2025-04-03T03:42:03.735Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.68
+			"chance": 13.68,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -92,6 +95,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

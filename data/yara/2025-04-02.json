@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-02T09:35:36.115Z",
+	"timestamp": "2025-04-03T03:42:08.155Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -48,6 +48,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.93
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

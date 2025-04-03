@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-02T09:35:06.798Z",
+	"timestamp": "2025-04-03T03:41:56.904Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 26.61
+			"chance": 26.61,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,27 +28,33 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.41
+			"chance": 15.41,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.79
+			"chance": 14.79,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.96
+			"chance": 11.96,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +120,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-02T09:35:10.049Z",
+	"timestamp": "2025-04-03T03:41:58.066Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -87,7 +87,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.82
+			"chance": 8.82,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -104,6 +105,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.69
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-04-02T09:35:32.965Z",
+	"timestamp": "2025-04-03T03:42:06.603Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.88
+			"chance": 93.88,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 80.18
+			"chance": 80.18,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.15
+			"chance": 70.15,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.24
+			"chance": 22.24,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -100,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

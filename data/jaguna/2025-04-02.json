@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-04-02T09:35:20.383Z",
+	"timestamp": "2025-04-03T03:42:01.304Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.54
+			"chance": 64.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.16
+			"chance": 42.16,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.4
+			"chance": 18.4,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,11 +80,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.46
+			"chance": 6.46,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +99,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.9
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

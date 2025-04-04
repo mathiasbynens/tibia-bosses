@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-03T09:33:57.107Z",
+	"timestamp": "2025-04-04T03:40:29.334Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.3
+			"chance": 22.3,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +119,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

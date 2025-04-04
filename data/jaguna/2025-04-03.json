@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-03T09:34:09.577Z",
+	"timestamp": "2025-04-04T03:40:32.166Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 32.19
+			"chance": 32.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.44
+			"chance": 29.44,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 24.09
+			"chance": 24.09,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.39
+			"chance": 20.39,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.72
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

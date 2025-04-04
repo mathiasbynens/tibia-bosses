@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-04-03T09:34:17.797Z",
+	"timestamp": "2025-04-04T03:40:34.079Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.34
+			"chance": 32.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.71
+			"chance": 29.71,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -108,6 +113,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

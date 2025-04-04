@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-03T09:34:24.029Z",
+	"timestamp": "2025-04-04T03:40:35.499Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.1
+			"chance": 65.1,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -52,6 +54,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.86
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

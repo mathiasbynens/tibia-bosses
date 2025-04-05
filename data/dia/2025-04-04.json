@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-04T09:33:34.478Z",
+	"timestamp": "2025-04-05T03:40:18.138Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.72
+			"chance": 29.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.17
+			"chance": 25.17,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +115,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-04T09:33:30.840Z",
+	"timestamp": "2025-04-05T03:40:17.108Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.88
+			"chance": 39.88,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -92,6 +96,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.03
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

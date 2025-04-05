@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-04T09:33:41.011Z",
+	"timestamp": "2025-04-05T03:40:19.910Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -75,11 +78,17 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.37
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

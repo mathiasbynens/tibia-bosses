@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-04T09:33:50.592Z",
+	"timestamp": "2025-04-05T03:40:22.402Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.92
+			"chance": 21.92,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.52
+			"chance": 19.52,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.83
+			"chance": 18.83,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -116,6 +121,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

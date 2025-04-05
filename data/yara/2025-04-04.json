@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-04T09:33:57.123Z",
+	"timestamp": "2025-04-05T03:40:24.226Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.37
+			"chance": 61.37,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +70,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.7
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

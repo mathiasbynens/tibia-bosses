@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-04T09:33:53.884Z",
+	"timestamp": "2025-04-05T03:40:23.315Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.64
+			"chance": 24.64,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.75
+			"chance": 23.75,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.83
+			"chance": 18.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -71,15 +74,18 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 11
+			"chance": 11,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.03
+			"chance": 7.03,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -103,7 +110,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.19
+			"chance": 6.19,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +120,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

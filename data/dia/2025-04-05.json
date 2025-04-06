@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-05T09:31:25.810Z",
+	"timestamp": "2025-04-06T03:40:27.025Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.17
+			"chance": 70.17,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.48
+			"chance": 53.48,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.44
+			"chance": 28.44,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.66
+			"chance": 24.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -120,6 +125,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

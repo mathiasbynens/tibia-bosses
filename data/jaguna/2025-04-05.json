@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-05T09:31:32.541Z",
+	"timestamp": "2025-04-06T03:40:30.480Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.89
+			"chance": 25.89,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -104,6 +109,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.92
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

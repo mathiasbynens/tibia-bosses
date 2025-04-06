@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-05T09:31:46.025Z",
+	"timestamp": "2025-04-06T03:40:38.460Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -64,6 +64,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

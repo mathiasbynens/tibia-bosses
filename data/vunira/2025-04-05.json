@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-05T09:31:42.861Z",
+	"timestamp": "2025-04-06T03:40:35.819Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 34.2
+			"chance": 34.2,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.01
+			"chance": 27.01,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 5.51
+			"chance": 5.51,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +118,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

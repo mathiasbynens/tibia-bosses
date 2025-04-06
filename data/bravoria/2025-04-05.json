@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-05T09:31:22.977Z",
+	"timestamp": "2025-04-06T03:40:23.684Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 15.26
+			"chance": 15.26,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -84,6 +85,21 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

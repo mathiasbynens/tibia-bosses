@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-05T09:31:28.783Z",
+	"timestamp": "2025-04-06T03:40:28.900Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -72,6 +73,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-04-06T09:32:31.578Z",
+	"bosses": [
+		{
+			"name": "Massacre",
+			"chance": 45.56
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.2
+		},
+		{
+			"name": "yeti",
+			"chance": 38.15
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 32.39
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 24
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.38
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 23.35
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.74
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.58
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.26
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.38
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.39
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.21
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 8.86
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 8.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.24
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.32
+		},
+		{
+			"name": "The Abomination",
+			"chance": 2.29
+		}
+	]
+}

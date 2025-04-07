@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-06T09:32:39.484Z",
+	"timestamp": "2025-04-07T03:40:57.105Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.09
+			"chance": 65.09,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -96,6 +97,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-06T09:32:48.208Z",
+	"timestamp": "2025-04-07T03:40:59.912Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.13
+			"chance": 16.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

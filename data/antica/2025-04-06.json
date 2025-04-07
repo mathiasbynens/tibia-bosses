@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-06T09:32:23.063Z",
+	"timestamp": "2025-04-07T03:40:51.674Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 23.58
+			"chance": 23.58,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8
+			"chance": 8,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +98,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

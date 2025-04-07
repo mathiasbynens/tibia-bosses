@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-06T09:32:25.804Z",
+	"timestamp": "2025-04-07T03:40:52.670Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,15 +80,27 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.61
+			"chance": 9.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.76
+			"chance": 8.76,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
 			"chance": 6.58
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

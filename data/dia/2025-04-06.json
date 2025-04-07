@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-06T09:32:28.694Z",
+	"timestamp": "2025-04-07T03:40:53.679Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.39
+			"chance": 61.39,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 40.85
+			"chance": 40.85,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.58
+			"chance": 30.58,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.64
+			"chance": 19.64,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.99
+			"chance": 14.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.29
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

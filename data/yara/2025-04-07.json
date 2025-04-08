@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-07T09:34:34.412Z",
+	"timestamp": "2025-04-08T03:41:56.179Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -59,11 +59,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.71
+			"chance": 9.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -72,6 +74,31 @@
 		{
 			"name": "The Imperor",
 			"chance": 7.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

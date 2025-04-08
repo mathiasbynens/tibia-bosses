@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-07T09:34:14.167Z",
+	"timestamp": "2025-04-08T03:41:10.020Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.52
+			"chance": 19.52,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.09
+			"chance": 18.09,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.77
+			"chance": 8.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.02
+			"chance": 8.02,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +117,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

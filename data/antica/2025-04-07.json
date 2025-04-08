@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-07T09:34:07.805Z",
+	"timestamp": "2025-04-08T03:40:57.910Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 42.6
+			"chance": 42.6,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.18
+			"chance": 42.18,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 29.69
+			"chance": 29.69,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.15
+			"chance": 12.15,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -108,6 +113,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.29
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

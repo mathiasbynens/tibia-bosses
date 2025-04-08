@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-07T09:34:19.633Z",
+	"timestamp": "2025-04-08T03:41:19.634Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.48
+			"chance": 31.48,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.15
+			"chance": 21.15,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

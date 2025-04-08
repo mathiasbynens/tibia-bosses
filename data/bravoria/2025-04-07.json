@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-07T09:34:10.903Z",
+	"timestamp": "2025-04-08T03:41:06.946Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -88,6 +88,16 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

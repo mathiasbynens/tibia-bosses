@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-04-09T09:35:02.185Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.49
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 27
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.41
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.78
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.12
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.33
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.22
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.22
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.9
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.96
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 10.58
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 8.47
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.33
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.32
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.68
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.3
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.65
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.64
+		}
+	]
+}

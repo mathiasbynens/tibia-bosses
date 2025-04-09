@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-08T09:34:29.436Z",
+	"timestamp": "2025-04-09T03:40:51.731Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.56
+			"chance": 11.56,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

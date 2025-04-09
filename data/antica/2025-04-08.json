@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-04-08T09:34:11.972Z",
+	"timestamp": "2025-04-09T03:40:44.649Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.2
+			"chance": 62.2,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.48
+			"chance": 53.48,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.3
+			"chance": 31.3,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -63,11 +68,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.11
+			"chance": 12.11,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.96
+			"chance": 11.96,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.82
+			"chance": 6.82,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -95,7 +103,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.48
+			"chance": 6.48,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +113,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

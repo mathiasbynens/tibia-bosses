@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-08T09:34:14.921Z",
+	"timestamp": "2025-04-09T03:40:45.535Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.5
+			"chance": 81.5,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -96,6 +97,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.7
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

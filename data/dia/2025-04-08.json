@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-08T09:34:18.279Z",
+	"timestamp": "2025-04-09T03:40:46.578Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 31.48
+			"chance": 31.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.69
+			"chance": 13.69,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.65
+			"chance": 5.65,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +97,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.23
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

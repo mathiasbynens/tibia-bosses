@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-09T09:34:55.095Z",
+	"timestamp": "2025-04-10T03:41:18.875Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 41.19
+			"chance": 41.19,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 41.09
+			"chance": 41.09,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +119,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

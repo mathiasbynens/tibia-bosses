@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-09T09:35:05.886Z",
+	"timestamp": "2025-04-10T03:41:26.912Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 22.62
+			"chance": 22.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.8
+			"chance": 11.8,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.48
+			"chance": 6.48,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -100,6 +103,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

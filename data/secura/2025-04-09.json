@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-09T09:35:13.638Z",
+	"timestamp": "2025-04-10T03:41:33.864Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.17
+			"chance": 70.17,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 41.44
+			"chance": 41.44,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.22
+			"chance": 36.22,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 5.99
+			"chance": 5.99,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -120,6 +126,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

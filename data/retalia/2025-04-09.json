@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-09T09:35:10.377Z",
+	"timestamp": "2025-04-10T03:41:31.376Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.14
+			"chance": 27.14,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.75
+			"chance": 16.75,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +114,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

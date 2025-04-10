@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-09T09:35:02.185Z",
+	"timestamp": "2025-04-10T03:41:24.431Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

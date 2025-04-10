@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-04-10T09:34:13.957Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.49
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 30.57
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.43
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.14
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.32
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.12
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.84
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 19.33
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.11
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.53
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.26
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.62
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.6
+		}
+	]
+}

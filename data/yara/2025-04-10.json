@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-10T09:34:13.957Z",
+	"timestamp": "2025-04-11T03:41:01.648Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.12
+			"chance": 23.12,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.53
+			"chance": 13.53,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -56,6 +59,11 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.6
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

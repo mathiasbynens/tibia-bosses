@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-10T09:33:58.516Z",
+	"timestamp": "2025-04-11T03:40:56.259Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.21
+			"chance": 22.21,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.38
+			"chance": 17.38,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.91
+			"chance": 4.91,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -92,6 +97,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.28
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

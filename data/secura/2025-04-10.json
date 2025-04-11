@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-10T09:34:07.870Z",
+	"timestamp": "2025-04-11T03:40:59.444Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.31
+			"chance": 31.31,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.48
+			"chance": 30.48,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.24
+			"chance": 22.24,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.84
+			"chance": 18.84,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -116,6 +122,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

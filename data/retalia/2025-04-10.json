@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-10T09:34:04.899Z",
+	"timestamp": "2025-04-11T03:40:58.361Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.57
+			"chance": 30.57,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

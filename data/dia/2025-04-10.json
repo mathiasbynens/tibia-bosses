@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-10T09:33:52.514Z",
+	"timestamp": "2025-04-11T03:40:54.173Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.79
+			"chance": 34.79,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -96,6 +97,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

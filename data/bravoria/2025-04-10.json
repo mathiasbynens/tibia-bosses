@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-10T09:33:49.644Z",
+	"timestamp": "2025-04-11T03:40:53.054Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.25
+			"chance": 42.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.66
+			"chance": 20.66,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -104,6 +107,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.35
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

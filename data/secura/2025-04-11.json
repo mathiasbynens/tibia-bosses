@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-11T09:34:07.519Z",
+	"timestamp": "2025-04-12T03:40:17.352Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.48
+			"chance": 17.48,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -111,7 +115,23 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.13
+			"chance": 3.13,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

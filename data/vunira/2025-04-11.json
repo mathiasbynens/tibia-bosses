@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-11T09:34:10.713Z",
+	"timestamp": "2025-04-12T03:40:18.158Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.74
+			"chance": 23.74,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.4
+			"chance": 17.4,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -116,6 +119,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.17
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

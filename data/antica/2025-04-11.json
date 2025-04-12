@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-11T09:33:46.435Z",
+	"timestamp": "2025-04-12T03:40:12.576Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.17
+			"chance": 70.17,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.16
+			"chance": 16.16,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -91,11 +96,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.81
+			"chance": 4.81,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 4.46
+			"chance": 4.46,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +111,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-11T09:33:55.574Z",
+	"timestamp": "2025-04-12T03:40:14.672Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.8
+			"chance": 53.8,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.25
+			"chance": 43.25,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,11 +77,17 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.5
+			"chance": 3.5,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.49
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

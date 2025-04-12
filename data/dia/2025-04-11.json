@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-11T09:33:52.490Z",
+	"timestamp": "2025-04-12T03:40:14.088Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.17
+			"chance": 20.17,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -124,6 +125,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

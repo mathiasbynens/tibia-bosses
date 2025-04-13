@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-12T09:32:54.512Z",
+	"timestamp": "2025-04-13T04:11:51.667Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.72
+			"chance": 37.72,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.39
+			"chance": 20.39,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +96,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

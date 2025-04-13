@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-12T09:33:14.092Z",
+	"timestamp": "2025-04-13T04:11:56.290Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.34
+			"chance": 31.34,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.92
+			"chance": 25.92,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.13
+			"chance": 23.13,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.75
+			"chance": 8.75,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +118,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.17
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

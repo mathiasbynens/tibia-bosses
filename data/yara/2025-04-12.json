@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-12T09:33:20.077Z",
+	"timestamp": "2025-04-13T04:11:57.684Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 27.39
+			"chance": 27.39,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -68,6 +69,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.87
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

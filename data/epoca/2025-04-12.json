@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-12T09:33:03.124Z",
+	"timestamp": "2025-04-13T04:11:53.725Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -76,6 +76,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

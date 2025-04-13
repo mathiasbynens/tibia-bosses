@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-12T09:32:57.397Z",
+	"timestamp": "2025-04-13T04:11:52.231Z",
 	"bosses": [
 		{
 			"name": "Hirintror",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.17
+			"chance": 27.17,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -83,7 +85,18 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 2.67
+			"chance": 2.67,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

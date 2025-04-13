@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-12T09:33:06.021Z",
+	"timestamp": "2025-04-13T04:11:54.434Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 43.55
+			"chance": 43.55,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.78
+			"chance": 31.78,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -96,6 +99,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.61
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

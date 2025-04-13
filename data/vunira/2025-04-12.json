@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-12T09:33:17.301Z",
+	"timestamp": "2025-04-13T04:11:57.003Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.63
+			"chance": 27.63,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.5
+			"chance": 16.5,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -120,6 +124,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

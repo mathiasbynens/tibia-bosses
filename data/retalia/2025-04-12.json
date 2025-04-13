@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-12T09:33:11.456Z",
+	"timestamp": "2025-04-13T04:11:55.628Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 81.37
+			"chance": 81.37,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.57
+			"chance": 37.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -131,11 +134,17 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 5.48
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

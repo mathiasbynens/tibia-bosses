@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-13T09:34:00.936Z",
+	"timestamp": "2025-04-14T03:42:46.993Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.5
+			"chance": 44.5,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.46
+			"chance": 21.46,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.64
+			"chance": 14.64,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,11 +95,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 7.03
+			"chance": 7.03,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -124,6 +130,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

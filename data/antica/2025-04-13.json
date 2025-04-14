@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-13T09:33:38.510Z",
+	"timestamp": "2025-04-14T03:42:40.478Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.08
+			"chance": 64.08,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.7
+			"chance": 13.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.5
+			"chance": 9.5,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +109,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

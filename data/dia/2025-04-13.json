@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-13T09:33:44.304Z",
+	"timestamp": "2025-04-14T03:42:42.426Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.49
+			"chance": 53.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.62
+			"chance": 27.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 19.22
+			"chance": 19.22,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.63
+			"chance": 14.63,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -168,6 +175,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

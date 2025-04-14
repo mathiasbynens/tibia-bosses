@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-13T09:33:55.251Z",
+	"timestamp": "2025-04-14T03:42:45.412Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.43
+			"chance": 28.43,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.99
+			"chance": 17.99,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.41
+			"chance": 14.41,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -120,6 +125,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.48
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

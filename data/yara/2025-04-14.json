@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-14T09:35:09.881Z",
+	"timestamp": "2025-04-15T03:41:52.449Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -88,6 +90,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.4
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

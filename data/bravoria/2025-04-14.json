@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-14T09:34:46.332Z",
+	"timestamp": "2025-04-15T03:41:46.345Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.21
+			"chance": 62.21,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.23
+			"chance": 43.23,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -60,6 +63,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.56
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

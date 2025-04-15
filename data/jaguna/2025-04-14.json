@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-14T09:34:55.669Z",
+	"timestamp": "2025-04-15T03:41:49.049Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.7
+			"chance": 38.7,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +95,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.29
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

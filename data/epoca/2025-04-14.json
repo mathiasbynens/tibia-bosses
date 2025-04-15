@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-14T09:34:52.813Z",
+	"timestamp": "2025-04-15T03:41:48.292Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -84,6 +85,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

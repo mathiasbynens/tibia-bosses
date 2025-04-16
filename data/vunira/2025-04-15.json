@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-15T09:34:43.915Z",
+	"timestamp": "2025-04-16T03:41:50.649Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.07
+			"chance": 47.07,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.94
+			"chance": 9.94,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 7
+			"chance": 7,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +124,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

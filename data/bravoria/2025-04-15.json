@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-15T09:34:21.351Z",
+	"timestamp": "2025-04-16T03:41:44.319Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 35.51
+			"chance": 35.51,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.6
+			"chance": 17.6,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.65
+			"chance": 14.65,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

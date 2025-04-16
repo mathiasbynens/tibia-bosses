@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-15T09:34:24.877Z",
+	"timestamp": "2025-04-16T03:41:45.293Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -27,15 +27,18 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.78
+			"chance": 19.78,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.08
+			"chance": 19.08,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.91
+			"chance": 15.91,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 10.01
+			"chance": 10.01,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -112,6 +117,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.17
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

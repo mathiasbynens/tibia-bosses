@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-15T09:34:37.229Z",
+	"timestamp": "2025-04-16T03:41:48.712Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.25
+			"chance": 62.25,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.48
+			"chance": 53.48,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.69
+			"chance": 23.69,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -88,6 +91,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.35
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

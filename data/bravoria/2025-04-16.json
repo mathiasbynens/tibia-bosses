@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-04-16T09:35:04.147Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 42.28
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.22
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.27
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 19.22
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.72
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.69
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.1
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.07
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 6.69
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.52
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.41
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.4
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.17
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.14
+		}
+	]
+}

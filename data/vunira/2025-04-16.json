@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-16T09:35:26.691Z",
+	"timestamp": "2025-04-17T03:41:22.854Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.88
+			"chance": 53.88,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 24.19
+			"chance": 24.19,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

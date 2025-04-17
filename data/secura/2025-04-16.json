@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-16T09:35:23.439Z",
+	"timestamp": "2025-04-17T03:41:21.950Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 47.07
+			"chance": 47.07,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.03
+			"chance": 47.03,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.63
+			"chance": 30.63,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.94
+			"chance": 6.94,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -108,6 +112,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

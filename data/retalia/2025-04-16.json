@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-16T09:35:20.777Z",
+	"timestamp": "2025-04-17T03:41:20.883Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.25
+			"chance": 13.25,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -76,6 +77,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.19
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

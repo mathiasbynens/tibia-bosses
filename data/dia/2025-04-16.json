@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-04-16T09:35:07.800Z",
+	"timestamp": "2025-04-17T03:41:17.639Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.94
+			"chance": 66.94,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.52
+			"chance": 31.52,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.65
+			"chance": 7.65,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -96,6 +102,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

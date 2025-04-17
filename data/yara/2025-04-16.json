@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-16T09:35:29.481Z",
+	"timestamp": "2025-04-17T03:41:23.601Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.85
+			"chance": 25.85,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -72,6 +74,11 @@
 		{
 			"name": "White Pale",
 			"chance": 7.65
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

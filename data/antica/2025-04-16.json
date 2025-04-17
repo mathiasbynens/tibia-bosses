@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-16T09:35:01.385Z",
+	"timestamp": "2025-04-17T03:41:15.581Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 38.49
+			"chance": 38.49,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.15
+			"chance": 21.15,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.45
+			"chance": 15.45,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -99,11 +103,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.89
+			"chance": 3.89,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.37
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

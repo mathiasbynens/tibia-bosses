@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-17T09:33:51.937Z",
+	"timestamp": "2025-04-18T03:40:50.157Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.16
+			"chance": 65.16,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.98
+			"chance": 16.98,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.6
+			"chance": 11.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -84,6 +88,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.64
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

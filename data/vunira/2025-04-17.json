@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-17T09:34:12.423Z",
+	"timestamp": "2025-04-18T03:40:55.097Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.34
+			"chance": 42.34,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.23
+			"chance": 36.23,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +117,36 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

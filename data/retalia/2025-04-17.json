@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-17T09:34:05.884Z",
+	"timestamp": "2025-04-18T03:40:53.640Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -84,6 +86,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.29
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

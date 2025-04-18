@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-17T09:33:58.228Z",
+	"timestamp": "2025-04-18T03:40:51.761Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.76
+			"chance": 31.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 23.11
+			"chance": 23.11,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 23.1
+			"chance": 23.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -75,11 +78,32 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.9
+			"chance": 3.9,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

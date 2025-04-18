@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-17T09:34:15.622Z",
+	"timestamp": "2025-04-18T03:40:55.800Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 43.65
+			"chance": 43.65,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -60,6 +61,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

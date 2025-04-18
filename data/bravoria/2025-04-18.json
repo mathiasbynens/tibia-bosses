@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-04-18T09:34:08.187Z",
+	"bosses": [
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 31.4
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.63
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.16
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.15
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.55
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.16
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.34
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.14
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.37
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.42
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.77
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 8.77
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.62
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.22
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.42
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.96
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.93
+		}
+	]
+}

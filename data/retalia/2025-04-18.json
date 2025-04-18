@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-04-18T09:34:23.795Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.25
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 37.06
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 35.97
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.76
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 30.3
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 23.72
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.02
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 19.41
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 17.93
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.82
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.19
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 11.92
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.71
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.59
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.96
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.86
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.29
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.22
+		}
+	]
+}

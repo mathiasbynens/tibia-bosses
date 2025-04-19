@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-18T09:34:15.258Z",
+	"timestamp": "2025-04-19T03:40:17.740Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.14
+			"chance": 12.14,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.35
+			"chance": 6.35,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -76,6 +78,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.92
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

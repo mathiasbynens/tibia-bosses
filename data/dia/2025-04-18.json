@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-04-18T09:34:12.014Z",
+	"timestamp": "2025-04-19T03:40:17.033Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
-			"chance": 36.75
+			"chance": 36.75,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.76
+			"chance": 31.76,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.89
+			"chance": 20.89,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -55,11 +59,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.74
+			"chance": 14.74,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -104,6 +110,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.33
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

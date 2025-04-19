@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-18T09:34:18.927Z",
+	"timestamp": "2025-04-19T03:40:18.489Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.63
+			"chance": 27.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.4
+			"chance": 20.4,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -112,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

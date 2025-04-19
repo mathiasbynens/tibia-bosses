@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-18T09:34:23.795Z",
+	"timestamp": "2025-04-19T03:40:19.917Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.76
+			"chance": 31.76,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18
+			"chance": 18,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -80,6 +82,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 6.22
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

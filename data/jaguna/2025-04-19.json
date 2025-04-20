@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-19T09:32:21.910Z",
+	"timestamp": "2025-04-20T03:42:09.346Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +117,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

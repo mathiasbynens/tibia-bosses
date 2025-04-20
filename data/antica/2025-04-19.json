@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-19T09:32:08.926Z",
+	"timestamp": "2025-04-20T03:42:04.747Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.66
+			"chance": 20.66,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 12.43
+			"chance": 12.43,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -116,6 +119,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

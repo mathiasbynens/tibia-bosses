@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-19T09:32:27.149Z",
+	"timestamp": "2025-04-20T03:42:10.979Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,11 +68,22 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
 			"chance": 7.81
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

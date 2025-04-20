@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-19T09:32:11.713Z",
+	"timestamp": "2025-04-20T03:42:06.210Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.53
+			"chance": 31.53,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

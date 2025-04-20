@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-19T09:32:31.275Z",
+	"timestamp": "2025-04-20T03:42:11.957Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.87
+			"chance": 39.87,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.98
+			"chance": 6.98,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.49
+			"chance": 5.49,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -116,6 +120,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.27
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

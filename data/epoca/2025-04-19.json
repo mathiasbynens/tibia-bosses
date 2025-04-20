@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-19T09:32:18.784Z",
+	"timestamp": "2025-04-20T03:42:08.358Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -79,7 +80,18 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 3.01
+			"chance": 3.01,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

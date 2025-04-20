@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-19T09:32:15.487Z",
+	"timestamp": "2025-04-20T03:42:07.501Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.63
+			"chance": 33.63,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.05
+			"chance": 22.05,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -112,6 +115,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.49
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

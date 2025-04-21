@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-04-21T09:34:05.451Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.38
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 35.41
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 30.8
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.11
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.67
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 20.57
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.34
+		},
+		{
+			"name": "Dracola",
+			"chance": 16.51
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.79
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.01
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.01
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.26
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.84
+		},
+		{
+			"name": "yeti",
+			"chance": 5.77
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.61
+		}
+	]
+}

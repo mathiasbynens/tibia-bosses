@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-20T09:32:10.250Z",
+	"timestamp": "2025-04-21T03:45:01.264Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.41
+			"chance": 23.41,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.78
+			"chance": 13.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -116,6 +122,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

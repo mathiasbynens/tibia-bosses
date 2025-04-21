@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-20T09:32:07.069Z",
+	"timestamp": "2025-04-21T03:45:00.260Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.86
+			"chance": 12.86,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +73,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

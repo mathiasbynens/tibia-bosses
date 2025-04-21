@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-20T09:31:57.981Z",
+	"timestamp": "2025-04-21T03:44:57.962Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

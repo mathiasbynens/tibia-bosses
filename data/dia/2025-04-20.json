@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-20T09:31:54.973Z",
+	"timestamp": "2025-04-21T03:44:57.163Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.78
+			"chance": 19.78,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -124,6 +125,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.91
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

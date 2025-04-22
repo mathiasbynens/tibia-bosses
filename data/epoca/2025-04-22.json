@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-04-22T09:34:01.784Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 53.76
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.42
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.47
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.12
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 21.23
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 19.16
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17
+		},
+		{
+			"name": "Massacre",
+			"chance": 15.99
+		},
+		{
+			"name": "The Welter",
+			"chance": 15.02
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.88
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.71
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.43
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.3
+		},
+		{
+			"name": "yeti",
+			"chance": 11.07
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.71
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.25
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.03
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.84
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.69
+		}
+	]
+}

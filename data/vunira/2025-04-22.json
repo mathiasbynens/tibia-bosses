@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-04-22T09:34:17.386Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 44.65
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 44.53
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.84
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.77
+		},
+		{
+			"name": "Omrafir",
+			"chance": 24.91
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.14
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.13
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 22.67
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.48
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.46
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 19.31
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.87
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.88
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.64
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.3
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.08
+		},
+		{
+			"name": "Massacre",
+			"chance": 13.87
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.81
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.55
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.55
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.09
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.85
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.57
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.54
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.49
+		}
+	]
+}

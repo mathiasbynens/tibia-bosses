@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-21T09:34:15.191Z",
+	"timestamp": "2025-04-22T03:41:52.784Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.36
+			"chance": 42.36,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 21.25
+			"chance": 21.25,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -116,6 +118,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.28
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

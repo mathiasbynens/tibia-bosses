@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-21T09:34:02.228Z",
+	"timestamp": "2025-04-22T03:41:49.109Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,15 +32,18 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.52
+			"chance": 17.52,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.93
+			"chance": 16.93,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.62
+			"chance": 12.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -136,6 +141,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-21T09:34:26.351Z",
+	"timestamp": "2025-04-22T03:41:56.293Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.34
+			"chance": 30.34,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.12
+			"chance": 30.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.25
+			"chance": 22.25,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.09
+			"chance": 21.09,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.36
+			"chance": 4.36,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

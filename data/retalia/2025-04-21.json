@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-21T09:34:20.449Z",
+	"timestamp": "2025-04-22T03:41:54.336Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -68,6 +70,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.49
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

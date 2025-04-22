@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-21T09:34:11.739Z",
+	"timestamp": "2025-04-22T03:41:51.908Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.84
+			"chance": 53.84,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.25
+			"chance": 40.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.29
+			"chance": 16.29,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 11.61
+			"chance": 11.61,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.92
+			"chance": 9.92,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +101,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.62
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

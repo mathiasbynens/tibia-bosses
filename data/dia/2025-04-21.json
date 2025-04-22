@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-21T09:34:08.816Z",
+	"timestamp": "2025-04-22T03:41:51.084Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.48
+			"chance": 53.48,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 52.31
+			"chance": 52.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 26.95
+			"chance": 26.95,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -152,6 +156,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.7
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

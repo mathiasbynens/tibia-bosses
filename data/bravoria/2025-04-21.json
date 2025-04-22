@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-21T09:34:05.451Z",
+	"timestamp": "2025-04-22T03:41:50.078Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.38
+			"chance": 61.38,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 35.41
+			"chance": 35.41,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -64,6 +66,21 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.61
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-21T09:34:23.536Z",
+	"timestamp": "2025-04-22T03:41:55.319Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.14
+			"chance": 27.14,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +104,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.17
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

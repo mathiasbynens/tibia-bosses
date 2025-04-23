@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-22T09:33:55.386Z",
+	"timestamp": "2025-04-23T03:41:29.721Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.47
+			"chance": 37.47,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -64,6 +65,16 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.64
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

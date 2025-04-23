@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-04-22T09:33:58.717Z",
+	"timestamp": "2025-04-23T03:41:30.552Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.76
+			"chance": 53.76,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 50.25
+			"chance": 50.25,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 45.56
+			"chance": 45.56,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.61
+			"chance": 22.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.77
+			"chance": 12.77,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -152,6 +160,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.37
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

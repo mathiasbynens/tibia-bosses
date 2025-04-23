@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-22T09:34:10.720Z",
+	"timestamp": "2025-04-23T03:41:33.863Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.14
+			"chance": 65.14,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.49
+			"chance": 38.49,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -64,6 +66,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.91
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

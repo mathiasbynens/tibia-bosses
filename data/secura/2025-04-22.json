@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-22T09:34:14.007Z",
+	"timestamp": "2025-04-23T03:41:34.815Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.27
+			"chance": 36.27,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.1
+			"chance": 22.1,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.78
+			"chance": 15.78,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.77
+			"chance": 15.77,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.87
+			"chance": 9.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -116,6 +123,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

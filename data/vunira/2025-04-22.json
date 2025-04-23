@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-22T09:34:17.386Z",
+	"timestamp": "2025-04-23T03:41:35.850Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.53
+			"chance": 44.53,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.77
+			"chance": 31.77,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.14
+			"chance": 23.14,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.87
+			"chance": 18.87,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -91,7 +95,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.85
+			"chance": 5.85,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +113,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.49
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

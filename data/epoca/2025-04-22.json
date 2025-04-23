@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-22T09:34:01.784Z",
+	"timestamp": "2025-04-23T03:41:31.345Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 21.23
+			"chance": 21.23,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -76,6 +77,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.69
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

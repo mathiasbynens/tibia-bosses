@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-04-23T09:34:27.531Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.37
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.47
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 32.62
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.77
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.41
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.49
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.41
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.05
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 16.09
+		},
+		{
+			"name": "yeti",
+			"chance": 15.74
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.62
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.57
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.23
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.1
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.84
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.2
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.54
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.06
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.03
+		}
+	]
+}

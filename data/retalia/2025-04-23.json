@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-04-23T09:34:35.248Z",
+	"bosses": [
+		{
+			"name": "The Plasmother",
+			"chance": 36.74
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 32.62
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.43
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.25
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.17
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.58
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.95
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.52
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.61
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.06
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 6.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.46
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.69
+		}
+	]
+}

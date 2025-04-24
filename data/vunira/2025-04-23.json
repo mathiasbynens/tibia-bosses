@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-04-23T09:34:41.121Z",
+	"timestamp": "2025-04-24T03:42:29.189Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.5
+			"chance": 53.5,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.3
+			"chance": 30.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +100,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

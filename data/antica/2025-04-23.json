@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-23T09:34:18.177Z",
+	"timestamp": "2025-04-24T03:42:23.393Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.27
+			"chance": 35.27,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +107,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

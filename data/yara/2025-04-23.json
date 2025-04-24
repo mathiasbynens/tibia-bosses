@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-23T09:34:44.486Z",
+	"timestamp": "2025-04-24T03:42:29.786Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -56,6 +57,11 @@
 		{
 			"name": "White Pale",
 			"chance": 8.92
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

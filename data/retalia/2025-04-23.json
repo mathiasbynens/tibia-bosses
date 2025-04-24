@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-23T09:34:35.248Z",
+	"timestamp": "2025-04-24T03:42:27.761Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.43
+			"chance": 29.43,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.58
+			"chance": 17.58,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -56,6 +58,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.69
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

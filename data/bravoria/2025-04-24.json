@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-24T09:34:20.442Z",
+	"timestamp": "2025-04-25T03:41:49.002Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.08
+			"chance": 64.08,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -84,6 +85,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

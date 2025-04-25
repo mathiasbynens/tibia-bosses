@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-24T09:34:35.449Z",
+	"timestamp": "2025-04-25T03:41:52.535Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.08
+			"chance": 19.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +81,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

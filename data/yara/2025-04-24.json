@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-24T09:34:44.790Z",
+	"timestamp": "2025-04-25T03:41:55.695Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

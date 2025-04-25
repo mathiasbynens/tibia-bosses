@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-24T09:34:38.035Z",
+	"timestamp": "2025-04-25T03:41:53.920Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.83
+			"chance": 37.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.53
+			"chance": 21.53,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +109,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.92
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-25T09:34:21.006Z",
+	"timestamp": "2025-04-26T03:41:46.073Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.86
+			"chance": 12.86,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +105,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

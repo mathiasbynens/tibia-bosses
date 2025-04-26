@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-25T09:34:11.374Z",
+	"timestamp": "2025-04-26T03:41:44.281Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.97
+			"chance": 71.97,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.52
+			"chance": 16.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.25
+			"chance": 7.25,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +96,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

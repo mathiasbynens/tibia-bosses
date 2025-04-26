@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-04-25T09:34:25.228Z",
+	"timestamp": "2025-04-26T03:41:46.791Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.52
+			"chance": 64.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.85
+			"chance": 37.85,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.63
+			"chance": 30.63,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.54
+			"chance": 23.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -108,6 +113,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

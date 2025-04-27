@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-26T09:32:25.824Z",
+	"timestamp": "2025-04-27T03:42:26.040Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 47.1
+			"chance": 47.1,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.92
+			"chance": 8.92,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -68,6 +70,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

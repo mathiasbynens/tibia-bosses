@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-26T09:32:37.395Z",
+	"timestamp": "2025-04-27T03:42:28.530Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.49
+			"chance": 38.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -100,6 +102,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.36
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

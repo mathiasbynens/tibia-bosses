@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-26T09:32:33.939Z",
+	"timestamp": "2025-04-27T03:42:27.689Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 15.47
+			"chance": 15.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -72,6 +74,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

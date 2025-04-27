@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-26T09:32:46.984Z",
+	"timestamp": "2025-04-27T03:42:30.955Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.55
+			"chance": 44.55,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.67
+			"chance": 30.67,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24
+			"chance": 24,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.83
+			"chance": 19.83,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.95
+			"chance": 12.95,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -96,6 +102,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.36
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

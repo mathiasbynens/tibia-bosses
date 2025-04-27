@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-26T09:32:29.358Z",
+	"timestamp": "2025-04-27T03:42:26.905Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 21.96
+			"chance": 21.96,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -84,6 +85,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

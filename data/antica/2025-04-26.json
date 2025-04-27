@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-26T09:32:22.558Z",
+	"timestamp": "2025-04-27T03:42:25.253Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.4
+			"chance": 61.4,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.52
+			"chance": 11.52,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +116,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.3
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

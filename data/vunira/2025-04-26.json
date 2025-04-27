@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-26T09:32:50.796Z",
+	"timestamp": "2025-04-27T03:42:32.326Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.88
+			"chance": 34.88,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.6
+			"chance": 32.6,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.01
+			"chance": 22.01,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.79
+			"chance": 8.79,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -96,6 +103,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

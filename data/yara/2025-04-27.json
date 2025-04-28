@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-27T09:32:38.966Z",
+	"timestamp": "2025-04-28T03:44:29.778Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 40.73
+			"chance": 40.73,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.41
+			"chance": 29.41,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.37
+			"chance": 23.37,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

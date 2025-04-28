@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-27T09:32:32.162Z",
+	"timestamp": "2025-04-28T03:44:28.351Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.83
+			"chance": 39.83,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.87
+			"chance": 15.87,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.72
+			"chance": 12.72,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.53
+			"chance": 11.53,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -88,6 +92,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

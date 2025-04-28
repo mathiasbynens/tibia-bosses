@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-27T09:32:15.438Z",
+	"timestamp": "2025-04-28T03:44:24.658Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.94
+			"chance": 71.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.73
+			"chance": 33.73,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 27.37
+			"chance": 27.37,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.42
+			"chance": 16.42,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +101,26 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.34
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

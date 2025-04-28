@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-27T09:32:12.103Z",
+	"timestamp": "2025-04-28T03:44:23.804Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 41.13
+			"chance": 41.13,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 41.1
+			"chance": 41.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -80,6 +82,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

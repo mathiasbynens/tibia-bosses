@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-27T09:32:08.714Z",
+	"timestamp": "2025-04-28T03:44:22.965Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.64
+			"chance": 12.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -124,6 +127,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.36
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

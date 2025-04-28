@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-27T09:32:18.851Z",
+	"timestamp": "2025-04-28T03:44:25.394Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 34.51
+			"chance": 34.51,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -92,6 +95,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

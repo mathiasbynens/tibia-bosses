@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-28T10:09:16.791Z",
+	"timestamp": "2025-04-29T03:42:12.699Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.6
+			"chance": 10.6,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +91,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

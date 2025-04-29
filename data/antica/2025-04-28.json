@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-04-28T10:09:06.116Z",
+	"timestamp": "2025-04-29T03:42:10.538Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.05
+			"chance": 67.05,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.95
+			"chance": 66.95,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.88
+			"chance": 18.88,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.23
+			"chance": 14.23,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -123,11 +129,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.85
+			"chance": 4.85,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

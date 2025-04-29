@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-28T10:09:26.339Z",
+	"timestamp": "2025-04-29T03:42:14.453Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.12
+			"chance": 43.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.8
+			"chance": 10.8,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

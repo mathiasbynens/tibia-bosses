@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-28T10:09:20.325Z",
+	"timestamp": "2025-04-29T03:42:13.387Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.43
+			"chance": 81.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.15
+			"chance": 23.15,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.41
+			"chance": 16.41,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 13.27
+			"chance": 13.27,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +93,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.71
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

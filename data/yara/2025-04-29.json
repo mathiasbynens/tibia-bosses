@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-29T09:35:44.037Z",
+	"timestamp": "2025-04-30T03:42:05.952Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 50.45
+			"chance": 50.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 37.23
+			"chance": 37.23,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 25.32
+			"chance": 25.32,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -64,6 +67,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.59
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

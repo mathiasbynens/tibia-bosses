@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-29T09:35:32.460Z",
+	"timestamp": "2025-04-30T03:42:02.796Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.54
+			"chance": 53.54,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 42.8
+			"chance": 42.8,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 37.79
+			"chance": 37.79,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.7
+			"chance": 14.7,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -92,6 +97,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

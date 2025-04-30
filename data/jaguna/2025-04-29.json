@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-29T09:35:25.797Z",
+	"timestamp": "2025-04-30T03:42:01.513Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.07
+			"chance": 14.07,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.82
+			"chance": 6.82,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +95,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-30T09:34:34.449Z",
+	"timestamp": "2025-05-01T03:45:59.803Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -60,6 +60,11 @@
 		{
 			"name": "Massacre",
 			"chance": 6.85
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-04-30T09:34:06.839Z",
+	"timestamp": "2025-05-01T03:45:54.550Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +77,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

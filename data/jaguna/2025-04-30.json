@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-30T09:34:17.493Z",
+	"timestamp": "2025-05-01T03:45:56.523Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.54
+			"chance": 53.54,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.32
+			"chance": 22.32,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +107,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.51
+			"chance": 3.51,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

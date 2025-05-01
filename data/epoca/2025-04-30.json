@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-04-30T09:34:14.276Z",
+	"timestamp": "2025-05-01T03:45:55.797Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.17
+			"chance": 70.17,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.34
+			"chance": 9.34,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -72,6 +76,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.51
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

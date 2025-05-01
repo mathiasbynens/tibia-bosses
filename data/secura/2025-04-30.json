@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-04-30T09:34:27.173Z",
+	"timestamp": "2025-05-01T03:45:58.426Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.96
+			"chance": 71.96,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.99
+			"chance": 21.99,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.6
+			"chance": 17.6,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.3
+			"chance": 13.3,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.93
+			"chance": 8.93,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -112,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-05-01T09:33:52.388Z",
+	"timestamp": "2025-05-02T03:43:42.195Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 52.15
+			"chance": 52.15,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.16
+			"chance": 43.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.61
+			"chance": 12.61,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.98
+			"chance": 4.98,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +121,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

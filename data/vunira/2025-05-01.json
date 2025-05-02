@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-01T09:34:17.125Z",
+	"timestamp": "2025-05-02T03:43:50.470Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.56
+			"chance": 53.56,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.04
+			"chance": 24.04,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 15.34
+			"chance": 15.34,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -132,6 +136,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

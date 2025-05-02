@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-01T09:34:10.714Z",
+	"timestamp": "2025-05-02T03:43:48.107Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 22.9
+			"chance": 22.9,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

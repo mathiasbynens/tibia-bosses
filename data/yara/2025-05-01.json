@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-01T09:34:20.192Z",
+	"timestamp": "2025-05-02T03:43:51.344Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.02
+			"chance": 79.02,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -68,6 +70,26 @@
 		{
 			"name": "Mr. Punish",
 			"chance": 7.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

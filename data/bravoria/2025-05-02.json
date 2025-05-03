@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-02T09:33:55.037Z",
+	"timestamp": "2025-05-03T03:41:40.514Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.84
+			"chance": 6.84,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

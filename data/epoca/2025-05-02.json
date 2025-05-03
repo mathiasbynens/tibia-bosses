@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-02T09:34:02.447Z",
+	"timestamp": "2025-05-03T03:41:43.250Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 42.78
+			"chance": 42.78,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.79
+			"chance": 34.79,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

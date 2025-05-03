@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-02T09:34:22.597Z",
+	"timestamp": "2025-05-03T03:41:50.395Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -64,6 +65,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.98
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

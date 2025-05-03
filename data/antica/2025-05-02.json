@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-02T09:33:50.852Z",
+	"timestamp": "2025-05-03T03:41:38.734Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.33
+			"chance": 22.33,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.54
+			"chance": 7.54,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -96,6 +100,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

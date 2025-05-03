@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-02T09:34:19.438Z",
+	"timestamp": "2025-05-03T03:41:49.588Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 50.3
+			"chance": 50.3,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.86
+			"chance": 37.86,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.79
+			"chance": 34.79,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,15 +83,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.52
+			"chance": 13.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.5
+			"chance": 13.5,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.62
+			"chance": 12.62,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -140,6 +147,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-02T09:33:58.629Z",
+	"timestamp": "2025-05-03T03:41:42.313Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.15
+			"chance": 70.15,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -23,15 +25,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.59
+			"chance": 31.59,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 29.03
+			"chance": 29.03,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.39
+			"chance": 19.39,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 15.24
+			"chance": 15.24,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

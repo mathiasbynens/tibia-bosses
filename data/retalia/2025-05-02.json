@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-02T09:34:11.958Z",
+	"timestamp": "2025-05-03T03:41:46.972Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.15
+			"chance": 70.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.38
+			"chance": 61.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.14
+			"chance": 23.14,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.74
+			"chance": 5.74,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -88,6 +92,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.34
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

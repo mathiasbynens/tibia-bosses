@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-03T09:32:55.619Z",
+	"timestamp": "2025-05-04T03:45:32.737Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.23
+			"chance": 29.23,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.82
+			"chance": 13.82,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.78
+			"chance": 13.78,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +92,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

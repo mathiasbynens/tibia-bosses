@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-05-04T09:32:49.788Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.39
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.86
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.43
+		},
+		{
+			"name": "Zushuka",
+			"chance": 28.7
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.46
+		},
+		{
+			"name": "The Imperor",
+			"chance": 25.79
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 25.78
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.21
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.95
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.89
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 16.26
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.02
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.44
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.29
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.73
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.71
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.34
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.83
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.14
+		}
+	]
+}

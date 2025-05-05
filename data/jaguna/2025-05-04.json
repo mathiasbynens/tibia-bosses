@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-04T09:32:53.556Z",
+	"timestamp": "2025-05-05T03:45:14.072Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -116,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

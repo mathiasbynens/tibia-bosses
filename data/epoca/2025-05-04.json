@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-04T09:32:49.788Z",
+	"timestamp": "2025-05-05T03:45:12.851Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -80,6 +80,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

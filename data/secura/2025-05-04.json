@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-04T09:33:02.921Z",
+	"timestamp": "2025-05-05T03:45:18.077Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.25
+			"chance": 35.25,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.17
+			"chance": 23.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.79
+			"chance": 21.79,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.45
+			"chance": 7.45,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +115,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.59
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

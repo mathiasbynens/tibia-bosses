@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-04T09:33:06.713Z",
+	"timestamp": "2025-05-05T03:45:19.143Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.65
+			"chance": 32.65,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.02
+			"chance": 28.02,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -116,6 +122,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

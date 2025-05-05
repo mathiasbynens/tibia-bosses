@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-05-05T09:35:03.960Z",
+	"bosses": [
+		{
+			"name": "The Imperor",
+			"chance": 50.4
+		},
+		{
+			"name": "General Murius",
+			"chance": 47.12
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.86
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 34.79
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 34.49
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.45
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 28.42
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.61
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.17
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.79
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 20.27
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.41
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 17.1
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.88
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.64
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.06
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.51
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 12.2
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.51
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.33
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.32
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.89
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.62
+		}
+	]
+}

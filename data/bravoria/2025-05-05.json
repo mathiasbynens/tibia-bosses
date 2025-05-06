@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-05T09:35:03.960Z",
+	"timestamp": "2025-05-06T03:43:26.234Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.41
+			"chance": 17.41,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -96,6 +97,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.62
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

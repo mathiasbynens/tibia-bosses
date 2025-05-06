@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-05T09:35:12.117Z",
+	"timestamp": "2025-05-06T03:43:28.317Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.39
+			"chance": 61.39,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.41
+			"chance": 42.41,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",

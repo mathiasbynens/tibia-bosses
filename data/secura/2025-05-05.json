@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-05T09:35:29.814Z",
+	"timestamp": "2025-05-06T03:43:31.634Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.82
+			"chance": 8.82,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

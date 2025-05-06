@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-05T09:35:16.390Z",
+	"timestamp": "2025-05-06T03:43:29.084Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -124,6 +124,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.76
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

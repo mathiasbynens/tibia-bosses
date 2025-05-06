@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-05T09:35:34.043Z",
+	"timestamp": "2025-05-06T03:43:32.627Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.13
+			"chance": 79.13,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.16
+			"chance": 65.16,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.8
+			"chance": 53.8,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.86
+			"chance": 6.86,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -96,6 +101,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.39
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

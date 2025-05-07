@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-06T09:34:48.766Z",
+	"timestamp": "2025-05-07T03:44:37.322Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -83,7 +83,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.09
+			"chance": 8.09,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +101,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.29
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

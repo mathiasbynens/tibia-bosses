@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-06T09:34:38.136Z",
+	"timestamp": "2025-05-07T03:44:33.994Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.49
+			"chance": 38.49,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.15
+			"chance": 21.15,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +107,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.27
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

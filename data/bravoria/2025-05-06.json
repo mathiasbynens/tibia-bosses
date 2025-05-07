@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-06T09:34:41.857Z",
+	"timestamp": "2025-05-07T03:44:35.330Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.4
+			"chance": 42.4,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.52
+			"chance": 10.52,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -95,11 +99,27 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 6.17
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

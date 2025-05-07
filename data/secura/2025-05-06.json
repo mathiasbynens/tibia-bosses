@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-06T09:35:02.979Z",
+	"timestamp": "2025-05-07T03:44:40.727Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.62
+			"chance": 27.62,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.32
+			"chance": 20.32,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -100,6 +102,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

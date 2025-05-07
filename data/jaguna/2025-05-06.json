@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-06T09:34:52.367Z",
+	"timestamp": "2025-05-07T03:44:38.211Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -123,7 +124,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -148,6 +150,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.27
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

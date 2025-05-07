@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-06T09:34:59.093Z",
+	"timestamp": "2025-05-07T03:44:39.906Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.15
+			"chance": 67.15,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.89
+			"chance": 66.89,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.83
+			"chance": 18.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -96,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.44
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

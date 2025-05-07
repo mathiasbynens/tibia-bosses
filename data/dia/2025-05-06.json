@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-06T09:34:45.659Z",
+	"timestamp": "2025-05-07T03:44:36.285Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.64
+			"chance": 19.64,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -128,6 +130,26 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

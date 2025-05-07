@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-06T09:35:10.146Z",
+	"timestamp": "2025-05-07T03:44:42.866Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -52,6 +53,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.61
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

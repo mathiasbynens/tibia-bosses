@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-06T09:35:06.209Z",
+	"timestamp": "2025-05-07T03:44:41.544Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 80.72
+			"chance": 80.72,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.15
+			"chance": 70.15,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.36
+			"chance": 10.36,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.23
+			"chance": 7.23,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -76,6 +80,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

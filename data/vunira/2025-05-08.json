@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-05-08T09:34:42.391Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.86
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 31.94
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 24.03
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.05
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.86
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 18.41
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 16.43
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 15.17
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.05
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 13.17
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.06
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.87
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.85
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.64
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.36
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.15
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.14
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.69
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 10.06
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 9.07
+		},
+		{
+			"name": "Xenia",
+			"chance": 7.44
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.7
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.17
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.63
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.08
+		}
+	]
+}

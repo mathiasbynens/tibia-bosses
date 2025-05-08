@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-05-08T09:34:46.077Z",
+	"bosses": [
+		{
+			"name": "White Pale",
+			"chance": 54.26
+		},
+		{
+			"name": "midnight panther",
+			"chance": 41.69
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 33.07
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 29.69
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 21.91
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.45
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.12
+		},
+		{
+			"name": "yeti",
+			"chance": 10.82
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.72
+		}
+	]
+}

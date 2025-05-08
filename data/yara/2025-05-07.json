@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-07T09:35:51.134Z",
+	"timestamp": "2025-05-08T03:45:05.311Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 44.35
+			"chance": 44.35,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.68
+			"chance": 30.68,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -52,6 +55,21 @@
 		{
 			"name": "yeti",
 			"chance": 5.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

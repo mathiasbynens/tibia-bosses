@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-07T09:35:40.357Z",
+	"timestamp": "2025-05-08T03:45:01.883Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.17
+			"chance": 23.17,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.33
+			"chance": 11.33,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -72,6 +74,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.24
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

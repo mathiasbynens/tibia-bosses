@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-07T09:35:22.016Z",
+	"timestamp": "2025-05-08T03:44:57.312Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.89
+			"chance": 53.89,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.44
+			"chance": 23.44,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,15 +57,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -80,6 +85,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

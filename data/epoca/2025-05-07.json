@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-07T09:35:29.833Z",
+	"timestamp": "2025-05-08T03:44:59.212Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 44.35
+			"chance": 44.35,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 43.29
+			"chance": 43.29,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 35.58
+			"chance": 35.58,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.83
+			"chance": 14.83,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.3
+			"chance": 6.3,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -104,6 +111,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

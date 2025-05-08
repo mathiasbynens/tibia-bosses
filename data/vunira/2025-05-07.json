@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-07T09:35:48.227Z",
+	"timestamp": "2025-05-08T03:45:04.067Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
-			"chance": 34.89
+			"chance": 34.89,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.93
+			"chance": 16.93,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -92,6 +95,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

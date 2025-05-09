@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-05-08T09:34:21.991Z",
+	"timestamp": "2025-05-09T03:43:59.822Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.43
+			"chance": 42.43,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -19,15 +22,18 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 36.18
+			"chance": 36.18,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.78
+			"chance": 31.78,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.48
+			"chance": 31.48,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.98
+			"chance": 21.98,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -140,6 +148,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

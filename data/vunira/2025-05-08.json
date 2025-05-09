@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-08T09:34:42.391Z",
+	"timestamp": "2025-05-09T03:44:09.652Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.86
+			"chance": 33.86,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.17
+			"chance": 15.17,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.06
+			"chance": 10.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -108,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.08
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-08T09:34:46.077Z",
+	"timestamp": "2025-05-09T03:44:11.293Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -44,6 +46,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 8.72
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

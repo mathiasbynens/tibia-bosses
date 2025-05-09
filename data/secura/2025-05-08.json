@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-08T09:34:39.285Z",
+	"timestamp": "2025-05-09T03:44:05.968Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.56
+			"chance": 53.56,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.22
+			"chance": 38.22,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 27.44
+			"chance": 27.44,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.1
+			"chance": 13.1,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +98,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

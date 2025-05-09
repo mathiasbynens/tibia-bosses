@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-08T09:34:35.481Z",
+	"timestamp": "2025-05-09T03:44:04.127Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -84,6 +84,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.58
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

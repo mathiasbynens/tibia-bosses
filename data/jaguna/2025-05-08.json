@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-08T09:34:29.159Z",
+	"timestamp": "2025-05-09T03:44:02.090Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.56
+			"chance": 53.56,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.29
+			"chance": 35.29,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -120,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.88
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

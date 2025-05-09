@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-08T09:34:17.864Z",
+	"timestamp": "2025-05-09T03:43:58.859Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,11 +47,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.89
+			"chance": 9.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -64,6 +66,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

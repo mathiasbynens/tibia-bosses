@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-08T09:34:14.239Z",
+	"timestamp": "2025-05-09T03:43:58.117Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -108,6 +109,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.99
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

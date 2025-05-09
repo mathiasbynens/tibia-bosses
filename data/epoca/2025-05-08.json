@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-08T09:34:25.549Z",
+	"timestamp": "2025-05-09T03:44:00.529Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.48
+			"chance": 81.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -100,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-05-09T09:34:05.410Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 44.76
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.78
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.48
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.52
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.63
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.93
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 19.14
+		},
+		{
+			"name": "General Murius",
+			"chance": 15.13
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.3
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 14.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.16
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.95
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.92
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.63
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.54
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.14
+		}
+	]
+}

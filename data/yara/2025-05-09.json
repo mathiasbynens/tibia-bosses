@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-05-09T09:34:39.343Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 66.15
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 42.39
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.03
+		},
+		{
+			"name": "yeti",
+			"chance": 14.28
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.74
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.63
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.09
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.42
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.06
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.98
+		}
+	]
+}

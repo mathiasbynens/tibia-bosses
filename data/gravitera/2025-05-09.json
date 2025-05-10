@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-09T09:34:17.428Z",
+	"timestamp": "2025-05-10T03:41:38.357Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -64,6 +64,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

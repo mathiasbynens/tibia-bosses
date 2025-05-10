@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-09T09:34:09.173Z",
+	"timestamp": "2025-05-10T03:41:36.469Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.4
+			"chance": 42.4,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 26.19
+			"chance": 26.19,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.17
+			"chance": 24.17,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.25
+			"chance": 19.25,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.83
+			"chance": 13.83,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.17
+			"chance": 12.17,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -116,6 +122,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

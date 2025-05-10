@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-09T09:34:05.410Z",
+	"timestamp": "2025-05-10T03:41:35.536Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.78
+			"chance": 31.78,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.52
+			"chance": 24.52,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-09T09:34:13.036Z",
+	"timestamp": "2025-05-10T03:41:37.403Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.12
+			"chance": 64.12,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 50.3
+			"chance": 50.3,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.9
+			"chance": 14.9,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +104,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

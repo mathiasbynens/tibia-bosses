@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-09T09:34:27.855Z",
+	"timestamp": "2025-05-10T03:41:40.590Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.14
+			"chance": 70.14,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.24
+			"chance": 62.24,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.42
+			"chance": 23.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.59
+			"chance": 20.59,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -79,15 +84,22 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 9.01
+			"chance": 9.01,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
 			"chance": 3.46
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

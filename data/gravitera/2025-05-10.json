@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-05-10T09:32:44.183Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 44.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 39.19
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.48
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.02
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 27.38
+		},
+		{
+			"name": "Dracola",
+			"chance": 25.51
+		},
+		{
+			"name": "yeti",
+			"chance": 20.59
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.08
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 16.43
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.05
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 15.01
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.86
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.24
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 6.98
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.35
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.55
+		}
+	]
+}

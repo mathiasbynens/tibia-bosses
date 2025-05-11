@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-05-11T09:32:44.203Z",
+	"bosses": [
+		{
+			"name": "Tyrn",
+			"chance": 61.61
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.87
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 38.77
+		},
+		{
+			"name": "Dracola",
+			"chance": 29.04
+		},
+		{
+			"name": "yeti",
+			"chance": 27.24
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 23.03
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.52
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.96
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.7
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 12.67
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 7.59
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.14
+		}
+	]
+}

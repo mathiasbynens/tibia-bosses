@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-10T09:32:53.742Z",
+	"timestamp": "2025-05-11T03:45:18.067Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.88
+			"chance": 93.88,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.41
+			"chance": 61.41,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.74
+			"chance": 20.74,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -76,6 +79,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.59
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

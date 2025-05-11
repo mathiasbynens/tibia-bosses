@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-10T09:32:36.708Z",
+	"timestamp": "2025-05-11T03:45:15.132Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.2
+			"chance": 65.2,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,19 +16,23 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.71
+			"chance": 25.71,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.99
+			"chance": 22.99,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.88
+			"chance": 21.88,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.63
+			"chance": 6.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +106,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.43
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

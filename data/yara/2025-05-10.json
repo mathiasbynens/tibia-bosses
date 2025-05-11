@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-10T09:33:04.210Z",
+	"timestamp": "2025-05-11T03:45:20.388Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.86
+			"chance": 39.86,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -48,6 +51,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.73
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

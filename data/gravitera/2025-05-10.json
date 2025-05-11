@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-10T09:32:44.183Z",
+	"timestamp": "2025-05-11T03:45:16.365Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 44.58
+			"chance": 44.58,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.35
+			"chance": 6.35,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

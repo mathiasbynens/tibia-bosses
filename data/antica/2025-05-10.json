@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-10T09:32:29.418Z",
+	"timestamp": "2025-05-11T03:45:09.989Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.71
+			"chance": 32.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.87
+			"chance": 15.87,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -116,6 +118,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

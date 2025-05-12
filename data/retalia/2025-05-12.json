@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-05-12T09:35:34.747Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 43.18
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.88
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.47
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 32.87
+		},
+		{
+			"name": "Dracola",
+			"chance": 31.32
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 27.05
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 24.09
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.74
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.98
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 15.4
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.3
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.92
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.18
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.7
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.32
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.84
+		}
+	]
+}

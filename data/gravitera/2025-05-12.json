@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-05-12T09:35:24.057Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 57.22
+		},
+		{
+			"name": "Dracola",
+			"chance": 34.29
+		},
+		{
+			"name": "yeti",
+			"chance": 29.35
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 21.56
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.75
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.32
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.25
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 15.39
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.7
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 9.29
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.58
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.87
+		}
+	]
+}

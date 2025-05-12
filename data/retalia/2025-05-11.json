@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-11T09:32:53.387Z",
+	"timestamp": "2025-05-12T03:45:29.907Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.84
+			"chance": 18.84,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.17
+			"chance": 12.17,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +74,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

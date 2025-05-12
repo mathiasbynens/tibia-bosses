@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-11T09:32:59.774Z",
+	"timestamp": "2025-05-12T03:45:31.601Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.61
+			"chance": 23.61,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.88
+			"chance": 16.88,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -95,11 +97,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.92
+			"chance": 3.92,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.29
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

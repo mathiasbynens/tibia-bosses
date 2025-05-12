@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-11T09:33:03.131Z",
+	"timestamp": "2025-05-12T03:45:33.700Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -44,6 +44,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.37
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

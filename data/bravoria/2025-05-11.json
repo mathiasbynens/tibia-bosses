@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-11T09:32:33.474Z",
+	"timestamp": "2025-05-12T03:45:26.031Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -64,6 +66,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.47
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

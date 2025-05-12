@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-11T09:32:47.608Z",
+	"timestamp": "2025-05-12T03:45:28.567Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.91
+			"chance": 13.91,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,11 +92,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -124,6 +127,21 @@
 		{
 			"name": "Xenia",
 			"chance": 6.3
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

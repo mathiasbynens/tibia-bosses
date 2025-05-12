@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-11T09:32:56.761Z",
+	"timestamp": "2025-05-12T03:45:30.835Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.2
+			"chance": 21.2,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,11 +64,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.47
+			"chance": 9.47,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.92
+			"chance": 8.92,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 8.14
+			"chance": 8.14,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.45
+			"chance": 6.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -107,11 +112,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.54
+			"chance": 3.54,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

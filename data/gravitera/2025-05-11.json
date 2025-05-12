@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-11T09:32:44.203Z",
+	"timestamp": "2025-05-12T03:45:27.995Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.87
+			"chance": 39.87,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 23.03
+			"chance": 23.03,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -52,6 +54,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

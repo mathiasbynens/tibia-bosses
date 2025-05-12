@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-11T09:32:37.046Z",
+	"timestamp": "2025-05-12T03:45:26.696Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.11
+			"chance": 64.11,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.16
+			"chance": 43.16,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.21
+			"chance": 23.21,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.92
+			"chance": 3.92,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -108,6 +115,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

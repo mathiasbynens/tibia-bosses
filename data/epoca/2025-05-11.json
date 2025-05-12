@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-11T09:32:40.992Z",
+	"timestamp": "2025-05-12T03:45:27.333Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 44.61
+			"chance": 44.61,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +107,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.23
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

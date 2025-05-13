@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-05-13T09:35:09.262Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "General Murius",
+			"chance": 60.22
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 35.27
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 32.94
+		},
+		{
+			"name": "Tyrn",
+			"chance": 28.55
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.46
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 23.65
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.16
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.19
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.06
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 17.8
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.92
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.24
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.89
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.71
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.29
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.11
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.31
+		},
+		{
+			"name": "yeti",
+			"chance": 5.81
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.66
+		}
+	]
+}

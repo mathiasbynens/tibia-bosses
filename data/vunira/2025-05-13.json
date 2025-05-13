@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-05-13T09:35:38.182Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Dharalion",
+			"chance": 70.15
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.23
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 43.57
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.27
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.49
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 30.81
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.19
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.61
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.33
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.27
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.02
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.02
+		},
+		{
+			"name": "yeti",
+			"chance": 10.81
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.85
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.13
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.02
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.74
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.94
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.76
+		}
+	]
+}

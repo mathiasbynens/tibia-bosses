@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-12T09:35:24.057Z",
+	"timestamp": "2025-05-13T03:44:59.467Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -52,6 +52,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

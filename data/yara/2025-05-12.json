@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-12T09:35:45.828Z",
+	"timestamp": "2025-05-13T03:45:03.541Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -52,6 +52,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

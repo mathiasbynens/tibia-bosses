@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-05-12T09:35:28.055Z",
+	"timestamp": "2025-05-13T03:45:00.130Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 74.18
+			"chance": 74.18,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.88
+			"chance": 39.88,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.7
+			"chance": 19.7,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -116,6 +122,16 @@
 		{
 			"name": "Gaz'haragoth",
 			"chance": 6.59
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

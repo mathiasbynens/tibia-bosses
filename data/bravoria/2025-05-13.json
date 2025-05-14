@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-13T09:35:09.262Z",
+	"timestamp": "2025-05-14T03:44:27.064Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +82,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

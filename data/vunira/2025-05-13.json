@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-13T09:35:38.182Z",
+	"timestamp": "2025-05-14T03:44:34.901Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.15
+			"chance": 70.15,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 43.57
+			"chance": 43.57,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.02
+			"chance": 14.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.77
+			"chance": 4.77,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -88,6 +93,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.76
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

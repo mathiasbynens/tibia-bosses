@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-13T09:35:31.007Z",
+	"timestamp": "2025-05-14T03:44:32.841Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.84
+			"chance": 33.84,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -80,6 +82,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.71
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

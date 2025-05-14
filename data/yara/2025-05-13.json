@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-13T09:35:42.049Z",
+	"timestamp": "2025-05-14T03:44:35.693Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.47
+			"chance": 39.47,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.28
+			"chance": 35.28,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",

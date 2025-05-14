@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-13T09:35:19.969Z",
+	"timestamp": "2025-05-14T03:44:30.415Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.43
+			"chance": 29.43,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -68,6 +69,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-14T09:35:06.722Z",
+	"timestamp": "2025-05-15T03:45:03.343Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -64,6 +64,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.76
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

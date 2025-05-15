@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-14T09:34:38.568Z",
+	"timestamp": "2025-05-15T03:44:56.084Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.86
+			"chance": 37.86,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.79
+			"chance": 31.79,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.29
+			"chance": 23.29,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.3
+			"chance": 6.3,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -116,6 +121,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

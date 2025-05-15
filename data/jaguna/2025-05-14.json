@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-14T09:34:50.433Z",
+	"timestamp": "2025-05-15T03:44:58.477Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -99,11 +99,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.85
+			"chance": 9.85,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

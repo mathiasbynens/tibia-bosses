@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-05-14T09:35:03.863Z",
+	"timestamp": "2025-05-15T03:45:02.541Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.02
+			"chance": 79.02,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.2
+			"chance": 62.2,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -104,6 +107,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

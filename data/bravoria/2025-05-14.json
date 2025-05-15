@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-14T09:34:34.732Z",
+	"timestamp": "2025-05-15T03:44:55.055Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 32.48
+			"chance": 32.48,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

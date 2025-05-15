@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-14T09:34:59.973Z",
+	"timestamp": "2025-05-15T03:45:01.207Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.86
+			"chance": 37.86,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.98
+			"chance": 16.98,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.82
+			"chance": 6.82,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

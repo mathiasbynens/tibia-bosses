@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-15T09:34:33.815Z",
+	"timestamp": "2025-05-16T03:45:14.619Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.21
+			"chance": 43.21,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.8
+			"chance": 31.8,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 25.89
+			"chance": 25.89,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.37
+			"chance": 16.37,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -108,6 +112,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

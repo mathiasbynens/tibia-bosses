@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-15T09:35:07.338Z",
+	"timestamp": "2025-05-16T03:45:22.051Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.81
+			"chance": 26.81,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.66
+			"chance": 21.66,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.46
+			"chance": 20.46,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 17.67
+			"chance": 17.67,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -116,6 +122,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

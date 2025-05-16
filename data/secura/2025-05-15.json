@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-05-15T09:35:03.119Z",
+	"timestamp": "2025-05-16T03:45:21.204Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.79
+			"chance": 71.79,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.46
+			"chance": 42.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.89
+			"chance": 36.89,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.89
+			"chance": 29.89,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.97
+			"chance": 20.97,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.65
+			"chance": 7.65,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +102,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

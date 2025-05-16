@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-15T09:34:46.221Z",
+	"timestamp": "2025-05-16T03:45:17.680Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.16
+			"chance": 70.16,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.52
+			"chance": 38.52,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.44
+			"chance": 29.44,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.49
+			"chance": 21.49,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

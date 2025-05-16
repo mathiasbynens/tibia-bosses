@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-05-15T09:34:53.641Z",
+	"timestamp": "2025-05-16T03:45:19.029Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.46
+			"chance": 42.46,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 39.4
+			"chance": 39.4,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 33.64
+			"chance": 33.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 24.07
+			"chance": 24.07,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.16
+			"chance": 23.16,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.12
+			"chance": 18.12,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -124,6 +131,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

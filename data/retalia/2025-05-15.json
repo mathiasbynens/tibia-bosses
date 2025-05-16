@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-15T09:34:59.500Z",
+	"timestamp": "2025-05-16T03:45:20.391Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.25
+			"chance": 7.25,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.75
+			"chance": 5.75,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -64,6 +67,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.34
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

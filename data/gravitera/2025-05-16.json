@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-16T09:34:42.965Z",
+	"timestamp": "2025-05-17T03:42:46.873Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.88
+			"chance": 18.88,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -64,6 +66,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.44
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

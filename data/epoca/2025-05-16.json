@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-16T09:34:39.040Z",
+	"timestamp": "2025-05-17T03:42:44.924Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 65.62
+			"chance": 65.62,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -96,6 +97,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.56
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

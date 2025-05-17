@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-16T09:34:54.059Z",
+	"timestamp": "2025-05-17T03:42:49.087Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.19
+			"chance": 12.19,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -84,6 +86,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.54
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

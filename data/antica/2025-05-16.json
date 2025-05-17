@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-16T09:34:28.359Z",
+	"timestamp": "2025-05-17T03:42:42.621Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.37
+			"chance": 81.37,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.23
+			"chance": 18.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.46
+			"chance": 11.46,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +105,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

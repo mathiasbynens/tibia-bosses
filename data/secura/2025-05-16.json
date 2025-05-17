@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-16T09:34:57.509Z",
+	"timestamp": "2025-05-17T03:42:49.895Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 34.99
+			"chance": 34.99,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.39
+			"chance": 16.39,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.04
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-16T09:34:31.254Z",
+	"timestamp": "2025-05-17T03:42:43.312Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.97
+			"chance": 53.97,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -88,6 +89,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

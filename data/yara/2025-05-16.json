@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-16T09:35:04.859Z",
+	"timestamp": "2025-05-17T03:42:51.831Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.15
+			"chance": 74.15,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.12
+			"chance": 24.12,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -64,6 +68,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

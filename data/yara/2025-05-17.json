@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-05-17T23:30:15.884Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 28.05
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 26.64
+		},
+		{
+			"name": "The Imperor",
+			"chance": 25.65
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.09
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.86
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.85
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.18
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.9
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.76
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.91
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.81
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.7
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 2.7
+		}
+	]
+}

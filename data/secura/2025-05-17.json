@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-17T23:30:09.119Z",
+	"timestamp": "2025-05-18T03:45:53.141Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.88
+			"chance": 39.88,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.82
+			"chance": 10.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.91
+			"chance": 9.91,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -112,6 +117,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.56
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

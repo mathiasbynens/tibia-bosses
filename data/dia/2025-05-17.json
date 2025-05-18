@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-17T23:29:52.408Z",
+	"timestamp": "2025-05-18T03:45:48.771Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
-			"chance": 29.78
+			"chance": 29.78,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 25.04
+			"chance": 25.04,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -116,6 +119,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

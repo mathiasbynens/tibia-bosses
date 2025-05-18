@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-17T23:29:49.535Z",
+	"timestamp": "2025-05-18T03:45:47.778Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -88,6 +89,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

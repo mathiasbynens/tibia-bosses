@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-17T23:30:15.884Z",
+	"timestamp": "2025-05-18T03:45:54.646Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.09
+			"chance": 22.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -56,6 +59,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.7
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-17T23:30:06.022Z",
+	"timestamp": "2025-05-18T03:45:52.272Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.42
+			"chance": 81.42,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 42.95
+			"chance": 42.95,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -92,6 +95,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.54
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

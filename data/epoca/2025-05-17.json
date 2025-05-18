@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-17T23:29:55.195Z",
+	"timestamp": "2025-05-18T03:45:49.537Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.05
+			"chance": 67.05,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.98
+			"chance": 66.98,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.42
+			"chance": 18.42,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -91,11 +97,22 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.15
+			"chance": 7.15,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

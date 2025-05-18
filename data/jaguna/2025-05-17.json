@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-17T23:30:00.879Z",
+	"timestamp": "2025-05-18T03:45:50.966Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 45.69
+			"chance": 45.69,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.01
+			"chance": 35.01,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.8
+			"chance": 13.8,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.19
+			"chance": 10.19,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

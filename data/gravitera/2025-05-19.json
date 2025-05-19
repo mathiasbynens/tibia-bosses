@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-05-19T09:35:49.467Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 45.16
+		},
+		{
+			"name": "midnight panther",
+			"chance": 41.69
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.9
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 25.38
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.65
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.02
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.27
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.06
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.05
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.32
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.87
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.45
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.03
+		}
+	]
+}

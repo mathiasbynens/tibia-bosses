@@ -1,0 +1,129 @@
+{
+	"timestamp": "2025-05-19T09:35:42.536Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.2
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 53
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.9
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.81
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 32.41
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.55
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 22.32
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 21.85
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.8
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.85
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.59
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.8
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.65
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.26
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.69
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.63
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.17
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 13.1
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.04
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.63
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.74
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.7
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.51
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 8.48
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 6.49
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.7
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.49
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.7
+		}
+	]
+}

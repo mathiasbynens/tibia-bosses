@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-18T09:32:42.710Z",
+	"timestamp": "2025-05-19T03:46:28.096Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -92,6 +93,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

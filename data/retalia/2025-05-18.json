@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-18T09:33:02.362Z",
+	"timestamp": "2025-05-19T03:46:31.606Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.17
+			"chance": 74.17,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -88,6 +90,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-18T09:32:46.069Z",
+	"timestamp": "2025-05-19T03:46:28.649Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.36
+			"chance": 19.36,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.27
+			"chance": 18.27,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -120,6 +122,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.93
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

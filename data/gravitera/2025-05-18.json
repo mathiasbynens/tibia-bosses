@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-18T09:32:52.245Z",
+	"timestamp": "2025-05-19T03:46:29.739Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -56,6 +56,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

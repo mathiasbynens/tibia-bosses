@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-18T09:32:48.755Z",
+	"timestamp": "2025-05-19T03:46:29.159Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -80,6 +82,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.98
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

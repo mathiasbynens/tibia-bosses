@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-18T09:33:12.801Z",
+	"timestamp": "2025-05-19T03:46:33.723Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -48,6 +50,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 3.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

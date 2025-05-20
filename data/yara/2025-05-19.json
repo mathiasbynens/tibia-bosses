@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-19T09:36:14.470Z",
+	"timestamp": "2025-05-20T03:45:20.006Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -48,6 +48,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.9
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-19T09:35:49.467Z",
+	"timestamp": "2025-05-20T03:45:15.866Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.06
+			"chance": 12.06,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -64,6 +66,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

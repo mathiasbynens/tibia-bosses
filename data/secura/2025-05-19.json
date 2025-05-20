@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-19T09:36:06.449Z",
+	"timestamp": "2025-05-20T03:45:18.465Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.18
+			"chance": 70.18,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.33
+			"chance": 37.33,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.31
+			"chance": 27.31,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.32
+			"chance": 22.32,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.26
+			"chance": 14.26,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,15 +68,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.87
+			"chance": 8.87,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +128,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.17
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

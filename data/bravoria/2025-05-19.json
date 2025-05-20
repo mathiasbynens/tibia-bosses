@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-19T09:35:38.979Z",
+	"timestamp": "2025-05-20T03:45:12.879Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.19
+			"chance": 74.19,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.09
+			"chance": 64.09,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.66
+			"chance": 31.66,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.9
+			"chance": 17.9,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

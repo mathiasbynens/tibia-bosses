@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-19T09:35:45.888Z",
+	"timestamp": "2025-05-20T03:45:15.038Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 46.98
+			"chance": 46.98,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -88,6 +89,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.86
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

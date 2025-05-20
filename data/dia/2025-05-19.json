@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-19T09:35:42.536Z",
+	"timestamp": "2025-05-20T03:45:14.311Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53
+			"chance": 53,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.9
+			"chance": 39.9,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.55
+			"chance": 22.55,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.65
+			"chance": 14.65,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -124,6 +129,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.7
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

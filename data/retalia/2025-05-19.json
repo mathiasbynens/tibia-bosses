@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-19T09:36:00.649Z",
+	"timestamp": "2025-05-20T03:45:17.653Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +94,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.92
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

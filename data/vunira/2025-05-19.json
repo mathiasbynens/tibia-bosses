@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-19T09:36:10.824Z",
+	"timestamp": "2025-05-20T03:45:19.391Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.34
+			"chance": 31.34,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 29.08
+			"chance": 29.08,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.48
+			"chance": 7.48,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.16
+			"chance": 7.16,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-05-20T09:35:30.309Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.43
+		},
+		{
+			"name": "The Imperor",
+			"chance": 36
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 18.6
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.39
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.37
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 12.46
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.65
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.17
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.35
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.54
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 3.98
+		}
+	]
+}

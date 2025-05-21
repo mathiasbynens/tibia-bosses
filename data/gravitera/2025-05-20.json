@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-20T09:35:09.305Z",
+	"timestamp": "2025-05-21T03:45:07.457Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.51
+			"chance": 13.51,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",

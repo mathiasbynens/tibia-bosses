@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-20T09:34:58.403Z",
+	"timestamp": "2025-05-21T03:45:03.670Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -100,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

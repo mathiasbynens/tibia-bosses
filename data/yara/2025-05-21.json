@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-05-21T09:35:33.680Z",
+	"bosses": [
+		{
+			"name": "Massacre",
+			"chance": 23.66
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 20.3
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.82
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.95
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.01
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.14
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 6.98
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.69
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.86
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.65
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.54
+		}
+	]
+}

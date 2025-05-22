@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-21T09:35:30.020Z",
+	"timestamp": "2025-05-22T03:45:16.241Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.66
+			"chance": 26.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +119,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.41
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

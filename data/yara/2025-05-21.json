@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-21T09:35:33.680Z",
+	"timestamp": "2025-05-22T03:45:16.811Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 20.3
+			"chance": 20.3,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -52,6 +53,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.54
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

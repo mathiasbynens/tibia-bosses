@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-21T09:34:58.169Z",
+	"timestamp": "2025-05-22T03:45:09.224Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.57
+			"chance": 28.57,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.01
+			"chance": 10.01,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -124,6 +128,46 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.29
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

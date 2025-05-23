@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-22T09:34:55.102Z",
+	"timestamp": "2025-05-23T03:44:54.862Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.86
+			"chance": 39.86,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.31
+			"chance": 15.31,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +98,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

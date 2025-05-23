@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-05-22T09:34:51.325Z",
+	"timestamp": "2025-05-23T03:44:54.302Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.4
+			"chance": 81.4,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.4
+			"chance": 38.4,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 35.18
+			"chance": 35.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31
+			"chance": 31,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.32
+			"chance": 15.32,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.54
+			"chance": 3.54,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +119,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

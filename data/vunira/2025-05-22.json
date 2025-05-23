@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-22T09:35:16.682Z",
+	"timestamp": "2025-05-23T03:44:58.928Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
-			"chance": 41.01
+			"chance": 41.01,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.26
+			"chance": 35.26,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 30.34
+			"chance": 30.34,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.19
+			"chance": 6.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -140,6 +146,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.73
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

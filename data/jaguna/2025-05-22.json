@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-22T09:35:02.438Z",
+	"timestamp": "2025-05-23T03:44:56.066Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.76
+			"chance": 8.76,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

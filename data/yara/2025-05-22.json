@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-22T09:35:20.364Z",
+	"timestamp": "2025-05-23T03:44:59.457Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -68,6 +68,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.93
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

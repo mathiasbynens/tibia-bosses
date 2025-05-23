@@ -1,29 +1,35 @@
 {
-	"timestamp": "2025-05-22T09:35:12.918Z",
+	"timestamp": "2025-05-23T03:44:58.282Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.49
+			"chance": 61.49,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.61
+			"chance": 53.61,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.54
+			"chance": 38.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.98
+			"chance": 35.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.84
+			"chance": 34.84,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 29.02
+			"chance": 29.02,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

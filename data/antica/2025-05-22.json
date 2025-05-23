@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-22T09:34:44.108Z",
+	"timestamp": "2025-05-23T03:44:53.012Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 52.97
+			"chance": 52.97,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.32
+			"chance": 22.32,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.2
+			"chance": 13.2,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.95
+			"chance": 8.95,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -104,6 +109,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.88
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

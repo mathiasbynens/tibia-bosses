@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-05-23T09:34:56.388Z",
+	"bosses": [
+		{
+			"name": "The Old Whopper",
+			"chance": 42.09
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.86
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 30.75
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 29.65
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.3
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 24.8
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.36
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 23.08
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 23.05
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.61
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.58
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.2
+		},
+		{
+			"name": "Hirintror",
+			"chance": 16.14
+		},
+		{
+			"name": "Zushuka",
+			"chance": 14.73
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.71
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.91
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.06
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.61
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.75
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.4
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.35
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.02
+		}
+	]
+}

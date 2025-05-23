@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-05-23T09:35:07.759Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.25
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 39.45
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.54
+		},
+		{
+			"name": "The Welter",
+			"chance": 29.15
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.15
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.96
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.57
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.56
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.71
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.3
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.71
+		}
+	]
+}

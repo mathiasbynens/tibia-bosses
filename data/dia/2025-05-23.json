@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-23T09:34:59.683Z",
+	"timestamp": "2025-05-24T03:42:04.326Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 11.65
+			"chance": 11.65,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +109,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.17
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

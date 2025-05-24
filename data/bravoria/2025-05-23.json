@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-23T09:34:56.388Z",
+	"timestamp": "2025-05-24T03:42:03.430Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -83,11 +83,22 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.35
+			"chance": 5.35,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 4.02
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

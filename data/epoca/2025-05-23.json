@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-23T09:35:03.255Z",
+	"timestamp": "2025-05-24T03:42:05.052Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.45
+			"chance": 81.45,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.54
+			"chance": 38.54,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.26
+			"chance": 35.26,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.76
+			"chance": 12.76,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

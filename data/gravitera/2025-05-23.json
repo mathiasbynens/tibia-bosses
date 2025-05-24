@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-23T09:35:07.759Z",
+	"timestamp": "2025-05-24T03:42:05.880Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.25
+			"chance": 40.25,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -52,6 +53,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-23T09:35:27.460Z",
+	"timestamp": "2025-05-24T03:42:11.255Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.54
+			"chance": 38.54,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 31.23
+			"chance": 31.23,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.21
+			"chance": 13.21,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -72,6 +75,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

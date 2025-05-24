@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-23T09:35:17.483Z",
+	"timestamp": "2025-05-24T03:42:07.895Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,19 +11,23 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.26
+			"chance": 35.26,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 30.2
+			"chance": 30.2,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 30.05
+			"chance": 30.05,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -104,6 +110,21 @@
 		{
 			"name": "The Welter",
 			"chance": 4.69
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

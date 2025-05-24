@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-23T09:35:23.988Z",
+	"timestamp": "2025-05-24T03:42:09.890Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.25
+			"chance": 62.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.7
+			"chance": 8.7,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

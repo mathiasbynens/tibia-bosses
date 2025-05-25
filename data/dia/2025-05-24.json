@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-24T09:32:39.561Z",
+	"timestamp": "2025-05-25T03:47:09.149Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.4
+			"chance": 42.4,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.9
+			"chance": 29.9,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

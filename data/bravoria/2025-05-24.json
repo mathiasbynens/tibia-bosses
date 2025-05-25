@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-24T09:32:35.946Z",
+	"timestamp": "2025-05-25T03:47:08.388Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.18
+			"chance": 15.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,11 +68,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.82
+			"chance": 11.82,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -92,6 +95,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.53
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

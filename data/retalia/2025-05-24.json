@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-24T09:32:56.412Z",
+	"timestamp": "2025-05-25T03:47:12.642Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.52
+			"chance": 61.52,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +79,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.35
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

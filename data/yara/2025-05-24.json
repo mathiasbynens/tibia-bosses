@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-24T09:33:06.403Z",
+	"timestamp": "2025-05-25T03:47:15.083Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15
+			"chance": 15,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.25
+			"chance": 9.25,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -64,6 +67,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.28
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

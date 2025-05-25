@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-24T09:32:32.524Z",
+	"timestamp": "2025-05-25T03:47:07.740Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -84,6 +84,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

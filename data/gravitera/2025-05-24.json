@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-24T09:32:46.424Z",
+	"timestamp": "2025-05-25T03:47:10.295Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 66.94
+			"chance": 66.94,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -52,6 +55,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.28
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

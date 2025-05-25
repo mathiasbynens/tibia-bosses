@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-24T09:32:49.899Z",
+	"timestamp": "2025-05-25T03:47:11.542Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-05-25T09:32:41.712Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 53.78
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 20.53
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.94
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.11
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.93
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.62
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.71
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.03
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.87
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.33
+		},
+		{
+			"name": "The Abomination",
+			"chance": 10.6
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.89
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.71
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.28
+		}
+	]
+}

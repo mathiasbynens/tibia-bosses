@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-25T09:32:35.117Z",
+	"timestamp": "2025-05-26T03:46:18.209Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 47.25
+			"chance": 47.25,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.24
+			"chance": 43.24,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -100,6 +103,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

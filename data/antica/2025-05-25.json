@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-25T09:32:16.959Z",
+	"timestamp": "2025-05-26T03:46:08.411Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.15
+			"chance": 65.15,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.14
+			"chance": 62.14,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.77
+			"chance": 8.77,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +105,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

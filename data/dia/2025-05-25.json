@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-25T09:32:24.073Z",
+	"timestamp": "2025-05-26T03:46:15.571Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.24
+			"chance": 29.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.14
+			"chance": 13.14,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -140,6 +145,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

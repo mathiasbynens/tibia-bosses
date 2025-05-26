@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-25T09:32:27.981Z",
+	"timestamp": "2025-05-26T03:46:16.861Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.14
+			"chance": 62.14,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.52
+			"chance": 61.52,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.1
+			"chance": 13.1,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

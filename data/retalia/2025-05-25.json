@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-25T09:32:41.712Z",
+	"timestamp": "2025-05-26T03:46:19.814Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.33
+			"chance": 11.33,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.1
+			"chance": 9.1,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -72,6 +76,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.28
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

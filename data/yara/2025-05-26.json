@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-05-26T09:44:49.720Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.19
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 64.03
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 29.85
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.49
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.4
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.21
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.88
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.95
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.94
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.15
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.1
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.34
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.33
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 6.69
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.06
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.36
+		}
+	]
+}

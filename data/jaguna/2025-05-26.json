@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-26T09:44:32.517Z",
+	"timestamp": "2025-05-27T03:45:40.749Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.52
+			"chance": 61.52,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 42.96
+			"chance": 42.96,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -108,6 +110,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.93
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

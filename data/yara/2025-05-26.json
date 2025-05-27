@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-26T09:44:49.720Z",
+	"timestamp": "2025-05-27T03:45:44.109Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -64,6 +65,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.36
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-26T09:44:46.111Z",
+	"timestamp": "2025-05-27T03:45:43.466Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.69
+			"chance": 32.69,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.49
+			"chance": 18.49,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -92,6 +94,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.54
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

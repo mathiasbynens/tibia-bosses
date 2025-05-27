@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-26T09:44:24.396Z",
+	"timestamp": "2025-05-27T03:45:39.339Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 28.88
+			"chance": 28.88,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 27.44
+			"chance": 27.44,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +83,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.58
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

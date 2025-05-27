@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-26T09:44:17.109Z",
+	"timestamp": "2025-05-27T03:45:37.867Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.11
+			"chance": 67.11,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.98
+			"chance": 66.98,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.52
+			"chance": 20.52,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -80,6 +84,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.36
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-26T09:44:42.658Z",
+	"timestamp": "2025-05-27T03:45:42.656Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.7
+			"chance": 25.7,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.84
+			"chance": 8.84,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +108,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

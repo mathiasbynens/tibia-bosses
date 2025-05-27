@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-26T09:44:38.833Z",
+	"timestamp": "2025-05-27T03:45:41.858Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.11
+			"chance": 22.11,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -76,6 +78,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

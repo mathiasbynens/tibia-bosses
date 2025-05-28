@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-05-28T09:35:21.988Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 42.99
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.82
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 30.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.2
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.41
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.19
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.09
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.91
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.61
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.58
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.25
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.72
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.95
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.56
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.55
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.33
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.98
+		}
+	]
+}

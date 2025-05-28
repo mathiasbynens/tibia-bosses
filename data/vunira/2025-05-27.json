@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-27T09:34:55.585Z",
+	"timestamp": "2025-05-28T03:50:33.556Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.93
+			"chance": 53.93,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.73
+			"chance": 12.73,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -108,6 +111,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.93
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

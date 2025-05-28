@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-27T09:34:28.755Z",
+	"timestamp": "2025-05-28T03:50:28.203Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.81
+			"chance": 39.81,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

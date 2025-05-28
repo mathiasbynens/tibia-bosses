@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-27T09:34:59.228Z",
+	"timestamp": "2025-05-28T03:50:34.198Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.25
+			"chance": 80.25,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "Dracola",

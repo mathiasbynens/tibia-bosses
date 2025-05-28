@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-05-27T09:34:39.462Z",
+	"timestamp": "2025-05-28T03:50:30.316Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.34
+			"chance": 8.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -52,6 +57,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-27T09:34:48.582Z",
+	"timestamp": "2025-05-28T03:50:32.200Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.17
+			"chance": 11.17,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -84,6 +86,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.78
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

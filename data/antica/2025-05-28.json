@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-28T09:34:58.170Z",
+	"timestamp": "2025-05-29T03:45:36.530Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.06
+			"chance": 35.06,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.89
+			"chance": 34.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,19 +21,23 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.85
+			"chance": 29.85,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 29.19
+			"chance": 29.19,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.31
+			"chance": 23.31,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -116,6 +122,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

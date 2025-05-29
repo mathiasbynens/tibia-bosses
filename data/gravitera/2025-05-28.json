@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-28T09:35:11.686Z",
+	"timestamp": "2025-05-29T03:45:38.983Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -52,6 +53,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

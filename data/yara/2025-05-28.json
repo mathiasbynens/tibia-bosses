@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-28T09:35:32.271Z",
+	"timestamp": "2025-05-29T03:45:42.686Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.2
+			"chance": 62.2,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 52.93
+			"chance": 52.93,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.7
+			"chance": 31.7,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.38
+			"chance": 10.38,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -68,6 +72,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

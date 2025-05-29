@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-28T09:35:29.301Z",
+	"timestamp": "2025-05-29T03:45:42.070Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.91
+			"chance": 29.91,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.78
+			"chance": 14.78,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.13
+			"chance": 9.13,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +115,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

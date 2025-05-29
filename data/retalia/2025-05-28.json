@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-28T09:35:21.988Z",
+	"timestamp": "2025-05-29T03:45:40.682Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 42.99
+			"chance": 42.99,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -72,6 +75,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.98
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

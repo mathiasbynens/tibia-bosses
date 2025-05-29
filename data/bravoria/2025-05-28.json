@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-28T09:35:01.132Z",
+	"timestamp": "2025-05-29T03:45:37.130Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.68
+			"chance": 44.68,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -76,6 +80,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-05-29T09:35:04.755Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.59
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.83
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 21.03
+		},
+		{
+			"name": "Dracola",
+			"chance": 18.86
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.94
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.88
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.92
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.81
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.59
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.29
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.24
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.1
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.83
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.68
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.74
+		}
+	]
+}

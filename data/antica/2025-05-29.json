@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-29T09:34:42.351Z",
+	"timestamp": "2025-05-30T03:45:10.438Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.59
+			"chance": 53.59,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,19 +25,23 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 22.13
+			"chance": 22.13,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 21.9
+			"chance": 21.9,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -120,6 +127,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

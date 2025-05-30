@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-29T09:34:55.510Z",
+	"timestamp": "2025-05-30T03:45:14.173Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -56,6 +56,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

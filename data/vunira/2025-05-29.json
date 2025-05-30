@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-29T09:35:12.396Z",
+	"timestamp": "2025-05-30T03:45:17.605Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.25
+			"chance": 37.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.7
+			"chance": 31.7,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 26.54
+			"chance": 26.54,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.2
+			"chance": 13.2,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -108,6 +116,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

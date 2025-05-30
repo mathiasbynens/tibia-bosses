@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-29T09:35:09.063Z",
+	"timestamp": "2025-05-30T03:45:16.908Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.1
+			"chance": 31.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -112,6 +114,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

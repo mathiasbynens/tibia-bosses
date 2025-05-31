@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-30T09:34:30.031Z",
+	"timestamp": "2025-05-31T03:44:24.204Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.78
+			"chance": 17.78,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.24
+			"chance": 14.24,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 7.02
+			"chance": 7.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +108,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

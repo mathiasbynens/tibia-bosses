@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-30T09:34:45.549Z",
+	"timestamp": "2025-05-31T03:44:27.033Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.93
+			"chance": 16.93,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -72,6 +73,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.73
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-30T09:34:56.092Z",
+	"timestamp": "2025-05-31T03:44:28.784Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.2
+			"chance": 70.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.32
+			"chance": 10.32,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +82,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-30T09:35:06.988Z",
+	"timestamp": "2025-05-31T03:44:30.909Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.15
+			"chance": 9.15,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -72,6 +75,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

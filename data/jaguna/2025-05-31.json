@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-05-31T09:33:13.839Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 36.76
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 35.02
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.84
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 31.74
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 29.56
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.81
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.13
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.47
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 19.35
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.94
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 16.5
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.77
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.37
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.34
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.95
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.11
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.83
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.63
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.3
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.28
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.55
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.35
+		}
+	]
+}

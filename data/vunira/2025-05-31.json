@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-05-31T09:33:26.845Z",
+	"bosses": [
+		{
+			"name": "Massacre",
+			"chance": 45.66
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.35
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 35.13
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.83
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.84
+		},
+		{
+			"name": "White Pale",
+			"chance": 26.32
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 25.81
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.64
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 17.3
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.72
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.21
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.13
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.81
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.57
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.55
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.51
+		}
+	]
+}

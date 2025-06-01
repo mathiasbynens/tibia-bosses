@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-31T09:33:30.274Z",
+	"timestamp": "2025-06-01T03:52:01.147Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 8.72
+			"chance": 8.72,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.84
+			"chance": 6.84,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

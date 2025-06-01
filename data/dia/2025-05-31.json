@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-05-31T09:33:03.540Z",
+	"timestamp": "2025-06-01T03:51:54.334Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.27
+			"chance": 62.27,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 29.62
+			"chance": 29.62,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.9
+			"chance": 18.9,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +110,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.55
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

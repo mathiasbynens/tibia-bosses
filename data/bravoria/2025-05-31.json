@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-05-31T09:33:00.043Z",
+	"timestamp": "2025-06-01T03:51:53.380Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.6
+			"chance": 53.6,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.1
+			"chance": 31.1,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.14
+			"chance": 22.14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 21.04
+			"chance": 21.04,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -68,6 +73,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.82
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

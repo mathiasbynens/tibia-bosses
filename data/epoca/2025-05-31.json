@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-31T09:33:06.999Z",
+	"timestamp": "2025-06-01T03:51:55.390Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.95
+			"chance": 23.95,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -76,6 +77,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.43
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

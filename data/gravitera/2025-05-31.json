@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-05-31T09:33:10.498Z",
+	"timestamp": "2025-06-01T03:51:56.205Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

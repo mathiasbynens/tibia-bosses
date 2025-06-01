@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-06-01T09:33:13.374Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 64.25
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.28
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.24
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.88
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.61
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.98
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.86
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.3
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.18
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.32
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.46
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.99
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.91
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.7
+		}
+	]
+}

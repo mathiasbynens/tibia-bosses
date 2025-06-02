@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-01T09:33:20.772Z",
+	"timestamp": "2025-06-02T03:47:47.751Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.29
+			"chance": 62.29,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 40.41
+			"chance": 40.41,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.9
+			"chance": 37.9,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.92
+			"chance": 18.92,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.94
+			"chance": 16.94,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -84,6 +90,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

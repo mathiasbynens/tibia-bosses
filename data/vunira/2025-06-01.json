@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-01T09:33:41.149Z",
+	"timestamp": "2025-06-02T03:47:51.932Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.28
+			"chance": 43.28,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.64
+			"chance": 21.64,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 17.69
+			"chance": 17.69,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.41
+			"chance": 17.41,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -88,6 +92,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

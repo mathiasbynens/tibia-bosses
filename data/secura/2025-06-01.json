@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-01T09:33:37.840Z",
+	"timestamp": "2025-06-02T03:47:51.165Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,15 +45,18 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.79
+			"chance": 15.79,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.4
+			"chance": 14.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

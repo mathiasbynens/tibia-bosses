@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-01T09:33:27.949Z",
+	"timestamp": "2025-06-02T03:47:49.190Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.21
+			"chance": 70.21,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.43
+			"chance": 28.43,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 25.79
+			"chance": 25.79,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -104,6 +108,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

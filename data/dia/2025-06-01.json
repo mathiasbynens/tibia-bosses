@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-01T09:33:17.109Z",
+	"timestamp": "2025-06-02T03:47:46.923Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 19.52
+			"chance": 19.52,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.45
+			"chance": 9.45,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

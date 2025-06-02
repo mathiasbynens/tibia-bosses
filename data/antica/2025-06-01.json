@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-01T09:33:09.543Z",
+	"timestamp": "2025-06-02T03:47:45.328Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.29
+			"chance": 62.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 31.74
+			"chance": 31.74,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 25.82
+			"chance": 25.82,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.15
+			"chance": 12.15,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -100,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

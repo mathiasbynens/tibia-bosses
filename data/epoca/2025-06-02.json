@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-06-02T09:35:30.100Z",
+	"bosses": [
+		{
+			"name": "The Plasmother",
+			"chance": 27.53
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 25.46
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.29
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.81
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.13
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.74
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 19.34
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.34
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.95
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.61
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.81
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.55
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.93
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.82
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.07
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.86
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		}
+	]
+}

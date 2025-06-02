@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-06-02T09:35:33.603Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 31.73
+		},
+		{
+			"name": "Massacre",
+			"chance": 23.76
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 23.33
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.61
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.43
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.53
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.45
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.67
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.35
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.27
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.37
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		}
+	]
+}

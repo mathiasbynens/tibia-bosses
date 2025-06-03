@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-02T09:35:30.100Z",
+	"timestamp": "2025-06-03T03:46:10.560Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -72,6 +74,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

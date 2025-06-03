@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-02T09:35:44.177Z",
+	"timestamp": "2025-06-03T03:46:13.609Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.42
+			"chance": 28.42,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -84,6 +85,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.61
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

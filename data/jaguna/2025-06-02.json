@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-02T09:35:37.559Z",
+	"timestamp": "2025-06-03T03:46:12.196Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.47
+			"chance": 42.47,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.92
+			"chance": 37.92,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +102,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

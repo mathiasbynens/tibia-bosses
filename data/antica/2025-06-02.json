@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-06-02T09:35:19.477Z",
+	"timestamp": "2025-06-03T03:46:08.134Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 36.94
+			"chance": 36.94,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.72
+			"chance": 32.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.25
+			"chance": 29.25,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.79
+			"chance": 9.79,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -100,6 +106,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

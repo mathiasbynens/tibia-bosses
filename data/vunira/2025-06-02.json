@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-02T09:35:51.170Z",
+	"timestamp": "2025-06-03T03:46:15.424Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +105,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

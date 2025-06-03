@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-02T09:35:26.399Z",
+	"timestamp": "2025-06-03T03:46:09.733Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 6.24
+			"chance": 6.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-03T09:35:49.361Z",
+	"timestamp": "2025-06-04T03:46:23.203Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.15
+			"chance": 24.15,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 17.68
+			"chance": 17.68,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -83,7 +88,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

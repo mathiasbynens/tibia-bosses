@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-03T09:35:56.624Z",
+	"timestamp": "2025-06-04T03:46:24.509Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.65
+			"chance": 38.65,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -63,11 +64,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -128,6 +131,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.29
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

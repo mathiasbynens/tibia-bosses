@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-03T09:35:35.298Z",
+	"timestamp": "2025-06-04T03:46:21.195Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 37.02
+			"chance": 37.02,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.1
+			"chance": 31.1,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -76,6 +78,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.54
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

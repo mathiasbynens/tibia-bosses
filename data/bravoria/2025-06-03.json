@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-03T09:35:27.870Z",
+	"timestamp": "2025-06-04T03:46:20.094Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 29.34
+			"chance": 29.34,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.35
+			"chance": 8.35,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.33
+			"chance": 8.33,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +92,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.15
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

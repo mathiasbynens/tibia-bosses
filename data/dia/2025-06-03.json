@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-03T09:35:31.443Z",
+	"timestamp": "2025-06-04T03:46:20.711Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.74
+			"chance": 32.74,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +119,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

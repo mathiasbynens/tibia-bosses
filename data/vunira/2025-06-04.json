@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-04T09:35:44.851Z",
+	"timestamp": "2025-06-05T03:46:35.456Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.58
+			"chance": 61.58,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.46
+			"chance": 42.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 36.94
+			"chance": 36.94,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 24.53
+			"chance": 24.53,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.2
+			"chance": 7.2,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.78
+			"chance": 6.78,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -124,6 +130,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.46
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

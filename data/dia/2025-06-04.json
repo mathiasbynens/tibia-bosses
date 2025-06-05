@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-04T09:35:21.754Z",
+	"timestamp": "2025-06-05T03:46:31.364Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.41
+			"chance": 81.41,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.21
+			"chance": 70.21,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 37.04
+			"chance": 37.04,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.83
+			"chance": 21.83,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.65
+			"chance": 20.65,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -116,6 +122,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

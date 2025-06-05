@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-04T09:35:28.615Z",
+	"timestamp": "2025-06-05T03:46:32.487Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.21
+			"chance": 70.21,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.88
+			"chance": 34.88,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -72,6 +74,16 @@
 		{
 			"name": "Captain Jones",
 			"chance": 5.43
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

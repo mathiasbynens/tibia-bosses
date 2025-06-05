@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-04T09:35:37.691Z",
+	"timestamp": "2025-06-05T03:46:34.130Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.95
+			"chance": 16.95,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -76,6 +77,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

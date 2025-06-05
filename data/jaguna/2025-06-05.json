@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-06-05T09:35:19.354Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.48
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 31.74
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.12
+		},
+		{
+			"name": "Massacre",
+			"chance": 30.77
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.49
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.63
+		},
+		{
+			"name": "Omrafir",
+			"chance": 19.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.25
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.61
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.37
+		},
+		{
+			"name": "White Pale",
+			"chance": 15.31
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.48
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.54
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.29
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.05
+		},
+		{
+			"name": "Xenia",
+			"chance": 8.92
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.29
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.53
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.71
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.27
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.69
+		}
+	]
+}

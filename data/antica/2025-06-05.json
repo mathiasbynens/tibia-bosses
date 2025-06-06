@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-05T09:35:03.250Z",
+	"timestamp": "2025-06-06T03:46:28.212Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.11
+			"chance": 74.11,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.22
+			"chance": 70.22,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.81
+			"chance": 35.81,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,15 +22,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.74
+			"chance": 31.74,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.89
+			"chance": 29.89,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.04
+			"chance": 28.04,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +45,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.66
+			"chance": 19.66,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -91,11 +98,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.53
+			"chance": 8.53,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -124,6 +133,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

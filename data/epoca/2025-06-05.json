@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-05T09:35:12.840Z",
+	"timestamp": "2025-06-06T03:46:30.793Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.38
+			"chance": 42.38,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.81
+			"chance": 31.81,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -87,15 +89,32 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.67
+			"chance": 4.67,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4
+			"chance": 4,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.75
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

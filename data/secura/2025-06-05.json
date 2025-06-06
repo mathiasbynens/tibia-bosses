@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-05T09:35:29.177Z",
+	"timestamp": "2025-06-06T03:46:35.466Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.9
+			"chance": 26.9,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.09
+			"chance": 24.09,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -100,6 +102,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

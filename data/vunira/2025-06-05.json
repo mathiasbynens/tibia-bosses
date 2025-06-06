@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-05T09:35:32.793Z",
+	"timestamp": "2025-06-06T03:46:36.546Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.46
+			"chance": 39.46,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.41
+			"chance": 16.41,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -119,7 +123,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.86
+			"chance": 5.86,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -139,11 +144,32 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.29
+			"chance": 4.29,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.7
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

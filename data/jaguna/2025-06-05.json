@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-05T09:35:19.354Z",
+	"timestamp": "2025-06-06T03:46:32.666Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.74
+			"chance": 31.74,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,15 +36,18 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.95
+			"chance": 17.95,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.61
+			"chance": 17.61,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.37
+			"chance": 16.37,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.48
+			"chance": 13.48,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +98,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

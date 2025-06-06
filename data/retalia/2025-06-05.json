@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-05T09:35:25.587Z",
+	"timestamp": "2025-06-06T03:46:34.439Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.29
+			"chance": 79.29,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 28.61
+			"chance": 28.61,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.7
+			"chance": 13.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,11 +56,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.16
+			"chance": 12.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -76,6 +83,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.17
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

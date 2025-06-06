@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-05T09:35:16.269Z",
+	"timestamp": "2025-06-06T03:46:31.654Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -60,6 +61,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.8
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

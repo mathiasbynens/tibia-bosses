@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-06-06T09:34:52.461Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 81.42
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 41.12
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.45
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.18
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.06
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.14
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.26
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.25
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.85
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.62
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.91
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.82
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.63
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.8
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.73
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.33
+		}
+	]
+}

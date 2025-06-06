@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-06-06T09:35:03.517Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.23
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 44.68
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.46
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.21
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 27.49
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.03
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.96
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.62
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.77
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.63
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.04
+		},
+		{
+			"name": "yeti",
+			"chance": 5.77
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.36
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.72
+		}
+	]
+}

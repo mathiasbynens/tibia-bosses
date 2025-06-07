@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-06T09:34:43.109Z",
+	"timestamp": "2025-06-07T03:45:29.481Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.62
+			"chance": 53.62,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.21
+			"chance": 23.21,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.29
+			"chance": 14.29,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

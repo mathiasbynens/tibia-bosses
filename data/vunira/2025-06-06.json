@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-06T09:35:09.428Z",
+	"timestamp": "2025-06-07T03:45:39.776Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 52.94
+			"chance": 52.94,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.25
+			"chance": 20.25,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.02
+			"chance": 12.02,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -140,6 +147,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.45
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

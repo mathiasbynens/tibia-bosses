@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-06T09:34:49.386Z",
+	"timestamp": "2025-06-07T03:45:31.967Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.91
+			"chance": 53.91,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.62
+			"chance": 53.62,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -120,6 +124,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.37
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

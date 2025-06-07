@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-06T09:35:03.517Z",
+	"timestamp": "2025-06-07T03:45:37.412Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.21
+			"chance": 35.21,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -60,6 +61,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.72
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

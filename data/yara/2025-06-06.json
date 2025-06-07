@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-06T09:35:12.616Z",
+	"timestamp": "2025-06-07T03:45:40.746Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -76,6 +76,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

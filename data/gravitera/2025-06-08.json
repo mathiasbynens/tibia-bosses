@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-06-08T09:33:20.811Z",
+	"bosses": [
+		{
+			"name": "Shlorg",
+			"chance": 52.44
+		},
+		{
+			"name": "Hirintror",
+			"chance": 35.61
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.8
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 31.67
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.4
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.18
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.62
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 20.31
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.19
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 19.39
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.18
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.1
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.09
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.93
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.41
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.71
+		}
+	]
+}

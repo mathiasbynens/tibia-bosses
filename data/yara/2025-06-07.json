@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-07T09:33:26.323Z",
+	"timestamp": "2025-06-08T03:48:28.709Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -72,6 +74,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.34
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

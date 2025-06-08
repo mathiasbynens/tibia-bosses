@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-07T09:33:08.387Z",
+	"timestamp": "2025-06-08T03:48:22.511Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -68,6 +69,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-07T09:33:16.276Z",
+	"timestamp": "2025-06-08T03:48:25.413Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.43
+			"chance": 81.43,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 34.94
+			"chance": 34.94,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -68,6 +70,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.92
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-07T09:33:23.224Z",
+	"timestamp": "2025-06-08T03:48:27.421Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.79
+			"chance": 33.79,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.89
+			"chance": 15.89,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.22
+			"chance": 11.22,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -111,7 +114,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -124,6 +128,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

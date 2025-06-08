@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-07T09:32:56.957Z",
+	"timestamp": "2025-06-08T03:48:18.403Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.09
+			"chance": 14.09,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.03
+			"chance": 12.03,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -92,6 +97,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.12
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

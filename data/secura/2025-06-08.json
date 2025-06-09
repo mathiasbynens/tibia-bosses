@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-08T09:33:33.167Z",
+	"timestamp": "2025-06-09T03:48:02.331Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.46
+			"chance": 16.46,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.41
+			"chance": 12.41,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -128,6 +132,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

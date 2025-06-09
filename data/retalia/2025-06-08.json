@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-08T09:33:30.375Z",
+	"timestamp": "2025-06-09T03:48:01.613Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -64,6 +65,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.75
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

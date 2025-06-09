@@ -1,25 +1,30 @@
 {
-	"timestamp": "2025-06-08T09:33:24.317Z",
+	"timestamp": "2025-06-09T03:48:00.391Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.29
+			"chance": 79.29,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.24
+			"chance": 70.24,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.07
+			"chance": 64.07,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 52.53
+			"chance": 52.53,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.49
+			"chance": 42.49,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

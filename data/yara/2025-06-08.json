@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-08T09:33:39.936Z",
+	"timestamp": "2025-06-09T03:48:03.769Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -63,11 +64,23 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.56
+			"chance": 8.56,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.54
+			"chance": 8.54,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

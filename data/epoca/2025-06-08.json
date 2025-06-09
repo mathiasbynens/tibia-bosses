@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-08T09:33:17.524Z",
+	"timestamp": "2025-06-09T03:47:58.975Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.94
+			"chance": 37.94,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -96,6 +97,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

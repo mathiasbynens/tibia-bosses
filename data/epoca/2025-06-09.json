@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-09T09:35:43.615Z",
+	"timestamp": "2025-06-10T03:46:43.933Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.31
+			"chance": 80.31,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.83
+			"chance": 12.83,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -96,6 +99,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

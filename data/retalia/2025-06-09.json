@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-09T09:35:59.006Z",
+	"timestamp": "2025-06-10T03:46:46.834Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -67,7 +67,18 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.45
+			"chance": 5.45,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

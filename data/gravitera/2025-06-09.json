@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-09T09:35:47.583Z",
+	"timestamp": "2025-06-10T03:46:44.686Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -80,6 +80,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-09T09:36:02.825Z",
+	"timestamp": "2025-06-10T03:46:47.716Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.91
+			"chance": 29.91,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.07
+			"chance": 28.07,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 20.3
+			"chance": 20.3,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,19 +59,23 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.82
+			"chance": 18.82,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 17.84
+			"chance": 17.84,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 16.83
+			"chance": 16.83,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,7 +95,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -128,6 +137,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

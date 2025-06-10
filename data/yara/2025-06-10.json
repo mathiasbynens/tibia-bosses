@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-06-10T09:35:55.450Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.14
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 30.41
+		},
+		{
+			"name": "General Murius",
+			"chance": 29.07
+		},
+		{
+			"name": "Barbaria",
+			"chance": 26.41
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.39
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 23.18
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 20.41
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.62
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.16
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.89
+		},
+		{
+			"name": "Dracola",
+			"chance": 14.6
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 14.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.88
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.56
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.68
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.04
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-10T09:35:52.136Z",
+	"timestamp": "2025-06-11T03:46:50.083Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.82
+			"chance": 21.82,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -100,6 +103,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

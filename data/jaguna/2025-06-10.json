@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-10T09:35:37.524Z",
+	"timestamp": "2025-06-11T03:46:47.400Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.57
+			"chance": 61.57,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.39
+			"chance": 47.39,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +95,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.59
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

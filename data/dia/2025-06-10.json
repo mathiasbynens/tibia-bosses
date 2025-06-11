@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-10T09:35:25.857Z",
+	"timestamp": "2025-06-11T03:46:45.513Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 45.65
+			"chance": 45.65,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,15 +61,18 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -140,6 +145,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

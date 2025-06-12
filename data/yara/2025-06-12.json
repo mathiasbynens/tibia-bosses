@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-06-12T09:35:29.961Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.03
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 52.99
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 42.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 29.82
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 28.55
+		},
+		{
+			"name": "Dracola",
+			"chance": 25.48
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.84
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 18.63
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.51
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.1
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.08
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.85
+		}
+	]
+}

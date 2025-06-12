@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-11T09:35:45.901Z",
+	"timestamp": "2025-06-12T03:46:31.912Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.23
+			"chance": 29.23,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 29.12
+			"chance": 29.12,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -59,15 +61,18 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.69
+			"chance": 6.69,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -92,6 +98,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

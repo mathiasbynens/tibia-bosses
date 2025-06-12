@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-11T09:35:39.462Z",
+	"timestamp": "2025-06-12T03:46:30.856Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.24
+			"chance": 37.24,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.22
+			"chance": 19.22,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

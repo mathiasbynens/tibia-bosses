@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-11T09:35:28.681Z",
+	"timestamp": "2025-06-12T03:46:29.396Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.11
+			"chance": 65.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.89
+			"chance": 16.89,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.59
+			"chance": 3.59,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -116,6 +121,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

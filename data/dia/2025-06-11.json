@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-11T09:35:35.796Z",
+	"timestamp": "2025-06-12T03:46:30.366Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.26
+			"chance": 70.26,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -103,7 +105,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -119,7 +122,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.78
+			"chance": 5.78,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -144,6 +148,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

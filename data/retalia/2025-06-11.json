@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-11T09:35:51.681Z",
+	"timestamp": "2025-06-12T03:46:33.164Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.48
+			"chance": 24.48,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

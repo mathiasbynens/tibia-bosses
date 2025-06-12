@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-11T09:36:00.917Z",
+	"timestamp": "2025-06-12T03:46:34.802Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.46
+			"chance": 15.46,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -52,6 +53,16 @@
 		{
 			"name": "Yaga the Crone",
 			"chance": 9.01
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

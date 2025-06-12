@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-11T09:35:32.467Z",
+	"timestamp": "2025-06-12T03:46:29.877Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
-			"chance": 28.64
+			"chance": 28.64,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -87,11 +89,17 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.02
+			"chance": 4.02,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.18
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

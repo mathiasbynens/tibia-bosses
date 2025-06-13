@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-06-13T09:35:02.735Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.25
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.18
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 16.68
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.64
+		},
+		{
+			"name": "White Pale",
+			"chance": 15.27
+		},
+		{
+			"name": "General Murius",
+			"chance": 15.08
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.27
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.66
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.83
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.75
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.64
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.62
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.17
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 6.39
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.95
+		}
+	]
+}

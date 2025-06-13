@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-06-13T09:35:29.078Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "General Murius",
+			"chance": 59.68
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Dracola",
+			"chance": 29.29
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 26.4
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.94
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.31
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.13
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 7.35
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.29
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.67
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-06-13T09:35:08.782Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Dharalion",
+			"chance": 81.46
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.11
+		},
+		{
+			"name": "Shlorg",
+			"chance": 65.82
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.28
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 30.34
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.18
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.4
+		},
+		{
+			"name": "Zushuka",
+			"chance": 22.12
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.7
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 15.92
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.56
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.51
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.39
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.15
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.14
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.13
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.57
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.29
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.02
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 7.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.58
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.49
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 6.68
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.74
+		}
+	]
+}

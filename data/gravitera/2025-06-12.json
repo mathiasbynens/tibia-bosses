@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-12T09:35:12.975Z",
+	"timestamp": "2025-06-13T03:46:44.906Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.46
+			"chance": 81.46,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -60,6 +63,16 @@
 		{
 			"name": "Fleabringer",
 			"chance": 8.17
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

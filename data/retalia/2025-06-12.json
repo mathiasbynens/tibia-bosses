@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-12T09:35:20.859Z",
+	"timestamp": "2025-06-13T03:46:46.897Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 38.22
+			"chance": 38.22,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.1
+			"chance": 9.1,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +98,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.34
+			"chance": 6.34,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +112,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

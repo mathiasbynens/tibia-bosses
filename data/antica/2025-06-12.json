@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-12T09:34:59.985Z",
+	"timestamp": "2025-06-13T03:46:42.068Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -115,7 +116,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.97
+			"chance": 3.97,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -124,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

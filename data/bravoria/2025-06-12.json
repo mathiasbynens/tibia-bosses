@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-12T09:35:03.319Z",
+	"timestamp": "2025-06-13T03:46:42.753Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.83
+			"chance": 39.83,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.92
+			"chance": 37.92,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.1
+			"chance": 17.1,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.2
+			"chance": 12.2,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.35
+			"chance": 11.35,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

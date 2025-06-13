@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-12T09:35:06.384Z",
+	"timestamp": "2025-06-13T03:46:43.527Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.19
+			"chance": 35.19,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.94
+			"chance": 16.94,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.73
+			"chance": 10.73,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -148,6 +152,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

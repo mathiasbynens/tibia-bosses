@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-06-14T09:34:43.868Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.49
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 39.62
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.83
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 29.52
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.4
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 18.83
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.12
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.93
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.4
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.66
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.09
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.74
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.69
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.21
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.18
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.95
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.03
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.5
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.38
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.94
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.75
+		}
+	]
+}

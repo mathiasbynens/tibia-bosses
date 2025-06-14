@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-13T09:34:59.735Z",
+	"timestamp": "2025-06-14T03:45:22.361Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.11
+			"chance": 74.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.5
+			"chance": 21.5,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.13
+			"chance": 16.13,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 7.2
+			"chance": 7.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -136,6 +142,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

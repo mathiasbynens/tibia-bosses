@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-13T09:35:05.856Z",
+	"timestamp": "2025-06-14T03:45:23.652Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.11
+			"chance": 74.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -131,7 +133,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.37
+			"chance": 5.37,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -140,6 +143,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

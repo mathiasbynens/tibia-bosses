@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-13T09:35:22.689Z",
+	"timestamp": "2025-06-14T03:45:27.314Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.37
+			"chance": 42.37,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 31.33
+			"chance": 31.33,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.83
+			"chance": 25.83,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +117,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

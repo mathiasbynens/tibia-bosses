@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-13T09:35:25.997Z",
+	"timestamp": "2025-06-14T03:45:28.040Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.29
+			"chance": 62.29,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.39
+			"chance": 45.39,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.09
+			"chance": 14.09,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -71,11 +76,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.53
+			"chance": 10.53,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.25
+			"chance": 9.25,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,7 +90,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -112,6 +120,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

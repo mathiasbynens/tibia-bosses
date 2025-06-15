@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-06-15T09:33:40.064Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 58.44
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.37
+		},
+		{
+			"name": "General Murius",
+			"chance": 29.01
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.39
+		},
+		{
+			"name": "Barbaria",
+			"chance": 26.4
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 24.84
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.23
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.38
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 15.29
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.73
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.86
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.17
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.94
+		}
+	]
+}

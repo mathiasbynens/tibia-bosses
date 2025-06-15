@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-14T09:34:43.868Z",
+	"timestamp": "2025-06-15T03:47:52.359Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.12
+			"chance": 18.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.4
+			"chance": 16.4,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +95,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.75
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-14T09:34:58.832Z",
+	"timestamp": "2025-06-15T03:47:55.368Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.36
+			"chance": 42.36,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 25.73
+			"chance": 25.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

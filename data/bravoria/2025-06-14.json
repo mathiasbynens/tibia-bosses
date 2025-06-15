@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-14T09:34:31.899Z",
+	"timestamp": "2025-06-15T03:47:49.603Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 31.75
+			"chance": 31.75,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.48
+			"chance": 16.48,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -68,6 +70,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.73
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

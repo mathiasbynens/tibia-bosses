@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-14T09:34:49.340Z",
+	"timestamp": "2025-06-15T03:47:53.438Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.4
+			"chance": 62.4,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34
+			"chance": 34,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.17
+			"chance": 24.17,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +88,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.14
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-14T09:34:55.980Z",
+	"timestamp": "2025-06-15T03:47:54.729Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.6
+			"chance": 64.6,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.54
+			"chance": 11.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +103,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

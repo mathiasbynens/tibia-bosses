@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-14T09:34:41.027Z",
+	"timestamp": "2025-06-15T03:47:51.739Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 41.01
+			"chance": 41.01,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.96
+			"chance": 40.96,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.43
+			"chance": 17.43,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +66,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.74
+			"chance": 8.74,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

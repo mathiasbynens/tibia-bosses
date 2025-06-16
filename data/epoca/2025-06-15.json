@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-15T09:33:36.613Z",
+	"timestamp": "2025-06-16T03:48:11.146Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -55,15 +55,18 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.94
+			"chance": 15.94,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.31
+			"chance": 10.31,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +100,11 @@
 		{
 			"name": "Tzumrah the Dazzler",
 			"chance": 6.39
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-15T09:33:29.985Z",
+	"timestamp": "2025-06-16T03:48:09.349Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -76,6 +77,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.31
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

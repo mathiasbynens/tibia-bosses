@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-15T09:33:53.545Z",
+	"timestamp": "2025-06-16T03:48:15.111Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.96
+			"chance": 53.96,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.2
+			"chance": 13.2,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -83,11 +86,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.65
+			"chance": 7.65,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.78
+			"chance": 6.78,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +108,28 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.55
+			"chance": 3.55,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

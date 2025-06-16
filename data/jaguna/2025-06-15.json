@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-15T09:33:44.426Z",
+	"timestamp": "2025-06-16T03:48:12.565Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.22
+			"chance": 70.22,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 41.06
+			"chance": 41.06,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.59
+			"chance": 22.59,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,11 +39,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.8
+			"chance": 11.8,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -80,6 +86,36 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

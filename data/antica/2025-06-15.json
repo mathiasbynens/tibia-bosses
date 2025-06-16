@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-15T09:33:26.684Z",
+	"timestamp": "2025-06-16T03:48:08.819Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 35
+			"chance": 35,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.52
+			"chance": 21.52,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -108,6 +113,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.27
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

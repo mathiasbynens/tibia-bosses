@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-06-16T09:36:26.976Z",
+	"timestamp": "2025-06-17T03:46:47.536Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 47.67
+			"chance": 47.67,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.09
+			"chance": 47.09,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 35.04
+			"chance": 35.04,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.13
+			"chance": 24.13,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 19
+			"chance": 19,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -95,7 +103,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.34
+			"chance": 10.34,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -128,6 +137,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-16T09:36:48.732Z",
+	"timestamp": "2025-06-17T03:46:53.983Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.76
+			"chance": 71.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.25
+			"chance": 40.25,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.13
+			"chance": 36.13,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.32
+			"chance": 23.32,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -107,7 +113,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.75
+			"chance": 3.75,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -116,6 +123,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.87
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

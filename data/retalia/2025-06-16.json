@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-16T09:36:42.535Z",
+	"timestamp": "2025-06-17T03:46:51.602Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.91
+			"chance": 7.91,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",

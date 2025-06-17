@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-16T09:36:37.210Z",
+	"timestamp": "2025-06-17T03:46:49.878Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.28
+			"chance": 7.28,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +70,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.28
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

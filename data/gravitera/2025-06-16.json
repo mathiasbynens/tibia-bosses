@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-16T09:36:34.230Z",
+	"timestamp": "2025-06-17T03:46:48.887Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -60,6 +60,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.14
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

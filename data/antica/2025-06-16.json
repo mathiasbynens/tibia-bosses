@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-16T09:36:20.317Z",
+	"timestamp": "2025-06-17T03:46:46.309Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.78
+			"chance": 22.78,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.27
+			"chance": 15.27,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 6.09
+			"chance": 6.09,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -103,7 +108,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.44
+			"chance": 3.44,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

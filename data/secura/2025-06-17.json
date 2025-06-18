@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-17T09:36:00.695Z",
+	"timestamp": "2025-06-18T03:46:36.932Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.79
+			"chance": 39.79,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 20.29
+			"chance": 20.29,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,11 +95,27 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

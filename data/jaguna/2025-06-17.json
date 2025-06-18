@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-17T09:35:50.812Z",
+	"timestamp": "2025-06-18T03:46:35.113Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.14
+			"chance": 22.14,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 10.58
+			"chance": 10.58,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

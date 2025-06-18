@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-17T09:35:56.871Z",
+	"timestamp": "2025-06-18T03:46:36.334Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.53
+			"chance": 8.53,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -68,6 +70,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

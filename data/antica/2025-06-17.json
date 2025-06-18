@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-17T09:35:33.461Z",
+	"timestamp": "2025-06-18T03:46:31.587Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 43
+			"chance": 43,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -104,6 +105,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

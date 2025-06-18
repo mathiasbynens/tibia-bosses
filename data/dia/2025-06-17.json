@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-17T09:35:40.908Z",
+	"timestamp": "2025-06-18T03:46:32.968Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.84
+			"chance": 31.84,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -99,7 +100,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.66
+			"chance": 2.66,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

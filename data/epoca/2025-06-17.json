@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-17T09:35:43.916Z",
+	"timestamp": "2025-06-18T03:46:33.518Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 53.95
+			"chance": 53.95,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.79
+			"chance": 39.79,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 26.29
+			"chance": 26.29,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.89
+			"chance": 19.89,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

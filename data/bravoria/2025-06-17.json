@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-17T09:35:37.183Z",
+	"timestamp": "2025-06-18T03:46:32.185Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.89
+			"chance": 93.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -88,6 +89,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.39
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

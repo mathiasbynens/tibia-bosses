@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-06-18T09:36:15.053Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.26
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.32
+		},
+		{
+			"name": "Barbaria",
+			"chance": 24.04
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.42
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.91
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 18.68
+		},
+		{
+			"name": "yeti",
+			"chance": 17.89
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.88
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.81
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.64
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.63
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.39
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.6
+		}
+	]
+}

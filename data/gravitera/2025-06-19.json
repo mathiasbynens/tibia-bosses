@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-06-19T09:35:35.285Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.21
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.54
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 44.66
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 43.27
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.44
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 22.19
+		},
+		{
+			"name": "Massacre",
+			"chance": 15.86
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 13.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.67
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.87
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.12
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.71
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.53
+		}
+	]
+}

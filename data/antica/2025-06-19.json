@@ -1,0 +1,129 @@
+{
+	"timestamp": "2025-06-19T09:35:21.121Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.27
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.24
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.47
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 27.85
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 27.16
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.33
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.25
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.85
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.28
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.2
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.94
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.93
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.97
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.19
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.58
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.46
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.34
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.16
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.74
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.86
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.46
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.24
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.21
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.13
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.55
+		},
+		{
+			"name": "Omrafir",
+			"chance": 7.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.39
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.26
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.09
+		}
+	]
+}

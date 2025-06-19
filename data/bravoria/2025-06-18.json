@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-18T09:35:46.609Z",
+	"timestamp": "2025-06-19T03:46:44.066Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.48
+			"chance": 20.48,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -88,6 +90,11 @@
 		{
 			"name": "White Pale",
 			"chance": 6.71
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

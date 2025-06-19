@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-18T09:36:06.198Z",
+	"timestamp": "2025-06-19T03:46:47.360Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

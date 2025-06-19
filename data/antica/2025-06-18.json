@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-18T09:35:43.067Z",
+	"timestamp": "2025-06-19T03:46:43.511Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.23
+			"chance": 70.23,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.11
+			"chance": 47.11,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.75
+			"chance": 8.75,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -115,7 +119,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 6.06
+			"chance": 6.06,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -124,6 +129,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

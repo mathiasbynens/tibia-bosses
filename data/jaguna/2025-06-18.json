@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-18T09:36:00.654Z",
+	"timestamp": "2025-06-19T03:46:46.381Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.52
+			"chance": 61.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.43
+			"chance": 39.43,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -96,6 +98,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.29
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

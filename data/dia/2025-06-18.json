@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-18T09:35:50.654Z",
+	"timestamp": "2025-06-19T03:46:44.654Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.43
+			"chance": 38.43,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 28.12
+			"chance": 28.12,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 24.12
+			"chance": 24.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.94
+			"chance": 16.94,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -104,6 +108,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

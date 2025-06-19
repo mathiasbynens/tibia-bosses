@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-18T09:35:57.522Z",
+	"timestamp": "2025-06-19T03:46:45.820Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.07
+			"chance": 28.07,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -72,6 +75,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

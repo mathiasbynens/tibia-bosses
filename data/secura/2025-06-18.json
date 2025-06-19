@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-18T09:36:08.941Z",
+	"timestamp": "2025-06-19T03:46:47.977Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.47
+			"chance": 81.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.12
+			"chance": 65.12,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.47
+			"chance": 16.47,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -108,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

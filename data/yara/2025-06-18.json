@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-18T09:36:15.053Z",
+	"timestamp": "2025-06-19T03:46:49.140Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.32
+			"chance": 31.32,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.81
+			"chance": 11.81,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -56,6 +59,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

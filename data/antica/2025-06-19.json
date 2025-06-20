@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-19T09:35:21.121Z",
+	"timestamp": "2025-06-20T03:46:25.935Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.24
+			"chance": 35.24,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.28
+			"chance": 19.28,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -124,6 +129,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-19T09:35:30.837Z",
+	"timestamp": "2025-06-20T03:46:27.434Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 74.06
+			"chance": 74.06,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.85
+			"chance": 19.85,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.86
+			"chance": 13.86,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +88,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

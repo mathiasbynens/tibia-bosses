@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-19T09:35:24.283Z",
+	"timestamp": "2025-06-20T03:46:26.437Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.88
+			"chance": 37.88,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.91
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

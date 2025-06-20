@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-19T09:35:56.254Z",
+	"timestamp": "2025-06-20T03:46:30.703Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

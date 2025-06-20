@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-19T09:35:52.572Z",
+	"timestamp": "2025-06-20T03:46:30.308Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.73
+			"chance": 32.73,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.71
+			"chance": 25.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.2
+			"chance": 20.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 7.96
+			"chance": 7.96,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

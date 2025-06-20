@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-06-20T09:35:33.421Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 81.52
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 27.56
+		},
+		{
+			"name": "yeti",
+			"chance": 27.37
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 26.78
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 25.83
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.68
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.25
+		},
+		{
+			"name": "Barbaria",
+			"chance": 22.59
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.58
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.18
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.14
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.12
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.17
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.95
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.43
+		}
+	]
+}

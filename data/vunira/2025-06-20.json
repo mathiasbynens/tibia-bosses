@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-20T09:35:29.872Z",
+	"timestamp": "2025-06-21T03:46:00.670Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.11
+			"chance": 74.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.52
+			"chance": 61.52,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.79
+			"chance": 39.79,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.3
+			"chance": 19.3,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 10.77
+			"chance": 10.77,
+			"killed": true
 		},
 		{
 			"name": "Zomba",

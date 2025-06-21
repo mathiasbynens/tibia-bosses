@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-20T09:35:06.030Z",
+	"timestamp": "2025-06-21T03:45:54.630Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,15 +56,18 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -104,6 +108,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

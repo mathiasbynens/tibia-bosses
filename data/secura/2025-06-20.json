@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-20T09:35:26.264Z",
+	"timestamp": "2025-06-21T03:45:59.815Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.11
+			"chance": 35.11,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.59
+			"chance": 11.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.45
+			"chance": 9.45,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +115,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.29
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

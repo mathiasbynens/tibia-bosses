@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-20T09:35:17.258Z",
+	"timestamp": "2025-06-21T03:45:57.558Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.08
+			"chance": 28.08,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 20.29
+			"chance": 20.29,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -112,6 +115,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

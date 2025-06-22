@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-21T09:34:00.761Z",
+	"timestamp": "2025-06-22T03:48:20.302Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.1
+			"chance": 13.1,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -80,6 +81,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.29
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

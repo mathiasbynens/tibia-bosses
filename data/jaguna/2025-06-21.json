@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-21T09:34:15.138Z",
+	"timestamp": "2025-06-22T03:48:23.447Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.88
+			"chance": 17.88,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -116,6 +117,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.9
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

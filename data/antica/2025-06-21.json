@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-21T09:33:57.115Z",
+	"timestamp": "2025-06-22T03:48:19.486Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.52
+			"chance": 81.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.57
+			"chance": 15.57,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.89
+			"chance": 5.89,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -132,6 +138,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.4
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

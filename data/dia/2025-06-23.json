@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-06-23T09:36:38.616Z",
+	"bosses": [
+		{
+			"name": "Grandfather Tridian",
+			"chance": 40.3
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.83
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.6
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 25.97
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.12
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.63
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.98
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.05
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 16.59
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.63
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.54
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 13.12
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.24
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.88
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.74
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.96
+		}
+	]
+}

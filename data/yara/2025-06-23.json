@@ -1,0 +1,37 @@
+{
+	"timestamp": "2025-06-23T09:37:09.049Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 28.09
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 21.97
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.45
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.78
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.91
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.72
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		}
+	]
+}

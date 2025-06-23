@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-22T09:33:57.157Z",
+	"timestamp": "2025-06-23T03:48:57.190Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 35.05
+			"chance": 35.05,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.93
+			"chance": 21.93,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.02
+			"chance": 8.02,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.75
+			"chance": 6.75,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +125,21 @@
 		{
 			"name": "Omrafir",
 			"chance": 4.88
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

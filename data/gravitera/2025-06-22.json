@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-22T09:33:53.237Z",
+	"timestamp": "2025-06-23T03:48:56.486Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.39
+			"chance": 28.39,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,11 +48,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.33
+			"chance": 8.33,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -72,6 +75,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

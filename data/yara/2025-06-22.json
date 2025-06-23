@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-22T09:34:14.883Z",
+	"timestamp": "2025-06-23T03:49:00.701Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.3
+			"chance": 29.3,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

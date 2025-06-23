@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-22T09:34:11.250Z",
+	"timestamp": "2025-06-23T03:49:00.023Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.44
+			"chance": 62.44,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 47.61
+			"chance": 47.61,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.77
+			"chance": 17.77,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.65
+			"chance": 17.65,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.24
+			"chance": 14.24,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.27
+			"chance": 13.27,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.01
+			"chance": 9.01,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -124,6 +131,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

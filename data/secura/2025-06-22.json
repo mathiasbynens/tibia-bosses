@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-22T09:34:07.695Z",
+	"timestamp": "2025-06-23T03:48:59.254Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -100,6 +101,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

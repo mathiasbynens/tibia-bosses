@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-22T09:33:42.194Z",
+	"timestamp": "2025-06-23T03:48:54.284Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +93,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 6.21
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

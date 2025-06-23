@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-22T09:33:45.727Z",
+	"timestamp": "2025-06-23T03:48:55.111Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.08
+			"chance": 28.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.16
+			"chance": 24.16,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.47
+			"chance": 9.47,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -88,6 +92,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.39
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

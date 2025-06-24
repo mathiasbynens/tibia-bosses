@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-23T09:36:50.505Z",
+	"timestamp": "2025-06-24T03:47:13.339Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.18
+			"chance": 12.18,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.68
+			"chance": 8.68,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +98,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.55
+			"chance": 3.55,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

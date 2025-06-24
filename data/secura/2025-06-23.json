@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-23T09:37:00.862Z",
+	"timestamp": "2025-06-24T03:47:16.784Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.55
+			"chance": 61.55,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.92
+			"chance": 21.92,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.5
+			"chance": 21.5,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 7.52
+			"chance": 7.52,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -120,6 +125,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.17
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

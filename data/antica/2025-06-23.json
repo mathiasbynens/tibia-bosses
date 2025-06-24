@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-23T09:36:31.142Z",
+	"timestamp": "2025-06-24T03:47:08.076Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.22
+			"chance": 43.22,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.72
+			"chance": 31.72,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -84,6 +87,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.36
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

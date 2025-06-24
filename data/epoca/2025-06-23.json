@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-23T09:36:42.210Z",
+	"timestamp": "2025-06-24T03:47:09.667Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 32.22
+			"chance": 32.22,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.11
+			"chance": 9.11,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -100,6 +102,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.55
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

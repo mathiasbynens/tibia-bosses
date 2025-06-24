@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-23T09:37:05.493Z",
+	"timestamp": "2025-06-24T03:47:17.277Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.55
+			"chance": 53.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 21.92
+			"chance": 21.92,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,15 +50,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -124,6 +131,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

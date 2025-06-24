@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-23T09:36:56.761Z",
+	"timestamp": "2025-06-24T03:47:16.199Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -59,11 +59,22 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.94
+			"chance": 8.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

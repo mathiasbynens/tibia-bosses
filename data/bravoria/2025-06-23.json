@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-23T09:36:34.884Z",
+	"timestamp": "2025-06-24T03:47:08.600Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.21
+			"chance": 70.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.71
+			"chance": 44.71,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.85
+			"chance": 29.85,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +104,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.73
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

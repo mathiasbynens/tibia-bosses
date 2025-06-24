@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-23T09:37:09.049Z",
+	"timestamp": "2025-06-24T03:47:17.849Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.78
+			"chance": 14.78,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

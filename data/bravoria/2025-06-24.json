@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-06-24T09:35:53.775Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 31.88
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 29.96
+		},
+		{
+			"name": "midnight panther",
+			"chance": 26
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 23.65
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.3
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.59
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.43
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.91
+		},
+		{
+			"name": "Dracola",
+			"chance": 18.84
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.57
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.84
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.86
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.24
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.68
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.97
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.28
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.31
+		},
+		{
+			"name": "yeti",
+			"chance": 5.8
+		}
+	]
+}

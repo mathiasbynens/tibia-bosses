@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-06-24T09:36:16.154Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.41
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 41.19
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.47
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 26.57
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 26.51
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.25
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.54
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.43
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.95
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.78
+		}
+	]
+}

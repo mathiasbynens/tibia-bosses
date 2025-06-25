@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-24T09:36:09.372Z",
+	"timestamp": "2025-06-25T03:47:39.437Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.25
+			"chance": 22.25,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

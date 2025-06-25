@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-24T09:35:53.775Z",
+	"timestamp": "2025-06-25T03:47:36.997Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -76,6 +77,16 @@
 		{
 			"name": "yeti",
 			"chance": 5.8
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

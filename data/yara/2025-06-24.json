@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-24T09:36:26.661Z",
+	"timestamp": "2025-06-25T03:47:42.036Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.76
+			"chance": 39.76,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 4.64
+			"chance": 4.64,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

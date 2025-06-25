@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-24T09:36:23.340Z",
+	"timestamp": "2025-06-25T03:47:41.564Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 42.02
+			"chance": 42.02,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.03
+			"chance": 34.03,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.69
+			"chance": 31.69,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.86
+			"chance": 14.86,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -108,6 +112,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

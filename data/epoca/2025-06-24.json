@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-24T09:36:01.236Z",
+	"timestamp": "2025-06-25T03:47:38.358Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 21.52
+			"chance": 21.52,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.56
+			"chance": 8.56,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +83,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.01
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-25T09:36:49.805Z",
+	"timestamp": "2025-06-26T03:47:09.007Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.21
+			"chance": 70.21,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.78
+			"chance": 39.78,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.01
+			"chance": 22.01,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -35,11 +40,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 17.98
+			"chance": 17.98,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +58,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.24
+			"chance": 13.24,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -67,7 +75,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.75
+			"chance": 8.75,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -75,11 +84,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.77
+			"chance": 6.77,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.64
+			"chance": 6.64,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +103,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.61
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-25T09:36:24.251Z",
+	"timestamp": "2025-06-26T03:47:02.636Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 32.23
+			"chance": 32.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.09
+			"chance": 28.09,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,11 +78,32 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.47
+			"chance": 8.47,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
 			"chance": 7.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

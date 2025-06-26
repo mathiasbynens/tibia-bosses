@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-25T09:36:46.132Z",
+	"timestamp": "2025-06-26T03:47:08.188Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.45
+			"chance": 39.45,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -60,6 +62,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-25T09:36:35.932Z",
+	"timestamp": "2025-06-26T03:47:05.967Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.09
+			"chance": 37.09,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.28
+			"chance": 8.28,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -60,6 +63,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.17
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

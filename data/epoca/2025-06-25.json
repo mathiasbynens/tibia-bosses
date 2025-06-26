@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-25T09:36:32.027Z",
+	"timestamp": "2025-06-26T03:47:04.286Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.54
+			"chance": 61.54,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.78
+			"chance": 39.78,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -76,6 +80,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.81
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

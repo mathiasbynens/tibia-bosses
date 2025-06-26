@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-25T09:36:28.109Z",
+	"timestamp": "2025-06-26T03:47:03.435Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 8.77
+			"chance": 8.77,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +90,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.85
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

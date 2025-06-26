@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-25T09:36:19.957Z",
+	"timestamp": "2025-06-26T03:47:01.786Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.21
+			"chance": 70.21,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.17
+			"chance": 18.17,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.57
+			"chance": 9.57,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -84,6 +87,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.04
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

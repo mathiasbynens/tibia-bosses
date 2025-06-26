@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-25T09:36:39.805Z",
+	"timestamp": "2025-06-26T03:47:06.781Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -100,6 +100,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

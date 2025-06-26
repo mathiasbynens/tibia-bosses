@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-06-26T09:35:57.796Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.25
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.2
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.15
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 21.77
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.89
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.43
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 11.69
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.59
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.89
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.4
+		}
+	]
+}

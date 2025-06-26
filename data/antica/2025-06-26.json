@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-06-26T09:35:41.473Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 27.59
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.86
+		},
+		{
+			"name": "Omrafir",
+			"chance": 18.75
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.53
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.36
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.73
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.54
+		},
+		{
+			"name": "Massacre",
+			"chance": 15.8
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.92
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.91
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.71
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.59
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.03
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.5
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.29
+		},
+		{
+			"name": "The Abomination",
+			"chance": 4.01
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.61
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.54
+		}
+	]
+}

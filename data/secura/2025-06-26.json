@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-06-26T09:36:13.270Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.4
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.47
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 22.28
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.47
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 20.44
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 18.21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.94
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.76
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.7
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.28
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.5
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.48
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.16
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.01
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.51
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.17
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 6.12
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.7
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.68
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.06
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.3
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.78
+		}
+	]
+}

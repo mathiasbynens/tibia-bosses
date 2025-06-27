@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-06-27T09:35:29.100Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 31.72
+		},
+		{
+			"name": "The Welter",
+			"chance": 29.32
+		},
+		{
+			"name": "midnight panther",
+			"chance": 19.24
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 16.43
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.53
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.72
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.03
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.71
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.52
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.35
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.89
+		}
+	]
+}

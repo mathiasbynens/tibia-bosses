@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-26T09:35:57.796Z",
+	"timestamp": "2025-06-27T03:47:17.688Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.25
+			"chance": 62.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -48,6 +49,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

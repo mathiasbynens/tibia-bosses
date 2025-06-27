@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-26T09:36:17.109Z",
+	"timestamp": "2025-06-27T03:47:21.542Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.49
+			"chance": 81.49,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +114,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.23
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

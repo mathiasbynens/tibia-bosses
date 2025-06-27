@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-26T09:35:45.333Z",
+	"timestamp": "2025-06-27T03:47:15.325Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.92
+			"chance": 37.92,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.06
+			"chance": 21.06,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.11
+			"chance": 17.11,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -76,6 +79,16 @@
 		{
 			"name": "Captain Jones",
 			"chance": 5.37
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

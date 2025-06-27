@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-26T09:35:53.840Z",
+	"timestamp": "2025-06-27T03:47:16.946Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -68,6 +70,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.29
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

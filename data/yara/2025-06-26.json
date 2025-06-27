@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-26T09:36:20.911Z",
+	"timestamp": "2025-06-27T03:47:22.217Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.11
+			"chance": 21.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

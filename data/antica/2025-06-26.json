@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-26T09:35:41.473Z",
+	"timestamp": "2025-06-27T03:47:14.558Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 27.59
+			"chance": 27.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -76,6 +78,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.54
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-26T09:35:49.160Z",
+	"timestamp": "2025-06-27T03:47:16.146Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

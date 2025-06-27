@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-26T09:36:09.205Z",
+	"timestamp": "2025-06-27T03:47:19.868Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Dracola",

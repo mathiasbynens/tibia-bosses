@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-27T09:35:45.843Z",
+	"timestamp": "2025-06-28T03:45:46.213Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.41
+			"chance": 42.41,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.94
+			"chance": 37.94,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.73
+			"chance": 32.73,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,15 +22,18 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.61
+			"chance": 29.61,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.07
+			"chance": 28.07,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -47,7 +53,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -71,11 +79,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -91,7 +101,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -116,6 +127,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

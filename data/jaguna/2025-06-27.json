@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-27T09:35:32.707Z",
+	"timestamp": "2025-06-28T03:45:43.677Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.54
+			"chance": 38.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -119,7 +120,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.66
+			"chance": 4.66,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -128,6 +130,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.48
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

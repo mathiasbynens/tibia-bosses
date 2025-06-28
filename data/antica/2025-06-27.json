@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-27T09:35:15.714Z",
+	"timestamp": "2025-06-28T03:45:40.371Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.51
+			"chance": 19.51,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +87,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

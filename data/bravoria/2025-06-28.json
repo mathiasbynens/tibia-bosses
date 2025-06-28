@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-06-28T09:34:34.409Z",
+	"bosses": [
+		{
+			"name": "Tyrn",
+			"chance": 28.65
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.16
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.43
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 22.78
+		},
+		{
+			"name": "yeti",
+			"chance": 22.12
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 21.84
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 16.86
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.89
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.71
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.71
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.56
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.19
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.1
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.41
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.07
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.05
+		}
+	]
+}

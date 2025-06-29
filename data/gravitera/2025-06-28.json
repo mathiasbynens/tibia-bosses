@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-28T09:34:45.613Z",
+	"timestamp": "2025-06-29T03:49:38.729Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 44.73
+			"chance": 44.73,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -56,6 +58,41 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.7
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-06-28T09:34:31.379Z",
+	"timestamp": "2025-06-29T03:49:35.657Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 25.53
+			"chance": 25.53,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.21
+			"chance": 24.21,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.55
+			"chance": 20.55,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.56
+			"chance": 10.56,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.59
+			"chance": 6.59,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.81
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

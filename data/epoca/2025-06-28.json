@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-28T09:34:41.904Z",
+	"timestamp": "2025-06-29T03:49:38.038Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.16
+			"chance": 14.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,15 +68,32 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.7
+			"chance": 5.7,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 5.53
+			"chance": 5.53,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
 			"chance": 5.4
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

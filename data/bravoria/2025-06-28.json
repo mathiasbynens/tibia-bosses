@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-28T09:34:34.409Z",
+	"timestamp": "2025-06-29T03:49:36.425Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.43
+			"chance": 23.43,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.71
+			"chance": 13.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -68,6 +71,21 @@
 		{
 			"name": "White Pale",
 			"chance": 7.05
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

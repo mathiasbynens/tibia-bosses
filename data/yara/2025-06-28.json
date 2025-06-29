@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-28T09:35:06.151Z",
+	"timestamp": "2025-06-29T03:49:43.625Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.75
+			"chance": 12.75,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -68,6 +69,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.92
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

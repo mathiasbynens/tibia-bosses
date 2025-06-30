@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-29T09:34:06.415Z",
+	"timestamp": "2025-06-30T03:48:43.861Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -52,6 +54,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

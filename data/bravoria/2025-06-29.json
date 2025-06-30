@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-29T09:33:36.723Z",
+	"timestamp": "2025-06-30T03:48:36.660Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.9
+			"chance": 18.9,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

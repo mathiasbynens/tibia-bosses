@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-29T09:33:44.150Z",
+	"timestamp": "2025-06-30T03:48:38.443Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +90,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.96
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

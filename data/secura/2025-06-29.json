@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-29T09:33:59.887Z",
+	"timestamp": "2025-06-30T03:48:42.252Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.04
+			"chance": 37.04,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 32.32
+			"chance": 32.32,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.35
+			"chance": 19.35,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.01
+			"chance": 9.01,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.5
+			"chance": 8.5,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +115,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

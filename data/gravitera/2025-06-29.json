@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-29T09:33:47.532Z",
+	"timestamp": "2025-06-30T03:48:39.201Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.68
+			"chance": 64.68,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -68,6 +69,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.6
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

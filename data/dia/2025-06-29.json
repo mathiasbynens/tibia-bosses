@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-29T09:33:40.264Z",
+	"timestamp": "2025-06-30T03:48:37.640Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 43.14
+			"chance": 43.14,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 27.33
+			"chance": 27.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -112,6 +114,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

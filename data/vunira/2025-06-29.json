@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-06-29T09:34:03.234Z",
+	"timestamp": "2025-06-30T03:48:43.040Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.04
+			"chance": 37.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.7
+			"chance": 31.7,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.7
+			"chance": 19.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.97
+			"chance": 7.97,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -88,6 +92,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

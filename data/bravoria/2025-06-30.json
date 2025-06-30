@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-06-30T09:36:13.472Z",
+	"bosses": [
+		{
+			"name": "Tyrn",
+			"chance": 39.51
+		},
+		{
+			"name": "yeti",
+			"chance": 38.14
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 32.71
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 24.37
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.12
+		},
+		{
+			"name": "Shlorg",
+			"chance": 12.83
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.46
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.34
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.2
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.62
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.19
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.15
+		},
+		{
+			"name": "Xenia",
+			"chance": 8.89
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.57
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.28
+		}
+	]
+}

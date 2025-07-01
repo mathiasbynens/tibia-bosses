@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-30T09:36:30.159Z",
+	"timestamp": "2025-07-01T03:51:52.411Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -80,6 +81,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.01
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

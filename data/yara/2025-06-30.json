@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-30T09:36:52.459Z",
+	"timestamp": "2025-07-01T03:51:56.998Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -48,6 +48,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.56
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

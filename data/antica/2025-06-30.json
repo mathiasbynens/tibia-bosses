@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-06-30T09:36:08.872Z",
+	"timestamp": "2025-07-01T03:51:49.570Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.59
+			"chance": 61.59,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.59
+			"chance": 42.59,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.85
+			"chance": 31.85,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.22
+			"chance": 24.22,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.61
+			"chance": 12.61,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.62
+			"chance": 6.62,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.32
+			"chance": 6.32,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -116,6 +124,31 @@
 		{
 			"name": "The Welter",
 			"chance": 4.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

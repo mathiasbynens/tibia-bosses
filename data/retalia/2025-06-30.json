@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-30T09:36:41.160Z",
+	"timestamp": "2025-07-01T03:51:54.317Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.37
+			"chance": 16.37,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -112,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.6
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

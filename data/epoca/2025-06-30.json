@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-06-30T09:36:25.301Z",
+	"timestamp": "2025-07-01T03:51:51.688Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -92,6 +93,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

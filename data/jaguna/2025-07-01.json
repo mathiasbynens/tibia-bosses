@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-01T09:36:24.880Z",
+	"timestamp": "2025-07-02T03:47:42.775Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -100,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-01T09:36:32.263Z",
+	"timestamp": "2025-07-02T03:47:44.130Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.51
+			"chance": 62.51,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.38
+			"chance": 45.38,
+			"killed": true
 		},
 		{
 			"name": "Dracola",

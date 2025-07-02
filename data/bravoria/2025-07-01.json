@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-01T09:36:08.256Z",
+	"timestamp": "2025-07-02T03:47:39.828Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -56,6 +57,11 @@
 		{
 			"name": "White Pale",
 			"chance": 7.27
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

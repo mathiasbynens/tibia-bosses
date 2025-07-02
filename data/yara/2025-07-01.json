@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-01T09:36:43.805Z",
+	"timestamp": "2025-07-02T03:47:46.428Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -52,6 +52,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.93
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-01T09:36:12.712Z",
+	"timestamp": "2025-07-02T03:47:40.590Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.23
+			"chance": 70.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.68
+			"chance": 16.68,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

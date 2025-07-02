@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-01T09:36:40.440Z",
+	"timestamp": "2025-07-02T03:47:45.758Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.97
+			"chance": 13.97,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.1
+			"chance": 8.1,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -112,6 +117,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

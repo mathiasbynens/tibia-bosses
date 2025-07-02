@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-01T09:36:17.161Z",
+	"timestamp": "2025-07-02T03:47:41.206Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 43.28
+			"chance": 43.28,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.22
+			"chance": 19.22,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.77
+			"chance": 15.77,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -79,11 +84,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.53
+			"chance": 8.53,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -104,6 +111,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

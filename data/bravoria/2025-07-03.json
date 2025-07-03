@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-07-03T09:36:04.546Z",
+	"bosses": [
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 32.64
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.64
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.31
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.02
+		},
+		{
+			"name": "Xenia",
+			"chance": 19.62
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 18.25
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.11
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 16.54
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.67
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.24
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.51
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 11.9
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.35
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.87
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.2
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.3
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.05
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.73
+		}
+	]
+}

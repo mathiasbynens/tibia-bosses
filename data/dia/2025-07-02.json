@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-02T09:36:18.177Z",
+	"timestamp": "2025-07-03T03:48:34.399Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.65
+			"chance": 20.65,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-02T09:36:11.165Z",
+	"timestamp": "2025-07-03T03:48:33.384Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.98
+			"chance": 20.98,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 18.03
+			"chance": 18.03,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -95,11 +98,22 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

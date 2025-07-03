@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-02T09:36:25.067Z",
+	"timestamp": "2025-07-03T03:48:35.519Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.23
+			"chance": 70.23,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.51
+			"chance": 53.51,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.21
+			"chance": 26.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.2
+			"chance": 24.2,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -88,6 +94,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

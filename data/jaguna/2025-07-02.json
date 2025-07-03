@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-02T09:36:28.700Z",
+	"timestamp": "2025-07-03T03:48:36.095Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.83
+			"chance": 71.83,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.68
+			"chance": 22.68,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -108,6 +111,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

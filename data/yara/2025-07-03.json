@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-03T09:36:36.426Z",
+	"timestamp": "2025-07-04T03:47:26.883Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -68,6 +69,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-03T09:36:04.546Z",
+	"timestamp": "2025-07-04T03:47:20.173Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
@@ -71,11 +71,22 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
 			"chance": 6.73
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

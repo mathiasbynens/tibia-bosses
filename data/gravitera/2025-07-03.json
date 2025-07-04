@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-03T09:36:15.253Z",
+	"timestamp": "2025-07-04T03:47:22.522Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.14
+			"chance": 37.14,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.11
+			"chance": 13.11,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.3
+			"chance": 8.3,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -84,6 +87,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-03T09:36:29.353Z",
+	"timestamp": "2025-07-04T03:47:25.505Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 50.93
+			"chance": 50.93,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.41
+			"chance": 42.41,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.27
+			"chance": 40.27,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,11 +88,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.52
+			"chance": 9.52,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -123,11 +130,27 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.71
+			"chance": 3.71,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

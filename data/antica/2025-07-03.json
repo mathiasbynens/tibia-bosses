@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-03T09:36:00.966Z",
+	"timestamp": "2025-07-04T03:47:19.366Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.57
+			"chance": 81.57,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.86
+			"chance": 15.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.84
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

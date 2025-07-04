@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-03T09:36:08.049Z",
+	"timestamp": "2025-07-04T03:47:20.997Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -83,7 +83,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.37
+			"chance": 12.37,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.62
+			"chance": 11.62,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

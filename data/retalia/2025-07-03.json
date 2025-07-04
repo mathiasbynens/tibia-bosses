@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-03T09:36:25.618Z",
+	"timestamp": "2025-07-04T03:47:24.671Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.54
+			"chance": 13.54,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -92,6 +97,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.63
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

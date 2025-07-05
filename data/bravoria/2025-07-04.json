@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-04T09:35:26.590Z",
+	"timestamp": "2025-07-05T03:46:18.139Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,15 +27,18 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.92
+			"chance": 17.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.72
+			"chance": 17.72,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -79,11 +82,27 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.45
+			"chance": 8.45,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.87
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

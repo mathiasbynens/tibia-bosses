@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-04T09:35:37.136Z",
+	"timestamp": "2025-07-05T03:46:20.818Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 30.17
+			"chance": 30.17,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.53
+			"chance": 10.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +81,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.69
+			"chance": 2.69,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

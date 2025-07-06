@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-07-06T09:33:51.248Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 26.81
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 20.77
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.95
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.95
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.08
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.35
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.93
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.96
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.6
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 4.85
+		}
+	]
+}

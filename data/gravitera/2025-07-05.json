@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-05T09:33:48.643Z",
+	"timestamp": "2025-07-06T03:48:46.888Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 37.79
+			"chance": 37.79,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.08
+			"chance": 28.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.64
+			"chance": 12.64,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

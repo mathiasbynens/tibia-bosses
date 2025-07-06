@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-05T09:33:45.209Z",
+	"timestamp": "2025-07-06T03:48:45.793Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -92,6 +92,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

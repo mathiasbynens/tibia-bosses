@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-05T09:33:58.461Z",
+	"timestamp": "2025-07-06T03:48:51.656Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.57
+			"chance": 21.57,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.19
+			"chance": 12.19,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -88,6 +91,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.62
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-05T09:33:52.128Z",
+	"timestamp": "2025-07-06T03:48:48.320Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.67
+			"chance": 15.67,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +101,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

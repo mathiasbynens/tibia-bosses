@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-05T09:34:09.015Z",
+	"timestamp": "2025-07-06T03:48:56.191Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.71
+			"chance": 10.71,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-06T09:33:47.899Z",
+	"timestamp": "2025-07-07T03:48:54.376Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.11
+			"chance": 94.11,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.25
+			"chance": 26.25,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.23
+			"chance": 24.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -108,6 +112,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-06T09:33:44.679Z",
+	"timestamp": "2025-07-07T03:48:52.543Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.6
+			"chance": 20.6,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.34
+			"chance": 17.34,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.42
+			"chance": 5.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -84,6 +88,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

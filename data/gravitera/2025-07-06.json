@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-06T09:33:31.852Z",
+	"timestamp": "2025-07-07T03:48:46.359Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.75
+			"chance": 31.75,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 15.87
+			"chance": 15.87,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.86
+			"chance": 15.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.42
+			"chance": 5.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -64,6 +69,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

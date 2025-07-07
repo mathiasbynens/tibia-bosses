@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-06T09:33:28.225Z",
+	"timestamp": "2025-07-07T03:48:45.219Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -76,6 +77,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.6
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

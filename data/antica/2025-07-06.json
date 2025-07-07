@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-06T09:33:17.832Z",
+	"timestamp": "2025-07-07T03:48:40.860Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.64
+			"chance": 27.64,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -132,6 +136,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

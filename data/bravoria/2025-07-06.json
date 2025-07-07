@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-06T09:33:21.641Z",
+	"timestamp": "2025-07-07T03:48:41.946Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.13
+			"chance": 23.13,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.98
+			"chance": 16.98,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +91,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.6
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

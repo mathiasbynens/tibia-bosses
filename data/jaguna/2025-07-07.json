@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-07T09:36:43.947Z",
+	"timestamp": "2025-07-08T03:47:39.095Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.57
+			"chance": 53.57,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.94
+			"chance": 11.94,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

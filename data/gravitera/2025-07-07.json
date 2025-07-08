@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-07T09:36:40.605Z",
+	"timestamp": "2025-07-08T03:47:38.374Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -68,6 +68,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

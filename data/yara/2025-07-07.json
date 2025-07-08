@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-07T09:37:00.911Z",
+	"timestamp": "2025-07-08T03:47:42.000Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.95
+			"chance": 17.95,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -52,6 +53,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 5.44
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

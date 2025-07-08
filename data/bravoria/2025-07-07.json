@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-07T09:36:30.271Z",
+	"timestamp": "2025-07-08T03:47:36.600Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.47
+			"chance": 31.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 27.29
+			"chance": 27.29,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -84,6 +87,11 @@
 		{
 			"name": "White Pale",
 			"chance": 7.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

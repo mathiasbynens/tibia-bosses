@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-07T09:36:50.149Z",
+	"timestamp": "2025-07-08T03:47:40.228Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.38
+			"chance": 15.38,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.62
+			"chance": 14.62,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -76,6 +78,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

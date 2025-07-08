@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-07T09:36:37.146Z",
+	"timestamp": "2025-07-08T03:47:37.776Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.84
+			"chance": 53.84,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.09
+			"chance": 28.09,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 13.99
+			"chance": 13.99,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.49
+			"chance": 12.49,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -92,6 +96,16 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 5.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

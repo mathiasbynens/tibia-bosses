@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-07T09:36:26.702Z",
+	"timestamp": "2025-07-08T03:47:36.041Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.6
+			"chance": 21.6,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 11.17
+			"chance": 11.17,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -124,6 +128,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

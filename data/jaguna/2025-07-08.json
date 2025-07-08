@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-07-08T09:36:10.466Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.35
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.34
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 27.22
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 25.41
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 24.52
+		},
+		{
+			"name": "Barbaria",
+			"chance": 23.71
+		},
+		{
+			"name": "Massacre",
+			"chance": 23.44
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.9
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.83
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.67
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.18
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.59
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.54
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.52
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.83
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.78
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.62
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.55
+		}
+	]
+}

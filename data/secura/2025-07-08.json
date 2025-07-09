@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-08T09:36:20.833Z",
+	"timestamp": "2025-07-09T03:48:20.345Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 16.54
+			"chance": 16.54,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.2
+			"chance": 15.2,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -91,11 +95,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.39
+			"chance": 4.39,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.55
+			"chance": 3.55,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +110,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

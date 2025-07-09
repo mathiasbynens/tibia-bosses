@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-08T09:36:06.374Z",
+	"timestamp": "2025-07-09T03:48:17.800Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 68.61
+			"chance": 68.61,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 42.07
+			"chance": 42.07,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.38
+			"chance": 28.38,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.32
+			"chance": 22.32,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.28
+			"chance": 7.28,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -84,6 +90,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.5
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

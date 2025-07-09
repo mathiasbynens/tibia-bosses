@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-08T09:36:24.941Z",
+	"timestamp": "2025-07-09T03:48:20.987Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 27.32
+			"chance": 27.32,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.27
+			"chance": 22.27,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.4
+			"chance": 20.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.3
+			"chance": 8.3,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

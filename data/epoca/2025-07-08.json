@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-08T09:36:02.964Z",
+	"timestamp": "2025-07-09T03:48:17.187Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -92,6 +92,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.36
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

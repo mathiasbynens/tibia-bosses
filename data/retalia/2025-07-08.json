@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-08T09:36:17.331Z",
+	"timestamp": "2025-07-09T03:48:19.622Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +81,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.56
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

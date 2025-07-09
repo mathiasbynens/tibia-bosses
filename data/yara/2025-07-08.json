@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-08T09:36:28.376Z",
+	"timestamp": "2025-07-09T03:48:21.539Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -64,6 +64,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.96
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

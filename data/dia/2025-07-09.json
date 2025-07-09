@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-07-09T09:36:34.254Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81.53
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.09
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.48
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 26.28
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 24.2
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 18.94
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.04
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.83
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 14.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.22
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.65
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.27
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.22
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.05
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.18
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.78
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.46
+		}
+	]
+}

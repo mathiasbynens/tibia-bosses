@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-09T09:36:51.195Z",
+	"timestamp": "2025-07-10T03:48:15.863Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 43.37
+			"chance": 43.37,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -80,6 +82,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

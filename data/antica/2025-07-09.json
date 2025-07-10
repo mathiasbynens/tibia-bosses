@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-09T09:36:26.913Z",
+	"timestamp": "2025-07-10T03:48:09.421Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.81
+			"chance": 39.81,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.43
+			"chance": 28.43,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.58
+			"chance": 24.58,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.59
+			"chance": 15.59,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -92,6 +96,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

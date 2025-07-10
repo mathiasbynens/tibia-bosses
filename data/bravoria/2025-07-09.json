@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-09T09:36:30.384Z",
+	"timestamp": "2025-07-10T03:48:11.448Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -67,7 +67,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 7.06
+			"chance": 7.06,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

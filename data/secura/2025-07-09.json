@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-09T09:36:54.617Z",
+	"timestamp": "2025-07-10T03:48:16.567Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.09
+			"chance": 13.09,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.94
+			"chance": 8.94,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -116,6 +118,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

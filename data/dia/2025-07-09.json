@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-09T09:36:34.254Z",
+	"timestamp": "2025-07-10T03:48:12.230Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.22
+			"chance": 10.22,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -76,6 +78,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 5.46
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

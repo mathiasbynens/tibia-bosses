@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-09T09:37:01.708Z",
+	"timestamp": "2025-07-10T03:48:17.874Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 21.3
+			"chance": 21.3,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

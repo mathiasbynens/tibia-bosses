@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-09T09:36:58.151Z",
+	"timestamp": "2025-07-10T03:48:17.238Z",
 	"bosses": [
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 32.57
+			"chance": 32.57,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",

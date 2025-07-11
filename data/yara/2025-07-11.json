@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-07-11T09:36:16.981Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.22
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.18
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 26.83
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.98
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.37
+		},
+		{
+			"name": "yeti",
+			"chance": 10.78
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.65
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 6.72
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.39
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.35
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-07-11T09:35:39.100Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81.56
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 67.17
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 66.92
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 23.95
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.77
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.19
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 18.22
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "General Murius",
+			"chance": 17
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.08
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 14.05
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.81
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.41
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.52
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 11.49
+		},
+		{
+			"name": "Massacre",
+			"chance": 9.8
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 9.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.84
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.77
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.89
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.61
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.24
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.84
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.66
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-10T09:36:29.610Z",
+	"timestamp": "2025-07-11T03:51:18.040Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.54
+			"chance": 39.54,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 12.8
+			"chance": 12.8,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -68,6 +70,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.73
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

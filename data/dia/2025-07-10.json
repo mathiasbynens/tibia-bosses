@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-10T09:36:19.586Z",
+	"timestamp": "2025-07-11T03:51:15.691Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 43.39
+			"chance": 43.39,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -79,7 +80,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 6.51
+			"chance": 6.51,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

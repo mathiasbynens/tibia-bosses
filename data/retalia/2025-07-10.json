@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-10T09:36:35.745Z",
+	"timestamp": "2025-07-11T03:51:19.304Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.59
+			"chance": 64.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.3
+			"chance": 62.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 21.27
+			"chance": 21.27,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +84,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.41
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

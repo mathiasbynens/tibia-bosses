@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-10T09:36:45.546Z",
+	"timestamp": "2025-07-11T03:51:21.464Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.08
+			"chance": 67.08,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.89
+			"chance": 66.89,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.39
+			"chance": 42.39,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.81
+			"chance": 39.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +76,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.27
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

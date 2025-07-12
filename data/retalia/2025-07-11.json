@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-11T09:36:06.120Z",
+	"timestamp": "2025-07-12T03:48:36.549Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 71.43
+			"chance": 71.43,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 71.39
+			"chance": 71.39,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.79
+			"chance": 39.79,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -72,6 +76,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.61
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

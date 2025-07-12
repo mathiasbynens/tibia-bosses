@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-11T09:35:51.063Z",
+	"timestamp": "2025-07-12T03:48:32.730Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 65.75
+			"chance": 65.75,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.25
+			"chance": 43.25,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.22
+			"chance": 12.22,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

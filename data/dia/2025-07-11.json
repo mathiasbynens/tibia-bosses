@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-11T09:35:46.943Z",
+	"timestamp": "2025-07-12T03:48:32.020Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.59
+			"chance": 20.59,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 19.01
+			"chance": 19.01,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +103,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

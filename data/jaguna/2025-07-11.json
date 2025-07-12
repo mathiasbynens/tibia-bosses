@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-11T09:35:58.668Z",
+	"timestamp": "2025-07-12T03:48:34.393Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -76,6 +77,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

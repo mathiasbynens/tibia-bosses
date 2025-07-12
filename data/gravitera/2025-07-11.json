@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-11T09:35:55.070Z",
+	"timestamp": "2025-07-12T03:48:33.684Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -68,6 +69,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.56
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

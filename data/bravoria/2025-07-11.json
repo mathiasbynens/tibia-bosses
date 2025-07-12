@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-11T09:35:42.993Z",
+	"timestamp": "2025-07-12T03:48:30.998Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -76,6 +77,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.35
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

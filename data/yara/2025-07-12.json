@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-07-12T09:34:40.490Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 53.02
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 45.13
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 31.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.53
+		},
+		{
+			"name": "yeti",
+			"chance": 14.4
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.79
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.82
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.72
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 5.4
+		}
+	]
+}

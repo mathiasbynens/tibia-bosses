@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-07-12T09:34:30.378Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.99
+		},
+		{
+			"name": "General Murius",
+			"chance": 29.13
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.19
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.65
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 19.17
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.02
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.48
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.8
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.7
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.32
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.86
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.83
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.43
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 4.83
+		}
+	]
+}

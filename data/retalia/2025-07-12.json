@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-12T09:34:30.378Z",
+	"timestamp": "2025-07-13T03:52:19.819Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -56,6 +56,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.83
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

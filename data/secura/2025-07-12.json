@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-12T09:34:33.819Z",
+	"timestamp": "2025-07-13T03:52:20.693Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 35.23
+			"chance": 35.23,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.06
+			"chance": 22.06,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.56
+			"chance": 10.56,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -92,6 +95,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

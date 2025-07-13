@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-12T09:34:17.848Z",
+	"timestamp": "2025-07-13T03:52:16.977Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.69
+			"chance": 44.69,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -72,6 +74,11 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 7.19
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

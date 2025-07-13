@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-12T09:34:10.901Z",
+	"timestamp": "2025-07-13T03:52:15.356Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.35
+			"chance": 80.35,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.23
+			"chance": 70.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -64,6 +67,16 @@
 		{
 			"name": "Barbaria",
 			"chance": 5.88
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

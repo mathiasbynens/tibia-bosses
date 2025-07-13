@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-12T09:34:37.139Z",
+	"timestamp": "2025-07-13T03:52:21.473Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -107,7 +110,18 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 2.72
+			"chance": 2.72,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

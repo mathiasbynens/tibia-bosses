@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-12T09:34:07.233Z",
+	"timestamp": "2025-07-13T03:52:14.686Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.68
+			"chance": 13.68,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.16
+			"chance": 8.16,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -116,6 +120,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.55
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

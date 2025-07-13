@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-12T09:34:21.332Z",
+	"timestamp": "2025-07-13T03:52:17.751Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 27.34
+			"chance": 27.34,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.32
+			"chance": 10.32,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -68,6 +70,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-07-13T09:35:28.253Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 47.77
+		},
+		{
+			"name": "yeti",
+			"chance": 17.89
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.14
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.95
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.8
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.94
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 7.61
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.59
+		}
+	]
+}

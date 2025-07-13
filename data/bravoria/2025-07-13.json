@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-07-13T09:34:58.728Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.35
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.86
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.28
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 27.7
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 16.98
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.07
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.74
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.95
+		},
+		{
+			"name": "Barbaria",
+			"chance": 12.09
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.7
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 9.19
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.16
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.54
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.52
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.5
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.05
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.27
+		}
+	]
+}

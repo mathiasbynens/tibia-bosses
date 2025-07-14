@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-07-14T09:39:29.440Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 23.24
+		},
+		{
+			"name": "yeti",
+			"chance": 22.24
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.89
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.91
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.78
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.57
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.21
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.68
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 9.29
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.82
+		}
+	]
+}

@@ -1,25 +1,30 @@
 {
-	"timestamp": "2025-07-13T09:35:21.732Z",
+	"timestamp": "2025-07-14T03:54:12.594Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.62
+			"chance": 61.62,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.04
+			"chance": 53.04,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.65
+			"chance": 24.65,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,15 +32,18 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.41
+			"chance": 20.41,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.23
+			"chance": 20.23,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.75
+			"chance": 17.75,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +51,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +60,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.37
+			"chance": 10.37,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -95,11 +105,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.29
+			"chance": 3.29,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-13T09:35:28.253Z",
+	"timestamp": "2025-07-14T03:54:13.825Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",

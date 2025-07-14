@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-13T09:35:05.896Z",
+	"timestamp": "2025-07-14T03:54:08.648Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -84,6 +85,21 @@
 		{
 			"name": "Tzumrah the Dazzler",
 			"chance": 6.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

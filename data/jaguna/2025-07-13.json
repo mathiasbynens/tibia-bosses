@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-13T09:35:12.851Z",
+	"timestamp": "2025-07-14T03:54:09.946Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.56
+			"chance": 8.56,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +95,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.65
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

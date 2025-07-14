@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-07-13T09:35:18.283Z",
+	"timestamp": "2025-07-14T03:54:11.915Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.62
+			"chance": 61.62,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 44.43
+			"chance": 44.43,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -68,6 +72,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 5.42
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

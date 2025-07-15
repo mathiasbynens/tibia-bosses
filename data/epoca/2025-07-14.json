@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-14T09:39:05.957Z",
+	"timestamp": "2025-07-15T03:51:39.260Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -39,11 +39,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 16.96
+			"chance": 16.96,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.91
+			"chance": 16.91,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.12
+			"chance": 14.12,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -92,6 +95,11 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.4
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

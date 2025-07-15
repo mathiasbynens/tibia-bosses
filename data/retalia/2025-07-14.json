@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-14T09:39:18.919Z",
+	"timestamp": "2025-07-15T03:51:41.834Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -60,6 +61,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.93
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

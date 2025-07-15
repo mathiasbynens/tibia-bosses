@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-14T09:39:26.039Z",
+	"timestamp": "2025-07-15T03:51:43.437Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 51.04
+			"chance": 51.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.96
+			"chance": 19.96,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.27
+			"chance": 19.27,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.11
+			"chance": 16.11,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 8.99
+			"chance": 8.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -120,6 +126,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-14T09:39:09.381Z",
+	"timestamp": "2025-07-15T03:51:39.928Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.91
+			"chance": 63.91,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.99
+			"chance": 29.99,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -80,6 +83,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-14T09:38:55.317Z",
+	"timestamp": "2025-07-15T03:51:37.095Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 51.04
+			"chance": 51.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.39
+			"chance": 47.39,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.49
+			"chance": 38.49,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.93
+			"chance": 17.93,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +104,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.72
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

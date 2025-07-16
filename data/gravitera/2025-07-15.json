@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-15T09:38:55.259Z",
+	"timestamp": "2025-07-16T03:50:58.082Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.25
+			"chance": 70.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 34.57
+			"chance": 34.57,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -92,6 +95,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.02
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

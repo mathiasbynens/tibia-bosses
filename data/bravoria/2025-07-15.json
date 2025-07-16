@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-15T09:38:45.073Z",
+	"timestamp": "2025-07-16T03:50:55.777Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.78
+			"chance": 11.78,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

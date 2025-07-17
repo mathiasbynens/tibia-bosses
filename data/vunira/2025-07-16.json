@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-16T09:38:31.697Z",
+	"timestamp": "2025-07-17T03:50:47.705Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.95
+			"chance": 63.95,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.97
+			"chance": 9.97,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -124,6 +128,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.69
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

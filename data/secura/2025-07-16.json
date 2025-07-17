@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-16T09:38:27.545Z",
+	"timestamp": "2025-07-17T03:50:46.869Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.55
+			"chance": 13.55,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.44
+			"chance": 12.44,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

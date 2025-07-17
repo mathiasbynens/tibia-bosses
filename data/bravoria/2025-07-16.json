@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-16T09:37:58.834Z",
+	"timestamp": "2025-07-17T03:50:41.113Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.22
+			"chance": 40.22,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.22
+			"chance": 19.22,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -76,6 +78,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 7.33
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-16T09:37:54.925Z",
+	"timestamp": "2025-07-17T03:50:40.374Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 53.1
+			"chance": 53.1,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.68
+			"chance": 24.68,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +109,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.19
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-17T09:37:21.395Z",
+	"timestamp": "2025-07-18T03:51:49.154Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -84,6 +85,11 @@
 		{
 			"name": "Xenia",
 			"chance": 5.66
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

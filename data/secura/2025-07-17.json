@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-17T09:37:47.212Z",
+	"timestamp": "2025-07-18T03:51:53.535Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.32
+			"chance": 36.32,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.24
+			"chance": 35.24,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.24
+			"chance": 18.24,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.07
+			"chance": 14.07,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.09
+			"chance": 13.09,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -107,7 +113,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 6.12
+			"chance": 6.12,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -124,6 +131,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

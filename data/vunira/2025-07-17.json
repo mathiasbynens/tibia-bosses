@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-17T09:37:51.304Z",
+	"timestamp": "2025-07-18T03:51:54.184Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.8
+			"chance": 22.8,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.98
+			"chance": 7.98,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

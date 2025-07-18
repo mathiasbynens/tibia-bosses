@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-17T09:37:25.381Z",
+	"timestamp": "2025-07-18T03:51:49.891Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.3
+			"chance": 14.3,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +98,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.68
+			"chance": 3.68,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

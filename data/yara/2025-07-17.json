@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-17T09:37:54.630Z",
+	"timestamp": "2025-07-18T03:51:54.805Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.76
+			"chance": 17.76,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,11 +56,23 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.34
+			"chance": 5.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.34
+			"chance": 5.34,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

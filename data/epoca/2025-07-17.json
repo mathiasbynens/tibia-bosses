@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-17T09:37:29.339Z",
+	"timestamp": "2025-07-18T03:51:50.446Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.65
+			"chance": 20.65,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -96,6 +98,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

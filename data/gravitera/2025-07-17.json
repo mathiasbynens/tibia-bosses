@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-17T09:37:32.736Z",
+	"timestamp": "2025-07-18T03:51:51.041Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +96,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

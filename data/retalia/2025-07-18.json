@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-18T09:37:30.826Z",
+	"timestamp": "2025-07-19T03:48:18.337Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.75
+			"chance": 31.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.83
+			"chance": 25.83,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.78
+			"chance": 12.78,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,11 +79,23 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.35
+			"chance": 5.35,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.35
+			"chance": 5.35,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

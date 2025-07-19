@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-18T09:37:39.288Z",
+	"timestamp": "2025-07-19T03:48:19.690Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 47.31
+			"chance": 47.31,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 43.53
+			"chance": 43.53,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.5
+			"chance": 30.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.27
+			"chance": 13.27,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -144,6 +150,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 3.99
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-18T09:37:13.886Z",
+	"timestamp": "2025-07-19T03:48:15.308Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.09
+			"chance": 28.09,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.83
+			"chance": 25.83,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.15
+			"chance": 12.15,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.62
+			"chance": 11.62,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

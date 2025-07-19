@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-18T09:37:34.544Z",
+	"timestamp": "2025-07-19T03:48:19.030Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.86
+			"chance": 33.86,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.38
+			"chance": 28.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.94
+			"chance": 19.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -112,6 +115,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

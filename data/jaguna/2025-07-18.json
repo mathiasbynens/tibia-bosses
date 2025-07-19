@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-18T09:37:24.671Z",
+	"timestamp": "2025-07-19T03:48:17.242Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 23.18
+			"chance": 23.18,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.28
+			"chance": 6.28,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -108,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

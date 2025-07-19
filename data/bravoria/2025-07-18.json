@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-18T09:37:09.520Z",
+	"timestamp": "2025-07-19T03:48:14.543Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -80,6 +81,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 8.63
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-18T09:37:21.085Z",
+	"timestamp": "2025-07-19T03:48:16.608Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.07
+			"chance": 26.07,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.13
+			"chance": 17.13,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -96,6 +98,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.99
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

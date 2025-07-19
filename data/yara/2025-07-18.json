@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-07-18T09:37:43.138Z",
+	"timestamp": "2025-07-19T03:48:20.316Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.6
+			"chance": 61.6,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 53.77
+			"chance": 53.77,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.81
+			"chance": 39.81,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -48,6 +52,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 7.19
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

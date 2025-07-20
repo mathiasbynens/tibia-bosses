@@ -1,4 +1,30 @@
 {
-	"timestamp": "2025-07-19T09:34:29.537Z",
-	"bosses": []
+	"timestamp": "2025-07-20T03:56:34.440Z",
+	"bosses": [
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

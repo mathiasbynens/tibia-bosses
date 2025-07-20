@@ -1,4 +1,20 @@
 {
-	"timestamp": "2025-07-19T09:34:22.771Z",
-	"bosses": []
+	"timestamp": "2025-07-20T03:56:31.508Z",
+	"bosses": [
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

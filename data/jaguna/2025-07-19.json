@@ -1,4 +1,15 @@
 {
-	"timestamp": "2025-07-19T09:34:23.885Z",
-	"bosses": []
+	"timestamp": "2025-07-20T03:56:32.112Z",
+	"bosses": [
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

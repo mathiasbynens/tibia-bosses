@@ -1,4 +1,101 @@
 {
-	"timestamp": "2025-07-20T09:34:30.673Z",
-	"bosses": []
+	"timestamp": "2025-07-20T10:58:48.026Z",
+	"bosses": [
+		{
+			"name": "The Frog Prince",
+			"chance": 26.1
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.36
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.59
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.71
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 18.49
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.14
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.01
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.92
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.91
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 14.41
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.3
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.33
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.69
+		},
+		{
+			"name": "General Murius",
+			"chance": 12.23
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.26
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.95
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.54
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.27
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.15
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.69
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.82
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 4.75
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.36
+		}
+	]
 }

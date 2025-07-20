@@ -1,4 +1,85 @@
 {
-	"timestamp": "2025-07-20T09:34:33.569Z",
-	"bosses": []
+	"timestamp": "2025-07-20T10:58:57.292Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 43.53
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.03
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.88
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 31.8
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.31
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.06
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.02
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.68
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.91
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 16.97
+		},
+		{
+			"name": "White Pale",
+			"chance": 15.23
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.6
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.36
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 9.25
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.21
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.83
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 7.42
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.04
+		}
+	]
 }

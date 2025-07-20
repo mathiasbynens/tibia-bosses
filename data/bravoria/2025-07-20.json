@@ -1,4 +1,81 @@
 {
-	"timestamp": "2025-07-20T09:34:27.768Z",
-	"bosses": []
+	"timestamp": "2025-07-20T10:58:38.349Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 80.62
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.08
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 41
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 35.38
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 27.98
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 25.03
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 23.03
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 23.03
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.34
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 21.69
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.99
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.78
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.02
+		},
+		{
+			"name": "Xenia",
+			"chance": 15.73
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.69
+		},
+		{
+			"name": "yeti",
+			"chance": 10.8
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.54
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.26
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.16
+		}
+	]
 }

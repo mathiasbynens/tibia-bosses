@@ -1,4 +1,77 @@
 {
-	"timestamp": "2025-07-20T09:34:29.686Z",
-	"bosses": []
+	"timestamp": "2025-07-20T10:58:44.729Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.08
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 39.05
+		},
+		{
+			"name": "The Imperor",
+			"chance": 37.81
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 37.37
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 31.76
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 30.75
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 30.36
+		},
+		{
+			"name": "Massacre",
+			"chance": 29.99
+		},
+		{
+			"name": "Zushuka",
+			"chance": 17.91
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.13
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.67
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.48
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.98
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.18
+		}
+	]
 }

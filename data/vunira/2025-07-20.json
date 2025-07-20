@@ -1,4 +1,137 @@
 {
-	"timestamp": "2025-07-20T09:34:35.494Z",
-	"bosses": []
+	"timestamp": "2025-07-20T10:59:04.068Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.34
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 32.66
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.62
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.66
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.36
+		},
+		{
+			"name": "yeti",
+			"chance": 22.26
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 20.64
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.98
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.8
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.02
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 16.22
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Massacre",
+			"chance": 15.78
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 14.95
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.13
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.9
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.75
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.52
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.22
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.76
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 11.51
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.85
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.72
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.28
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 9.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.53
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.41
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.36
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.6
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 6.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.36
+		}
+	]
 }

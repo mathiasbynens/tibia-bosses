@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-20T10:58:35.033Z",
+	"timestamp": "2025-07-21T03:56:12.158Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.34
+			"chance": 42.34,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30
+			"chance": 30,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.36
+			"chance": 23.36,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +105,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.55
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

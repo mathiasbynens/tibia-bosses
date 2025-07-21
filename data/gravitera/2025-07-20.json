@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-20T10:58:48.026Z",
+	"timestamp": "2025-07-21T03:56:18.008Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
-			"chance": 26.1
+			"chance": 26.1,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -96,6 +97,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

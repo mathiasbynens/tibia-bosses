@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-20T10:59:01.000Z",
+	"timestamp": "2025-07-21T03:56:30.720Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.36
+			"chance": 80.36,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.13
+			"chance": 27.13,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.42
+			"chance": 20.42,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.82
+			"chance": 13.82,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.09
+			"chance": 12.09,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.31
+			"chance": 5.31,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -120,6 +126,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

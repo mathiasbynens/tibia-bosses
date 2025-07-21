@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-20T10:59:04.068Z",
+	"timestamp": "2025-07-21T03:56:31.832Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.34
+			"chance": 36.34,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.62
+			"chance": 24.62,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 22.26
+			"chance": 22.26,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.52
+			"chance": 12.52,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.85
+			"chance": 9.85,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -132,6 +138,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

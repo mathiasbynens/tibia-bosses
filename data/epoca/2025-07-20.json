@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-20T10:58:44.729Z",
+	"timestamp": "2025-07-21T03:56:16.940Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.99
+			"chance": 29.99,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -72,6 +75,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.18
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

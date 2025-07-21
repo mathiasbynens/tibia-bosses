@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-20T10:59:07.173Z",
+	"timestamp": "2025-07-21T03:56:32.482Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.22
+			"chance": 65.22,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.21
+			"chance": 23.21,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -36,6 +38,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 8.87
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

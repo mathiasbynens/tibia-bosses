@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-20T10:58:57.292Z",
+	"timestamp": "2025-07-21T03:56:30.120Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 43.53
+			"chance": 43.53,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.88
+			"chance": 33.88,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -79,7 +82,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.04
+			"chance": 6.04,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

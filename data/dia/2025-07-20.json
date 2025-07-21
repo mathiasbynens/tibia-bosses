@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-20T10:58:41.515Z",
+	"timestamp": "2025-07-21T03:56:15.674Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.87
+			"chance": 71.87,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.26
+			"chance": 70.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.02
+			"chance": 17.02,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.62
+			"chance": 15.62,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.51
+			"chance": 14.51,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +110,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

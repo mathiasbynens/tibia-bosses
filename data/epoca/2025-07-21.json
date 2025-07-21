@@ -1,4 +1,73 @@
 {
-	"timestamp": "2025-07-21T09:39:03.890Z",
-	"bosses": []
+	"timestamp": "2025-07-21T14:08:51.546Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 58.22
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 44.73
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 35.55
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 32.76
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.85
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.85
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.1
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.76
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.94
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.69
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.21
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.87
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.58
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.77
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 6.18
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.78
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.7
+		}
+	]
 }

@@ -1,4 +1,113 @@
 {
-	"timestamp": "2025-07-21T09:39:04.911Z",
-	"bosses": []
+	"timestamp": "2025-07-21T14:08:54.587Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.85
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.45
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.1
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.77
+		},
+		{
+			"name": "The Imperor",
+			"chance": 25.89
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.64
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.04
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.99
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.98
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 18.93
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.95
+		},
+		{
+			"name": "Massacre",
+			"chance": 15.77
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.07
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 13.52
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.3
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.22
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.69
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.67
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.51
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.75
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.98
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.93
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.33
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.33
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.99
+		}
+	]
 }

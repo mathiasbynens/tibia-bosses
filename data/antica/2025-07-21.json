@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-21T14:08:42.711Z",
+	"timestamp": "2025-07-22T03:52:01.528Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.87
+			"chance": 71.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 33.54
+			"chance": 33.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.23
+			"chance": 13.23,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -96,6 +101,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

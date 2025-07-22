@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-21T14:08:51.546Z",
+	"timestamp": "2025-07-22T03:52:03.741Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 44.73
+			"chance": 44.73,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.87
+			"chance": 9.87,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

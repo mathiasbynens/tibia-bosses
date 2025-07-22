@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-21T14:09:02.615Z",
+	"timestamp": "2025-07-22T03:52:08.502Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -84,6 +86,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

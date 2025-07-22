@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-21T14:08:54.587Z",
+	"timestamp": "2025-07-22T03:52:04.888Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.24
+			"chance": 18.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -67,15 +69,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.22
+			"chance": 12.22,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +113,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.99
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

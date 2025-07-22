@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-07-22T09:38:16.663Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.52
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 31.97
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.35
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.26
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 17
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.85
+		},
+		{
+			"name": "yeti",
+			"chance": 14.39
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.92
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.26
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.95
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.94
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.94
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.86
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.05
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.38
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.01
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.2
+		}
+	]
+}

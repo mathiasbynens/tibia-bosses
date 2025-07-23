@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-22T09:38:03.240Z",
+	"timestamp": "2025-07-23T03:52:44.528Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.26
+			"chance": 70.26,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.01
+			"chance": 38.01,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.08
+			"chance": 34.08,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.12
+			"chance": 17.12,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -96,6 +100,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.17
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

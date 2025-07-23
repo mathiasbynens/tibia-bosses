@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-22T09:37:59.943Z",
+	"timestamp": "2025-07-23T03:52:43.807Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -60,6 +60,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.02
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-22T09:38:06.592Z",
+	"timestamp": "2025-07-23T03:52:45.148Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 65.26
+			"chance": 65.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.31
+			"chance": 23.31,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +93,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

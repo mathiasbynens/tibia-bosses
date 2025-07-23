@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-22T09:37:50.313Z",
+	"timestamp": "2025-07-23T03:52:39.759Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.58
+			"chance": 53.58,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 26.95
+			"chance": 26.95,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.76
+			"chance": 22.76,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.53
+			"chance": 14.53,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.55
+			"chance": 12.55,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -104,6 +110,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

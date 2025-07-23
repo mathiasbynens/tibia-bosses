@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-22T09:38:16.663Z",
+	"timestamp": "2025-07-23T03:52:47.678Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,23 +7,28 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.97
+			"chance": 31.97,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.35
+			"chance": 19.35,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.26
+			"chance": 18.26,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.85
+			"chance": 15.85,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -43,15 +48,18 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +96,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

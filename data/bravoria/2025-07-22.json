@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-22T09:37:53.414Z",
+	"timestamp": "2025-07-23T03:52:41.286Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.58
+			"chance": 53.58,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 41.06
+			"chance": 41.06,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 41.04
+			"chance": 41.04,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -92,6 +96,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-22T09:38:23.327Z",
+	"timestamp": "2025-07-23T03:52:49.620Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -36,6 +36,11 @@
 		{
 			"name": "Big Boss Trolliver",
 			"chance": 8.05
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-07-23T09:39:06.430Z",
+	"bosses": [
+		{
+			"name": "Tyrn",
+			"chance": 61.82
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 31.77
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.19
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 22.29
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 21.71
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 17.2
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.48
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.8
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.2
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.05
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.68
+		}
+	]
+}

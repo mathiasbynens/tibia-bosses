@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-07-24T09:37:33.060Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.22
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 32.68
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.51
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "yeti",
+			"chance": 27.51
+		},
+		{
+			"name": "Barbaria",
+			"chance": 27.03
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.45
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.67
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.57
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.7
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.58
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.1
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.12
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.93
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.26
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.05
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 8.75
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.49
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.66
+		}
+	]
+}

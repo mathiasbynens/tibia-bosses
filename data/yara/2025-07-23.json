@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-23T09:39:06.430Z",
+	"timestamp": "2025-07-24T03:52:13.109Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -48,6 +49,11 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 7.68
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

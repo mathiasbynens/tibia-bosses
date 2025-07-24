@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-23T09:39:02.966Z",
+	"timestamp": "2025-07-24T03:52:12.318Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.06
+			"chance": 74.06,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.29
+			"chance": 70.29,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.41
+			"chance": 47.41,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.01
+			"chance": 38.01,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.81
+			"chance": 27.81,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.74
+			"chance": 22.74,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.22
+			"chance": 12.22,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -108,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

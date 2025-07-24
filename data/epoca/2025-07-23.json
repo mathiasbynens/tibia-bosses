@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-23T09:38:42.275Z",
+	"timestamp": "2025-07-24T03:52:04.454Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -76,6 +76,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

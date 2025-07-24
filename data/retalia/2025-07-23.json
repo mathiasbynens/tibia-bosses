@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-23T09:38:55.239Z",
+	"timestamp": "2025-07-24T03:52:08.908Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 41.82
+			"chance": 41.82,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.79
+			"chance": 4.79,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

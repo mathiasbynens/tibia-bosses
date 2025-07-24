@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-23T09:38:34.754Z",
+	"timestamp": "2025-07-24T03:52:02.382Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.62
+			"chance": 61.62,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.47
+			"chance": 38.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.78
+			"chance": 27.78,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 14.55
+			"chance": 14.55,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -80,6 +85,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

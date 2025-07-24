@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-23T09:38:59.071Z",
+	"timestamp": "2025-07-24T03:52:11.311Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.96
+			"chance": 19.96,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 17.9
+			"chance": 17.9,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.48
+			"chance": 16.48,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.92
+			"chance": 10.92,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -88,6 +92,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.64
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-23T09:38:48.871Z",
+	"timestamp": "2025-07-24T03:52:07.309Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -64,6 +64,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.38
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

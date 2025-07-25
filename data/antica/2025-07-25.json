@@ -1,0 +1,109 @@
+{
+	"timestamp": "2025-07-25T09:37:51.241Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.69
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.5
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.12
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.76
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 20.89
+		},
+		{
+			"name": "Dracola",
+			"chance": 18.76
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.78
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.33
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 16.24
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.63
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.77
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.26
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.22
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.08
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.31
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.25
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.57
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.32
+		},
+		{
+			"name": "Barbaria",
+			"chance": 5.82
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.37
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.37
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.94
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.67
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.66
+		}
+	]
+}

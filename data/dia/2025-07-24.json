@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-24T09:37:36.504Z",
+	"timestamp": "2025-07-25T03:51:55.391Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 44.73
+			"chance": 44.73,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 28.78
+			"chance": 28.78,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.64
+			"chance": 11.64,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.69
+			"chance": 3.69,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +93,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

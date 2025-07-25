@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-24T09:37:29.622Z",
+	"timestamp": "2025-07-25T03:51:53.412Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.29
+			"chance": 70.29,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.42
+			"chance": 23.42,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.2
+			"chance": 13.2,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.77
+			"chance": 5.77,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +108,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.22
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-24T09:37:33.060Z",
+	"timestamp": "2025-07-25T03:51:54.280Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.22
+			"chance": 40.22,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -76,6 +78,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

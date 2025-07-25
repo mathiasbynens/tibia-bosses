@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-24T09:37:56.509Z",
+	"timestamp": "2025-07-25T03:51:59.755Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.3
+			"chance": 35.3,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.82
+			"chance": 13.82,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.12
+			"chance": 13.12,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.52
+			"chance": 8.52,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.2
+			"chance": 6.2,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -92,6 +98,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

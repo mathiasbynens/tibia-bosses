@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-24T09:38:03.331Z",
+	"timestamp": "2025-07-25T03:52:01.327Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -64,6 +64,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.37
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

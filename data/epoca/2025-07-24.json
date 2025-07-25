@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-24T09:37:39.913Z",
+	"timestamp": "2025-07-25T03:51:56.073Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.33
+			"chance": 62.33,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -92,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

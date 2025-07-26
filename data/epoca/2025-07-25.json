@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-25T09:38:04.579Z",
+	"timestamp": "2025-07-26T03:50:10.910Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.6
+			"chance": 62.6,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.02
+			"chance": 38.02,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

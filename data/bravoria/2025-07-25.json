@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-25T09:37:55.195Z",
+	"timestamp": "2025-07-26T03:50:08.627Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -67,11 +67,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.11
+			"chance": 9.11,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -80,6 +82,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.66
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

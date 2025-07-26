@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-25T09:38:12.583Z",
+	"timestamp": "2025-07-26T03:50:13.465Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.88
+			"chance": 28.88,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -72,6 +74,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 6.23
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

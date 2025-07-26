@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-07-25T09:38:23.102Z",
+	"timestamp": "2025-07-26T03:50:16.186Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 77.78
+			"chance": 77.78,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.9
+			"chance": 33.9,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.81
+			"chance": 11.81,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,11 +72,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.61
+			"chance": 9.61,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.75
+			"chance": 6.75,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -96,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

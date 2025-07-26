@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-25T09:38:30.993Z",
+	"timestamp": "2025-07-26T03:50:18.104Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 35.39
+			"chance": 35.39,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -64,6 +65,16 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.31
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

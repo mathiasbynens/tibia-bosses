@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-25T09:37:51.241Z",
+	"timestamp": "2025-07-26T03:50:07.718Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -104,6 +105,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.66
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

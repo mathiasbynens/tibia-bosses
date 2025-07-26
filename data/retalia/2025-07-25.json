@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-25T09:38:18.975Z",
+	"timestamp": "2025-07-26T03:50:15.037Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 30.3
+			"chance": 30.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +77,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

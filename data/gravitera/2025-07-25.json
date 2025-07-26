@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-25T09:38:08.738Z",
+	"timestamp": "2025-07-26T03:50:12.388Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.14
+			"chance": 67.14,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.89
+			"chance": 66.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.98
+			"chance": 16.98,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -92,6 +95,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-25T09:38:27.089Z",
+	"timestamp": "2025-07-26T03:50:17.254Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 23.57
+			"chance": 23.57,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.22
+			"chance": 18.22,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 12.98
+			"chance": 12.98,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -108,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

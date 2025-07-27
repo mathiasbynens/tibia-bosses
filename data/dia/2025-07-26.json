@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-26T09:34:48.570Z",
+	"timestamp": "2025-07-27T03:57:35.069Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.02
+			"chance": 38.02,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -84,6 +86,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

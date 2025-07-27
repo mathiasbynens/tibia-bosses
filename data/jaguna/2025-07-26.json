@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-26T09:34:59.224Z",
+	"timestamp": "2025-07-27T03:57:37.697Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -76,6 +77,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.38
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

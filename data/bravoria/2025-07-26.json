@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-26T09:34:44.878Z",
+	"timestamp": "2025-07-27T03:57:34.075Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -72,6 +73,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-26T09:34:55.714Z",
+	"timestamp": "2025-07-27T03:57:36.772Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,11 +98,17 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 6.25
+			"chance": 6.25,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

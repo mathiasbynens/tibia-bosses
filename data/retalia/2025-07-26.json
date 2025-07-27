@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-26T09:35:05.671Z",
+	"timestamp": "2025-07-27T03:57:39.166Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.76
+			"chance": 31.76,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -100,6 +102,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.22
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

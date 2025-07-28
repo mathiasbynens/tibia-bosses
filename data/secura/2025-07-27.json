@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-27T09:35:44.803Z",
+	"timestamp": "2025-07-28T03:57:48.611Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.84
+			"chance": 31.84,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.44
+			"chance": 20.44,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +115,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

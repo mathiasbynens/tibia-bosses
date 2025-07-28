@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-27T09:35:33.159Z",
+	"timestamp": "2025-07-28T03:57:46.705Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 26.01
+			"chance": 26.01,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",

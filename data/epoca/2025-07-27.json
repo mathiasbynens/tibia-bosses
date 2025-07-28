@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-27T09:35:25.128Z",
+	"timestamp": "2025-07-28T03:57:45.182Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.05
+			"chance": 30.05,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.28
+			"chance": 6.28,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

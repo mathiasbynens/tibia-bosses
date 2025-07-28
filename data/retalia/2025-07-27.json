@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-27T09:35:40.251Z",
+	"timestamp": "2025-07-28T03:57:47.876Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.65
+			"chance": 32.65,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4
+			"chance": 4,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-28T09:39:41.875Z",
+	"timestamp": "2025-07-29T03:59:22.803Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.72
+			"chance": 42.72,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.83
+			"chance": 39.83,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.53
+			"chance": 22.53,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.05
+			"chance": 22.05,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,15 +55,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.94
+			"chance": 10.94,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -115,7 +123,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.31
+			"chance": 3.31,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

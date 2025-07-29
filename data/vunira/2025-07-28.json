@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-28T09:39:45.585Z",
+	"timestamp": "2025-07-29T03:59:23.734Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.26
+			"chance": 65.26,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.62
+			"chance": 62.62,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -80,6 +83,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

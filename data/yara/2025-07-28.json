@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-28T09:39:48.818Z",
+	"timestamp": "2025-07-29T03:59:24.596Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -56,6 +56,16 @@
 		{
 			"name": "Fleabringer",
 			"chance": 8.13
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

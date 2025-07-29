@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-28T09:39:27.902Z",
+	"timestamp": "2025-07-29T03:59:19.692Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +114,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.21
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-28T09:39:23.856Z",
+	"timestamp": "2025-07-29T03:59:18.904Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.26
+			"chance": 65.26,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -76,6 +78,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

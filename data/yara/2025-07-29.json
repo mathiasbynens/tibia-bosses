@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-29T09:39:00.700Z",
+	"timestamp": "2025-07-30T03:55:47.019Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.47
+			"chance": 39.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -56,6 +58,11 @@
 		{
 			"name": "Fleabringer",
 			"chance": 8.94
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

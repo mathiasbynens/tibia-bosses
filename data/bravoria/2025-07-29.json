@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-29T09:38:26.256Z",
+	"timestamp": "2025-07-30T03:55:39.807Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.87
+			"chance": 25.87,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 14.76
+			"chance": 14.76,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -72,6 +76,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.77
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

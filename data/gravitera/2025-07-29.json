@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-29T09:38:38.281Z",
+	"timestamp": "2025-07-30T03:55:42.543Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -95,11 +97,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.61
+			"chance": 6.61,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 6.32
+			"chance": 6.32,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -116,6 +120,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

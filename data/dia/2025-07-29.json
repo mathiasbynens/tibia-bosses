@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-29T09:38:30.261Z",
+	"timestamp": "2025-07-30T03:55:40.616Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.34
+			"chance": 62.34,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 35.4
+			"chance": 35.4,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.67
+			"chance": 27.67,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.8
+			"chance": 17.8,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.09
+			"chance": 13.09,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -108,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

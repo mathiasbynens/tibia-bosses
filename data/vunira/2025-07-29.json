@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-29T09:38:56.746Z",
+	"timestamp": "2025-07-30T03:55:46.284Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.48
+			"chance": 23.48,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -100,6 +104,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.56
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

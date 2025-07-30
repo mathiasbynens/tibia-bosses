@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-29T09:38:34.358Z",
+	"timestamp": "2025-07-30T03:55:41.648Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.26
+			"chance": 10.26,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -80,6 +81,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.56
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

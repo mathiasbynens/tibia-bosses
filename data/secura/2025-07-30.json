@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-30T09:39:59.159Z",
+	"timestamp": "2025-07-31T03:54:57.311Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.59
+			"chance": 20.59,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.34
+			"chance": 8.34,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +92,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

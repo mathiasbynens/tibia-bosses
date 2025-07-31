@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-07-30T09:39:28.327Z",
+	"timestamp": "2025-07-31T03:54:51.323Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.7
+			"chance": 35.7,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -71,11 +73,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -132,6 +136,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.77
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

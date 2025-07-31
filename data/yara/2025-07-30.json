@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-30T09:40:07.259Z",
+	"timestamp": "2025-07-31T03:54:58.754Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.86
+			"chance": 71.86,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.29
+			"chance": 42.29,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -52,6 +54,21 @@
 		{
 			"name": "Fleabringer",
 			"chance": 8.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

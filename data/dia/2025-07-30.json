@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-30T09:39:35.710Z",
+	"timestamp": "2025-07-31T03:54:53.060Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 54.52
+			"chance": 54.52,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 35.48
+			"chance": 35.48,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.24
+			"chance": 24.24,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.86
+			"chance": 20.86,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 15.99
+			"chance": 15.99,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -104,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-30T09:39:55.254Z",
+	"timestamp": "2025-07-31T03:54:56.586Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.66
+			"chance": 61.66,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.5
+			"chance": 20.5,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.46
+			"chance": 17.46,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -88,6 +93,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

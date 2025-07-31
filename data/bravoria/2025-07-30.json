@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-30T09:39:32.182Z",
+	"timestamp": "2025-07-31T03:54:52.129Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.21
+			"chance": 24.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -72,6 +73,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.44
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

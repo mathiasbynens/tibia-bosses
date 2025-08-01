@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-08-01T09:38:59.032Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.25
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.47
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 35.42
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 33.49
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 26.15
+		},
+		{
+			"name": "White Pale",
+			"chance": 26.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.22
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.04
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.9
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.99
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.83
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.67
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.65
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.63
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.57
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.53
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 6.87
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.52
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.28
+		}
+	]
+}

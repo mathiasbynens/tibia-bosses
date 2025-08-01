@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-31T09:38:43.097Z",
+	"timestamp": "2025-08-01T04:03:16.969Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 35.46
+			"chance": 35.46,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.69
+			"chance": 32.69,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.2
+			"chance": 13.2,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -72,6 +75,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.95
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

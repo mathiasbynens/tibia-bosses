@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-07-31T09:38:48.898Z",
+	"timestamp": "2025-08-01T04:03:18.160Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.89
+			"chance": 71.89,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 65.76
+			"chance": 65.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -64,6 +66,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

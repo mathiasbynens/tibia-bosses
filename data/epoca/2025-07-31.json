@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-31T09:38:35.657Z",
+	"timestamp": "2025-08-01T04:03:15.570Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.54
+			"chance": 20.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -96,6 +97,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.01
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

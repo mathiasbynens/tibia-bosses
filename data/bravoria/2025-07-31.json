@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-07-31T09:38:27.480Z",
+	"timestamp": "2025-08-01T04:03:13.858Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.34
+			"chance": 28.34,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -72,6 +74,21 @@
 		{
 			"name": "Ocyakao",
 			"chance": 6.06
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

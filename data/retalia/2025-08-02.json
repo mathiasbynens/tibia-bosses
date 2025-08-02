@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-08-02T09:36:08.784Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.32
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 41.61
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 27.42
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 26.11
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.38
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.15
+		},
+		{
+			"name": "General Murius",
+			"chance": 15.09
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.83
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.99
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.99
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.11
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.18
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.84
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.43
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.52
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.27
+		}
+	]
+}

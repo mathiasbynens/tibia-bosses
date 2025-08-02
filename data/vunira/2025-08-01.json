@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-01T09:39:12.277Z",
+	"timestamp": "2025-08-02T03:49:16.636Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.86
+			"chance": 18.86,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -104,6 +105,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.67
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

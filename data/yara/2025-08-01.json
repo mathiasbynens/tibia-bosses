@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-01T09:39:15.768Z",
+	"timestamp": "2025-08-02T03:49:17.329Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.23
+			"chance": 24.23,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -64,6 +65,16 @@
 		{
 			"name": "High Templar Cobrass",
 			"chance": 4.79
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

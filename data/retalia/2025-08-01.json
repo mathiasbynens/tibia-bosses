@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-01T09:39:05.271Z",
+	"timestamp": "2025-08-02T03:49:15.024Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 18.86
+			"chance": 18.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.58
+			"chance": 14.58,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.24
+			"chance": 12.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -64,6 +67,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

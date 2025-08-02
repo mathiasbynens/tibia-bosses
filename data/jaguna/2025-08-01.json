@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-01T09:38:59.032Z",
+	"timestamp": "2025-08-02T03:49:12.742Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -80,6 +81,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.28
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

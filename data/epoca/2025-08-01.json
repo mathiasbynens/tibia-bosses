@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-01T09:38:51.631Z",
+	"timestamp": "2025-08-02T03:49:09.509Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.04
+			"chance": 38.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.67
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

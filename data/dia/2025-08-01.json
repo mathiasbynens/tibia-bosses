@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-01T09:38:48.292Z",
+	"timestamp": "2025-08-02T03:49:08.854Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 26.15
+			"chance": 26.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.01
+			"chance": 19.01,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.25
+			"chance": 18.25,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +103,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

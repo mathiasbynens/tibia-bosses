@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-01T09:38:44.766Z",
+	"timestamp": "2025-08-02T03:49:07.917Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.82
+			"chance": 43.82,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.15
+			"chance": 16.15,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -80,6 +82,21 @@
 		{
 			"name": "Rukor Zad",
 			"chance": 9.06
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

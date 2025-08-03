@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-08-03T09:35:23.061Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 35.9
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.44
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.25
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 22.09
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.84
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.6
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 20.32
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 20.32
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.56
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.12
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.11
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.45
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.71
+		}
+	]
+}

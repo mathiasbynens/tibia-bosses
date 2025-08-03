@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-08-03T09:35:32.047Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 65.61
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 50.36
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.23
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.13
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.97
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.96
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.35
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.62
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.47
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.18
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.11
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 11.93
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.47
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.42
+		},
+		{
+			"name": "yeti",
+			"chance": 10.78
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 10.38
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.73
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 8.94
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.55
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.79
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.61
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.62
+		}
+	]
+}

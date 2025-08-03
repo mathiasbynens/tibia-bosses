@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-08-03T09:35:18.454Z",
+	"bosses": [
+		{
+			"name": "yeti",
+			"chance": 38.16
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.6
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 22.17
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 18.86
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.05
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.33
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.94
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.93
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.68
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.1
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 8.94
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.33
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.84
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.2
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.74
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.57
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.85
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.38
+		}
+	]
+}

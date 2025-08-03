@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-02T09:36:15.818Z",
+	"timestamp": "2025-08-03T04:00:40.992Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.53
+			"chance": 36.53,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 30.98
+			"chance": 30.98,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.69
+			"chance": 20.69,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 17.3
+			"chance": 17.3,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 16.15
+			"chance": 16.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -116,6 +122,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.29
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

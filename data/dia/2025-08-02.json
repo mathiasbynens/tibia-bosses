@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-02T09:35:53.220Z",
+	"timestamp": "2025-08-03T04:00:34.832Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.54
+			"chance": 23.54,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

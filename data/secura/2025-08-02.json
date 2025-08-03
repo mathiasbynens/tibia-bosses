@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-02T09:36:12.392Z",
+	"timestamp": "2025-08-03T04:00:40.009Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.63
+			"chance": 61.63,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,15 +29,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.43
+			"chance": 16.43,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.19
+			"chance": 15.19,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -96,6 +102,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.47
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

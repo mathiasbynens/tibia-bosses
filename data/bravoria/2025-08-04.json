@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-08-04T09:41:29.343Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.3
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.14
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 28.09
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.45
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 22.79
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.64
+		},
+		{
+			"name": "General Murius",
+			"chance": 15.06
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.85
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.71
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.67
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 12.33
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.69
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.53
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.15
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.04
+		}
+	]
+}

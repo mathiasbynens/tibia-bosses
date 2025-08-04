@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-03T09:36:02.886Z",
+	"timestamp": "2025-08-04T04:03:57.011Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -56,6 +56,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

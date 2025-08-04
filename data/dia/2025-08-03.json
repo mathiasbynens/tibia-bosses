@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-03T09:35:27.610Z",
+	"timestamp": "2025-08-04T04:03:51.572Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.33
+			"chance": 70.33,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.64
+			"chance": 61.64,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.84
+			"chance": 21.84,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,19 +42,23 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.97
+			"chance": 18.97,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +66,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.51
+			"chance": 14.51,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -87,7 +95,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.76
+			"chance": 10.76,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -99,7 +108,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -124,6 +134,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

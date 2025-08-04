@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-03T09:35:41.358Z",
+	"timestamp": "2025-08-04T04:03:53.740Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 23.69
+			"chance": 23.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.29
+			"chance": 16.29,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -92,6 +96,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.58
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

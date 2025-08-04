@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-03T09:35:49.536Z",
+	"timestamp": "2025-08-04T04:03:55.134Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.76
+			"chance": 16.76,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.3
+			"chance": 8.3,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +70,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-03T09:35:32.047Z",
+	"timestamp": "2025-08-04T04:03:52.144Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.47
+			"chance": 15.47,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -88,6 +89,21 @@
 		{
 			"name": "The Welter",
 			"chance": 4.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

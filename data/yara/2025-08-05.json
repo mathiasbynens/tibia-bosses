@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-08-05T09:39:26.419Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.44
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 54.26
+		},
+		{
+			"name": "yeti",
+			"chance": 29.89
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.41
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 28.67
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.33
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.89
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 19.43
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.17
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.77
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.48
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.84
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.73
+		}
+	]
+}

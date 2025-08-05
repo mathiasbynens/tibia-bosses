@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-04T09:41:51.035Z",
+	"timestamp": "2025-08-05T03:58:37.252Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +87,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.99
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-04T09:42:00.773Z",
+	"timestamp": "2025-08-05T03:58:38.705Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.14
+			"chance": 28.14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

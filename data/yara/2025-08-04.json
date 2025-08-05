@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-04T09:42:18.354Z",
+	"timestamp": "2025-08-05T03:58:40.983Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "yeti",

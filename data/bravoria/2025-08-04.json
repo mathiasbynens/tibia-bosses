@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-04T09:41:29.343Z",
+	"timestamp": "2025-08-05T03:58:33.284Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 28.09
+			"chance": 28.09,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.79
+			"chance": 22.79,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -60,6 +63,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-04T09:41:40.569Z",
+	"timestamp": "2025-08-05T03:58:35.535Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.33
+			"chance": 28.33,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.84
+			"chance": 13.84,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -80,6 +85,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.29
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

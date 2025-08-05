@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-04T09:42:06.802Z",
+	"timestamp": "2025-08-05T03:58:39.566Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.58
+			"chance": 14.58,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.03
+			"chance": 7.03,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -108,6 +111,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.67
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

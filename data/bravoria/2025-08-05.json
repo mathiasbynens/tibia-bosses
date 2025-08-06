@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-05T09:38:53.625Z",
+	"timestamp": "2025-08-06T03:56:31.061Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",

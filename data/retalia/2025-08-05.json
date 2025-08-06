@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-05T09:39:15.509Z",
+	"timestamp": "2025-08-06T03:56:35.054Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.85
+			"chance": 25.85,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.06
+			"chance": 6.06,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

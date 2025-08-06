@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-05T09:39:05.216Z",
+	"timestamp": "2025-08-06T03:56:33.199Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.66
+			"chance": 61.66,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -88,6 +90,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

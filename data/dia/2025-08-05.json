@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-05T09:38:57.251Z",
+	"timestamp": "2025-08-06T03:56:31.917Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.24
+			"chance": 24.24,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.14
+			"chance": 13.14,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.45
+			"chance": 12.45,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

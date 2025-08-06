@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-05T09:38:49.863Z",
+	"timestamp": "2025-08-06T03:56:30.367Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.68
+			"chance": 20.68,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.77
+			"chance": 14.77,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -95,11 +99,22 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.77
+			"chance": 4.77,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

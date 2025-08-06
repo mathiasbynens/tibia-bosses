@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-05T09:39:22.782Z",
+	"timestamp": "2025-08-06T03:56:36.452Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.81
+			"chance": 31.81,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -116,6 +120,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-05T09:39:08.953Z",
+	"timestamp": "2025-08-06T03:56:33.816Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -71,11 +72,28 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 3.92
+			"chance": 3.92,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.71
+			"chance": 3.71,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-06T09:39:24.616Z",
+	"timestamp": "2025-08-07T03:56:39.612Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.44
+			"chance": 38.44,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.22
+			"chance": 34.22,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.11
+			"chance": 13.11,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.05
+			"chance": 12.05,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.72
+			"chance": 6.72,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -104,6 +111,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.99
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

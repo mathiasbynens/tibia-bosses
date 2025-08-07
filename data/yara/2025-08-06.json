@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-06T09:39:52.246Z",
+	"timestamp": "2025-08-07T03:56:45.317Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 74.77
+			"chance": 74.77,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.3
+			"chance": 42.3,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -60,6 +63,16 @@
 		{
 			"name": "Captain Jones",
 			"chance": 5.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

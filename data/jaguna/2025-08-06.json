@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-06T09:39:35.620Z",
+	"timestamp": "2025-08-07T03:56:41.839Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.61
+			"chance": 14.61,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.83
+			"chance": 8.83,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -84,6 +86,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.57
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

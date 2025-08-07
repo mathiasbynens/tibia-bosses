@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-06T09:39:20.872Z",
+	"timestamp": "2025-08-07T03:56:38.684Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.02
+			"chance": 94.02,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -64,6 +65,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.45
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

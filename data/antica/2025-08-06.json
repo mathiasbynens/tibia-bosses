@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-06T09:39:17.044Z",
+	"timestamp": "2025-08-07T03:56:38.011Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.57
+			"chance": 53.57,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.45
+			"chance": 26.45,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +113,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-06T09:39:49.119Z",
+	"timestamp": "2025-08-07T03:56:44.673Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.21
+			"chance": 31.21,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.98
+			"chance": 18.98,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 6.78
+			"chance": 6.78,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -120,6 +125,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

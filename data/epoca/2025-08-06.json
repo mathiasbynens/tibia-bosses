@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-06T09:39:28.367Z",
+	"timestamp": "2025-08-07T03:56:40.310Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 41.1
+			"chance": 41.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 41.05
+			"chance": 41.05,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -84,6 +87,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

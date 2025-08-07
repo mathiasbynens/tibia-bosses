@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-06T09:39:41.582Z",
+	"timestamp": "2025-08-07T03:56:43.083Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 44.83
+			"chance": 44.83,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.04
+			"chance": 38.04,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-06T09:39:45.343Z",
+	"timestamp": "2025-08-07T03:56:43.859Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.25
+			"chance": 37.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.15
+			"chance": 29.15,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.56
+			"chance": 25.56,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.19
+			"chance": 22.19,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.25
+			"chance": 10.25,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.77
+			"chance": 9.77,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -120,6 +126,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

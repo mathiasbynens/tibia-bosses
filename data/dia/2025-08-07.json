@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-08-07T09:38:48.942Z",
+	"timestamp": "2025-08-08T03:56:20.541Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 43.58
+			"chance": 43.58,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.5
+			"chance": 37.5,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.19
+			"chance": 24.19,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -88,6 +91,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.57
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

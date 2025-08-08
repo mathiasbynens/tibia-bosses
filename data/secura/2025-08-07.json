@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-07T09:39:07.869Z",
+	"timestamp": "2025-08-08T03:56:25.300Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.61
+			"chance": 23.61,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.6
+			"chance": 19.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.15
+			"chance": 8.15,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -120,6 +123,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

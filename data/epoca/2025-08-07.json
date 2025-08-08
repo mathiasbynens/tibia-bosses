@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-07T09:38:52.663Z",
+	"timestamp": "2025-08-08T03:56:21.491Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.77
+			"chance": 36.77,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-07T09:39:14.115Z",
+	"timestamp": "2025-08-08T03:56:28.138Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.27
+			"chance": 65.27,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

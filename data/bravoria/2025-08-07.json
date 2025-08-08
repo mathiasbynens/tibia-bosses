@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-07T09:38:45.534Z",
+	"timestamp": "2025-08-08T03:56:19.677Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.36
+			"chance": 80.36,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -72,6 +76,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-08-09T09:34:22.544Z",
+	"bosses": [
+		{
+			"name": "The Handmaiden",
+			"chance": 40.89
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 31.87
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.82
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 30.29
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.02
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 18.32
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.27
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.25
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.35
+		},
+		{
+			"name": "General Murius",
+			"chance": 17
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.08
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 14.59
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.22
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.21
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.71
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.39
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.17
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.81
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.05
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.75
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.79
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.26
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.74
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.13
+		}
+	]
+}

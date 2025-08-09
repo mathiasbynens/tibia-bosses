@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-08T09:39:00.030Z",
+	"timestamp": "2025-08-09T03:47:29.491Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.05
+			"chance": 67.05,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.89
+			"chance": 63.89,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "Massacre",

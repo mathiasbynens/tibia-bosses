@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-08T09:39:19.028Z",
+	"timestamp": "2025-08-09T03:47:33.800Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.72
+			"chance": 42.72,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.25
+			"chance": 24.25,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.44
+			"chance": 23.44,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.23
+			"chance": 11.23,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.57
+			"chance": 7.57,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +117,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.58
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

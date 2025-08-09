@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-08T09:38:55.806Z",
+	"timestamp": "2025-08-09T03:47:28.768Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.35
+			"chance": 14.35,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.07
+			"chance": 10.07,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +82,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

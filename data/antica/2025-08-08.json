@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-08-08T09:38:47.177Z",
+	"timestamp": "2025-08-09T03:47:27.137Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.55
+			"chance": 81.55,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.27
+			"chance": 65.27,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.55
+			"chance": 36.55,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.51
+			"chance": 13.51,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.4
+			"chance": 13.4,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.92
+			"chance": 4.92,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +102,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-08T09:39:06.620Z",
+	"timestamp": "2025-08-09T03:47:30.997Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.28
+			"chance": 22.28,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 14.59
+			"chance": 14.59,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -100,6 +104,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.74
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

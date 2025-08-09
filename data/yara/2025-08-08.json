@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-08T09:39:22.746Z",
+	"timestamp": "2025-08-09T03:47:34.413Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 29.09
+			"chance": 29.09,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

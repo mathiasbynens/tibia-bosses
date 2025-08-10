@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-09T09:34:48.067Z",
+	"timestamp": "2025-08-10T03:55:30.092Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.49
+			"chance": 5.49,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -116,6 +118,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.62
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

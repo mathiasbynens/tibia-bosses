@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-09T09:34:40.654Z",
+	"timestamp": "2025-08-10T03:55:28.752Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -88,6 +88,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-09T09:34:51.769Z",
+	"timestamp": "2025-08-10T03:55:30.736Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -48,6 +48,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-09T09:34:15.084Z",
+	"timestamp": "2025-08-10T03:55:22.662Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,15 +33,18 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.15
+			"chance": 16.15,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.89
+			"chance": 13.89,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.81
+			"chance": 9.81,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +103,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

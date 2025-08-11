@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-10T09:34:19.699Z",
+	"timestamp": "2025-08-11T03:56:15.418Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.56
+			"chance": 62.56,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.22
+			"chance": 25.22,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -63,11 +66,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 7.1
+			"chance": 7.1,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.03
+			"chance": 7.03,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +85,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.62
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

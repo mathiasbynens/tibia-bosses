@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-08-10T09:34:26.848Z",
+	"timestamp": "2025-08-11T03:56:16.966Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.33
+			"chance": 70.33,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.63
+			"chance": 45.63,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -100,6 +104,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

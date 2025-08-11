@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-10T09:34:51.828Z",
+	"timestamp": "2025-08-11T03:56:21.465Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 23.36
+			"chance": 23.36,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.78
+			"chance": 7.78,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.61
+			"chance": 5.61,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +118,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.73
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

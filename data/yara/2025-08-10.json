@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-10T09:34:55.353Z",
+	"timestamp": "2025-08-11T03:56:22.097Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.12
+			"chance": 46.12,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.03
+			"chance": 31.03,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.26
+			"chance": 10.26,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-10T09:34:23.309Z",
+	"timestamp": "2025-08-11T03:56:16.125Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.21
+			"chance": 18.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,11 +61,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.33
+			"chance": 8.33,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.31
+			"chance": 8.31,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +92,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.26
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

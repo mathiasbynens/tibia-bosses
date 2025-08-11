@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-10T09:34:48.303Z",
+	"timestamp": "2025-08-11T03:56:20.695Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 37.94
+			"chance": 37.94,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.64
+			"chance": 36.64,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.14
+			"chance": 20.14,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -100,6 +103,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.51
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

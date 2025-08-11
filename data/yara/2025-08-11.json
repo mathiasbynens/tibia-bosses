@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-08-11T09:38:37.352Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 51.99
+		},
+		{
+			"name": "Barbaria",
+			"chance": 27.41
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.43
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 22.91
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.22
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21.72
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.12
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.17
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.52
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.49
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 7.13
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.06
+		}
+	]
+}

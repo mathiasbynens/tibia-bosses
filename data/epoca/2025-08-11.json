@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-11T09:38:15.404Z",
+	"timestamp": "2025-08-12T03:47:00.078Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -88,6 +89,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

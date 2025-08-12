@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-11T09:38:05.959Z",
+	"timestamp": "2025-08-12T03:46:58.104Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.4
+			"chance": 27.4,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +105,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-11T09:38:27.915Z",
+	"timestamp": "2025-08-12T03:47:02.485Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.39
+			"chance": 29.39,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 24.14
+			"chance": 24.14,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,11 +79,17 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.92
+			"chance": 4.92,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

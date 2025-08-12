@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-11T09:38:12.206Z",
+	"timestamp": "2025-08-12T03:46:59.506Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.31
+			"chance": 42.31,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.17
+			"chance": 20.17,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.5
+			"chance": 19.5,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.05
+			"chance": 13.05,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.29
+			"chance": 3.29,
+			"killed": true
 		}
 	]
 }

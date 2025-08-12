@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-11T09:38:34.120Z",
+	"timestamp": "2025-08-12T03:47:05.027Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 36.68
+			"chance": 36.68,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.84
+			"chance": 8.84,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -108,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.36
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-11T09:38:19.047Z",
+	"timestamp": "2025-08-12T03:47:00.702Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 43.61
+			"chance": 43.61,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",

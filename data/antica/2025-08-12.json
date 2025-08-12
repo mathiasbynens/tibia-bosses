@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-08-12T09:35:43.521Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 51.99
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.51
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 26.46
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.62
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.61
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 22.16
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.65
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.46
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.84
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.99
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.78
+		},
+		{
+			"name": "White Pale",
+			"chance": 12.82
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.65
+		},
+		{
+			"name": "Omrafir",
+			"chance": 12.65
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.6
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.6
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.65
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.83
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 8.01
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.59
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.45
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.36
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.18
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.74
+		}
+	]
+}

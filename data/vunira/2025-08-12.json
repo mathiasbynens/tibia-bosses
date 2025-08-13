@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-12T09:36:16.568Z",
+	"timestamp": "2025-08-13T03:47:57.418Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.07
+			"chance": 38.07,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 32.67
+			"chance": 32.67,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 20.03
+			"chance": 20.03,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.37
+			"chance": 16.37,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -124,6 +130,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

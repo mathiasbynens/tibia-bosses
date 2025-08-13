@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-12T09:36:05.638Z",
+	"timestamp": "2025-08-13T03:47:55.577Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 5.64
+			"chance": 5.64,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

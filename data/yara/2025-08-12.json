@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-12T09:36:19.439Z",
+	"timestamp": "2025-08-13T03:47:58.013Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.7
+			"chance": 11.7,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -56,6 +57,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.35
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-12T09:35:46.813Z",
+	"timestamp": "2025-08-13T03:47:50.128Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.22
+			"chance": 22.22,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 21.69
+			"chance": 21.69,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -100,6 +102,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

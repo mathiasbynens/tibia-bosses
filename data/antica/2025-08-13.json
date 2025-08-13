@@ -1,0 +1,109 @@
+{
+	"timestamp": "2025-08-13T09:36:05.280Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 64.98
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.49
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.73
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.83
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 32.64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.51
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.6
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.24
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.36
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.35
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.9
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.5
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.49
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.1
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.63
+		},
+		{
+			"name": "White Pale",
+			"chance": 15.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.08
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.71
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.82
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 7.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.55
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.29
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.88
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.62
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.02
+		}
+	]
+}

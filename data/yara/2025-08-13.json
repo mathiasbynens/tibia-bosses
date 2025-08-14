@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-13T09:36:41.820Z",
+	"timestamp": "2025-08-14T03:48:59.028Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.2
+			"chance": 43.2,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.31
+			"chance": 42.31,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -52,6 +55,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 8.9
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

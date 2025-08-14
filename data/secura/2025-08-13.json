@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-13T09:36:34.199Z",
+	"timestamp": "2025-08-14T03:48:57.675Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.47
+			"chance": 38.47,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.48
+			"chance": 13.48,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.75
+			"chance": 6.75,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +123,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.18
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-13T09:36:24.795Z",
+	"timestamp": "2025-08-14T03:48:55.461Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.34
+			"chance": 70.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.78
+			"chance": 22.78,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.1
+			"chance": 16.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.31
+			"chance": 12.31,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",

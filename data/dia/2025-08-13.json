@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-13T09:36:13.583Z",
+	"timestamp": "2025-08-14T03:48:53.422Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.3
+			"chance": 65.3,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.3
+			"chance": 29.3,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.78
+			"chance": 28.78,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -96,6 +100,46 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-13T09:36:21.225Z",
+	"timestamp": "2025-08-14T03:48:54.768Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.64
+			"chance": 61.64,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.86
+			"chance": 17.86,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -120,6 +124,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

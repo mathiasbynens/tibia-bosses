@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-08-15T09:35:53.747Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 65.08
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 63.99
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.84
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.9
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.59
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.79
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.61
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.59
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.79
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-14T09:36:39.069Z",
+	"timestamp": "2025-08-15T03:48:08.190Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.1
+			"chance": 46.1,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.78
+			"chance": 42.78,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.54
+			"chance": 23.54,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -116,6 +122,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

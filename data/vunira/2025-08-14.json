@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-14T09:37:14.531Z",
+	"timestamp": "2025-08-15T03:48:17.973Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.78
+			"chance": 42.78,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.32
+			"chance": 42.32,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.47
+			"chance": 38.47,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 26.2
+			"chance": 26.2,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -124,6 +129,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.18
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

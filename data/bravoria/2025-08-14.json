@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-14T09:36:42.971Z",
+	"timestamp": "2025-08-15T03:48:08.987Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.63
+			"chance": 24.63,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.29
+			"chance": 16.29,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.82
+			"chance": 7.82,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +99,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.5
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

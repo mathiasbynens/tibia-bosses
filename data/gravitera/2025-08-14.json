@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-14T09:36:55.453Z",
+	"timestamp": "2025-08-15T03:48:13.249Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.34
+			"chance": 70.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.47
+			"chance": 38.47,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.74
+			"chance": 35.74,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 27.6
+			"chance": 27.6,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.63
+			"chance": 24.63,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.21
+			"chance": 14.21,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +115,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

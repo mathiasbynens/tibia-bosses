@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-14T09:36:51.322Z",
+	"timestamp": "2025-08-15T03:48:11.534Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.23
+			"chance": 22.23,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

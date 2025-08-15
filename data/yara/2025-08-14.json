@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-14T09:37:18.959Z",
+	"timestamp": "2025-08-15T03:48:18.769Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

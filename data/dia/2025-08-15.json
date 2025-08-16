@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-15T09:35:24.601Z",
+	"timestamp": "2025-08-16T03:46:04.268Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.59
+			"chance": 62.59,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 16.85
+			"chance": 16.85,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.67
+			"chance": 11.67,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -116,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.47
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

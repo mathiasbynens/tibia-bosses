@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-15T09:35:32.015Z",
+	"timestamp": "2025-08-16T03:46:05.482Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -79,11 +79,27 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.02
+			"chance": 4.02,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.16
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

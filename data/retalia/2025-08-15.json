@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-08-15T09:35:42.294Z",
+	"timestamp": "2025-08-16T03:46:08.160Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 39.65
+			"chance": 39.65,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.5
+			"chance": 39.5,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -88,6 +91,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

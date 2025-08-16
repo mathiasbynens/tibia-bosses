@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-15T09:35:28.287Z",
+	"timestamp": "2025-08-16T03:46:04.814Z",
 	"bosses": [
 		{
 			"name": "The Welter",
-			"chance": 64.72
+			"chance": 64.72,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 41.45
+			"chance": 41.45,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 34.57
+			"chance": 34.57,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.14
+			"chance": 28.14,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +93,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.74
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

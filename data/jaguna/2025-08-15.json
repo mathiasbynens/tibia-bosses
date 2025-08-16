@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-15T09:35:35.621Z",
+	"timestamp": "2025-08-16T03:46:05.986Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -92,6 +92,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

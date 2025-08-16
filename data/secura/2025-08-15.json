@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-15T09:35:46.579Z",
+	"timestamp": "2025-08-16T03:46:08.810Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.42
+			"chance": 29.42,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.71
+			"chance": 14.71,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -116,6 +120,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

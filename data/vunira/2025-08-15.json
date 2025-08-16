@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-15T09:35:50.153Z",
+	"timestamp": "2025-08-16T03:46:09.412Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.29
+			"chance": 81.29,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.59
+			"chance": 31.59,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.6
+			"chance": 23.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.23
+			"chance": 23.23,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -112,6 +116,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.64
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

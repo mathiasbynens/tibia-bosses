@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-15T09:35:20.766Z",
+	"timestamp": "2025-08-16T03:46:03.548Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.63
+			"chance": 37.63,
+			"killed": true
 		},
 		{
 			"name": "yeti",

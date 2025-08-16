@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-15T09:35:17.163Z",
+	"timestamp": "2025-08-16T03:46:03.052Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 50.43
+			"chance": 50.43,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.53
+			"chance": 47.53,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 32.39
+			"chance": 32.39,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.51
+			"chance": 19.51,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.14
+			"chance": 8.14,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +122,36 @@
 		{
 			"name": "Morshabaal",
 			"chance": 1.83
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

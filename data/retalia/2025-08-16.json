@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-16T09:33:49.416Z",
+	"timestamp": "2025-08-17T03:48:46.927Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -80,6 +81,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

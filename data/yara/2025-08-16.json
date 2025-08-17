@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-16T09:34:01.100Z",
+	"timestamp": "2025-08-17T03:48:49.897Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -32,6 +34,16 @@
 		{
 			"name": "Fleabringer",
 			"chance": 12.53
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-16T09:33:53.376Z",
+	"timestamp": "2025-08-17T03:48:47.991Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.34
+			"chance": 70.34,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.66
+			"chance": 61.66,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -103,11 +108,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.72
+			"chance": 3.72,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

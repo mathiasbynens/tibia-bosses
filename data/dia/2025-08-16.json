@@ -1,25 +1,30 @@
 {
-	"timestamp": "2025-08-16T09:33:32.206Z",
+	"timestamp": "2025-08-17T03:48:42.195Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.8
+			"chance": 42.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 42.33
+			"chance": 42.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.5
+			"chance": 39.5,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.07
+			"chance": 38.07,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.73
+			"chance": 33.73,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,11 +45,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.22
+			"chance": 20.22,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.47
+			"chance": 19.47,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -111,7 +119,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 8.02
+			"chance": 8.02,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -124,6 +133,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

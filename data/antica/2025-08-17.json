@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-17T09:33:38.699Z",
+	"timestamp": "2025-08-18T03:52:46.340Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 40.86
+			"chance": 40.86,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.73
+			"chance": 19.73,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.07
+			"chance": 9.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

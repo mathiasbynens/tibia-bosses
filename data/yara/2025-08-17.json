@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-17T09:34:14.057Z",
+	"timestamp": "2025-08-18T03:52:55.900Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -36,6 +37,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

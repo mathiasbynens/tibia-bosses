@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-17T09:33:56.551Z",
+	"timestamp": "2025-08-18T03:52:50.244Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.62
+			"chance": 7.62,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -88,6 +90,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.34
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

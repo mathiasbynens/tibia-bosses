@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-17T09:33:42.268Z",
+	"timestamp": "2025-08-18T03:52:47.102Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 17.02
+			"chance": 17.02,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -104,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.75
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

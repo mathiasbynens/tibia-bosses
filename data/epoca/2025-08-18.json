@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-08-18T09:37:49.987Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.8
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.84
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 24.17
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.25
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.17
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 22.08
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.85
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.88
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.32
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.64
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.31
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.07
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.06
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.79
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.48
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.83
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.53
+		}
+	]
+}

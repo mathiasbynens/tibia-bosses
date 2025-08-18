@@ -1,0 +1,129 @@
+{
+	"timestamp": "2025-08-18T09:37:42.700Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.27
+		},
+		{
+			"name": "Xenia",
+			"chance": 45.94
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.34
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.51
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 28.66
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.61
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 22.17
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.18
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 17.76
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.55
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 17.12
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.11
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.99
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.54
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.19
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 10.06
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.68
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 9.28
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.89
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.54
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.33
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.32
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.33
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.13
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.07
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.94
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.59
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.57
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.26
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.68
+		}
+	]
+}

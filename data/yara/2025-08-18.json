@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-18T09:38:15.037Z",
+	"timestamp": "2025-08-19T03:44:58.827Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 23.09
+			"chance": 23.09,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -44,6 +47,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

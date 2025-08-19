@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-18T09:38:07.699Z",
+	"timestamp": "2025-08-19T03:44:57.096Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 39.77
+			"chance": 39.77,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.63
+			"chance": 5.63,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-08-18T09:37:39.105Z",
+	"timestamp": "2025-08-19T03:44:50.360Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.47
+			"chance": 81.47,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.29
+			"chance": 35.29,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 32.69
+			"chance": 32.69,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -27,11 +31,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.24
+			"chance": 22.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.08
+			"chance": 10.08,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -96,6 +103,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.81
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

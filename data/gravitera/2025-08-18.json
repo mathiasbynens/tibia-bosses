@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-18T09:37:53.423Z",
+	"timestamp": "2025-08-19T03:44:53.962Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.38
+			"chance": 14.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.72
+			"chance": 13.72,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -88,6 +90,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

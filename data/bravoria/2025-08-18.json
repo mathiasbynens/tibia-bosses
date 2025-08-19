@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-18T09:37:42.700Z",
+	"timestamp": "2025-08-19T03:44:51.332Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.27
+			"chance": 65.27,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.34
+			"chance": 42.34,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 22.17
+			"chance": 22.17,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.19
+			"chance": 11.19,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -124,6 +129,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-18T09:38:04.083Z",
+	"timestamp": "2025-08-19T03:44:56.148Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -95,11 +96,17 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.67
+			"chance": 5.67,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

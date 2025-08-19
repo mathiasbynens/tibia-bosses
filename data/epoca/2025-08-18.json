@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-18T09:37:49.987Z",
+	"timestamp": "2025-08-19T03:44:53.069Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.79
+			"chance": 10.79,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -72,6 +73,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

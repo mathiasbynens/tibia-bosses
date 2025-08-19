@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-18T09:38:11.569Z",
+	"timestamp": "2025-08-19T03:44:57.933Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.33
+			"chance": 70.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.34
+			"chance": 62.34,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.17
+			"chance": 22.17,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.79
+			"chance": 15.79,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -112,6 +117,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

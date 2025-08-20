@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-08-20T09:34:39.285Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 43.43
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 33.73
+		},
+		{
+			"name": "The Welter",
+			"chance": 29.25
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 24.15
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 23.18
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.31
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 21.43
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.73
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.12
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.75
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.99
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.59
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 15.25
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.66
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.64
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.23
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.05
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.64
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.71
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.73
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.69
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.45
+		},
+		{
+			"name": "The Abomination",
+			"chance": 2.95
+		}
+	]
+}

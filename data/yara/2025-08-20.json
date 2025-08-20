@@ -1,0 +1,29 @@
+{
+	"timestamp": "2025-08-20T09:35:25.212Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.35
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.9
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.2
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.11
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.45
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.98
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-19T09:34:50.577Z",
+	"timestamp": "2025-08-20T03:44:05.784Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.04
+			"chance": 10.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +103,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

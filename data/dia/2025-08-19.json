@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-19T09:34:40.735Z",
+	"timestamp": "2025-08-20T03:44:04.023Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.05
+			"chance": 74.05,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.74
+			"chance": 32.74,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 20.92
+			"chance": 20.92,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +91,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.83
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

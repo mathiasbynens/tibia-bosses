@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-19T09:35:18.189Z",
+	"timestamp": "2025-08-20T03:44:11.619Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.84
+			"chance": 13.84,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -24,6 +25,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

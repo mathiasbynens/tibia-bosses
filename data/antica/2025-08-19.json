@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-19T09:34:31.743Z",
+	"timestamp": "2025-08-20T03:44:02.152Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.86
+			"chance": 9.86,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +98,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.55
+			"chance": 3.55,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-19T09:34:45.766Z",
+	"timestamp": "2025-08-20T03:44:04.818Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.35
+			"chance": 70.35,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -72,6 +73,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

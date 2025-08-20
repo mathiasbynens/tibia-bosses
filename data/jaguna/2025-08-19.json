@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-19T09:34:55.721Z",
+	"timestamp": "2025-08-20T03:44:06.946Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.17
+			"chance": 46.17,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -100,6 +103,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.6
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

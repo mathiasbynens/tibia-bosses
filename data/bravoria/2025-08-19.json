@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-19T09:34:36.044Z",
+	"timestamp": "2025-08-20T03:44:02.948Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -100,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-19T09:35:04.162Z",
+	"timestamp": "2025-08-20T03:44:08.664Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.17
+			"chance": 46.17,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 43.81
+			"chance": 43.81,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.57
+			"chance": 18.57,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.26
+			"chance": 18.26,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

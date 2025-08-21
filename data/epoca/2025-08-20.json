@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-20T09:34:49.090Z",
+	"timestamp": "2025-08-21T03:43:44.733Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +81,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-20T09:34:44.103Z",
+	"timestamp": "2025-08-21T03:43:43.916Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.83
+			"chance": 4.83,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.29
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

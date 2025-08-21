@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-20T09:34:39.285Z",
+	"timestamp": "2025-08-21T03:43:43.059Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 43.43
+			"chance": 43.43,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 33.73
+			"chance": 33.73,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 17.75
+			"chance": 17.75,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

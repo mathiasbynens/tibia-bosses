@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-20T09:34:58.538Z",
+	"timestamp": "2025-08-21T03:43:46.152Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.84
+			"chance": 39.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",

@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-08-21T09:35:21.730Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.09
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.63
+		},
+		{
+			"name": "General Murius",
+			"chance": 14.93
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.92
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.79
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.12
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.5
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.94
+		}
+	]
+}

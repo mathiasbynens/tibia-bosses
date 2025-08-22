@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-08-22T09:35:00.548Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 31.83
+		},
+		{
+			"name": "General Murius",
+			"chance": 29.26
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.14
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.13
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.17
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.75
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.81
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.73
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.81
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.34
+		}
+	]
+}

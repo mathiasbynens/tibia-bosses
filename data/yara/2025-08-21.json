@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-21T09:35:21.730Z",
+	"timestamp": "2025-08-22T03:44:03.927Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.09
+			"chance": 74.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -40,6 +41,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

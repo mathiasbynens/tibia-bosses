@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-21T09:35:05.033Z",
+	"timestamp": "2025-08-22T03:44:00.707Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -100,6 +101,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.73
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

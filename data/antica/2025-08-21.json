@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-21T09:34:47.972Z",
+	"timestamp": "2025-08-22T03:43:57.434Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.35
+			"chance": 70.35,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 19.61
+			"chance": 19.61,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.19
+			"chance": 19.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.4
+			"chance": 14.4,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

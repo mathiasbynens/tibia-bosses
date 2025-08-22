@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-21T09:35:18.077Z",
+	"timestamp": "2025-08-22T03:44:03.342Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.5
+			"chance": 27.5,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

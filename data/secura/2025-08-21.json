@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-21T09:35:14.779Z",
+	"timestamp": "2025-08-22T03:44:02.675Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 38.62
+			"chance": 38.62,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.73
+			"chance": 35.73,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.35
+			"chance": 22.35,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.07
+			"chance": 22.07,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -87,11 +92,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.78
+			"chance": 4.78,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 4.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

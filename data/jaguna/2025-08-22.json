@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-22T09:34:41.721Z",
+	"timestamp": "2025-08-23T03:41:08.835Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.09
+			"chance": 22.09,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.66
+			"chance": 18.66,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -107,7 +109,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.24
+			"chance": 4.24,
+			"killed": true
 		}
 	]
 }

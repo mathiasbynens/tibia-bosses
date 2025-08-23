@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-22T09:34:37.271Z",
+	"timestamp": "2025-08-23T03:41:08.186Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.23
+			"chance": 15.23,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.48
+			"chance": 11.48,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -88,6 +90,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

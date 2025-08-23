@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-22T09:35:00.548Z",
+	"timestamp": "2025-08-23T03:41:11.986Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -44,6 +44,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.34
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-22T09:34:52.506Z",
+	"timestamp": "2025-08-23T03:41:10.735Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.59
+			"chance": 62.59,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.59
+			"chance": 53.59,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.36
+			"chance": 35.36,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.84
+			"chance": 29.84,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -75,11 +80,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.13
+			"chance": 7.13,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -112,6 +120,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.22
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

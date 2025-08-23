@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-22T09:34:33.219Z",
+	"timestamp": "2025-08-23T03:41:07.401Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.37
+			"chance": 79.37,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.14
+			"chance": 28.14,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.08
+			"chance": 21.08,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -80,6 +84,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

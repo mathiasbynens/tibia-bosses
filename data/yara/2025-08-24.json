@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-08-24T09:33:08.963Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 53.45
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.1
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.56
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.67
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.63
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.83
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 15.94
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.34
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.54
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.31
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.59
+		}
+	]
+}

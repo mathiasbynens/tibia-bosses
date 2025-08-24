@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-23T09:32:40.091Z",
+	"timestamp": "2025-08-24T03:46:45.696Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 51.31
+			"chance": 51.31,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.36
+			"chance": 42.36,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -92,6 +94,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 7.84
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

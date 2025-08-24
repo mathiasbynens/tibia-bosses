@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-23T09:32:46.180Z",
+	"timestamp": "2025-08-24T03:46:47.145Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.56
+			"chance": 17.56,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

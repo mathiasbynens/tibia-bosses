@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-23T09:32:33.743Z",
+	"timestamp": "2025-08-24T03:46:44.045Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 23.93
+			"chance": 23.93,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -80,6 +81,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.7
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

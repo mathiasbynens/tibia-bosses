@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-23T09:32:36.892Z",
+	"timestamp": "2025-08-24T03:46:44.874Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.79
+			"chance": 29.79,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.65
+			"chance": 14.65,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -92,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

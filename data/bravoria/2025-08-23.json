@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-23T09:32:27.611Z",
+	"timestamp": "2025-08-24T03:46:42.389Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.2
+			"chance": 46.2,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.08
+			"chance": 38.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.54
+			"chance": 29.54,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

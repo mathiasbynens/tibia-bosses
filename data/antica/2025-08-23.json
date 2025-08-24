@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-23T09:32:24.159Z",
+	"timestamp": "2025-08-24T03:46:41.634Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.62
+			"chance": 53.62,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.72
+			"chance": 21.72,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -71,11 +74,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.71
+			"chance": 6.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 5.24
+			"chance": 5.24,
+			"killed": true
 		},
 		{
 			"name": "Morshabaal",
@@ -116,6 +123,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-23T09:32:55.575Z",
+	"timestamp": "2025-08-24T03:46:49.734Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.34
+			"chance": 70.34,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.86
+			"chance": 39.86,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.09
+			"chance": 21.09,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -60,6 +63,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

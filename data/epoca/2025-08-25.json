@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-08-25T09:35:30.623Z",
+	"bosses": [
+		{
+			"name": "Xenia",
+			"chance": 46.1
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 22.24
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.88
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.74
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.82
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.01
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.49
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.99
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.68
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.97
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.97
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.66
+		},
+		{
+			"name": "Shlorg",
+			"chance": 12.9
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 11.74
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.77
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.57
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.32
+		}
+	]
+}

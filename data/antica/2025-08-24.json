@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-24T09:32:33.508Z",
+	"timestamp": "2025-08-25T03:46:34.853Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.43
+			"chance": 32.43,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.85
+			"chance": 22.85,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.09
+			"chance": 21.09,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.78
+			"chance": 14.78,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -104,6 +109,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-24T09:32:37.259Z",
+	"timestamp": "2025-08-25T03:46:35.417Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.09
+			"chance": 21.09,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -116,6 +118,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.81
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

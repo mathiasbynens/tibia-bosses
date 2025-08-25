@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-24T09:33:01.725Z",
+	"timestamp": "2025-08-25T03:46:39.815Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.55
+			"chance": 81.55,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.7
+			"chance": 61.7,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.5
+			"chance": 23.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.48
+			"chance": 13.48,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -59,19 +64,23 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.13
+			"chance": 9.13,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 8.44
+			"chance": 8.44,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -84,6 +93,31 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

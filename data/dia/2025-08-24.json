@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-24T09:32:40.793Z",
+	"timestamp": "2025-08-25T03:46:36.093Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.21
+			"chance": 22.21,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.49
+			"chance": 18.49,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -75,11 +78,13 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.09
+			"chance": 10.09,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.92
+			"chance": 9.92,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.67
+			"chance": 7.67,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -124,6 +130,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

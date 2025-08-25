@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-24T09:32:58.284Z",
+	"timestamp": "2025-08-25T03:46:39.079Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.84
+			"chance": 13.84,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -68,6 +70,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 7.73
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

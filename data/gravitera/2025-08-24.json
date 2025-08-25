@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-08-24T09:32:48.105Z",
+	"timestamp": "2025-08-25T03:46:37.419Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.35
+			"chance": 62.35,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.08
+			"chance": 31.08,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

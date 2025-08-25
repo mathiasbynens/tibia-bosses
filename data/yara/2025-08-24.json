@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-24T09:33:08.963Z",
+	"timestamp": "2025-08-25T03:46:41.021Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.45
+			"chance": 53.45,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.1
+			"chance": 38.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.63
+			"chance": 20.63,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -52,6 +55,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.59
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

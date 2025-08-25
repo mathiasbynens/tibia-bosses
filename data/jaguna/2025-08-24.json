@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-24T09:32:51.867Z",
+	"timestamp": "2025-08-25T03:46:37.970Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.92
+			"chance": 13.92,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +90,11 @@
 		{
 			"name": "The Handmaiden",
 			"chance": 6.1
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

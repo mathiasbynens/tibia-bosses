@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-24T09:33:05.412Z",
+	"timestamp": "2025-08-25T03:46:40.558Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.56
+			"chance": 32.56,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.37
+			"chance": 29.37,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -104,6 +109,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

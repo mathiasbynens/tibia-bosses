@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-25T09:35:46.845Z",
+	"timestamp": "2025-08-26T03:44:43.510Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.47
+			"chance": 81.47,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.59
+			"chance": 15.59,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.21
+			"chance": 12.21,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -84,6 +87,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

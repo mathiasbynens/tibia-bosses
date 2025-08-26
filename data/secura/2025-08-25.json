@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-25T09:35:51.080Z",
+	"timestamp": "2025-08-26T03:44:44.444Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.75
+			"chance": 13.75,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +82,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

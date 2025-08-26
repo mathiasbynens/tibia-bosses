@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-25T09:35:19.892Z",
+	"timestamp": "2025-08-26T03:44:38.674Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -87,7 +87,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

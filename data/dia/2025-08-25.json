@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-25T09:35:24.699Z",
+	"timestamp": "2025-08-26T03:44:39.650Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.29
+			"chance": 79.29,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.3
+			"chance": 47.3,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,15 +17,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.31
+			"chance": 28.31,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.62
+			"chance": 24.62,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.68
+			"chance": 12.68,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -111,7 +117,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.32
+			"chance": 5.32,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -120,6 +127,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

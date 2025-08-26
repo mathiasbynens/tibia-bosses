@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-25T09:35:15.324Z",
+	"timestamp": "2025-08-26T03:44:37.894Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.42
+			"chance": 80.42,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.77
+			"chance": 14.77,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -104,6 +107,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

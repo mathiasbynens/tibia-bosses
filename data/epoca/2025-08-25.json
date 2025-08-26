@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-25T09:35:30.623Z",
+	"timestamp": "2025-08-26T03:44:40.432Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -76,6 +76,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

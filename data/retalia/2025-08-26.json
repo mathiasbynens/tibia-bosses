@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-26T09:35:48.444Z",
+	"timestamp": "2025-08-27T03:41:08.242Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.8
+			"chance": 29.8,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.62
+			"chance": 24.62,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",

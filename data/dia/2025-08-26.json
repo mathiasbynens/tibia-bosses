@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-26T09:35:29.062Z",
+	"timestamp": "2025-08-27T03:41:04.884Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.6
+			"chance": 53.6,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.19
+			"chance": 22.19,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",

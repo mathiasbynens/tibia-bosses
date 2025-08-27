@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-26T09:35:36.942Z",
+	"timestamp": "2025-08-27T03:41:06.319Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.3
+			"chance": 39.3,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 37.95
+			"chance": 37.95,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.74
+			"chance": 13.74,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -80,6 +83,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.49
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

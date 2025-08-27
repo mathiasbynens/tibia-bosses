@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-26T09:35:21.390Z",
+	"timestamp": "2025-08-27T03:41:03.044Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.82
+			"chance": 42.82,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 36.67
+			"chance": 36.67,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 27.52
+			"chance": 27.52,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.14
+			"chance": 19.14,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.51
+			"chance": 16.51,
+			"killed": true
 		},
 		{
 			"name": "Dracola",

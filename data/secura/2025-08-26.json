@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-26T09:35:52.347Z",
+	"timestamp": "2025-08-27T03:41:09.133Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -104,6 +106,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

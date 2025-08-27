@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-08-27T09:34:28.663Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.27
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 43.28
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.44
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.23
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 23.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.86
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 12.03
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.48
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.03
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.84
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.42
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.13
+		}
+	]
+}

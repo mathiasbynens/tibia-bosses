@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-27T09:34:04.824Z",
+	"timestamp": "2025-08-28T03:41:02.692Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.79
+			"chance": 29.79,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -92,6 +96,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-27T09:33:53.285Z",
+	"timestamp": "2025-08-28T03:40:59.968Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.27
+			"chance": 79.27,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.34
+			"chance": 26.34,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 20.9
+			"chance": 20.9,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.61
+			"chance": 10.61,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -100,6 +104,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.11
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

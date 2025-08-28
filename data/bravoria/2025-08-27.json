@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-27T09:33:56.718Z",
+	"timestamp": "2025-08-28T03:41:00.724Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.86
+			"chance": 71.86,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.66
+			"chance": 13.66,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -104,6 +106,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.25
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

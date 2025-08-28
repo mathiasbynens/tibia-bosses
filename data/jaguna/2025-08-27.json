@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-27T09:34:11.898Z",
+	"timestamp": "2025-08-28T03:41:05.777Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.54
+			"chance": 39.54,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.31
+			"chance": 24.31,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.86
+			"chance": 15.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

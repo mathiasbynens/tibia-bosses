@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-27T09:34:28.663Z",
+	"timestamp": "2025-08-28T03:41:09.276Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.27
+			"chance": 79.27,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.86
+			"chance": 20.86,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -56,6 +58,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-28T09:34:13.655Z",
+	"timestamp": "2025-08-29T03:40:59.382Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.33
+			"chance": 70.33,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.47
+			"chance": 32.47,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -80,6 +83,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.7
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-08-28T09:34:28.633Z",
+	"timestamp": "2025-08-29T03:41:03.393Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.87
+			"chance": 42.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.34
+			"chance": 37.34,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 24.39
+			"chance": 24.39,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.68
+			"chance": 21.68,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -108,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

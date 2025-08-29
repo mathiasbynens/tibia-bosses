@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-28T09:33:58.916Z",
+	"timestamp": "2025-08-29T03:40:55.722Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.33
+			"chance": 70.33,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.1
+			"chance": 54.1,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -84,6 +86,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.31
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

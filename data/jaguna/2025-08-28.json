@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-28T09:34:17.585Z",
+	"timestamp": "2025-08-29T03:41:00.526Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -80,6 +80,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.02
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

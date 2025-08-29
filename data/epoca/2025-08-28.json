@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-28T09:34:09.915Z",
+	"timestamp": "2025-08-29T03:40:58.489Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.59
+			"chance": 20.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

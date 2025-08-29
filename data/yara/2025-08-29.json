@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-08-29T09:34:14.741Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 80.96
+		},
+		{
+			"name": "The Welter",
+			"chance": 38.48
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.84
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.09
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.59
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 16.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.61
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.66
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.25
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.68
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.64
+		},
+		{
+			"name": "Shlorg",
+			"chance": 9.9
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.88
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.35
+		}
+	]
+}

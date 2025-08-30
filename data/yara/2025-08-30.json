@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-08-30T09:32:24.178Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.33
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 46.28
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.31
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.14
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.84
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.99
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.91
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.24
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.36
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.25
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.7
+		}
+	]
+}

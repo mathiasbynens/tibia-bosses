@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-08-30T09:32:14.125Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 36.38
+		},
+		{
+			"name": "Tyrn",
+			"chance": 32.72
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 22.86
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.43
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.21
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 14.11
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.27
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.73
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.88
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.48
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.32
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.05
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.7
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.7
+		}
+	]
+}

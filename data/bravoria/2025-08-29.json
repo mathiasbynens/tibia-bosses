@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-29T09:33:44.325Z",
+	"timestamp": "2025-08-30T03:39:39.062Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.65
+			"chance": 23.65,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 14.93
+			"chance": 14.93,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +102,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.84
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-29T09:33:58.069Z",
+	"timestamp": "2025-08-30T03:39:42.107Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.99
+			"chance": 63.99,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.6
+			"chance": 37.6,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.53
+			"chance": 29.53,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -88,6 +91,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.78
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

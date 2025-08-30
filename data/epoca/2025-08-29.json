@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-29T09:33:51.374Z",
+	"timestamp": "2025-08-30T03:39:40.650Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.41
+			"chance": 28.41,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -76,6 +77,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

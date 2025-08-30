@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-29T09:34:11.191Z",
+	"timestamp": "2025-08-30T03:39:44.777Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.95
+			"chance": 29.95,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.16
+			"chance": 22.16,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.09
+			"chance": 21.09,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.05
+			"chance": 18.05,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.66
+			"chance": 7.66,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -115,7 +121,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.74
+			"chance": 6.74,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -128,6 +135,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.62
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-29T09:33:40.826Z",
+	"timestamp": "2025-08-30T03:39:38.220Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.72
+			"chance": 14.72,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -104,6 +107,16 @@
 		{
 			"name": "Omrafir",
 			"chance": 4.86
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

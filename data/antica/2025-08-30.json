@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-30T09:31:51.703Z",
+	"timestamp": "2025-08-31T03:41:44.289Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.25
+			"chance": 47.25,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.84
+			"chance": 33.84,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.63
+			"chance": 21.63,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 11.88
+			"chance": 11.88,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -124,6 +129,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

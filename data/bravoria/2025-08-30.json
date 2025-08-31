@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-30T09:31:54.649Z",
+	"timestamp": "2025-08-31T03:41:44.988Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.06
+			"chance": 38.06,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -76,6 +78,16 @@
 		{
 			"name": "Grandfather Tridian",
 			"chance": 5.14
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

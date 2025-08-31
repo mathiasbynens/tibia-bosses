@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-30T09:32:01.423Z",
+	"timestamp": "2025-08-31T03:41:46.580Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -80,6 +82,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.45
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

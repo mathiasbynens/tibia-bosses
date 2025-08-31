@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-30T09:32:04.943Z",
+	"timestamp": "2025-08-31T03:41:47.626Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.64
+			"chance": 62.64,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 11.88
+			"chance": 11.88,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",

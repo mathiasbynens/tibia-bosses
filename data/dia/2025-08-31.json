@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-31T09:31:31.369Z",
+	"timestamp": "2025-09-01T03:48:01.975Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 13.96
+			"chance": 13.96,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",

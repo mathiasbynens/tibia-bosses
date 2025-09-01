@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-31T09:31:57.335Z",
+	"timestamp": "2025-09-01T03:48:09.224Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 35.44
+			"chance": 35.44,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 22.11
+			"chance": 22.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.43
+			"chance": 15.43,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.48
+			"chance": 11.48,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +101,21 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

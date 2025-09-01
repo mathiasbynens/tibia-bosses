@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-08-31T09:31:53.633Z",
+	"timestamp": "2025-09-01T03:48:08.192Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.32
+			"chance": 70.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.06
+			"chance": 38.06,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.54
+			"chance": 12.54,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.5
+			"chance": 12.5,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -107,11 +111,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.69
+			"chance": 3.69,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-31T09:31:27.586Z",
+	"timestamp": "2025-09-01T03:48:00.876Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -76,6 +77,16 @@
 		{
 			"name": "Countess Sorrow",
 			"chance": 6.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

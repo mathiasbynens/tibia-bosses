@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-08-31T09:31:24.189Z",
+	"timestamp": "2025-09-01T03:48:00.034Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 50.3
+			"chance": 50.3,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.57
+			"chance": 9.57,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

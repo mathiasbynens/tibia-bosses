@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-08-31T09:31:35.608Z",
+	"timestamp": "2025-09-01T03:48:02.826Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.31
+			"chance": 79.31,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.06
+			"chance": 38.06,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.4
+			"chance": 28.4,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -80,6 +84,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

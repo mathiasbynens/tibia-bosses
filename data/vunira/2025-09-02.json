@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-09-02T09:34:24.093Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 46.25
+		},
+		{
+			"name": "White Pale",
+			"chance": 38.22
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.07
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.85
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.68
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.35
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 19.55
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.77
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.96
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.4
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 12.18
+		},
+		{
+			"name": "yeti",
+			"chance": 10.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.66
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.26
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 10.08
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.65
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 9.31
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.04
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.56
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 6.14
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.07
+		},
+		{
+			"name": "Barbaria",
+			"chance": 5.71
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.87
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.62
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.7
+		}
+	]
+}

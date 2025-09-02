@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-09-02T09:33:59.844Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.85
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.58
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 26.34
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 26.19
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.24
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.32
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 22.13
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.93
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.92
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.9
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 18.24
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.99
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.9
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.05
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.71
+		},
+		{
+			"name": "Barbaria",
+			"chance": 5.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.79
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.42
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.85
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.35
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.14
+		}
+	]
+}

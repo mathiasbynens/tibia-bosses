@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-01T09:35:54.144Z",
+	"timestamp": "2025-09-02T03:43:00.156Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.28
+			"chance": 13.28,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +94,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.64
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

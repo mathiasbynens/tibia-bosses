@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-01T09:36:01.825Z",
+	"timestamp": "2025-09-02T03:43:02.026Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.7
+			"chance": 8.7,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -68,6 +70,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.52
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

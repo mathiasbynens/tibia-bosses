@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-01T09:36:06.612Z",
+	"timestamp": "2025-09-02T03:43:03.070Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
-			"chance": 33.98
+			"chance": 33.98,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.09
+			"chance": 16.09,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 12.08
+			"chance": 12.08,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.45
+			"chance": 6.45,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",

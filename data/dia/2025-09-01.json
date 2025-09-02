@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-01T09:35:40.843Z",
+	"timestamp": "2025-09-02T03:42:57.784Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.05
+			"chance": 10.05,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -84,6 +87,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-01T09:35:30.776Z",
+	"timestamp": "2025-09-02T03:42:55.899Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 81.11
+			"chance": 81.11,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 44.01
+			"chance": 44.01,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.69
+			"chance": 21.69,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.06
+			"chance": 13.06,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.22
+			"chance": 10.22,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -115,7 +122,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.74
+			"chance": 6.74,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +132,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

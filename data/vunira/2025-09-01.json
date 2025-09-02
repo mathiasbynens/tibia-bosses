@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-01T09:36:10.564Z",
+	"timestamp": "2025-09-02T03:43:04.158Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.6
+			"chance": 81.6,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.91
+			"chance": 63.91,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 25.79
+			"chance": 25.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 20.39
+			"chance": 20.39,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.29
+			"chance": 18.29,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.95
+			"chance": 7.95,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +106,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.83
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

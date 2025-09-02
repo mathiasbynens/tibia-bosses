@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-01T09:36:14.263Z",
+	"timestamp": "2025-09-02T03:43:04.986Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.77
+			"chance": 61.77,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -52,6 +53,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

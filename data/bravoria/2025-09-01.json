@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-01T09:35:35.066Z",
+	"timestamp": "2025-09-02T03:42:56.640Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.26
+			"chance": 40.26,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.84
+			"chance": 31.84,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.49
+			"chance": 10.49,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -80,6 +83,16 @@
 		{
 			"name": "Barbaria",
 			"chance": 5.75
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-01T09:35:44.724Z",
+	"timestamp": "2025-09-02T03:42:58.566Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -72,6 +72,16 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.32
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

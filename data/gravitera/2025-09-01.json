@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-01T09:35:49.067Z",
+	"timestamp": "2025-09-02T03:42:59.452Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.81
+			"chance": 15.81,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.63
+			"chance": 15.63,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -92,6 +95,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

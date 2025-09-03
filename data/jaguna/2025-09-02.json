@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-02T09:34:10.865Z",
+	"timestamp": "2025-09-03T03:38:26.668Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.67
+			"chance": 38.67,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.55
+			"chance": 13.55,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -88,6 +91,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

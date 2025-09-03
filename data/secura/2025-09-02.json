@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-02T09:34:20.456Z",
+	"timestamp": "2025-09-03T03:38:29.159Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.35
+			"chance": 29.35,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.74
+			"chance": 14.74,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.29
+			"chance": 7.29,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -116,6 +120,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-02T09:34:27.376Z",
+	"timestamp": "2025-09-03T03:38:31.802Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.52
+			"chance": 81.52,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -56,6 +58,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.3
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

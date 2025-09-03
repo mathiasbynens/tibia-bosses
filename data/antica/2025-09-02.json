@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-02T09:33:53.447Z",
+	"timestamp": "2025-09-03T03:38:22.186Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.86
+			"chance": 39.86,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.64
+			"chance": 36.64,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.51
+			"chance": 23.51,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 22.08
+			"chance": 22.08,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.02
+			"chance": 18.02,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.92
+			"chance": 8.92,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -91,11 +98,27 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

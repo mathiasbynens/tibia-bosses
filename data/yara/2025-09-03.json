@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-09-03T09:33:46.321Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.52
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.53
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.82
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.64
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 19.13
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.56
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.13
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 13.99
+		},
+		{
+			"name": "General Murius",
+			"chance": 12.27
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.21
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 6.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.97
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.05
+		}
+	]
+}

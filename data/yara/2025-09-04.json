@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-09-04T09:34:02.241Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.31
+		},
+		{
+			"name": "Tyrn",
+			"chance": 22.11
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 22.1
+		},
+		{
+			"name": "Shlorg",
+			"chance": 22.04
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.58
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.45
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.07
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.77
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.6
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.17
+		}
+	]
+}

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-03T09:33:11.753Z",
+	"timestamp": "2025-09-04T03:39:04.853Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.11
+			"chance": 74.11,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 68.88
+			"chance": 68.88,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.86
+			"chance": 39.86,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 12.06
+			"chance": 12.06,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +92,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

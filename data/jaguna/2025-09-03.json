@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-03T09:33:27.818Z",
+	"timestamp": "2025-09-04T03:39:09.107Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -84,6 +84,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.63
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

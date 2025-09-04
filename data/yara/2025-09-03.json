@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-03T09:33:46.321Z",
+	"timestamp": "2025-09-04T03:39:13.640Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -56,6 +59,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

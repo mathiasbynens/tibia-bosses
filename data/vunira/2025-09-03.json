@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-03T09:33:42.598Z",
+	"timestamp": "2025-09-04T03:39:12.848Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.77
+			"chance": 61.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.42
+			"chance": 20.42,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.26
+			"chance": 19.26,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.47
+			"chance": 11.47,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -103,11 +109,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.74
+			"chance": 6.74,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +124,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

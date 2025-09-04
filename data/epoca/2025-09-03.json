@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-03T09:33:20.493Z",
+	"timestamp": "2025-09-04T03:39:07.362Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.08
+			"chance": 16.08,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -68,6 +70,41 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

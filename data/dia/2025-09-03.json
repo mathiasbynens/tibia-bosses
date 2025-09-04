@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-03T09:33:16.187Z",
+	"timestamp": "2025-09-04T03:39:06.325Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.61
+			"chance": 53.61,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.26
+			"chance": 46.26,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.51
+			"chance": 15.51,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.44
+			"chance": 5.44,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -104,6 +108,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.37
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

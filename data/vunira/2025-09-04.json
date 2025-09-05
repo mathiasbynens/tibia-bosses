@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-04T09:33:58.200Z",
+	"timestamp": "2025-09-05T03:39:58.156Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.68
+			"chance": 21.68,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 19.22
+			"chance": 19.22,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.37
+			"chance": 16.37,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-04T09:33:38.248Z",
+	"timestamp": "2025-09-05T03:39:51.746Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.36
+			"chance": 42.36,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +106,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

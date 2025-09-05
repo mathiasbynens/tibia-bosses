@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-04T09:34:02.241Z",
+	"timestamp": "2025-09-05T03:40:00.999Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.1
+			"chance": 22.1,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -44,6 +45,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 6.17
+		},
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

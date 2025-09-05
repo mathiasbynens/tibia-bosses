@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-04T09:33:42.347Z",
+	"timestamp": "2025-09-05T03:39:52.463Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.14
+			"chance": 19.14,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -84,6 +86,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.07
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

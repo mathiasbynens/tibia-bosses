@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-04T09:33:26.788Z",
+	"timestamp": "2025-09-05T03:39:47.054Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -84,6 +84,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

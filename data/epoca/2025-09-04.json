@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-04T09:33:34.421Z",
+	"timestamp": "2025-09-05T03:39:49.921Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -71,7 +72,18 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.26
+			"chance": 5.26,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

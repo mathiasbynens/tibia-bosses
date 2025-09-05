@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-09-05T09:34:00.431Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.25
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.83
+		},
+		{
+			"name": "Shlorg",
+			"chance": 28.42
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.8
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 24.4
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.15
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.56
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.26
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.3
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.55
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.44
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.51
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.06
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.36
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.36
+		}
+	]
+}

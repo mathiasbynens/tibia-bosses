@@ -1,0 +1,73 @@
+{
+	"timestamp": "2025-09-05T09:33:31.441Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 37.12
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 24.38
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.85
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.47
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.48
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.08
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.43
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.05
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.04
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.28
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.25
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.84
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.71
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.62
+		}
+	]
+}

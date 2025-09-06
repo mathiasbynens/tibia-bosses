@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-05T09:33:35.735Z",
+	"timestamp": "2025-09-06T03:37:57.567Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.13
+			"chance": 22.13,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -108,6 +110,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

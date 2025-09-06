@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-05T09:33:20.177Z",
+	"timestamp": "2025-09-06T03:37:52.779Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.25
+			"chance": 79.25,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 8.54
+			"chance": 8.54,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -88,6 +95,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

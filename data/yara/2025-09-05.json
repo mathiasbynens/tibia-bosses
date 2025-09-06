@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-05T09:34:00.431Z",
+	"timestamp": "2025-09-06T03:38:03.899Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.25
+			"chance": 79.25,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.83
+			"chance": 31.83,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.17
+			"chance": 28.17,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.26
+			"chance": 12.26,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

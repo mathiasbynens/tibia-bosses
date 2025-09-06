@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-05T09:33:23.933Z",
+	"timestamp": "2025-09-06T03:37:54.674Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.86
+			"chance": 33.86,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -92,6 +94,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

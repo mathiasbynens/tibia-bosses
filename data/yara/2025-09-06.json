@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-06T09:31:50.759Z",
+	"timestamp": "2025-09-07T03:40:03.768Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -52,6 +52,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.83
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

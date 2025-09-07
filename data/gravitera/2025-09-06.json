@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-06T09:31:32.505Z",
+	"timestamp": "2025-09-07T03:39:57.347Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.51
+			"chance": 23.51,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.69
+			"chance": 19.69,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.92
+			"chance": 18.92,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.15
+			"chance": 9.15,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -112,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.7
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

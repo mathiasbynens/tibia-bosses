@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-06T09:31:29.303Z",
+	"timestamp": "2025-09-07T03:39:56.374Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.21
+			"chance": 11.21,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",

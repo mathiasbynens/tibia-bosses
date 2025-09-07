@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-06T09:31:41.102Z",
+	"timestamp": "2025-09-07T03:39:59.909Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.66
+			"chance": 62.66,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.36
+			"chance": 42.36,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.02
+			"chance": 17.02,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.82
+			"chance": 15.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.41
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

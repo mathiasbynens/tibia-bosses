@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-06T09:31:22.867Z",
+	"timestamp": "2025-09-07T03:39:54.352Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.85
+			"chance": 45.85,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -95,7 +96,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.06
+			"chance": 6.06,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

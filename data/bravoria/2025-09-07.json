@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-07T09:31:19.860Z",
+	"timestamp": "2025-09-08T03:43:13.662Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.81
+			"chance": 61.81,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.46
+			"chance": 17.46,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +100,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

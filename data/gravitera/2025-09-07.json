@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-07T09:31:30.622Z",
+	"timestamp": "2025-09-08T03:43:17.783Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.28
+			"chance": 62.28,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.55
+			"chance": 38.55,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.07
+			"chance": 10.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -91,11 +97,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.78
+			"chance": 4.78,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

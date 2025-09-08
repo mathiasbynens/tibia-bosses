@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-07T09:31:27.239Z",
+	"timestamp": "2025-09-08T03:43:16.359Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.55
+			"chance": 38.55,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.11
+			"chance": 15.11,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -84,6 +86,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.75
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

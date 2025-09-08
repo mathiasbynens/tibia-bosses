@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-07T09:31:43.483Z",
+	"timestamp": "2025-09-08T03:43:21.696Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.29
+			"chance": 70.29,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.51
+			"chance": 47.51,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.18
+			"chance": 22.18,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.28
+			"chance": 7.28,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -124,6 +130,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

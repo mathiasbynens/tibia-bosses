@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-07T09:31:39.893Z",
+	"timestamp": "2025-09-08T03:43:20.339Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.38
+			"chance": 10.38,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -88,6 +90,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.56
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

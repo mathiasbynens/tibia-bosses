@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-08T09:34:55.984Z",
+	"timestamp": "2025-09-09T03:40:40.319Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.9
+			"chance": 42.9,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

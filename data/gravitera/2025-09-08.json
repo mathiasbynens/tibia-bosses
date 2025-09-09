@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-08T09:35:10.013Z",
+	"timestamp": "2025-09-09T03:40:44.029Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.57
+			"chance": 32.57,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

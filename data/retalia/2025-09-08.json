@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-08T09:35:18.993Z",
+	"timestamp": "2025-09-09T03:40:46.387Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.13
+			"chance": 22.13,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

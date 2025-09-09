@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-08T09:34:59.506Z",
+	"timestamp": "2025-09-09T03:40:41.304Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.35
+			"chance": 79.35,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.29
+			"chance": 70.29,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.16
+			"chance": 9.16,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -92,6 +95,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-08T09:35:28.725Z",
+	"timestamp": "2025-09-09T03:40:49.280Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.08
+			"chance": 38.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -68,6 +69,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 8.61
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

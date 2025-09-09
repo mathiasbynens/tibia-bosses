@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-08T09:35:25.481Z",
+	"timestamp": "2025-09-09T03:40:48.449Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.39
+			"chance": 14.39,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -120,6 +124,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-09T09:34:09.397Z",
+	"timestamp": "2025-09-10T03:38:36.505Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 54.44
+			"chance": 54.44,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.25
+			"chance": 26.25,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -71,11 +75,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 10.57
+			"chance": 10.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.95
+			"chance": 8.95,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -99,11 +105,42 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.56
+			"chance": 3.56,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

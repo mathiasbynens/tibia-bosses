@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-09T09:34:16.469Z",
+	"timestamp": "2025-09-10T03:38:38.237Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 6.17
+			"chance": 6.17,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -111,7 +113,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.28
+			"chance": 5.28,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +123,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.63
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

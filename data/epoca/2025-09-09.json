@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-09T09:34:19.970Z",
+	"timestamp": "2025-09-10T03:38:39.114Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 23.07
+			"chance": 23.07,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 23.06
+			"chance": 23.06,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 13.13
+			"chance": 13.13,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -80,6 +83,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

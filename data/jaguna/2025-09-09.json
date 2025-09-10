@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-09T09:34:27.706Z",
+	"timestamp": "2025-09-10T03:38:41.038Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -68,6 +68,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.78
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-09T09:34:45.370Z",
+	"timestamp": "2025-09-10T03:38:45.273Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
-			"chance": 61.82
+			"chance": 61.82,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.73
+			"chance": 37.73,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -64,6 +67,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 9.81
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

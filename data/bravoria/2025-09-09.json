@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-09T09:34:12.888Z",
+	"timestamp": "2025-09-10T03:38:37.346Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.23
+			"chance": 40.23,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.95
+			"chance": 30.95,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.39
+			"chance": 28.39,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +101,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.37
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

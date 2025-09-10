@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-09-10T09:33:49.325Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.32
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.8
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 41.29
+		},
+		{
+			"name": "The Imperor",
+			"chance": 37.31
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.72
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 24.45
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.36
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.15
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.03
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.71
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.08
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.36
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.08
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.04
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.03
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.56
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.58
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.17
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.52
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.04
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		}
+	]
+}

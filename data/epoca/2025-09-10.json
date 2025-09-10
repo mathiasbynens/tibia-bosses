@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-09-10T09:33:36.690Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81.56
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 74.1
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 39.78
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.57
+		},
+		{
+			"name": "Massacre",
+			"chance": 29.91
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.45
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.25
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 24.07
+		},
+		{
+			"name": "Zushuka",
+			"chance": 22.07
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 19.25
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 17.52
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.36
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.23
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.03
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.51
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.63
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.55
+		}
+	]
+}

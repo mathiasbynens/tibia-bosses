@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-10T09:33:32.697Z",
+	"timestamp": "2025-09-11T03:40:16.634Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.9
+			"chance": 42.9,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.72
+			"chance": 35.72,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.23
+			"chance": 23.23,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.67
+			"chance": 20.67,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,11 +51,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.81
+			"chance": 15.81,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.96
+			"chance": 14.96,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -116,6 +122,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.91
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

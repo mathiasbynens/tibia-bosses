@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-10T09:33:40.164Z",
+	"timestamp": "2025-09-11T03:40:17.940Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.06
+			"chance": 38.06,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

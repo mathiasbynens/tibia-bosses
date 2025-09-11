@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-10T09:33:43.436Z",
+	"timestamp": "2025-09-11T03:40:18.567Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.98
+			"chance": 25.98,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.36
+			"chance": 23.36,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 9.89
+			"chance": 9.89,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.08
+			"chance": 7.08,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -72,6 +76,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

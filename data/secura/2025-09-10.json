@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-10T09:33:52.714Z",
+	"timestamp": "2025-09-11T03:40:21.559Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.51
+			"chance": 35.51,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 29.75
+			"chance": 29.75,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 29.57
+			"chance": 29.57,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.45
+			"chance": 28.45,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.37
+			"chance": 20.37,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.03
+			"chance": 14.03,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -111,11 +117,32 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 4.94
+			"chance": 4.94,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

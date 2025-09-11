@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-10T09:33:24.517Z",
+	"timestamp": "2025-09-11T03:40:15.178Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.84
+			"chance": 31.84,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.75
+			"chance": 20.75,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.77
+			"chance": 10.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -111,7 +115,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.78
+			"chance": 2.78,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

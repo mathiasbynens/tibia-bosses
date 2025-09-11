@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-10T09:33:28.724Z",
+	"timestamp": "2025-09-11T03:40:15.830Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -88,6 +89,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

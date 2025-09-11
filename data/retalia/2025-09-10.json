@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-10T09:33:49.325Z",
+	"timestamp": "2025-09-11T03:40:20.527Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.32
+			"chance": 70.32,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -88,6 +89,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

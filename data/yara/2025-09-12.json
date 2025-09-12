@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-09-12T09:33:05.901Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 81.44
+		},
+		{
+			"name": "Dharalion",
+			"chance": 70.31
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 28.68
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.23
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.11
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 17.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.53
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.18
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.59
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		}
+	]
+}

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-09-11T09:32:53.235Z",
+	"timestamp": "2025-09-12T03:38:02.562Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.92
+			"chance": 63.92,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 43.2
+			"chance": 43.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.49
+			"chance": 16.49,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +104,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

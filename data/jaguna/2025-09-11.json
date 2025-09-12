@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-11T09:33:11.272Z",
+	"timestamp": "2025-09-12T03:38:06.836Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -64,6 +64,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

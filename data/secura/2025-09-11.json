@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-11T09:33:21.588Z",
+	"timestamp": "2025-09-12T03:38:08.682Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.37
+			"chance": 14.37,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -104,6 +105,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

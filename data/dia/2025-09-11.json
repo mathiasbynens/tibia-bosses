@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-11T09:33:00.713Z",
+	"timestamp": "2025-09-12T03:38:04.163Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.23
+			"chance": 34.23,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.23
+			"chance": 10.23,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.17
+			"chance": 9.17,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +103,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

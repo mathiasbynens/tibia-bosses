@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-09-11T09:33:04.259Z",
+	"timestamp": "2025-09-12T03:38:05.439Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.89
+			"chance": 93.89,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.24
+			"chance": 46.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 44.21
+			"chance": 44.21,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.91
+			"chance": 4.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -72,6 +76,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

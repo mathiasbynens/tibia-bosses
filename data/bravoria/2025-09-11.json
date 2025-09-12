@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-11T09:32:56.851Z",
+	"timestamp": "2025-09-12T03:38:03.295Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -92,6 +92,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.72
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

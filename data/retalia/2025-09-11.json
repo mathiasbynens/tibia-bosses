@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-11T09:33:18.164Z",
+	"timestamp": "2025-09-12T03:38:07.943Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.55
+			"chance": 20.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +93,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.44
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

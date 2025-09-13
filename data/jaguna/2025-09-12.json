@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-12T09:32:48.653Z",
+	"timestamp": "2025-09-13T03:35:23.516Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 28.86
+			"chance": 28.86,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -76,6 +78,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.45
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-12T09:33:02.320Z",
+	"timestamp": "2025-09-13T03:35:26.469Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.36
+			"chance": 31.36,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.76
+			"chance": 20.76,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.29
+			"chance": 11.29,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.56
+			"chance": 7.56,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 6.69
+			"chance": 6.69,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -115,7 +122,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -124,6 +132,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

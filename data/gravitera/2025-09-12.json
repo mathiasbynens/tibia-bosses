@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-12T09:32:44.799Z",
+	"timestamp": "2025-09-13T03:35:22.842Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 50.51
+			"chance": 50.51,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.43
+			"chance": 14.43,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.65
+			"chance": 7.65,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -112,6 +115,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

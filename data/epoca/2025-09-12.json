@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-12T09:32:40.981Z",
+	"timestamp": "2025-09-13T03:35:22.189Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.94
+			"chance": 41.94,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -72,6 +73,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-12T09:33:05.901Z",
+	"timestamp": "2025-09-13T03:35:27.155Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.44
+			"chance": 81.44,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.31
+			"chance": 70.31,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -40,6 +42,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

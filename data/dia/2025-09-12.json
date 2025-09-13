@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-12T09:32:37.372Z",
+	"timestamp": "2025-09-13T03:35:21.527Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -116,6 +117,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-12T09:32:54.854Z",
+	"timestamp": "2025-09-13T03:35:24.855Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -71,11 +72,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.45
+			"chance": 10.45,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

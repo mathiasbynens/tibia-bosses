@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-12T09:32:58.883Z",
+	"timestamp": "2025-09-13T03:35:25.690Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
-			"chance": 36.8
+			"chance": 36.8,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.21
+			"chance": 22.21,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.35
+			"chance": 16.35,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -116,6 +120,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

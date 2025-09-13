@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-12T09:32:33.050Z",
+	"timestamp": "2025-09-13T03:35:20.721Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.26
+			"chance": 46.26,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 21.43
+			"chance": 21.43,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.38
+			"chance": 8.38,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +89,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

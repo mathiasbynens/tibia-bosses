@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-09-13T09:32:02.168Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 21.08
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.05
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.32
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.97
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.07
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.51
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.25
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.43
+		}
+	]
+}

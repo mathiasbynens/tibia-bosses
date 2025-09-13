@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-09-13T09:31:33.486Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 80.4
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 54.46
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 45.76
+		},
+		{
+			"name": "White Pale",
+			"chance": 37.93
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 27.88
+		},
+		{
+			"name": "Barbaria",
+			"chance": 27.62
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 23.58
+		},
+		{
+			"name": "Massacre",
+			"chance": 23.06
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.8
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 18.11
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.88
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.34
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.54
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.14
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.8
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.05
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 2.96
+		}
+	]
+}

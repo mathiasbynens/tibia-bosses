@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-13T09:31:40.589Z",
+	"timestamp": "2025-09-14T03:40:07.839Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 21.05
+			"chance": 21.05,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -76,6 +78,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

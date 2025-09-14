@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-13T09:31:33.486Z",
+	"timestamp": "2025-09-14T03:40:06.196Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 37.93
+			"chance": 37.93,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -80,6 +82,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

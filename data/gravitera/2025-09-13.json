@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-13T09:31:43.794Z",
+	"timestamp": "2025-09-14T03:40:08.471Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.1
+			"chance": 32.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -144,6 +148,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-13T09:31:30.061Z",
+	"timestamp": "2025-09-14T03:40:04.621Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,11 +72,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.29
+			"chance": 8.29,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.28
+			"chance": 8.28,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.81
+			"chance": 5.81,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +112,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

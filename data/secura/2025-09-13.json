@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-13T09:31:55.739Z",
+	"timestamp": "2025-09-14T03:40:10.924Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.82
+			"chance": 31.82,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 30.96
+			"chance": 30.96,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.86
+			"chance": 21.86,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

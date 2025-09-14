@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-13T09:32:02.168Z",
+	"timestamp": "2025-09-14T03:40:12.458Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.05
+			"chance": 17.05,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -40,6 +42,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.43
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

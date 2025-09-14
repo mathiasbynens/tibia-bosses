@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-13T09:31:52.304Z",
+	"timestamp": "2025-09-14T03:40:10.174Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.41
+			"chance": 42.41,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.92
+			"chance": 18.92,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +84,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

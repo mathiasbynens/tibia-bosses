@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-09-13T09:31:59.073Z",
+	"timestamp": "2025-09-14T03:40:11.655Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 51.23
+			"chance": 51.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -116,6 +119,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

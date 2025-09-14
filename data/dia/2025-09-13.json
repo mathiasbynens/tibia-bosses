@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-09-13T09:31:36.994Z",
+	"timestamp": "2025-09-14T03:40:07.187Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 81.54
+			"chance": 81.54,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.99
+			"chance": 63.99,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.94
+			"chance": 28.94,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -71,23 +76,28 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.8
+			"chance": 14.8,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.64
+			"chance": 13.64,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.62
+			"chance": 12.62,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 12.35
+			"chance": 12.35,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -95,7 +105,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -144,6 +155,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

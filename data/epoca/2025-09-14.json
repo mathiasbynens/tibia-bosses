@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-14T09:31:15.008Z",
+	"timestamp": "2025-09-15T03:43:35.536Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -72,6 +73,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-14T09:31:38.290Z",
+	"timestamp": "2025-09-15T03:43:45.553Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

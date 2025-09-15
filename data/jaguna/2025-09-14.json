@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-14T09:31:21.324Z",
+	"timestamp": "2025-09-15T03:43:36.944Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.85
+			"chance": 39.85,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.76
+			"chance": 37.76,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.09
+			"chance": 18.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -72,6 +76,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

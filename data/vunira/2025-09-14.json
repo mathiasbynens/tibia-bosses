@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-14T09:31:35.189Z",
+	"timestamp": "2025-09-15T03:43:44.895Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.29
+			"chance": 70.29,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.17
+			"chance": 28.17,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.61
+			"chance": 13.61,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.58
+			"chance": 13.58,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.11
+			"chance": 9.11,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
@@ -104,6 +109,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.66
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

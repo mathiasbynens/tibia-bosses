@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-14T09:31:08.742Z",
+	"timestamp": "2025-09-15T03:43:34.009Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 74.07
+			"chance": 74.07,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.84
+			"chance": 31.84,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.9
+			"chance": 21.9,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,15 +55,18 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.15
+			"chance": 17.15,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -67,7 +74,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.05
+			"chance": 10.05,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -95,7 +103,18 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 3.93
+			"chance": 3.93,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

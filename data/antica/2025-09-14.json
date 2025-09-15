@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-14T09:31:05.270Z",
+	"timestamp": "2025-09-15T03:43:33.348Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.22
+			"chance": 12.22,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",

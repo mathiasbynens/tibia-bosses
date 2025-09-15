@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-14T09:31:18.220Z",
+	"timestamp": "2025-09-15T03:43:36.205Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 69.43
+			"chance": 69.43,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.49
+			"chance": 15.49,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -123,7 +125,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.52
+			"chance": 5.52,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -136,6 +139,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

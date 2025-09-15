@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-09-15T09:34:58.408Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 38.73
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.05
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.8
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.69
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 18.32
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.11
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.43
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.19
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.22
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.8
+		}
+	]
+}

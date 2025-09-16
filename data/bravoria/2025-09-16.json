@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-09-16T09:34:13.673Z",
+	"bosses": [
+		{
+			"name": "Massacre",
+			"chance": 28.23
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 25.07
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.7
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.33
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.2
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.34
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.42
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.12
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.53
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.05
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.23
+		}
+	]
+}

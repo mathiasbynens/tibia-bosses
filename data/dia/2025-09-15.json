@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-15T09:34:32.629Z",
+	"timestamp": "2025-09-16T03:39:13.886Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.36
+			"chance": 19.36,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.23
+			"chance": 13.23,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.89
+			"chance": 7.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +111,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

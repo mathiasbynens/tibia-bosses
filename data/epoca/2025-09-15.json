@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-15T09:34:35.848Z",
+	"timestamp": "2025-09-16T03:39:14.955Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.7
+			"chance": 43.7,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 42.86
+			"chance": 42.86,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 19.84
+			"chance": 19.84,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

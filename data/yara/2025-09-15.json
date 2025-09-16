@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-15T09:34:58.408Z",
+	"timestamp": "2025-09-16T03:39:22.233Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 13.43
+			"chance": 13.43,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -48,6 +49,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.8
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-15T09:34:25.624Z",
+	"timestamp": "2025-09-16T03:39:11.852Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.44
+			"chance": 81.44,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.6
+			"chance": 47.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.55
+			"chance": 38.55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.65
+			"chance": 36.65,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.29
+			"chance": 22.29,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -124,6 +131,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

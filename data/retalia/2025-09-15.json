@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-15T09:34:48.399Z",
+	"timestamp": "2025-09-16T03:39:19.705Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.66
+			"chance": 62.66,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 16.98
+			"chance": 16.98,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.21
+			"chance": 16.21,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.43
+			"chance": 6.43,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +92,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

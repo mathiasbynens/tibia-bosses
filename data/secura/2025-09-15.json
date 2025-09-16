@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-15T09:34:51.798Z",
+	"timestamp": "2025-09-16T03:39:20.672Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.66
+			"chance": 53.66,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.88
+			"chance": 42.88,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.82
+			"chance": 17.82,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.87
+			"chance": 11.87,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.89
+			"chance": 7.89,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -104,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

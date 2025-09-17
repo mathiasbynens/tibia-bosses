@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-16T09:34:36.713Z",
+	"timestamp": "2025-09-17T03:38:43.284Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 68.94
+			"chance": 68.94,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.07
+			"chance": 54.07,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.9
+			"chance": 17.9,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +91,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.23
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

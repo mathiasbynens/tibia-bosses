@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-16T09:34:24.718Z",
+	"timestamp": "2025-09-17T03:38:40.509Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.04
+			"chance": 64.04,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.67
+			"chance": 62.67,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 37.04
+			"chance": 37.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 22.08
+			"chance": 22.08,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.45
+			"chance": 19.45,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,11 +68,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.33
+			"chance": 12.33,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -140,6 +149,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.23
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

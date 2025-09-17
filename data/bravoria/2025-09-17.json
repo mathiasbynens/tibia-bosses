@@ -1,0 +1,37 @@
+{
+	"timestamp": "2025-09-17T09:33:24.042Z",
+	"bosses": [
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.55
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.14
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.67
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.23
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.57
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.71
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.62
+		}
+	]
+}

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-17T09:33:34.407Z",
+	"timestamp": "2025-09-18T03:40:08.903Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.52
+			"chance": 81.52,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.1
+			"chance": 74.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 45.58
+			"chance": 45.58,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.37
+			"chance": 20.37,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -107,7 +112,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.71
+			"chance": 5.71,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +126,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

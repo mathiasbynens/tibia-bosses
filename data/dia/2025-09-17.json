@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-17T09:33:27.424Z",
+	"timestamp": "2025-09-18T03:40:06.659Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.25
+			"chance": 62.25,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.5
+			"chance": 8.5,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -112,6 +115,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.64
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

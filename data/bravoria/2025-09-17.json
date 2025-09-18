@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-17T09:33:24.042Z",
+	"timestamp": "2025-09-18T03:40:05.558Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -32,6 +32,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.62
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

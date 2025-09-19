@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-18T09:33:21.661Z",
+	"timestamp": "2025-09-19T03:40:21.235Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.59
+			"chance": 24.59,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -72,6 +74,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.03
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

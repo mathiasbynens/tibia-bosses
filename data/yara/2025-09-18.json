@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-18T09:33:44.446Z",
+	"timestamp": "2025-09-19T03:40:29.119Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.86
+			"chance": 31.86,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -68,6 +69,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

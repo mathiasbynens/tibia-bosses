@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-18T09:33:34.799Z",
+	"timestamp": "2025-09-19T03:40:26.244Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.24
+			"chance": 39.24,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,15 +28,18 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.53
+			"chance": 29.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.16
+			"chance": 19.16,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -104,6 +109,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.67
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

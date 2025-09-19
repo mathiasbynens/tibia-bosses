@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-18T09:33:29.464Z",
+	"timestamp": "2025-09-19T03:40:22.962Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.93
+			"chance": 13.93,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.9
+			"chance": 7.9,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +78,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-18T09:33:15.146Z",
+	"timestamp": "2025-09-19T03:40:19.063Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 14.87
+			"chance": 14.87,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -56,6 +57,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.04
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

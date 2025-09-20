@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-19T09:33:58.525Z",
+	"timestamp": "2025-09-20T03:38:27.082Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 39.94
+			"chance": 39.94,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 14.99
+			"chance": 14.99,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -104,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

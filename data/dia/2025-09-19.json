@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-19T09:33:38.427Z",
+	"timestamp": "2025-09-20T03:38:22.083Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
-			"chance": 41.21
+			"chance": 41.21,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.14
+			"chance": 20.14,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.5
+			"chance": 14.5,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-19T17:21:02.321Z",
+	"timestamp": "2025-09-20T03:38:23.475Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.88
+			"chance": 28.88,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.44
+			"chance": 13.44,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -48,6 +51,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

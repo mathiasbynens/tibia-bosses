@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-19T09:33:32.377Z",
+	"timestamp": "2025-09-20T03:38:20.430Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -88,6 +90,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

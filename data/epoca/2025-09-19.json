@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-19T09:33:41.330Z",
+	"timestamp": "2025-09-20T03:38:22.682Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.25
+			"chance": 31.25,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.03
+			"chance": 17.03,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -76,6 +80,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.07
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

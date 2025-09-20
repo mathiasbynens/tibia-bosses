@@ -1,0 +1,37 @@
+{
+	"timestamp": "2025-09-20T09:31:44.754Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 69.95
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 63.97
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 28.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.81
+		},
+		{
+			"name": "Shlorg",
+			"chance": 9.92
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.25
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.3
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.93
+		}
+	]
+}

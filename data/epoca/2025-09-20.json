@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-20T09:31:41.209Z",
+	"timestamp": "2025-09-21T03:42:41.897Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -68,6 +68,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.51
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

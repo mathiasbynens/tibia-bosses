@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-20T09:31:58.663Z",
+	"timestamp": "2025-09-21T03:42:48.257Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.28
+			"chance": 70.28,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.97
+			"chance": 21.97,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.71
+			"chance": 12.71,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.86
+			"chance": 10.86,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 10.08
+			"chance": 10.08,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -92,6 +97,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

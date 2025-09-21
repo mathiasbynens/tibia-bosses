@@ -1,0 +1,37 @@
+{
+	"timestamp": "2025-09-21T09:31:45.192Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.38
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 30.61
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.33
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.24
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.23
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.31
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 5.87
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.57
+		}
+	]
+}

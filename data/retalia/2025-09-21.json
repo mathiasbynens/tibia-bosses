@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-21T09:31:53.148Z",
+	"timestamp": "2025-09-22T03:43:04.315Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

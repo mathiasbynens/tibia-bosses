@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-21T09:31:42.633Z",
+	"timestamp": "2025-09-22T03:43:01.147Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.54
+			"chance": 8.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -88,6 +89,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.45
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

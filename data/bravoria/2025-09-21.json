@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-21T09:31:36.874Z",
+	"timestamp": "2025-09-22T03:42:59.294Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.29
+			"chance": 22.29,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.63
+			"chance": 12.63,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.2
+			"chance": 11.2,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +104,11 @@
 		{
 			"name": "Gaz'haragoth",
 			"chance": 6.59
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

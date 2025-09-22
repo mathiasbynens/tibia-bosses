@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-09-21T09:31:48.058Z",
+	"timestamp": "2025-09-22T03:43:02.652Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.29
+			"chance": 62.29,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.67
+			"chance": 53.67,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 41.23
+			"chance": 41.23,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.31
+			"chance": 28.31,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.23
+			"chance": 20.23,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.26
+			"chance": 12.26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 7.07
+			"chance": 7.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +123,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.34
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

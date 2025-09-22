@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-21T09:31:34.193Z",
+	"timestamp": "2025-09-22T03:42:58.527Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.84
+			"chance": 42.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 28.41
+			"chance": 28.41,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.65
+			"chance": 22.65,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 18.96
+			"chance": 18.96,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +120,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

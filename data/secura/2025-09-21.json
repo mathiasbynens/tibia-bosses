@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-21T09:31:57.181Z",
+	"timestamp": "2025-09-22T03:43:05.182Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -95,7 +96,23 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.35
+			"chance": 3.35,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-22T09:35:29.209Z",
+	"timestamp": "2025-09-23T03:39:35.302Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.53
+			"chance": 32.53,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.88
+			"chance": 10.88,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.11
+			"chance": 9.11,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -108,6 +113,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-22T09:35:47.334Z",
+	"timestamp": "2025-09-23T03:39:40.223Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.82
+			"chance": 42.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.41
+			"chance": 30.41,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.25
+			"chance": 23.25,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.74
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

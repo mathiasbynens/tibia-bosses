@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-22T09:35:53.324Z",
+	"timestamp": "2025-09-23T03:39:41.829Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.21
+			"chance": 47.21,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.16
+			"chance": 17.16,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.52
+			"chance": 12.52,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -84,6 +87,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.02
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

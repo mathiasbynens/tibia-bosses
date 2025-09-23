@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-22T09:35:32.876Z",
+	"timestamp": "2025-09-23T03:39:36.082Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.84
+			"chance": 61.84,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.9
+			"chance": 17.9,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +96,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

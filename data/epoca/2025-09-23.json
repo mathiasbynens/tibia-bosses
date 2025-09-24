@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-23T09:34:00.114Z",
+	"timestamp": "2025-09-24T03:40:26.635Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.08
+			"chance": 20.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.61
+			"chance": 9.61,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +102,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.27
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

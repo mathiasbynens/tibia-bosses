@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-23T09:34:11.436Z",
+	"timestamp": "2025-09-24T03:40:29.410Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.28
+			"chance": 16.28,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -91,7 +94,18 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.63
+			"chance": 5.63,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

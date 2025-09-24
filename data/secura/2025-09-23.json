@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-23T09:34:14.245Z",
+	"timestamp": "2025-09-24T03:40:30.364Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.83
+			"chance": 61.83,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 36.91
+			"chance": 36.91,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 28.65
+			"chance": 28.65,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.64
+			"chance": 27.64,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -27,15 +31,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.16
+			"chance": 22.16,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.13
+			"chance": 22.13,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.82
+			"chance": 21.82,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,11 +58,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 18.04
+			"chance": 18.04,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +92,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 8.86
+			"chance": 8.86,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +105,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.29
+			"chance": 7.29,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -108,6 +119,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

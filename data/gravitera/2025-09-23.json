@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-23T09:34:05.934Z",
+	"timestamp": "2025-09-24T03:40:28.193Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 6.94
+			"chance": 6.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.6
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

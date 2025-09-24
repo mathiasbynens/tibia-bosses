@@ -1,0 +1,37 @@
+{
+	"timestamp": "2025-09-24T09:33:55.366Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 26
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.53
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.41
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.73
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.3
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.66
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.54
+		}
+	]
+}

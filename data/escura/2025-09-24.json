@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-24T09:33:55.366Z",
+	"timestamp": "2025-09-25T03:40:49.784Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.73
+			"chance": 13.73,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

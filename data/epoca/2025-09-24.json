@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-24T09:33:52.239Z",
+	"timestamp": "2025-09-25T03:40:49.009Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.14
+			"chance": 54.14,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 33.42
+			"chance": 33.42,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.26
+			"chance": 13.26,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -83,11 +86,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.3
+			"chance": 8.3,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.28
+			"chance": 8.28,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -112,6 +117,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.86
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

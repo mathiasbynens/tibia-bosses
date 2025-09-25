@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-24T09:34:05.016Z",
+	"timestamp": "2025-09-25T03:40:51.911Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -88,6 +88,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 8.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

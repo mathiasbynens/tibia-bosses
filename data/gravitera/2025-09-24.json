@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-24T09:33:58.745Z",
+	"timestamp": "2025-09-25T03:40:50.498Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.27
+			"chance": 70.27,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.2
+			"chance": 19.2,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19
+			"chance": 19,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.41
+			"chance": 14.41,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.23
+			"chance": 5.23,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

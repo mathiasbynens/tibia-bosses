@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-09-25T09:33:51.853Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 25.56
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.81
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.59
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.06
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.7
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 9.05
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.13
+		}
+	]
+}

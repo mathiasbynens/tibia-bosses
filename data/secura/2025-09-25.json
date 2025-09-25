@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-09-25T09:34:03.896Z",
+	"bosses": [
+		{
+			"name": "Mr. Punish",
+			"chance": 43.7
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.2
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 27.76
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 25.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.27
+		},
+		{
+			"name": "Shlorg",
+			"chance": 19.59
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.2
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.52
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.69
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.59
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.32
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.72
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 11.34
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.9
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.79
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.94
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.67
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.78
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.42
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.02
+		}
+	]
+}

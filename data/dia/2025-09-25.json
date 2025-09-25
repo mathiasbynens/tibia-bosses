@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-09-25T09:33:44.893Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 54.5
+		},
+		{
+			"name": "Massacre",
+			"chance": 44.11
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 31.39
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.82
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.59
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.4
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.94
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.44
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.43
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.36
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.16
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.37
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.24
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 9.05
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.29
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.56
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 7.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.57
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.47
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.36
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.81
+		}
+	]
+}

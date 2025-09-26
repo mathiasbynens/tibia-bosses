@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-25T09:33:55.020Z",
+	"timestamp": "2025-09-26T03:39:55.059Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.89
+			"chance": 66.89,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.82
+			"chance": 66.82,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.7
+			"chance": 62.7,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +111,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

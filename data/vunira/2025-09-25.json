@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-09-25T09:34:07.266Z",
+	"timestamp": "2025-09-26T03:39:57.838Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.82
+			"chance": 33.82,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 30.74
+			"chance": 30.74,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,19 +50,23 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.78
+			"chance": 13.78,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.24
+			"chance": 13.24,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

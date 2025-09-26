@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-25T09:33:44.893Z",
+	"timestamp": "2025-09-26T03:39:53.066Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 44.11
+			"chance": 44.11,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.59
+			"chance": 24.59,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.95
+			"chance": 23.95,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.43
+			"chance": 14.43,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -92,6 +97,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

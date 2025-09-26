@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-25T09:34:03.896Z",
+	"timestamp": "2025-09-26T03:39:56.877Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.82
+			"chance": 25.82,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.2
+			"chance": 19.2,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.79
+			"chance": 9.79,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +95,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.02
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-25T09:33:41.363Z",
+	"timestamp": "2025-09-26T03:39:52.227Z",
 	"bosses": [
 		{
 			"name": "Dracola",
-			"chance": 47.24
+			"chance": 47.24,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 38.68
+			"chance": 38.68,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -100,6 +104,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

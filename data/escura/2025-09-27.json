@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-09-27T09:31:32.877Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.44
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.53
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.87
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 28.89
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 28.59
+		},
+		{
+			"name": "Shlorg",
+			"chance": 28.31
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.46
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.37
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.78
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.08
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.39
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.81
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.38
+		}
+	]
+}

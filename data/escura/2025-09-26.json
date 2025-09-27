@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-26T09:33:57.383Z",
+	"timestamp": "2025-09-27T03:38:31.923Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.24
+			"chance": 12.24,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.23
+			"chance": 11.23,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -52,6 +54,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

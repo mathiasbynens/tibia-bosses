@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-26T09:34:00.603Z",
+	"timestamp": "2025-09-27T03:38:33.020Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.31
+			"chance": 8.31,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -108,6 +109,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

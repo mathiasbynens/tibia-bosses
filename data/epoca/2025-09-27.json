@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-27T09:31:29.901Z",
+	"timestamp": "2025-09-28T03:42:29.288Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 26.67
+			"chance": 26.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -84,6 +85,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.89
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

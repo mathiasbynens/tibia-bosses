@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-27T09:31:36.116Z",
+	"timestamp": "2025-09-28T03:42:30.224Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.87
+			"chance": 25.87,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -116,6 +117,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

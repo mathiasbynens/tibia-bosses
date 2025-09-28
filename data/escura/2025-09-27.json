@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-27T09:31:32.877Z",
+	"timestamp": "2025-09-28T03:42:29.696Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.44
+			"chance": 42.44,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -56,6 +58,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.38
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

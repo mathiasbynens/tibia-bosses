@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-27T09:31:47.609Z",
+	"timestamp": "2025-09-28T03:42:32.342Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.72
+			"chance": 32.72,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.74
+			"chance": 20.74,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.74
+			"chance": 16.74,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

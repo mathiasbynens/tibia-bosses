@@ -1,25 +1,30 @@
 {
-	"timestamp": "2025-09-27T09:31:44.482Z",
+	"timestamp": "2025-09-28T03:42:31.753Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 47.67
+			"chance": 47.67,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.38
+			"chance": 30.38,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.29
+			"chance": 22.29,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -96,6 +101,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

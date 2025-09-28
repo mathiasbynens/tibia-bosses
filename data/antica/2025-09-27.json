@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-09-27T09:31:20.147Z",
+	"timestamp": "2025-09-28T03:42:27.545Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.98
+			"chance": 63.98,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.9
+			"chance": 42.9,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 26.96
+			"chance": 26.96,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,15 +46,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.57
+			"chance": 16.57,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.52
+			"chance": 16.52,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.24
+			"chance": 12.24,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -108,6 +115,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

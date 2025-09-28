@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-27T09:31:41.275Z",
+	"timestamp": "2025-09-28T03:42:31.083Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -72,6 +73,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 7.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

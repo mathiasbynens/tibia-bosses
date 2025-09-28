@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-27T09:31:23.300Z",
+	"timestamp": "2025-09-28T03:42:28.176Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -99,7 +99,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.5
+			"chance": 7.5,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +113,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.64
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

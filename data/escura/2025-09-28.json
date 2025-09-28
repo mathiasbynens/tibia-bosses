@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-09-28T09:31:35.790Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.3
+		},
+		{
+			"name": "Shlorg",
+			"chance": 37.93
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 33.96
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.2
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.22
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.45
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.7
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.72
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.07
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.29
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.42
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.64
+		}
+	]
+}

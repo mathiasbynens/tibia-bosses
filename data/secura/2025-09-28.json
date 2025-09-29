@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-28T09:31:48.544Z",
+	"timestamp": "2025-09-29T03:41:49.468Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 22.13
+			"chance": 22.13,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -120,6 +122,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

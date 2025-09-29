@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-28T09:31:35.790Z",
+	"timestamp": "2025-09-29T03:41:47.182Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -56,6 +56,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

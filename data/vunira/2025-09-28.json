@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-28T09:31:51.606Z",
+	"timestamp": "2025-09-29T03:41:50.128Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.61
+			"chance": 35.61,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.98
+			"chance": 20.98,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.47
+			"chance": 14.47,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

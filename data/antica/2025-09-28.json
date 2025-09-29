@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-28T09:31:22.385Z",
+	"timestamp": "2025-09-29T03:41:44.982Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.45
+			"chance": 37.45,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.06
+			"chance": 6.06,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -108,6 +112,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-09-30T09:34:04.689Z",
+	"bosses": [
+		{
+			"name": "Shlorg",
+			"chance": 53.37
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.25
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.56
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 15.18
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.68
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.67
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.11
+		}
+	]
+}

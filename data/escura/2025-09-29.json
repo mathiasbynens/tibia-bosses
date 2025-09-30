@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-29T09:35:32.692Z",
+	"timestamp": "2025-09-30T03:40:08.780Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.44
+			"chance": 79.44,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.61
+			"chance": 24.61,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.27
+			"chance": 23.27,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -48,6 +51,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

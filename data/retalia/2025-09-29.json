@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-29T09:35:41.764Z",
+	"timestamp": "2025-09-30T03:40:10.498Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -72,6 +72,21 @@
 		{
 			"name": "Tzumrah the Dazzler",
 			"chance": 6.36
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

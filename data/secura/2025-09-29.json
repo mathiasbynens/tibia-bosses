@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-09-29T09:35:44.969Z",
+	"timestamp": "2025-09-30T03:40:11.160Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.94
+			"chance": 42.94,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 36.77
+			"chance": 36.77,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.77
+			"chance": 35.77,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 34.34
+			"chance": 34.34,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +31,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.43
+			"chance": 29.43,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.22
+			"chance": 18.22,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.68
+			"chance": 12.68,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -144,6 +152,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-29T09:35:26.399Z",
+	"timestamp": "2025-09-30T03:40:07.646Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.23
+			"chance": 11.23,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -75,11 +77,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.46
+			"chance": 8.46,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +120,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.38
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

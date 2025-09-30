@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-29T09:35:36.051Z",
+	"timestamp": "2025-09-30T03:40:09.454Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.08
+			"chance": 31.08,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.78
+			"chance": 10.78,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.09
+			"chance": 9.09,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.74
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

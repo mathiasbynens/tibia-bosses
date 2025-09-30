@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-29T09:35:19.884Z",
+	"timestamp": "2025-09-30T03:40:06.397Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 34.71
+			"chance": 34.71,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.77
+			"chance": 29.77,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.46
+			"chance": 24.46,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.52
+			"chance": 18.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.21
+			"chance": 6.21,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.55
+			"chance": 4.55,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -108,6 +114,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.26
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

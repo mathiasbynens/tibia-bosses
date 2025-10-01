@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-09-30T09:34:18.176Z",
+	"timestamp": "2025-10-01T03:45:18.989Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.72
+			"chance": 53.72,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.46
+			"chance": 42.46,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.97
+			"chance": 41.97,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.98
+			"chance": 19.98,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,11 +59,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.81
+			"chance": 15.81,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.9
+			"chance": 13.9,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 8.89
+			"chance": 8.89,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -116,6 +124,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

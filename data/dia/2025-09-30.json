@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-30T09:33:58.114Z",
+	"timestamp": "2025-10-01T03:45:15.142Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 27.94
+			"chance": 27.94,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.78
+			"chance": 11.78,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 9.92
+			"chance": 9.92,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +121,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

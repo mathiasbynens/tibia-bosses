@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-30T09:34:14.818Z",
+	"timestamp": "2025-10-01T03:45:18.107Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.07
+			"chance": 23.07,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -88,6 +89,11 @@
 		{
 			"name": "Xenia",
 			"chance": 5.66
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-09-30T09:34:01.358Z",
+	"timestamp": "2025-10-01T03:45:15.710Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 52.24
+			"chance": 52.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +97,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

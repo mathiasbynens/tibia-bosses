@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-09-30T09:34:08.109Z",
+	"timestamp": "2025-10-01T03:45:17.021Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.27
+			"chance": 79.27,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.49
+			"chance": 18.49,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.99
+			"chance": 7.99,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -112,6 +116,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

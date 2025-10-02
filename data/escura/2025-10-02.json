@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-10-02T09:33:08.279Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.23
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.97
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 25.64
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.27
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.19
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.02
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.02
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.44
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.33
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.25
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5.09
+		}
+	]
+}

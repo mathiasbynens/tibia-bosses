@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-01T09:34:36.941Z",
+	"timestamp": "2025-10-02T03:39:11.275Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.24
+			"chance": 40.24,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.92
+			"chance": 39.92,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.32
+			"chance": 23.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.82
+			"chance": 15.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +104,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-01T09:34:33.558Z",
+	"timestamp": "2025-10-02T03:39:10.663Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.23
+			"chance": 11.23,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -48,6 +49,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.26
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

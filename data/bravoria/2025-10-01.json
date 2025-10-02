@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-01T09:34:24.159Z",
+	"timestamp": "2025-10-02T03:39:08.735Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -96,6 +96,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

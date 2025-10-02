@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-01T09:34:43.356Z",
+	"timestamp": "2025-10-02T03:39:12.598Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.37
+			"chance": 79.37,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.94
+			"chance": 17.94,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -92,6 +94,16 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

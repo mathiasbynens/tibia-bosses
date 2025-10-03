@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-02T09:33:00.968Z",
+	"timestamp": "2025-10-03T03:38:41.529Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.33
+			"chance": 43.33,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.97
+			"chance": 42.97,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 35.65
+			"chance": 35.65,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.68
+			"chance": 27.68,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 26.37
+			"chance": 26.37,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.38
+			"chance": 24.38,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -59,7 +65,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.56
+			"chance": 14.56,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +111,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.74
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

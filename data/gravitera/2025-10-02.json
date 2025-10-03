@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-02T09:33:11.723Z",
+	"timestamp": "2025-10-03T03:38:43.160Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.85
+			"chance": 61.85,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.36
+			"chance": 30.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.05
+			"chance": 20.05,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -96,6 +99,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-02T09:32:56.968Z",
+	"timestamp": "2025-10-03T03:38:40.889Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 24.23
+			"chance": 24.23,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +102,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.27
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

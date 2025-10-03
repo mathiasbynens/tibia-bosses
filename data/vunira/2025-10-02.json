@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-02T09:33:26.716Z",
+	"timestamp": "2025-10-03T03:38:45.508Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.52
+			"chance": 8.52,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.65
+			"chance": 5.65,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

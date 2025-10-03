@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-02T09:33:08.279Z",
+	"timestamp": "2025-10-03T03:38:42.573Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.23
+			"chance": 65.23,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.27
+			"chance": 23.27,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -56,6 +58,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

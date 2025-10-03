@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-02T09:33:19.660Z",
+	"timestamp": "2025-10-03T03:38:44.154Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -88,6 +88,21 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 5.38
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

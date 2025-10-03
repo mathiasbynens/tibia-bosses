@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-02T09:33:23.314Z",
+	"timestamp": "2025-10-03T03:38:44.901Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.72
+			"chance": 62.72,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.59
+			"chance": 24.59,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.17
+			"chance": 15.17,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.31
+			"chance": 7.31,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.09
+			"chance": 6.09,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.73
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

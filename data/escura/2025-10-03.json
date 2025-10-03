@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-10-03T09:32:41.101Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 32.26
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 15.67
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.74
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.58
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.56
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.32
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.13
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.08
+		},
+		{
+			"name": "yeti",
+			"chance": 5.85
+		}
+	]
+}

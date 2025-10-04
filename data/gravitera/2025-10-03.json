@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-03T09:32:44.545Z",
+	"timestamp": "2025-10-04T03:36:25.699Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 18.43
+			"chance": 18.43,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -79,11 +80,13 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 7.3
+			"chance": 7.3,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

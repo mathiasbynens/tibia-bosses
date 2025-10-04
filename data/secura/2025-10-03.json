@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-10-03T09:32:54.460Z",
+	"timestamp": "2025-10-04T03:36:27.922Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.53
+			"chance": 39.53,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 36.77
+			"chance": 36.77,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.63
+			"chance": 35.63,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -96,6 +100,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

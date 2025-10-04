@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-03T09:32:37.462Z",
+	"timestamp": "2025-10-04T03:36:24.533Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -100,6 +102,16 @@
 		{
 			"name": "Xenia",
 			"chance": 5.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

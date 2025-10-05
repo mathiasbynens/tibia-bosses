@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-04T09:31:32.388Z",
+	"timestamp": "2025-10-05T03:40:31.370Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17.61
+			"chance": 17.61,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -96,6 +98,21 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

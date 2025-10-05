@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-04T09:31:29.345Z",
+	"timestamp": "2025-10-05T03:40:30.804Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 19.33
+			"chance": 19.33,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.23
+			"chance": 11.23,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -87,11 +91,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.3
+			"chance": 7.3,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.66
+			"chance": 6.66,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +118,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

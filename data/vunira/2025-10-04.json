@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-04T09:31:52.387Z",
+	"timestamp": "2025-10-05T03:40:35.078Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.1
+			"chance": 9.1,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.54
+			"chance": 6.54,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -108,6 +111,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.64
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

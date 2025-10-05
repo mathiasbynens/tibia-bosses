@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-04T09:31:21.528Z",
+	"timestamp": "2025-10-05T03:40:29.243Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.1
+			"chance": 94.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.49
+			"chance": 36.49,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.76
+			"chance": 19.76,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.44
+			"chance": 17.44,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.97
+			"chance": 16.97,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.33
+			"chance": 13.33,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 8.38
+			"chance": 8.38,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +119,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 6.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

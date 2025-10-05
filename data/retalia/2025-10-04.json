@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-04T09:31:45.748Z",
+	"timestamp": "2025-10-05T03:40:33.713Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.14
+			"chance": 74.14,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -92,6 +93,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.61
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-05T09:31:28.928Z",
+	"timestamp": "2025-10-06T03:40:27.786Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.1
+			"chance": 94.1,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.7
+			"chance": 15.7,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -100,6 +102,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

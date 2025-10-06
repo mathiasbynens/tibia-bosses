@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-05T09:31:35.925Z",
+	"timestamp": "2025-10-06T03:40:28.933Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.49
+			"chance": 81.49,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.28
+			"chance": 23.28,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -60,6 +62,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

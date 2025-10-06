@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-05T09:31:46.746Z",
+	"timestamp": "2025-10-06T03:40:30.918Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -63,15 +63,18 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.68
+			"chance": 9.68,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -84,6 +87,16 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

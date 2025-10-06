@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-05T09:31:21.484Z",
+	"timestamp": "2025-10-06T03:40:26.522Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.27
+			"chance": 62.27,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 33.49
+			"chance": 33.49,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 22.39
+			"chance": 22.39,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.69
+			"chance": 6.69,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -112,6 +118,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

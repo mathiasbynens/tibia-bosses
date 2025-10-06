@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-05T09:31:25.177Z",
+	"timestamp": "2025-10-06T03:40:27.067Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.54
+			"chance": 38.54,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.47
+			"chance": 11.47,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -88,6 +90,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.63
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

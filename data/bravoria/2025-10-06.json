@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-06T09:35:04.697Z",
+	"timestamp": "2025-10-07T03:40:01.452Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.61
+			"chance": 24.61,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -96,6 +98,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.73
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

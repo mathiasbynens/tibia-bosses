@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-06T09:35:15.647Z",
+	"timestamp": "2025-10-07T03:40:05.703Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.32
+			"chance": 12.32,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -60,6 +62,21 @@
 		{
 			"name": "Xenia",
 			"chance": 7.41
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

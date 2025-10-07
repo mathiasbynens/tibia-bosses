@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-06T09:35:32.914Z",
+	"timestamp": "2025-10-07T03:40:10.801Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.68
+			"chance": 27.68,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.54
+			"chance": 16.54,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -92,6 +94,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

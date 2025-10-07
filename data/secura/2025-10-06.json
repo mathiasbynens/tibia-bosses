@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-06T09:35:29.297Z",
+	"timestamp": "2025-10-07T03:40:09.957Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,19 +11,23 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 20.01
+			"chance": 20.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 16.99
+			"chance": 16.99,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.7
+			"chance": 15.7,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.21
+			"chance": 15.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.06
+			"chance": 9.06,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +120,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.48
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

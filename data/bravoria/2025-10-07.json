@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-10-07T09:33:56.767Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.46
+		},
+		{
+			"name": "The Imperor",
+			"chance": 40.98
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.05
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 26.27
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.25
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.13
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 20.44
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.31
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.06
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.38
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.49
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 15.01
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.7
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.36
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.58
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 11.89
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.7
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.85
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.93
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.61
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.66
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 4.34
+		}
+	]
+}

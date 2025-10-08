@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-07T09:33:56.767Z",
+	"timestamp": "2025-10-08T03:39:48.964Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 40.98
+			"chance": 40.98,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 20.44
+			"chance": 20.44,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.7
+			"chance": 14.7,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

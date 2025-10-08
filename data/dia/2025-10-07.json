@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-07T09:34:00.345Z",
+	"timestamp": "2025-10-08T03:39:49.717Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.07
+			"chance": 21.07,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 7.98
+			"chance": 7.98,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

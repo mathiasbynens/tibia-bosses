@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-07T09:34:03.811Z",
+	"timestamp": "2025-10-08T03:39:50.334Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.54
+			"chance": 32.54,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 19.44
+			"chance": 19.44,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

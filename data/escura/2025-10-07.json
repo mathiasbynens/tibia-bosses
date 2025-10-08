@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-07T09:34:07.116Z",
+	"timestamp": "2025-10-08T03:39:51.140Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.59
+			"chance": 20.59,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -64,6 +66,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

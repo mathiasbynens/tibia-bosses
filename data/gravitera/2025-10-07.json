@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-07T09:34:10.468Z",
+	"timestamp": "2025-10-08T03:39:52.075Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.24
+			"chance": 70.24,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 6.97
+			"chance": 6.97,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

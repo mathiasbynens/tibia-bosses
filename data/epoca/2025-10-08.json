@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-08T09:34:30.861Z",
+	"timestamp": "2025-10-09T03:40:35.668Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 65.24
+			"chance": 65.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 22.24
+			"chance": 22.24,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.27
+			"chance": 18.27,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.28
+			"chance": 10.28,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +96,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

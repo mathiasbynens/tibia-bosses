@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-08T09:34:52.668Z",
+	"timestamp": "2025-10-09T03:40:39.333Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -104,6 +106,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

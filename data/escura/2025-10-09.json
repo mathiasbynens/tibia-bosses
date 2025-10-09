@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-10-09T09:34:02.692Z",
+	"bosses": [
+		{
+			"name": "yeti",
+			"chance": 38.17
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 37.76
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 36.79
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 34.04
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 27.65
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.77
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.06
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.87
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.6
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.47
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.09
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 3.67
+		}
+	]
+}

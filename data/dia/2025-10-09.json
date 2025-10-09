@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-10-09T09:33:56.365Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 38.67
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.58
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 24.56
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 23.56
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.41
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 21.59
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.21
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.58
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 14.01
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.71
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.45
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.39
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.45
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.28
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.22
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.13
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.68
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.66
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 8.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.29
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.72
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.71
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.32
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.01
+		}
+	]
+}

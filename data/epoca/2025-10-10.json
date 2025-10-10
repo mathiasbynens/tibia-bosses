@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-10-10T09:34:00.853Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.46
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 40.39
+		},
+		{
+			"name": "Dracola",
+			"chance": 34.97
+		},
+		{
+			"name": "General Murius",
+			"chance": 33.82
+		},
+		{
+			"name": "yeti",
+			"chance": 27.47
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 26.05
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 23.58
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.1
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.28
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.11
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 18.08
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.99
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 13.01
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.74
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.28
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.5
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.77
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.65
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.56
+		}
+	]
+}

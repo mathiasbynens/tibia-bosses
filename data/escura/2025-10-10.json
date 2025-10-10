@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-10-10T09:34:03.680Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.46
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 33.98
+		},
+		{
+			"name": "yeti",
+			"chance": 29.41
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 28.43
+		},
+		{
+			"name": "Xenia",
+			"chance": 19.8
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.37
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 12.81
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 12.27
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.58
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.41
+		}
+	]
+}

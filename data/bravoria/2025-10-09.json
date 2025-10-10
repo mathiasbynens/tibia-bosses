@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-09T09:33:52.884Z",
+	"timestamp": "2025-10-10T03:40:14.335Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.67
+			"chance": 27.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.09
+			"chance": 21.09,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -92,6 +96,11 @@
 		{
 			"name": "White Pale",
 			"chance": 7.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

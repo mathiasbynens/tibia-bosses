@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-09T09:33:56.365Z",
+	"timestamp": "2025-10-10T03:40:15.182Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.58
+			"chance": 14.58,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.28
+			"chance": 12.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -108,6 +111,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.01
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

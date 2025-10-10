@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-09T09:34:02.692Z",
+	"timestamp": "2025-10-10T03:40:16.805Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 36.79
+			"chance": 36.79,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -64,6 +66,11 @@
 		{
 			"name": "Warlord Ruzad",
 			"chance": 3.67
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-10T09:34:03.680Z",
+	"timestamp": "2025-10-11T03:37:40.584Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.43
+			"chance": 28.43,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

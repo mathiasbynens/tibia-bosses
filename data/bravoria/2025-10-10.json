@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-10-10T09:33:53.290Z",
+	"timestamp": "2025-10-11T03:37:38.640Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.88
+			"chance": 71.88,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.53
+			"chance": 54.53,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,11 +83,17 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.44
+			"chance": 5.44,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

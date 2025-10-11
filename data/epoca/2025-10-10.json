@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-10T09:34:00.853Z",
+	"timestamp": "2025-10-11T03:37:39.884Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.46
+			"chance": 42.46,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 34.97
+			"chance": 34.97,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.5
+			"chance": 8.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

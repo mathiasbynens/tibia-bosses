@@ -1,0 +1,57 @@
+{
+	"timestamp": "2025-10-12T09:31:21.288Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 93.99
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.47
+		},
+		{
+			"name": "Xenia",
+			"chance": 24.87
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.31
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.32
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 16.66
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 16.15
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.47
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.22
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.5
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 7.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.76
+		}
+	]
+}

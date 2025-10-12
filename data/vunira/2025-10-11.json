@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-10-11T09:31:56.005Z",
+	"timestamp": "2025-10-12T03:40:25.919Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.98
+			"chance": 42.98,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.28
+			"chance": 37.28,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.57
+			"chance": 32.57,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.46
+			"chance": 28.46,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.52
+			"chance": 8.52,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -103,7 +110,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.61
+			"chance": 4.61,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

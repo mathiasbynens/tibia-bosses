@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-11T09:31:49.133Z",
+	"timestamp": "2025-10-12T03:40:24.343Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.21
+			"chance": 28.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -64,6 +66,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

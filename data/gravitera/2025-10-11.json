@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-11T09:31:43.317Z",
+	"timestamp": "2025-10-12T03:40:23.140Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.35
+			"chance": 47.35,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.48
+			"chance": 42.48,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -104,6 +107,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.64
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

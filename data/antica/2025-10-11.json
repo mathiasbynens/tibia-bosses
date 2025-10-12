@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-11T09:31:24.979Z",
+	"timestamp": "2025-10-12T03:40:18.727Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
-			"chance": 36.8
+			"chance": 36.8,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.57
+			"chance": 36.57,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.29
+			"chance": 32.29,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -75,11 +78,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.68
+			"chance": 6.68,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.88
+			"chance": 4.88,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -95,7 +100,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.56
+			"chance": 3.56,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

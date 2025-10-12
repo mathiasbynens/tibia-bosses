@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-11T09:31:28.539Z",
+	"timestamp": "2025-10-12T03:40:19.501Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +108,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.38
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

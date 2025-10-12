@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-11T09:31:36.579Z",
+	"timestamp": "2025-10-12T03:40:21.708Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 38.18
+			"chance": 38.18,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.31
+			"chance": 23.31,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +87,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-11T09:31:31.942Z",
+	"timestamp": "2025-10-12T03:40:20.936Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -91,7 +92,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.63
+			"chance": 7.63,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -128,6 +130,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

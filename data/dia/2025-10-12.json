@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-12T09:31:15.701Z",
+	"timestamp": "2025-10-13T03:45:30.646Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.38
+			"chance": 46.38,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.93
+			"chance": 39.93,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.89
+			"chance": 13.89,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -124,6 +129,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

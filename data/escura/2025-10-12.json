@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-12T09:31:21.288Z",
+	"timestamp": "2025-10-13T03:45:31.749Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.47
+			"chance": 28.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16.15
+			"chance": 16.15,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.76
+			"chance": 5.76,
+			"killed": true
 		}
 	]
 }

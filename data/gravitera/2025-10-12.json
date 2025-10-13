@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-12T09:31:24.948Z",
+	"timestamp": "2025-10-13T03:45:32.370Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.84
+			"chance": 29.84,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.61
+			"chance": 24.61,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 16.12
+			"chance": 16.12,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.65
+			"chance": 7.65,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

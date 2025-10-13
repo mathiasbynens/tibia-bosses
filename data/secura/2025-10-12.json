@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-12T09:31:34.277Z",
+	"timestamp": "2025-10-13T03:45:34.202Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.54
+			"chance": 19.54,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 13.14
+			"chance": 13.14,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -79,11 +81,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.83
+			"chance": 6.83,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 5.84
+			"chance": 5.84,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +108,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.47
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

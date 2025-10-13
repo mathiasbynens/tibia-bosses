@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-12T09:31:30.567Z",
+	"timestamp": "2025-10-13T03:45:33.387Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.72
+			"chance": 20.72,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -64,6 +65,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

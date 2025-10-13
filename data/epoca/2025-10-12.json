@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-12T09:31:18.425Z",
+	"timestamp": "2025-10-13T03:45:31.193Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.71
+			"chance": 13.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +97,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

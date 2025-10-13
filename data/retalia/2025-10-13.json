@@ -1,0 +1,85 @@
+{
+	"timestamp": "2025-10-13T09:36:20.804Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 43.04
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.89
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.51
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.33
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.23
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.23
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.37
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.87
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.79
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 12.82
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.9
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.67
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.22
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.28
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.26
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.17
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.41
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.94
+		}
+	]
+}

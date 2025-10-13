@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-10-13T09:36:27.856Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 35.7
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 30.42
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 29.48
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.66
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 22.64
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.49
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 20.41
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 17.69
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.97
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.71
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.01
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.5
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.16
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.48
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.42
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.86
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.65
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.69
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.22
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.41
+		}
+	]
+}

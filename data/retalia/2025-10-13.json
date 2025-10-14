@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-13T09:36:20.804Z",
+	"timestamp": "2025-10-14T03:40:37.820Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -80,6 +80,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

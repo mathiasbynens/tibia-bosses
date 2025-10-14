@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-13T09:35:55.791Z",
+	"timestamp": "2025-10-14T03:40:33.803Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.31
+			"chance": 43.31,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.73
+			"chance": 13.73,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

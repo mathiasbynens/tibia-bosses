@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-13T09:36:13.837Z",
+	"timestamp": "2025-10-14T03:40:36.781Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.73
+			"chance": 62.73,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -100,6 +102,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.69
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

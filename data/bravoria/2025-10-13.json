@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-13T09:36:00.660Z",
+	"timestamp": "2025-10-14T03:40:34.308Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.99
+			"chance": 23.99,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -120,6 +122,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.76
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

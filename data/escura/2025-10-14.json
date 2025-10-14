@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-10-14T09:34:49.945Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.82
+		},
+		{
+			"name": "Xenia",
+			"chance": 31.46
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.22
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.87
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 19.13
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.5
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.73
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.39
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		}
+	]
+}

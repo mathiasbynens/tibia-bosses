@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-14T09:34:53.709Z",
+	"timestamp": "2025-10-15T03:41:28.183Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.25
+			"chance": 70.25,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.59
+			"chance": 53.59,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 34.11
+			"chance": 34.11,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -88,6 +92,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.51
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

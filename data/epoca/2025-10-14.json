@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-14T09:34:46.573Z",
+	"timestamp": "2025-10-15T03:41:26.724Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 24.86
+			"chance": 24.86,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -84,6 +85,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

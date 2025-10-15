@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-14T09:34:43.160Z",
+	"timestamp": "2025-10-15T03:41:26.150Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.1
+			"chance": 94.1,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.26
+			"chance": 62.26,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.72
+			"chance": 14.72,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -112,6 +118,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

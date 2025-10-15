@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-14T09:35:08.647Z",
+	"timestamp": "2025-10-15T03:41:30.916Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -87,11 +88,32 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.09
+			"chance": 5.09,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

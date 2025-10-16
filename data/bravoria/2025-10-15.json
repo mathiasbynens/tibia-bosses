@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-15T09:34:51.052Z",
+	"timestamp": "2025-10-16T03:41:46.631Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -104,6 +105,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.87
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-15T09:35:16.370Z",
+	"timestamp": "2025-10-16T03:41:51.858Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94
+			"chance": 94,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.24
+			"chance": 70.24,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.74
+			"chance": 13.74,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.73
+			"chance": 12.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -104,6 +108,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

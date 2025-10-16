@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-15T09:35:12.276Z",
+	"timestamp": "2025-10-16T03:41:51.040Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.53
+			"chance": 17.53,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

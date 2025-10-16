@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-15T09:34:47.801Z",
+	"timestamp": "2025-10-16T03:41:45.975Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.26
+			"chance": 28.26,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.23
+			"chance": 19.23,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.12
+			"chance": 13.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -124,6 +128,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

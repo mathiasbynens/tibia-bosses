@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-15T09:35:02.107Z",
+	"timestamp": "2025-10-16T03:41:49.038Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -52,6 +53,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

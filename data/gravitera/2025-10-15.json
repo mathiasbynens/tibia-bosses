@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-15T09:35:06.837Z",
+	"timestamp": "2025-10-16T03:41:49.837Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.01
+			"chance": 67.01,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -80,6 +82,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.83
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

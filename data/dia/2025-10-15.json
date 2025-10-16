@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-15T09:34:54.354Z",
+	"timestamp": "2025-10-16T03:41:47.479Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.3
+			"chance": 40.3,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.82
+			"chance": 29.82,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -108,6 +110,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

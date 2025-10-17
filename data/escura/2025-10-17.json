@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-10-17T09:33:59.772Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.33
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.9
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 22.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.66
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.91
+		},
+		{
+			"name": "General Murius",
+			"chance": 12.41
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.78
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.49
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.47
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		}
+	]
+}

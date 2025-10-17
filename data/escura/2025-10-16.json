@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-16T09:35:17.629Z",
+	"timestamp": "2025-10-17T03:40:25.094Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.32
+			"chance": 23.32,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -40,6 +41,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

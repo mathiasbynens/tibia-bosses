@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-16T09:35:21.211Z",
+	"timestamp": "2025-10-17T03:40:25.739Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.66
+			"chance": 32.66,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

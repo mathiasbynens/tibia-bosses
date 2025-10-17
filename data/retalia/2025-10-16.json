@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-16T09:35:27.742Z",
+	"timestamp": "2025-10-17T03:40:26.821Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.37
+			"chance": 46.37,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.82
+			"chance": 29.82,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

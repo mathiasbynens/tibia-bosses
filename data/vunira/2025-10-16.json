@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-16T09:35:35.534Z",
+	"timestamp": "2025-10-17T03:40:28.101Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.45
+			"chance": 11.45,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -96,6 +97,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

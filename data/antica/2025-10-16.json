@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-16T09:35:02.974Z",
+	"timestamp": "2025-10-17T03:40:22.573Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 57.16
+			"chance": 57.16,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.27
+			"chance": 37.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.03
+			"chance": 22.03,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.43
+			"chance": 20.43,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -136,6 +141,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

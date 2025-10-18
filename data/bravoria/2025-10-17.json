@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-17T09:33:48.855Z",
+	"timestamp": "2025-10-18T03:39:05.214Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.53
+			"chance": 38.53,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -104,6 +105,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

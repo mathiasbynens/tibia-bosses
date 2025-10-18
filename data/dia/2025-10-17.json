@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-17T09:33:52.578Z",
+	"timestamp": "2025-10-18T03:39:06.025Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.54
+			"chance": 81.54,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.22
+			"chance": 11.22,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -112,6 +114,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.82
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

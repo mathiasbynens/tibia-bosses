@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-17T09:34:08.530Z",
+	"timestamp": "2025-10-18T03:39:09.370Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 37.15
+			"chance": 37.15,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 25.89
+			"chance": 25.89,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.82
+			"chance": 10.82,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -84,6 +87,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.5
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

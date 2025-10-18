@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-17T09:33:45.943Z",
+	"timestamp": "2025-10-18T03:39:04.510Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.54
+			"chance": 81.54,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.03
+			"chance": 43.03,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.41
+			"chance": 21.41,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.63
+			"chance": 19.63,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -120,6 +125,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

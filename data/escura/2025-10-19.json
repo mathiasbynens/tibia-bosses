@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-10-19T09:31:59.272Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 26.58
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.32
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 21.13
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.11
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.18
+		},
+		{
+			"name": "Hirintror",
+			"chance": 15.18
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.65
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.56
+		}
+	]
+}

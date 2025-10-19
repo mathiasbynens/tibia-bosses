@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-10-18T09:32:21.799Z",
+	"timestamp": "2025-10-19T03:46:09.447Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 32.6
+			"chance": 32.6,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.32
+			"chance": 31.32,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.28
+			"chance": 28.28,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.81
+			"chance": 15.81,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

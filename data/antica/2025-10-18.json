@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-18T09:31:54.079Z",
+	"timestamp": "2025-10-19T03:46:02.986Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.78
+			"chance": 62.78,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.26
+			"chance": 62.26,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.69
+			"chance": 35.69,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.12
+			"chance": 22.12,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.69
+			"chance": 15.69,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.63
+			"chance": 7.63,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +118,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

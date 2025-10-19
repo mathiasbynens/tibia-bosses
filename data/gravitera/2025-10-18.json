@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-18T09:32:11.307Z",
+	"timestamp": "2025-10-19T03:46:07.316Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 6.27
+			"chance": 6.27,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -92,6 +94,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

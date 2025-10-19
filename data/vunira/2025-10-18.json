@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-18T09:32:25.402Z",
+	"timestamp": "2025-10-19T03:46:10.190Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.41
+			"chance": 37.41,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.27
+			"chance": 22.27,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -104,6 +108,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

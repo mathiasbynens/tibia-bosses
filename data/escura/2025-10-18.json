@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-18T09:32:07.876Z",
+	"timestamp": "2025-10-19T03:46:06.627Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.25
+			"chance": 70.25,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -40,6 +41,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.76
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

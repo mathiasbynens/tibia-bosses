@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-10-20T09:42:09.800Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 36.12
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.29
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.79
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.07
+		},
+		{
+			"name": "Hirintror",
+			"chance": 16.49
+		},
+		{
+			"name": "General Murius",
+			"chance": 14.75
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 14.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12.03
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.34
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-10-20T09:42:02.467Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 33.81
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.62
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 30.43
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.39
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.1
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.68
+		},
+		{
+			"name": "Omrafir",
+			"chance": 18.85
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.37
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 16.46
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.87
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.7
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.63
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 15.25
+		},
+		{
+			"name": "The Welter",
+			"chance": 15.07
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.7
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.56
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.54
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.45
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.42
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.6
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.58
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.16
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.86
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.41
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.92
+		}
+	]
+}

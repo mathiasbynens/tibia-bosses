@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-19T09:31:49.952Z",
+	"timestamp": "2025-10-20T03:46:52.118Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -84,6 +84,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

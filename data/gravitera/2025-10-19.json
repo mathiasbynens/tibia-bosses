@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-19T09:32:03.106Z",
+	"timestamp": "2025-10-20T03:46:55.543Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 14.63
+			"chance": 14.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.46
+			"chance": 13.46,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +91,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

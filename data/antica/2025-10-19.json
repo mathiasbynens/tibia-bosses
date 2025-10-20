@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-10-19T09:31:46.188Z",
+	"timestamp": "2025-10-20T03:46:51.344Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.81
+			"chance": 45.81,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.57
+			"chance": 38.57,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -92,6 +96,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

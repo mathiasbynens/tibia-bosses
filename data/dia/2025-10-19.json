@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-19T09:31:53.214Z",
+	"timestamp": "2025-10-20T03:46:53.159Z",
 	"bosses": [
 		{
 			"name": "Hatebreeder",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 23.69
+			"chance": 23.69,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.79
+			"chance": 21.79,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.51
+			"chance": 13.51,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -104,6 +108,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-19T09:32:09.972Z",
+	"timestamp": "2025-10-20T03:46:56.877Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.31
+			"chance": 40.31,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.14
+			"chance": 31.14,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

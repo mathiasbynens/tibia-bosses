@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-19T09:31:59.272Z",
+	"timestamp": "2025-10-20T03:46:54.756Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 21.13
+			"chance": 21.13,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -36,6 +37,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.56
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

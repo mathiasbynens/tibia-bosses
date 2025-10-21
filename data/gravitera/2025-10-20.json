@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-20T09:42:13.393Z",
+	"timestamp": "2025-10-21T03:42:19.166Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,15 +15,18 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 27.7
+			"chance": 27.7,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -96,6 +99,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.81
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

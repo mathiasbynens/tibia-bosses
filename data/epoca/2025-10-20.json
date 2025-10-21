@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-20T09:42:06.644Z",
+	"timestamp": "2025-10-21T03:42:18.032Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.07
+			"chance": 9.07,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -80,6 +81,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

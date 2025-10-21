@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-20T09:42:19.466Z",
+	"timestamp": "2025-10-21T03:42:20.337Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 37
+			"chance": 37,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.73
+			"chance": 14.73,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -76,6 +79,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

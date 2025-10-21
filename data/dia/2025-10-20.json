@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-20T09:42:02.467Z",
+	"timestamp": "2025-10-21T03:42:17.412Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.62
+			"chance": 32.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.43
+			"chance": 30.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.39
+			"chance": 24.39,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.1
+			"chance": 21.1,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -59,15 +63,18 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.7
+			"chance": 14.7,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.56
+			"chance": 12.56,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -108,6 +116,36 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.92
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

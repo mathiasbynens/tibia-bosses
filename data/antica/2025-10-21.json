@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-21T09:34:37.389Z",
+	"timestamp": "2025-10-22T03:45:33.584Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.19
+			"chance": 23.19,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.98
+			"chance": 9.98,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -100,6 +104,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.22
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

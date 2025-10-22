@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-21T09:34:41.236Z",
+	"timestamp": "2025-10-22T03:45:34.275Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 29.72
+			"chance": 29.72,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 18.17
+			"chance": 18.17,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -100,6 +103,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

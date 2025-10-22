@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-21T09:35:05.493Z",
+	"timestamp": "2025-10-22T03:45:39.743Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.56
+			"chance": 19.56,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

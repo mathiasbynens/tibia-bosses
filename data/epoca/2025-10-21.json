@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-21T09:34:48.931Z",
+	"timestamp": "2025-10-22T03:45:35.792Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 14.42
+			"chance": 14.42,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +81,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-21T09:35:09.421Z",
+	"timestamp": "2025-10-22T03:45:40.941Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 43.97
+			"chance": 43.97,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.06
+			"chance": 18.06,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -124,6 +126,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

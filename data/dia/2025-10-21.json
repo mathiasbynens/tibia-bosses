@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-21T09:34:45.061Z",
+	"timestamp": "2025-10-22T03:45:35.098Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 13
+			"chance": 13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -84,6 +85,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

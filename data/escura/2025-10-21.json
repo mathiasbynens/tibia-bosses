@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-21T09:34:51.956Z",
+	"timestamp": "2025-10-22T03:45:36.409Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",

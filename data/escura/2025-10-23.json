@@ -1,0 +1,61 @@
+{
+	"timestamp": "2025-10-23T09:34:51.660Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 81.49
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.45
+		},
+		{
+			"name": "Hirintror",
+			"chance": 37.5
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.65
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 24.01
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.57
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.23
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.95
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.94
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.52
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.49
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.74
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.95
+		}
+	]
+}

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-22T09:36:31.168Z",
+	"timestamp": "2025-10-23T03:41:14.580Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.25
+			"chance": 70.25,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.68
+			"chance": 47.68,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.5
+			"chance": 21.5,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.39
+			"chance": 18.39,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -87,11 +91,32 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.15
+			"chance": 4.15,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

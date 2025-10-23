@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-22T09:36:35.013Z",
+	"timestamp": "2025-10-23T03:41:15.344Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.25
+			"chance": 70.25,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 38.26
+			"chance": 38.26,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

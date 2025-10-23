@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-22T09:36:13.532Z",
+	"timestamp": "2025-10-23T03:41:10.679Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.21
+			"chance": 65.21,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.25
+			"chance": 28.25,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -92,6 +94,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.22
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

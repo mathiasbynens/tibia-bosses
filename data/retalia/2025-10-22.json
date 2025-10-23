@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-22T09:36:27.723Z",
+	"timestamp": "2025-10-23T03:41:13.610Z",
 	"bosses": [
 		{
 			"name": "Morgaroth",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.48
+			"chance": 42.48,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.11
+			"chance": 15.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -72,6 +75,16 @@
 		{
 			"name": "The Welter",
 			"chance": 8.22
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

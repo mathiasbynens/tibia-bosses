@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-22T09:36:16.698Z",
+	"timestamp": "2025-10-23T03:41:11.276Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -56,6 +56,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 6.23
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-23T09:34:48.087Z",
+	"timestamp": "2025-10-24T03:40:24.025Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 26.7
+			"chance": 26.7,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -91,11 +92,17 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.47
+			"chance": 6.47,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 5.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

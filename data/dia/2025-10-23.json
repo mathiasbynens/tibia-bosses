@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-23T09:34:43.705Z",
+	"timestamp": "2025-10-24T03:40:23.205Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 44.11
+			"chance": 44.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.48
+			"chance": 30.48,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,11 +56,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.7
+			"chance": 17.7,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -75,11 +82,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.22
+			"chance": 14.22,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 11.53
+			"chance": 11.53,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +121,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

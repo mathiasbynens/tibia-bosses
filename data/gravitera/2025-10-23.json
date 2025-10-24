@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-23T09:34:55.002Z",
+	"timestamp": "2025-10-24T03:40:25.464Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.33
+			"chance": 18.33,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.76
+			"chance": 16.76,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

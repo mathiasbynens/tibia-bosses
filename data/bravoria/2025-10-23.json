@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-23T09:34:40.109Z",
+	"timestamp": "2025-10-24T03:40:22.412Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 34.66
+			"chance": 34.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.5
+			"chance": 16.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

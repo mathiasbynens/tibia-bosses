@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-23T09:35:08.478Z",
+	"timestamp": "2025-10-24T03:40:29.896Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.3
+			"chance": 40.3,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.19
+			"chance": 31.19,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,15 +45,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.4
+			"chance": 22.4,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.52
+			"chance": 17.52,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -112,6 +119,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.21
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

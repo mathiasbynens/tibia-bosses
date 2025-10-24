@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-23T09:35:01.351Z",
+	"timestamp": "2025-10-24T03:40:26.743Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 35.89
+			"chance": 35.89,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 30.77
+			"chance": 30.77,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +86,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

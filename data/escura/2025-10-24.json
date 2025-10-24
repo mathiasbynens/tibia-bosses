@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-10-24T09:34:18.409Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 70.53
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.48
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.9
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 28.68
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.63
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.98
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.97
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.65
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.11
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.3
+		},
+		{
+			"name": "yeti",
+			"chance": 10.24
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.24
+		}
+	]
+}

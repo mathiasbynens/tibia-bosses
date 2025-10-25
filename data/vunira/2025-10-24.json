@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-24T09:34:36.432Z",
+	"timestamp": "2025-10-25T03:41:14.566Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 65.62
+			"chance": 65.62,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.78
+			"chance": 35.78,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.69
+			"chance": 19.69,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.21
+			"chance": 15.21,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.22
+			"chance": 14.22,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -100,6 +105,21 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.22
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-24T09:34:28.764Z",
+	"timestamp": "2025-10-25T03:41:12.665Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.41
+			"chance": 11.41,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -72,6 +74,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

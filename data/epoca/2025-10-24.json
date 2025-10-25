@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-24T09:34:14.564Z",
+	"timestamp": "2025-10-25T03:41:09.547Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.67
+			"chance": 35.67,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -88,6 +90,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.48
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

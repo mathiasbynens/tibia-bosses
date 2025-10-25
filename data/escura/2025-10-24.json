@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-24T09:34:18.409Z",
+	"timestamp": "2025-10-25T03:41:10.386Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +47,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

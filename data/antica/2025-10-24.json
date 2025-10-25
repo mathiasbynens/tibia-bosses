@@ -1,33 +1,40 @@
 {
-	"timestamp": "2025-10-24T09:34:04.032Z",
+	"timestamp": "2025-10-25T03:41:06.356Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.26
+			"chance": 70.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.38
+			"chance": 46.38,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.6
+			"chance": 36.6,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.65
+			"chance": 32.65,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 28.93
+			"chance": 28.93,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.67
+			"chance": 22.67,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.46
+			"chance": 21.46,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -39,7 +46,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.18
+			"chance": 18.18,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +55,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -115,11 +124,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.15
+			"chance": 4.15,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.79
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

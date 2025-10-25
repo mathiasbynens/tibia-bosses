@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-24T09:34:11.288Z",
+	"timestamp": "2025-10-25T03:41:08.795Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 29.57
+			"chance": 29.57,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.24
+			"chance": 28.24,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.76
+			"chance": 21.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -80,6 +84,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.44
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

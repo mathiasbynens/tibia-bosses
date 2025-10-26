@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-25T09:31:26.728Z",
+	"timestamp": "2025-10-26T03:44:08.434Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.82
+			"chance": 19.82,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -96,6 +98,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.38
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

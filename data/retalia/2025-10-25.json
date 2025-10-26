@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-25T09:31:44.923Z",
+	"timestamp": "2025-10-26T03:44:12.283Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.37
+			"chance": 54.37,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.25
+			"chance": 31.25,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -84,6 +86,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.92
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

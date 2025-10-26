@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-10-25T09:31:47.835Z",
+	"timestamp": "2025-10-26T03:44:13.169Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
-			"chance": 53.37
+			"chance": 53.37,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.79
+			"chance": 35.79,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.27
+			"chance": 29.27,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.67
+			"chance": 14.67,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -108,6 +112,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

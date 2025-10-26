@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-25T09:31:30.380Z",
+	"timestamp": "2025-10-26T03:44:09.296Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 37.81
+			"chance": 37.81,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",

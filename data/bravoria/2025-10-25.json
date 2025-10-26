@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-25T09:31:23.309Z",
+	"timestamp": "2025-10-26T03:44:07.590Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.19
+			"chance": 31.19,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.19
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

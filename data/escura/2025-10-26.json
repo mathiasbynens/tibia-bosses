@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-10-26T09:31:44.097Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 94.1
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 46.39
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 41.12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 41.1
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 37.08
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.36
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 22.24
+		},
+		{
+			"name": "yeti",
+			"chance": 16.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.01
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.05
+		}
+	]
+}

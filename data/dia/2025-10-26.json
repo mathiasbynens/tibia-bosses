@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-10-26T09:31:36.583Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 32.67
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.11
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.24
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.45
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.31
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.15
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.8
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.49
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.75
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.43
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.04
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.74
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.55
+		},
+		{
+			"name": "Massacre",
+			"chance": 9.87
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.76
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 8.85
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.28
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.26
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 8.22
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.13
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.99
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.9
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.57
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.15
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.12
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.96
+		}
+	]
+}

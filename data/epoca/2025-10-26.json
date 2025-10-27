@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-26T09:31:40.441Z",
+	"timestamp": "2025-10-27T03:47:51.906Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.48
+			"chance": 42.48,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 23.81
+			"chance": 23.81,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -96,6 +100,26 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

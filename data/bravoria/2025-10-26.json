@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-10-26T09:31:32.935Z",
+	"timestamp": "2025-10-27T03:47:50.320Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.27
+			"chance": 62.27,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.71
+			"chance": 53.71,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 50.48
+			"chance": 50.48,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.28
+			"chance": 24.28,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.9
+			"chance": 15.9,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.51
+			"chance": 11.51,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -83,11 +89,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 5.73
+			"chance": 5.73,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.16
+			"chance": 5.16,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +104,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

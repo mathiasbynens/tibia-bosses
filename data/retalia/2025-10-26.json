@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-26T09:31:54.190Z",
+	"timestamp": "2025-10-27T03:47:54.584Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 37.84
+			"chance": 37.84,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.31
+			"chance": 28.31,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -68,6 +70,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

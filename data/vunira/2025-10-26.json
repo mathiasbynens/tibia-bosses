@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-26T09:32:01.831Z",
+	"timestamp": "2025-10-27T03:47:56.169Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.83
+			"chance": 62.83,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.39
+			"chance": 46.39,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-10-27T09:36:17.315Z",
+	"bosses": [
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 67.01
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 66.76
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 37.84
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 23.78
+		},
+		{
+			"name": "yeti",
+			"chance": 20.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.74
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.83
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.67
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.69
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.23
+		}
+	]
+}

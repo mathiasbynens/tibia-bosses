@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-10-28T09:35:11.752Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.45
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.48
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 26.12
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 24.04
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 24
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.14
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.8
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.46
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.73
+		},
+		{
+			"name": "Massacre",
+			"chance": 11.68
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.73
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.62
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.34
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.96
+		}
+	]
+}

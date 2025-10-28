@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-27T09:36:00.524Z",
+	"timestamp": "2025-10-28T03:44:36.947Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.74
+			"chance": 53.74,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -108,6 +109,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.87
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

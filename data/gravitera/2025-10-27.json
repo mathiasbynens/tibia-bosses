@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-27T09:36:21.497Z",
+	"timestamp": "2025-10-28T03:44:40.928Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.36
+			"chance": 31.36,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 22.22
+			"chance": 22.22,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -100,6 +102,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.96
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

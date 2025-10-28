@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-27T09:36:12.977Z",
+	"timestamp": "2025-10-28T03:44:39.354Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -96,6 +97,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

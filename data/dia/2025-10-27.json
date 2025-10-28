@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-27T09:36:08.811Z",
+	"timestamp": "2025-10-28T03:44:38.628Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.08
+			"chance": 22.08,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -100,6 +102,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.51
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

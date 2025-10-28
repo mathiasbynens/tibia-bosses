@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-27T09:36:33.159Z",
+	"timestamp": "2025-10-28T03:44:43.151Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -27,11 +27,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.88
+			"chance": 15.88,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.66
+			"chance": 9.66,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.63
+			"chance": 9.63,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +96,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

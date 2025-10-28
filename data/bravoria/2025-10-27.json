@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-27T09:36:04.577Z",
+	"timestamp": "2025-10-28T03:44:37.723Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +77,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

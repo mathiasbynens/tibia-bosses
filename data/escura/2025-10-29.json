@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-10-29T09:34:46.231Z",
+	"bosses": [
+		{
+			"name": "Warlord Ruzad",
+			"chance": 36.05
+		},
+		{
+			"name": "yeti",
+			"chance": 30.74
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 25.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.35
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.76
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.87
+		},
+		{
+			"name": "General Murius",
+			"chance": 17
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.21
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.05
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 5.69
+		}
+	]
+}

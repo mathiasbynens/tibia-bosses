@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-28T09:34:52.755Z",
+	"timestamp": "2025-10-29T03:46:46.780Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.1
+			"chance": 22.1,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -84,6 +86,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

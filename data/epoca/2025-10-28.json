@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-28T09:34:59.246Z",
+	"timestamp": "2025-10-29T03:46:47.891Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.11
+			"chance": 21.11,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.58
+			"chance": 20.58,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +98,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.71
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

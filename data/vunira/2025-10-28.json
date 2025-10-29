@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-28T09:35:17.661Z",
+	"timestamp": "2025-10-29T03:46:51.367Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.26
+			"chance": 62.26,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 48.14
+			"chance": 48.14,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.34
+			"chance": 24.34,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.91
+			"chance": 23.91,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -128,6 +133,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

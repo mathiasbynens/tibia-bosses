@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-28T09:34:56.208Z",
+	"timestamp": "2025-10-29T03:46:47.404Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.8
+			"chance": 27.8,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,11 +61,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.51
+			"chance": 13.51,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.37
+			"chance": 13.37,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +108,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.39
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

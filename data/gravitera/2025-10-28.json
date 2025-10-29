@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-28T09:35:05.737Z",
+	"timestamp": "2025-10-29T03:46:49.054Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -100,6 +102,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

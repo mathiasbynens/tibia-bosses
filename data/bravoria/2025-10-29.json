@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-29T09:34:34.014Z",
+	"timestamp": "2025-10-30T03:45:49.690Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.38
+			"chance": 31.38,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.75
+			"chance": 25.75,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,15 +45,18 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -80,6 +85,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-29T09:34:50.109Z",
+	"timestamp": "2025-10-30T03:45:53.414Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.93
+			"chance": 39.93,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 16.46
+			"chance": 16.46,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 8.11
+			"chance": 8.11,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

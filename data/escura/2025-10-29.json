@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-29T09:34:46.231Z",
+	"timestamp": "2025-10-30T03:45:52.489Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.21
+			"chance": 14.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -44,6 +45,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.69
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-29T09:34:42.525Z",
+	"timestamp": "2025-10-30T03:45:51.609Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -88,6 +88,11 @@
 		{
 			"name": "yeti",
 			"chance": 5.83
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

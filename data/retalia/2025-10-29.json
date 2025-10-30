@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-29T09:34:58.266Z",
+	"timestamp": "2025-10-30T03:45:55.310Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.85
+			"chance": 29.85,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.23
+			"chance": 11.23,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -68,6 +70,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

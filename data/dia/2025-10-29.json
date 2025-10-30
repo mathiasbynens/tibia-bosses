@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-29T09:34:38.295Z",
+	"timestamp": "2025-10-30T03:45:50.812Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.3
+			"chance": 43.3,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.54
+			"chance": 21.54,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -120,6 +124,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.7
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

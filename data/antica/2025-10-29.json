@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-10-29T09:34:30.541Z",
+	"timestamp": "2025-10-30T03:45:48.578Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 81.61
+			"chance": 81.61,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.07
+			"chance": 64.07,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 23.68
+			"chance": 23.68,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14
+			"chance": 14,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -123,11 +131,22 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.66
+			"chance": 6.66,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

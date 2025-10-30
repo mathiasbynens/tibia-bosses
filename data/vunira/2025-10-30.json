@@ -1,0 +1,109 @@
+{
+	"timestamp": "2025-10-30T09:35:17.159Z",
+	"bosses": [
+		{
+			"name": "Morgaroth",
+			"chance": 29.17
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.33
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 26.5
+		},
+		{
+			"name": "The Imperor",
+			"chance": 25.91
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.11
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 18.35
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.92
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.9
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.54
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.68
+		},
+		{
+			"name": "White Pale",
+			"chance": 13.03
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.48
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.26
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.32
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.03
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.64
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.61
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 10.18
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.82
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.1
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.85
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.67
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.22
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.81
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.39
+		}
+	]
+}

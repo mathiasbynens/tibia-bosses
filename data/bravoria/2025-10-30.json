@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-30T09:34:50.234Z",
+	"timestamp": "2025-10-31T03:45:54.495Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.94
+			"chance": 61.94,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.89
+			"chance": 37.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.33
+			"chance": 28.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -68,6 +72,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.99
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

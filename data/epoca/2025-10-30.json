@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-30T09:34:56.833Z",
+	"timestamp": "2025-10-31T03:45:58.544Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -39,11 +39,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -100,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

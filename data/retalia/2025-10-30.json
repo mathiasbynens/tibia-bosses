@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-30T09:35:09.845Z",
+	"timestamp": "2025-10-31T03:46:01.877Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.12
+			"chance": 74.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 21.19
+			"chance": 21.19,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -60,6 +62,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

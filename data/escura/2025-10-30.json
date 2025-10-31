@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-30T09:35:00.090Z",
+	"timestamp": "2025-10-31T03:45:59.388Z",
 	"bosses": [
 		{
 			"name": "yeti",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.81
+			"chance": 33.81,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.24
+			"chance": 28.24,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -40,6 +42,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 9.1
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

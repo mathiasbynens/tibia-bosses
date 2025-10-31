@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-30T09:35:03.620Z",
+	"timestamp": "2025-10-31T03:46:00.310Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.67
+			"chance": 8.67,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -84,6 +85,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.81
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

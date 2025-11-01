@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-10-31T09:34:51.821Z",
+	"timestamp": "2025-11-01T03:45:13.888Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.81
+			"chance": 22.81,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -96,6 +97,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

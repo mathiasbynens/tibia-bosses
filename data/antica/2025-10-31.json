@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-10-31T09:34:41.519Z",
+	"timestamp": "2025-11-01T03:45:09.662Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.13
+			"chance": 74.13,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.61
+			"chance": 24.61,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.14
+			"chance": 22.14,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 21.9
+			"chance": 21.9,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.56
+			"chance": 21.56,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.49
+			"chance": 12.49,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -96,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

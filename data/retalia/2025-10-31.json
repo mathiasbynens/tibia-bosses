@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-10-31T09:35:04.353Z",
+	"timestamp": "2025-11-01T03:45:17.429Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.35
+			"chance": 79.35,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.36
+			"chance": 31.36,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

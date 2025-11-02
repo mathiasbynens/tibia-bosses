@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-01T09:32:12.655Z",
+	"timestamp": "2025-11-02T03:46:04.274Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 54.95
+			"chance": 54.95,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 45.8
+			"chance": 45.8,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.73
+			"chance": 14.73,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.08
+			"chance": 4.08,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +101,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.7
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

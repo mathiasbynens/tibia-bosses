@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-01T09:32:23.931Z",
+	"timestamp": "2025-11-02T03:46:07.960Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -84,6 +85,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

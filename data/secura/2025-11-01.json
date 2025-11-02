@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-01T09:32:41.802Z",
+	"timestamp": "2025-11-02T03:46:12.532Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
-			"chance": 37.37
+			"chance": 37.37,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.28
+			"chance": 19.28,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.41
+			"chance": 14.41,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +104,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

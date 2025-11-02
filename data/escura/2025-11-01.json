@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-01T09:32:27.313Z",
+	"timestamp": "2025-11-02T03:46:08.778Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.92
+			"chance": 62.92,
+			"killed": true
 		},
 		{
 			"name": "Zomba",

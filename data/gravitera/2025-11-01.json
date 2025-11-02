@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-01T09:32:30.946Z",
+	"timestamp": "2025-11-02T03:46:10.149Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -71,15 +72,18 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.62
+			"chance": 10.62,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -112,6 +116,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.85
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

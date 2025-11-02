@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-11-02T09:32:19.798Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.52
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 28.65
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 28.44
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.33
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.6
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 22.67
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 20.84
+		},
+		{
+			"name": "midnight panther",
+			"chance": 19.1
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.26
+		},
+		{
+			"name": "Shlorg",
+			"chance": 15.4
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.51
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.75
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.75
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.51
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.95
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.83
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 6.3
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.38
+		}
+	]
+}

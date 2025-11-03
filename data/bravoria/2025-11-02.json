@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-02T09:31:58.060Z",
+	"timestamp": "2025-11-03T03:47:44.144Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.95
+			"chance": 4.95,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +77,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.95
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

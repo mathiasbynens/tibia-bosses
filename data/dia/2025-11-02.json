@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-02T09:32:01.479Z",
+	"timestamp": "2025-11-03T03:47:45.541Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.74
+			"chance": 14.74,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.19
+			"chance": 8.19,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -84,6 +86,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

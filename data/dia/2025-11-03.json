@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-03T09:36:37.211Z",
+	"timestamp": "2025-11-04T03:45:24.832Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.46
+			"chance": 42.46,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.72
+			"chance": 22.72,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.74
+			"chance": 14.74,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +112,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.75
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

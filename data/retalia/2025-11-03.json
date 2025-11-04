@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-03T09:36:57.514Z",
+	"timestamp": "2025-11-04T03:45:29.242Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.49
+			"chance": 19.49,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.6
+			"chance": 6.6,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",

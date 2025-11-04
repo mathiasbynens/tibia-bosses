@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-03T09:36:45.077Z",
+	"timestamp": "2025-11-04T03:45:26.473Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -20,6 +20,16 @@
 		{
 			"name": "midnight panther",
 			"chance": 15.79
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

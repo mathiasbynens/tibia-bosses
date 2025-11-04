@@ -1,0 +1,37 @@
+{
+	"timestamp": "2025-11-04T09:36:02.131Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.28
+		},
+		{
+			"name": "Tyrn",
+			"chance": 39.84
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.31
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.07
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.92
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.24
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.09
+		}
+	]
+}

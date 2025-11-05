@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-04T09:36:15.274Z",
+	"timestamp": "2025-11-05T03:45:44.347Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -11,23 +12,28 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 29.63
+			"chance": 29.63,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.98
+			"chance": 23.98,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 21.94
+			"chance": 21.94,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 9.1
+			"chance": 9.1,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -99,7 +107,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.04
+			"chance": 6.04,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -116,6 +125,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.25
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

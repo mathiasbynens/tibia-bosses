@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-04T09:36:05.648Z",
+	"timestamp": "2025-11-05T03:45:42.411Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.37
+			"chance": 46.37,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 45.86
+			"chance": 45.86,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.34
+			"chance": 14.34,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +107,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.6
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

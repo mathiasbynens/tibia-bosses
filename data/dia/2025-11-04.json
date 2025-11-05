@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-11-04T09:35:55.968Z",
+	"timestamp": "2025-11-05T03:45:39.160Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
-			"chance": 37.02
+			"chance": 37.02,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.18
+			"chance": 32.18,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.12
+			"chance": 21.12,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.68
+			"chance": 13.68,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.8
+			"chance": 6.8,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +114,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.22
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-04T09:36:11.388Z",
+	"timestamp": "2025-11-05T03:45:43.600Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 7.31
+			"chance": 7.31,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -76,6 +77,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

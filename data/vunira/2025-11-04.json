@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-04T09:36:19.003Z",
+	"timestamp": "2025-11-05T03:45:45.134Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.44
+			"chance": 31.44,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 26.2
+			"chance": 26.2,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -120,6 +123,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.3
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

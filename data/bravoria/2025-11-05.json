@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-05T09:35:55.300Z",
+	"timestamp": "2025-11-06T03:46:41.793Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 81.45
+			"chance": 81.45,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 27.93
+			"chance": 27.93,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -108,6 +110,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.23
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-05T09:36:05.753Z",
+	"timestamp": "2025-11-06T03:46:45.921Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -44,6 +44,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.8
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

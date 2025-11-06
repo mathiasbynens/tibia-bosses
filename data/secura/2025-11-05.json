@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-05T09:36:19.248Z",
+	"timestamp": "2025-11-06T03:46:49.580Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
-			"chance": 43.84
+			"chance": 43.84,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.07
+			"chance": 18.07,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -95,7 +97,23 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.54
+			"chance": 3.54,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

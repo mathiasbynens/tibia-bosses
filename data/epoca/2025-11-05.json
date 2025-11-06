@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-05T09:36:02.560Z",
+	"timestamp": "2025-11-06T03:46:45.324Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 21.27
+			"chance": 21.27,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 4.6
+			"chance": 4.6,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -72,6 +75,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

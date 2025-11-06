@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-11-05T09:35:51.919Z",
+	"timestamp": "2025-11-06T03:46:41.185Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 77.39
+			"chance": 77.39,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.17
+			"chance": 43.17,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.18
+			"chance": 10.18,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -112,6 +116,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.97
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

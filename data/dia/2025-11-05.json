@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-05T09:35:59.119Z",
+	"timestamp": "2025-11-06T03:46:44.284Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.24
+			"chance": 70.24,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.32
+			"chance": 37.32,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 8.06
+			"chance": 8.06,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

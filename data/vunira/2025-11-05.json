@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-05T09:36:23.178Z",
+	"timestamp": "2025-11-06T03:46:50.477Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.24
+			"chance": 70.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.22
+			"chance": 62.22,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.95
+			"chance": 37.95,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.23
+			"chance": 22.23,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -116,6 +122,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

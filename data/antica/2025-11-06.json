@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-11-06T09:35:27.736Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.3
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 35.29
+		},
+		{
+			"name": "The Imperor",
+			"chance": 35.11
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.47
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 25.38
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 25.37
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.34
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.26
+		},
+		{
+			"name": "midnight panther",
+			"chance": 19.13
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.57
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.4
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.22
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.21
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.02
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.48
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 13.07
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.5
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.9
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.57
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.99
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.15
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 8.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.73
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.67
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.84
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.68
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.66
+		}
+	]
+}

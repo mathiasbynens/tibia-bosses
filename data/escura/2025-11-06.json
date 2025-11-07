@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-06T09:35:42.201Z",
+	"timestamp": "2025-11-07T03:45:23.424Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.64
+			"chance": 81.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.48
+			"chance": 42.48,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.83
+			"chance": 33.83,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -56,6 +60,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

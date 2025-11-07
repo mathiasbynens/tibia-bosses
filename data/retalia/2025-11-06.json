@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-06T09:35:51.008Z",
+	"timestamp": "2025-11-07T03:45:25.141Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 53.92
+			"chance": 53.92,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -72,6 +75,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.21
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

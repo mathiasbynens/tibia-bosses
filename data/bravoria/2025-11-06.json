@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-06T09:35:31.143Z",
+	"timestamp": "2025-11-07T03:45:21.354Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.04
+			"chance": 38.04,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.8
+			"chance": 15.8,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -112,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

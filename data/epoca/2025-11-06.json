@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-06T09:35:37.927Z",
+	"timestamp": "2025-11-07T03:45:22.758Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -76,6 +76,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

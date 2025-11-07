@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-06T09:35:57.452Z",
+	"timestamp": "2025-11-07T03:45:26.650Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.98
+			"chance": 61.98,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 57.24
+			"chance": 57.24,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.27
+			"chance": 23.27,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.47
+			"chance": 17.47,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.45
+			"chance": 11.45,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.31
+			"chance": 10.31,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -116,6 +123,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

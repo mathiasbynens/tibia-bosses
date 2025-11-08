@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-07T09:34:27.385Z",
+	"timestamp": "2025-11-08T03:41:05.073Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.77
+			"chance": 53.77,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.3
+			"chance": 40.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.37
+			"chance": 31.37,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.4
+			"chance": 11.4,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.6
+			"chance": 10.6,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.3
+			"chance": 7.3,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -120,6 +127,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

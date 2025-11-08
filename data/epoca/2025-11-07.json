@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-07T09:34:10.653Z",
+	"timestamp": "2025-11-08T03:40:59.480Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.46
+			"chance": 17.46,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -76,6 +77,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.3
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

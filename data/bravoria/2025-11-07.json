@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-07T09:34:04.102Z",
+	"timestamp": "2025-11-08T03:40:56.882Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.57
+			"chance": 32.57,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

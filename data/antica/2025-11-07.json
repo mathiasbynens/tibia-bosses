@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-11-07T09:34:00.569Z",
+	"timestamp": "2025-11-08T03:40:55.541Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 53.98
+			"chance": 53.98,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.06
+			"chance": 53.06,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 28.13
+			"chance": 28.13,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.6
+			"chance": 26.6,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.95
+			"chance": 20.95,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,11 +57,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -67,7 +75,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -120,6 +129,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

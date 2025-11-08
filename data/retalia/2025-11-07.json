@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-07T09:34:23.652Z",
+	"timestamp": "2025-11-08T03:41:04.319Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -68,6 +69,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.75
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-07T09:34:14.940Z",
+	"timestamp": "2025-11-08T03:41:00.238Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.25
+			"chance": 70.25,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.17
+			"chance": 18.17,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -48,6 +50,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.62
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

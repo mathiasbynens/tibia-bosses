@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-08T09:32:32.506Z",
+	"timestamp": "2025-11-09T03:45:29.657Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -76,6 +76,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.22
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

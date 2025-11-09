@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-08T09:32:15.239Z",
+	"timestamp": "2025-11-09T03:45:25.886Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.38
+			"chance": 54.38,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.42
+			"chance": 13.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -107,7 +110,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -128,6 +132,11 @@
 		{
 			"name": "Warlord Ruzad",
 			"chance": 3.69
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

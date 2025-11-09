@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-08T09:32:18.952Z",
+	"timestamp": "2025-11-09T03:45:26.537Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.44
+			"chance": 31.44,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.07
+			"chance": 25.07,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.73
+			"chance": 15.73,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.72
+			"chance": 12.72,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -100,6 +106,16 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 5.4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

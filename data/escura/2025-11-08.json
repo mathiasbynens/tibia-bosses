@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-08T09:32:24.958Z",
+	"timestamp": "2025-11-09T03:45:27.795Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.99
+			"chance": 63.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.31
+			"chance": 10.31,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

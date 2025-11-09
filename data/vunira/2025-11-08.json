@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-08T09:32:38.147Z",
+	"timestamp": "2025-11-09T03:45:31.625Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 72.62
+			"chance": 72.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 72.36
+			"chance": 72.36,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.93
+			"chance": 12.93,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -103,11 +106,32 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.92
+			"chance": 3.92,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

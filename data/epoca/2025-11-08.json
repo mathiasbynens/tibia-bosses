@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-08T09:32:21.992Z",
+	"timestamp": "2025-11-09T03:45:27.246Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 70.16
+			"chance": 70.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.51
+			"chance": 39.51,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

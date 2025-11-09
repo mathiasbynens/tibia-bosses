@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-11-08T09:32:35.199Z",
+	"timestamp": "2025-11-09T03:45:30.361Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.95
+			"chance": 62.95,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62
+			"chance": 62,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.89
+			"chance": 35.89,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 35.1
+			"chance": 35.1,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.74
+			"chance": 14.74,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +115,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

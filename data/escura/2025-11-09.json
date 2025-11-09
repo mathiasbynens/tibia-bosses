@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-11-09T09:32:10.028Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.52
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 33.62
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.3
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 27.32
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 25.74
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.27
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.36
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.7
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		}
+	]
+}

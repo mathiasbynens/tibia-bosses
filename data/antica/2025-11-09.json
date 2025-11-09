@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-11-09T09:31:54.719Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 93.99
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 46.35
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 27.76
+		},
+		{
+			"name": "midnight panther",
+			"chance": 25.85
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.37
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.35
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.85
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.03
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.89
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 15.75
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.06
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.75
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 12.67
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.24
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.22
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.13
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.97
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 7.87
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.85
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.57
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.13
+		}
+	]
+}

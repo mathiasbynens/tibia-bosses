@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-09T09:32:06.334Z",
+	"timestamp": "2025-11-10T03:47:44.530Z",
 	"bosses": [
 		{
 			"name": "Hirintror",
@@ -47,11 +47,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.64
+			"chance": 9.64,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -84,6 +86,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

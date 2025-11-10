@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-09T09:32:18.860Z",
+	"timestamp": "2025-11-10T03:47:48.639Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.47
+			"chance": 13.47,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -76,6 +77,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-09T09:31:59.313Z",
+	"timestamp": "2025-11-10T03:47:42.377Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -79,11 +79,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.65
+			"chance": 10.65,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.61
+			"chance": 10.61,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

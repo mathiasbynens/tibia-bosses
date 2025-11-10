@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-09T09:32:22.723Z",
+	"timestamp": "2025-11-10T03:47:49.652Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.59
+			"chance": 32.59,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.46
+			"chance": 31.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.17
+			"chance": 18.17,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -108,6 +113,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-09T09:31:54.719Z",
+	"timestamp": "2025-11-10T03:47:41.240Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.99
+			"chance": 93.99,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.35
+			"chance": 46.35,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.22
+			"chance": 11.22,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +97,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

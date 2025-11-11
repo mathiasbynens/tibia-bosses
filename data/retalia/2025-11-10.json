@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-10T09:36:51.402Z",
+	"timestamp": "2025-11-11T03:46:16.822Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -68,6 +70,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

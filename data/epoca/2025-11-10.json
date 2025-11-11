@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-10T09:36:38.953Z",
+	"timestamp": "2025-11-11T03:46:14.587Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.92
+			"chance": 39.92,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 32.49
+			"chance": 32.49,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",

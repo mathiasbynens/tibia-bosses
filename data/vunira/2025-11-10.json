@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-10T09:36:58.789Z",
+	"timestamp": "2025-11-11T03:46:18.200Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.75
+			"chance": 21.75,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 7
+			"chance": 7,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +111,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

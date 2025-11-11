@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-11-11T09:35:43.051Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.52
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 37.49
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.28
+		},
+		{
+			"name": "midnight panther",
+			"chance": 25.85
+		},
+		{
+			"name": "Barbaria",
+			"chance": 23.38
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.28
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.69
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.58
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 15.1
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.68
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.74
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.96
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.95
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.88
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.32
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.7
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.52
+		},
+		{
+			"name": "Zushuka",
+			"chance": 5.73
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.39
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.85
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.69
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.34
+		}
+	]
+}

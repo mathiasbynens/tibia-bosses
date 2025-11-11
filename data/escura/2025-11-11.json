@@ -1,0 +1,41 @@
+{
+	"timestamp": "2025-11-11T09:35:31.452Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 54.38
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 32.84
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.77
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.07
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 13.02
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.73
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.53
+		}
+	]
+}

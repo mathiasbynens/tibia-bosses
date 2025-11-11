@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-11-11T09:35:27.671Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 36.72
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 26.05
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 23.99
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 22.41
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.26
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.46
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.08
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.96
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.49
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.48
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 13.06
+		},
+		{
+			"name": "Omrafir",
+			"chance": 12.65
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.73
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.42
+		},
+		{
+			"name": "Shlorg",
+			"chance": 9.96
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.22
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.48
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.55
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.8
+		}
+	]
+}

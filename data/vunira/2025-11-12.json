@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-11-12T09:36:00.805Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.25
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.36
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 22.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 19.73
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.04
+		},
+		{
+			"name": "Omrafir",
+			"chance": 18.9
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.84
+		},
+		{
+			"name": "yeti",
+			"chance": 17.88
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.7
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.06
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.97
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.53
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14.66
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.2
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.18
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.25
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.33
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 10.2
+		},
+		{
+			"name": "Shlorg",
+			"chance": 9.97
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.75
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.02
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.81
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.47
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.75
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.41
+		}
+	]
+}

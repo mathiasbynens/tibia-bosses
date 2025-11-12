@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-11-12T09:35:29.040Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 64.55
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 45.76
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 37.48
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 23.74
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 22.28
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 22.25
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.17
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.5
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.11
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.51
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.78
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.73
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.43
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.11
+		},
+		{
+			"name": "Barbaria",
+			"chance": 8.96
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.48
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.46
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.88
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.3
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.44
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.83
+		},
+		{
+			"name": "yeti",
+			"chance": 5.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.69
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.34
+		}
+	]
+}

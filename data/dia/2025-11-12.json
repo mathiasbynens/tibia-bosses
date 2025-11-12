@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-11-12T09:35:36.493Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.25
+		},
+		{
+			"name": "General Murius",
+			"chance": 54.82
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 41.73
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 29.59
+		},
+		{
+			"name": "yeti",
+			"chance": 29.57
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.6
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.28
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.42
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.94
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.04
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.76
+		},
+		{
+			"name": "The Welter",
+			"chance": 15.04
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.45
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.29
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.9
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.81
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.63
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.11
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.27
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.85
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.23
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.56
+		}
+	]
+}

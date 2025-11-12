@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-11T09:35:16.283Z",
+	"timestamp": "2025-11-12T03:45:54.117Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.73
+			"chance": 53.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.13
+			"chance": 43.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.46
+			"chance": 22.46,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.86
+			"chance": 14.86,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -47,11 +52,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -104,6 +111,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.41
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

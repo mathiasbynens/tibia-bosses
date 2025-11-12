@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-11T09:35:31.452Z",
+	"timestamp": "2025-11-12T03:45:57.557Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.38
+			"chance": 54.38,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -36,6 +39,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.53
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

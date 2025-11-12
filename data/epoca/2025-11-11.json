@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-11T09:35:27.671Z",
+	"timestamp": "2025-11-12T03:45:56.985Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 9.96
+			"chance": 9.96,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -75,7 +76,28 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

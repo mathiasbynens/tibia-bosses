@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-11T09:35:43.051Z",
+	"timestamp": "2025-11-12T03:46:01.885Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 25.85
+			"chance": 25.85,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +94,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.34
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

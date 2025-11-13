@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-11-13T09:35:29.825Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Dharalion",
+			"chance": 81.49
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 41.31
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.34
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.98
+		},
+		{
+			"name": "The Imperor",
+			"chance": 26.51
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.77
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.71
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.25
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.68
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.31
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.54
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.05
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.33
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.58
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.26
+		},
+		{
+			"name": "Barbaria",
+			"chance": 8.95
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.76
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.1
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.21
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.94
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.57
+		}
+	]
+}

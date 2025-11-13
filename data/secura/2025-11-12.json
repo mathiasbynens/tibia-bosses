@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-11-12T09:35:56.587Z",
+	"timestamp": "2025-11-13T03:46:45.652Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.91
+			"chance": 39.91,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 36.45
+			"chance": 36.45,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 29.88
+			"chance": 29.88,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 28.98
+			"chance": 28.98,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,11 +44,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.42
+			"chance": 13.42,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.94
+			"chance": 12.94,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -63,7 +70,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -79,7 +87,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.83
+			"chance": 5.83,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -95,7 +104,28 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.31
+			"chance": 3.31,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

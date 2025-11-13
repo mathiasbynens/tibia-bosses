@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-12T09:35:40.862Z",
+	"timestamp": "2025-11-13T03:46:41.507Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
-			"chance": 33.06
+			"chance": 33.06,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -88,6 +89,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

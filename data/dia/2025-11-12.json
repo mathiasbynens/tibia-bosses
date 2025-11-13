@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-12T09:35:36.493Z",
+	"timestamp": "2025-11-13T03:46:40.962Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.82
+			"chance": 54.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.57
+			"chance": 29.57,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.6
+			"chance": 23.6,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -71,11 +75,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.63
+			"chance": 10.63,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +102,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

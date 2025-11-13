@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-12T09:36:00.805Z",
+	"timestamp": "2025-11-13T03:46:46.296Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.57
+			"chance": 24.57,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,15 +86,18 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.75
+			"chance": 7.75,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.02
+			"chance": 7.02,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.81
+			"chance": 6.81,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.41
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

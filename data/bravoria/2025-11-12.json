@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-12T09:35:32.779Z",
+	"timestamp": "2025-11-13T03:46:40.280Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +105,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 6.69
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

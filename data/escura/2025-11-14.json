@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-11-14T09:34:54.910Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 54.83
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.43
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 21.31
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.62
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.24
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.48
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 13.04
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.88
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.75
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.08
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.84
+		}
+	]
+}

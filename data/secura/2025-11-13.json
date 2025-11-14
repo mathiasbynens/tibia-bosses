@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-13T09:35:47.071Z",
+	"timestamp": "2025-11-14T03:45:57.755Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.12
+			"chance": 12.12,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.89
+			"chance": 10.89,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -88,6 +92,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.33
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

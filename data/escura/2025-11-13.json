@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-13T09:35:36.196Z",
+	"timestamp": "2025-11-14T03:45:55.432Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -48,6 +49,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.95
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

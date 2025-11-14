@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-13T09:35:50.055Z",
+	"timestamp": "2025-11-14T03:45:58.885Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 81.49
+			"chance": 81.49,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.81
+			"chance": 20.81,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 19.64
+			"chance": 19.64,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.7
+			"chance": 15.7,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -116,6 +123,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.42
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

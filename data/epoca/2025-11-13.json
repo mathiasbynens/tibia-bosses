@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-13T09:35:32.880Z",
+	"timestamp": "2025-11-14T03:45:54.526Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 45.76
+			"chance": 45.76,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +111,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

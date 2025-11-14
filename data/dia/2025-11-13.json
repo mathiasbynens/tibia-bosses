@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-11-13T09:35:29.825Z",
+	"timestamp": "2025-11-14T03:45:53.910Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 81.49
+			"chance": 81.49,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 41.31
+			"chance": 41.31,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.34
+			"chance": 29.34,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 26.51
+			"chance": 26.51,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -96,6 +102,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

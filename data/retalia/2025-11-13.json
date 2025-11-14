@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-13T09:35:43.860Z",
+	"timestamp": "2025-11-14T03:45:57.105Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.96
+			"chance": 8.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -80,6 +81,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.62
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

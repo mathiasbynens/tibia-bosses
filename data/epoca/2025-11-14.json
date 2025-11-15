@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-14T09:34:51.738Z",
+	"timestamp": "2025-11-15T03:43:41.572Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.29
+			"chance": 46.29,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.47
+			"chance": 38.47,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.55
+			"chance": 32.55,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.26
+			"chance": 23.26,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 7.13
+			"chance": 7.13,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +102,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

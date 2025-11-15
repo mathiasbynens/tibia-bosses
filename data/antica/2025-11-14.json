@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-14T09:34:40.174Z",
+	"timestamp": "2025-11-15T03:43:39.242Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 28.48
+			"chance": 28.48,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.05
+			"chance": 16.05,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.74
+			"chance": 9.74,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -124,6 +127,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

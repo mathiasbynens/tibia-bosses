@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-14T09:35:03.042Z",
+	"timestamp": "2025-11-15T03:43:45.282Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",

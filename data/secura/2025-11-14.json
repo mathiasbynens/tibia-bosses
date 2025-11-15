@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-11-14T09:35:07.353Z",
+	"timestamp": "2025-11-15T03:43:46.172Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.08
+			"chance": 74.08,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.66
+			"chance": 32.66,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.34
+			"chance": 28.34,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 27.18
+			"chance": 27.18,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -31,7 +36,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -108,6 +115,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

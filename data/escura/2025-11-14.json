@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-14T09:34:54.910Z",
+	"timestamp": "2025-11-15T03:43:42.647Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.24
+			"chance": 19.24,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.48
+			"chance": 17.48,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",

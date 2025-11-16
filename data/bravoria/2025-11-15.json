@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-15T09:32:29.522Z",
+	"timestamp": "2025-11-16T03:47:05.579Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -96,6 +97,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

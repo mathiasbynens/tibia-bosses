@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-15T09:32:36.514Z",
+	"timestamp": "2025-11-16T03:47:07.656Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.47
+			"chance": 5.47,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -76,6 +78,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

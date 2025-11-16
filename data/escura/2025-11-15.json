@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-15T09:32:39.427Z",
+	"timestamp": "2025-11-16T03:47:08.303Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -40,6 +40,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.21
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-15T09:32:25.790Z",
+	"timestamp": "2025-11-16T03:47:04.762Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 36.48
+			"chance": 36.48,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 29.97
+			"chance": 29.97,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 23.14
+			"chance": 23.14,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 23.05
+			"chance": 23.05,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.25
+			"chance": 19.25,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.42
+			"chance": 12.42,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -75,7 +81,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 10.59
+			"chance": 10.59,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -112,6 +119,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

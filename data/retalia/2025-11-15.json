@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-15T09:32:48.198Z",
+	"timestamp": "2025-11-16T03:47:10.436Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -84,6 +84,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.7
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

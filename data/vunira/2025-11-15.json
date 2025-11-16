@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-15T09:32:55.589Z",
+	"timestamp": "2025-11-16T03:47:12.219Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -116,6 +116,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

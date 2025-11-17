@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-16T09:32:49.194Z",
+	"timestamp": "2025-11-17T03:47:08.672Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.94
+			"chance": 61.94,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.77
+			"chance": 32.77,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.55
+			"chance": 15.55,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.12
+			"chance": 9.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +108,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

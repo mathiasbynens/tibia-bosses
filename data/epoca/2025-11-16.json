@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-16T09:32:58.839Z",
+	"timestamp": "2025-11-17T03:47:11.051Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.26
+			"chance": 25.26,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -84,6 +86,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.33
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

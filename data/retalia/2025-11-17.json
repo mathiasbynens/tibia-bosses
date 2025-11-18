@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-17T09:37:18.748Z",
+	"timestamp": "2025-11-18T03:45:54.952Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.5
+			"chance": 39.5,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -88,6 +90,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.49
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-17T09:36:58.022Z",
+	"timestamp": "2025-11-18T03:45:50.850Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 28.25
+			"chance": 28.25,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.33
+			"chance": 13.33,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +86,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.2
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

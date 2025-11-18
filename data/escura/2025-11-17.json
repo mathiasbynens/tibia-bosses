@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-17T09:37:09.368Z",
+	"timestamp": "2025-11-18T03:45:53.176Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.15
+			"chance": 14.15,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -60,6 +62,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.41
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

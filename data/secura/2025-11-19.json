@@ -1,0 +1,113 @@
+{
+	"timestamp": "2025-11-19T09:35:49.578Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.49
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 24.59
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.24
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.48
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.45
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.68
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.57
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.52
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.43
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.24
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.92
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 15.2
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.82
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.29
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.93
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.62
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.26
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.07
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.73
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.11
+		},
+		{
+			"name": "yeti",
+			"chance": 5.84
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.23
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.59
+		}
+	]
+}

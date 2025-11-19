@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-18T09:35:59.388Z",
+	"timestamp": "2025-11-19T03:46:38.092Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -84,6 +85,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.99
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

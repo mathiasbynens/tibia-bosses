@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-18T09:35:45.215Z",
+	"timestamp": "2025-11-19T03:46:33.358Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -56,6 +58,16 @@
 		{
 			"name": "Xenia",
 			"chance": 5.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

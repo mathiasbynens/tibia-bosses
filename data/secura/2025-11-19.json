@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-19T09:35:49.578Z",
+	"timestamp": "2025-11-20T03:45:36.432Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.43
+			"chance": 18.43,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 15.2
+			"chance": 15.2,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.26
+			"chance": 9.26,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 8.73
+			"chance": 8.73,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -107,7 +115,23 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.59
+			"chance": 4.59,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

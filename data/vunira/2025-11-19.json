@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-19T09:35:52.929Z",
+	"timestamp": "2025-11-20T03:45:37.420Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.31
+			"chance": 81.31,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 41.37
+			"chance": 41.37,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.02
+			"chance": 38.02,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.6
+			"chance": 26.6,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.23
+			"chance": 13.23,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.62
+			"chance": 9.62,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +123,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

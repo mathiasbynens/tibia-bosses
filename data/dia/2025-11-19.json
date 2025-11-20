@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-19T09:35:32.064Z",
+	"timestamp": "2025-11-20T03:45:31.216Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.79
+			"chance": 93.79,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22.01
+			"chance": 22.01,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -92,6 +95,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

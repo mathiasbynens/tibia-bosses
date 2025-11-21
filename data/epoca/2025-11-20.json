@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-20T09:35:06.470Z",
+	"timestamp": "2025-11-21T03:45:22.907Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.77
+			"chance": 28.77,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

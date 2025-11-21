@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-20T09:34:53.991Z",
+	"timestamp": "2025-11-21T03:45:18.201Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 27.77
+			"chance": 27.77,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 13.14
+			"chance": 13.14,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.98
+			"chance": 8.98,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.4
+			"chance": 5.4,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +113,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

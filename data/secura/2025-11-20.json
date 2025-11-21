@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-20T09:35:24.453Z",
+	"timestamp": "2025-11-21T03:45:27.156Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.47
+			"chance": 30.47,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29
+			"chance": 29,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.69
+			"chance": 21.69,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.87
+			"chance": 11.87,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -99,7 +106,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.9
+			"chance": 9.9,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -132,6 +140,36 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.08
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

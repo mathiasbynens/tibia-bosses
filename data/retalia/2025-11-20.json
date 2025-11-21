@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-20T09:35:20.148Z",
+	"timestamp": "2025-11-21T03:45:26.428Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.26
+			"chance": 80.26,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.57
+			"chance": 32.57,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.95
+			"chance": 18.95,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.68
+			"chance": 17.68,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +90,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

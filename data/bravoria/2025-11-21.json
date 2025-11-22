@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-21T09:34:38.645Z",
+	"timestamp": "2025-11-22T03:41:53.483Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -100,6 +100,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.76
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-21T09:34:42.225Z",
+	"timestamp": "2025-11-22T03:41:54.224Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.51
+			"chance": 38.51,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.58
+			"chance": 24.58,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 19.91
+			"chance": 19.91,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.73
+			"chance": 12.73,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.19
+			"chance": 7.19,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

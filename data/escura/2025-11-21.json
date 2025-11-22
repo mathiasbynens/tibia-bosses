@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-21T09:34:48.928Z",
+	"timestamp": "2025-11-22T03:41:55.209Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -48,6 +49,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-21T09:34:46.022Z",
+	"timestamp": "2025-11-22T03:41:54.699Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -108,6 +108,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

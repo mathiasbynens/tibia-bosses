@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-22T09:32:42.477Z",
+	"timestamp": "2025-11-23T03:49:59.632Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 37.9
+			"chance": 37.9,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -31,15 +32,18 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.21
+			"chance": 19.21,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.31
+			"chance": 7.31,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -128,6 +134,36 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.98
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

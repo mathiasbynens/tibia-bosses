@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-22T09:32:45.770Z",
+	"timestamp": "2025-11-23T03:50:00.266Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 40.54
+			"chance": 40.54,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -116,6 +117,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.22
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

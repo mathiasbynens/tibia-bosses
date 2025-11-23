@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-22T09:33:04.948Z",
+	"timestamp": "2025-11-23T03:50:04.955Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.13
+			"chance": 15.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",

@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-11-23T09:33:16.423Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.46
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 35.22
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.49
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 22.33
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.14
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.94
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.41
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.71
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 17.18
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.92
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.34
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.13
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.94
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.09
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.85
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.12
+		}
+	]
+}

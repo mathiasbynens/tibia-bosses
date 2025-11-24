@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-23T09:33:16.423Z",
+	"timestamp": "2025-11-24T03:49:05.802Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.34
+			"chance": 10.34,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

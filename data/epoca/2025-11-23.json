@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-23T09:33:05.502Z",
+	"timestamp": "2025-11-24T03:49:02.922Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.87
+			"chance": 54.87,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.42
+			"chance": 46.42,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 14.91
+			"chance": 14.91,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +91,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

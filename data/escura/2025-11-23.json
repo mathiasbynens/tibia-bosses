@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-23T09:33:08.774Z",
+	"timestamp": "2025-11-24T03:49:03.785Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.24
+			"chance": 28.24,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -52,6 +54,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.48
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

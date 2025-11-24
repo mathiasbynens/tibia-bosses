@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-23T09:33:01.569Z",
+	"timestamp": "2025-11-24T03:49:02.242Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.14
+			"chance": 22.14,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",

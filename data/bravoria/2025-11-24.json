@@ -1,0 +1,109 @@
+{
+	"timestamp": "2025-11-24T09:37:26.906Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 50.45
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 41.39
+		},
+		{
+			"name": "midnight panther",
+			"chance": 41.23
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.51
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 37.28
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 32.73
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.58
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.49
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.23
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 24.62
+		},
+		{
+			"name": "Hirintror",
+			"chance": 19.44
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.95
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.94
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 18.25
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.04
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.69
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 16.35
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.17
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.03
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.88
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.45
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.36
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.81
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.32
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.6
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.56
+		}
+	]
+}

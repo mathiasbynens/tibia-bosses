@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-24T09:37:23.357Z",
+	"timestamp": "2025-11-25T03:46:52.454Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.45
+			"chance": 46.45,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.48
+			"chance": 22.48,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.42
+			"chance": 19.42,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.55
+			"chance": 10.55,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +109,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.27
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

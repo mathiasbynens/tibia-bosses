@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-24T09:37:37.571Z",
+	"timestamp": "2025-11-25T03:46:55.309Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 54.88
+			"chance": 54.88,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.49
+			"chance": 28.49,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.38
+			"chance": 23.38,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -52,6 +55,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

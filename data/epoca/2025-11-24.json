@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-24T09:37:34.059Z",
+	"timestamp": "2025-11-25T03:46:54.531Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.15
+			"chance": 62.15,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.44
+			"chance": 39.44,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.13
+			"chance": 9.13,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +99,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.19
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

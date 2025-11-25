@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-24T09:37:45.811Z",
+	"timestamp": "2025-11-25T03:46:57.350Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74
+			"chance": 74,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.89
+			"chance": 29.89,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.67
+			"chance": 27.67,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 21.24
+			"chance": 21.24,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -68,6 +72,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-11-25T09:36:36.739Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 43.11
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 31.53
+		},
+		{
+			"name": "White Pale",
+			"chance": 27.91
+		},
+		{
+			"name": "yeti",
+			"chance": 27.5
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.38
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.64
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 18.83
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.59
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.37
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.2
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.1
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.55
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.33
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.13
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.49
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 5.5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.84
+		}
+	]
+}

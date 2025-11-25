@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-11-25T09:36:50.870Z",
+	"bosses": [
+		{
+			"name": "The Big Bad One",
+			"chance": 41.74
+		},
+		{
+			"name": "The Imperor",
+			"chance": 35.08
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 31.5
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 28.27
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.38
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 22.52
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.32
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.32
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.97
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.39
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.24
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.79
+		},
+		{
+			"name": "yeti",
+			"chance": 10.09
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.28
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 7.08
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.48
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.98
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.37
+		}
+	]
+}

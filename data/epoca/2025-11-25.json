@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-25T09:36:36.739Z",
+	"timestamp": "2025-11-26T03:46:44.587Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 27.91
+			"chance": 27.91,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -76,6 +77,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

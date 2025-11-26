@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-11-25T09:36:32.287Z",
+	"timestamp": "2025-11-26T03:46:44.118Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 65.92
+			"chance": 65.92,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.92
+			"chance": 39.92,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.51
+			"chance": 30.51,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.59
+			"chance": 23.59,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.51
+			"chance": 22.51,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -96,6 +101,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.25
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-25T09:36:27.829Z",
+	"timestamp": "2025-11-26T03:46:43.506Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.92
+			"chance": 39.92,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.51
+			"chance": 30.51,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -99,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.32
+			"chance": 7.32,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -108,6 +111,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.01
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-25T09:36:50.870Z",
+	"timestamp": "2025-11-26T03:46:46.470Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 35.08
+			"chance": 35.08,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -76,6 +77,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.37
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

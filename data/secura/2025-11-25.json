@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-25T09:36:55.254Z",
+	"timestamp": "2025-11-26T03:46:47.091Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.48
+			"chance": 18.48,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.55
+			"chance": 12.55,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,11 +82,22 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 4.35
+			"chance": 4.35,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.98
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-26T09:36:01.195Z",
+	"timestamp": "2025-11-27T03:45:57.942Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.49
+			"chance": 81.49,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.1
+			"chance": 65.1,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 35.15
+			"chance": 35.15,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.26
+			"chance": 34.26,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.63
+			"chance": 20.63,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +121,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.6
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

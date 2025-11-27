@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-26T09:36:05.259Z",
+	"timestamp": "2025-11-27T03:45:58.561Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 37.85
+			"chance": 37.85,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -79,7 +80,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.76
+			"chance": 12.76,
+			"killed": true
 		},
 		{
 			"name": "The Welter",

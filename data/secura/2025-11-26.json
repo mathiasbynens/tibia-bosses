@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-26T09:36:30.110Z",
+	"timestamp": "2025-11-27T03:46:04.292Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 14.46
+			"chance": 14.46,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.46
+			"chance": 8.46,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.44
+			"chance": 8.44,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -84,6 +89,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

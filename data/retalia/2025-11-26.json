@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-26T09:36:26.342Z",
+	"timestamp": "2025-11-27T03:46:03.538Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 39.39
+			"chance": 39.39,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -64,6 +65,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.67
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

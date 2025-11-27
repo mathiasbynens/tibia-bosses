@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-26T09:36:13.164Z",
+	"timestamp": "2025-11-27T03:46:00.229Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.95
+			"chance": 61.95,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.08
+			"chance": 17.08,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -84,6 +87,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

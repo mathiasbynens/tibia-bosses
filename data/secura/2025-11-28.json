@@ -1,0 +1,101 @@
+{
+	"timestamp": "2025-11-28T09:35:09.344Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.21
+		},
+		{
+			"name": "Court Warlock",
+			"chance": 38.3
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 37.98
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 31.42
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.16
+		},
+		{
+			"name": "Xenia",
+			"chance": 19.98
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.21
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.1
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.38
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.35
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.69
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 13.1
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.79
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.74
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.45
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 8.58
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.69
+		},
+		{
+			"name": "Massacre",
+			"chance": 6.68
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.34
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.82
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.6
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.13
+		}
+	]
+}

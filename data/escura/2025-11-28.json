@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-11-28T09:34:56.574Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 61.14
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 41
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 40.95
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.44
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.26
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.06
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.32
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.51
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.85
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.68
+		}
+	]
+}

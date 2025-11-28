@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-27T09:36:03.263Z",
+	"timestamp": "2025-11-28T03:45:53.054Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.09
+			"chance": 23.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -76,6 +77,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

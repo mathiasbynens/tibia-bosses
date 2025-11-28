@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-27T09:35:49.710Z",
+	"timestamp": "2025-11-28T03:45:50.299Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.94
+			"chance": 39.94,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -84,6 +85,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.48
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

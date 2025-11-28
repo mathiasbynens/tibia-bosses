@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-27T09:35:53.240Z",
+	"timestamp": "2025-11-28T03:45:51.006Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.37
+			"chance": 23.37,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -48,6 +51,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

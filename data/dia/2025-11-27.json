@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-27T09:35:44.822Z",
+	"timestamp": "2025-11-28T03:45:49.691Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.53
+			"chance": 31.53,
+			"killed": true
 		},
 		{
 			"name": "Court Warlock",
-			"chance": 20
+			"chance": 20,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.35
+			"chance": 14.35,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -120,6 +126,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.37
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

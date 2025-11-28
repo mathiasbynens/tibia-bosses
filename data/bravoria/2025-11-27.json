@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-27T09:35:40.300Z",
+	"timestamp": "2025-11-28T03:45:48.927Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 44.42
+			"chance": 44.42,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.22
+			"chance": 6.22,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -104,6 +106,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.76
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

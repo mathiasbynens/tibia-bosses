@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-27T09:36:11.898Z",
+	"timestamp": "2025-11-28T03:45:54.491Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -71,7 +71,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -116,6 +117,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

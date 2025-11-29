@@ -1,0 +1,45 @@
+{
+	"timestamp": "2025-11-29T09:33:34.136Z",
+	"bosses": [
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 66.82
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 66.64
+		},
+		{
+			"name": "White Pale",
+			"chance": 26.17
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.58
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.74
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.63
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.94
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.04
+		}
+	]
+}

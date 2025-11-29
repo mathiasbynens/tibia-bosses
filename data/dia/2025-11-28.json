@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-28T09:34:48.750Z",
+	"timestamp": "2025-11-29T03:45:49.532Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.89
+			"chance": 54.89,
+			"killed": true
 		},
 		{
 			"name": "Court Warlock",
-			"chance": 38.3
+			"chance": 38.3,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.98
+			"chance": 22.98,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.97
+			"chance": 22.97,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,11 +47,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.74
+			"chance": 17.74,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.46
+			"chance": 16.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -116,6 +122,16 @@
 		{
 			"name": "Xenia",
 			"chance": 5.67
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

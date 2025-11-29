@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-28T09:34:56.574Z",
+	"timestamp": "2025-11-29T03:45:52.011Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.06
+			"chance": 19.06,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.51
+			"chance": 13.51,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,11 +41,17 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.85
+			"chance": 7.85,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

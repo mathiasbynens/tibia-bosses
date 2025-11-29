@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-28T09:35:05.804Z",
+	"timestamp": "2025-11-29T03:45:55.327Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.98
+			"chance": 37.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.88
+			"chance": 17.88,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +82,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.05
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

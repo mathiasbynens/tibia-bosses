@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-28T09:34:44.796Z",
+	"timestamp": "2025-11-29T03:45:47.873Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.02
+			"chance": 74.02,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 66.89
+			"chance": 66.89,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 66.76
+			"chance": 66.76,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.12
+			"chance": 10.12,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +98,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

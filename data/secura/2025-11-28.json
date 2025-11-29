@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-28T09:35:09.344Z",
+	"timestamp": "2025-11-29T03:45:56.191Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Court Warlock",
-			"chance": 38.3
+			"chance": 38.3,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.98
+			"chance": 37.98,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.42
+			"chance": 31.42,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,11 +30,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.21
+			"chance": 19.21,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -96,6 +102,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.13
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

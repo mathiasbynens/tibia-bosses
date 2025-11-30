@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-29T09:33:34.136Z",
+	"timestamp": "2025-11-30T03:50:08.644Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -40,6 +40,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.04
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

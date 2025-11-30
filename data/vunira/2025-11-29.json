@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-11-29T09:33:49.228Z",
+	"timestamp": "2025-11-30T03:50:12.742Z",
 	"bosses": [
 		{
 			"name": "Court Warlock",
-			"chance": 50
+			"chance": 50,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.6
+			"chance": 32.6,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.46
+			"chance": 31.46,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 31.43
+			"chance": 31.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.07
+			"chance": 29.07,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.72
+			"chance": 25.72,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -112,6 +119,31 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-29T09:33:24.363Z",
+	"timestamp": "2025-11-30T03:50:06.195Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.09
+			"chance": 23.09,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.13
+			"chance": 7.13,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -68,6 +70,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

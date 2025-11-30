@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-29T09:33:46.225Z",
+	"timestamp": "2025-11-30T03:50:11.891Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.36
+			"chance": 81.36,
+			"killed": true
 		},
 		{
 			"name": "Court Warlock",
-			"chance": 50
+			"chance": 50,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.09
+			"chance": 14.09,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.44
+			"chance": 10.44,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -87,15 +92,22 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.33
+			"chance": 7.33,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

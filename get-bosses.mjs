@@ -20,7 +20,7 @@ const bossesToCheck = await page.evaluate(() => {
 		'Oodok Witchmaster', // Mini World Change boss; not time-based.
 		'Teleskor', // Rookgaard boss; not in Bosstiary.
 		'undead cavebears', // Not in Bosstiary.
-		'Count Warlock', // Not a time-based spawn.
+		'Court Warlock', // Not a time-based spawn.
 	]);
 
 	// Map from upstreamName => prettyName.

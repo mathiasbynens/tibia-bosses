@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-12-01T09:39:47.723Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 39.98
+		},
+		{
+			"name": "General Murius",
+			"chance": 34.29
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.46
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.46
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.46
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.09
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.73
+		},
+		{
+			"name": "Xenia",
+			"chance": 11.34
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 9.41
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.48
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.27
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.84
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.77
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.4
+		}
+	]
+}

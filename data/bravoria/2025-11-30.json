@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-11-30T09:32:38.862Z",
+	"timestamp": "2025-12-01T04:01:16.238Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -64,6 +65,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.56
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

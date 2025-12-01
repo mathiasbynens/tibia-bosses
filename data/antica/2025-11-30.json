@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-30T09:32:35.621Z",
+	"timestamp": "2025-12-01T04:01:15.433Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.95
+			"chance": 61.95,
+			"killed": true
 		},
 		{
 			"name": "Court Warlock",
-			"chance": 57.98
+			"chance": 57.98,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.53
+			"chance": 22.53,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 7.11
+			"chance": 7.11,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -84,6 +89,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-11-30T09:33:04.148Z",
+	"timestamp": "2025-12-01T04:01:21.835Z",
 	"bosses": [
 		{
 			"name": "Court Warlock",
-			"chance": 57.98
+			"chance": 57.98,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.74
+			"chance": 45.74,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 34.75
+			"chance": 34.75,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 28.27
+			"chance": 28.27,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +108,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

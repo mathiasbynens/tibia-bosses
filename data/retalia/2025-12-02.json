@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-12-02T09:38:36.354Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 35.3
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.37
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 25.38
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 20.4
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 19.8
+		},
+		{
+			"name": "White Pale",
+			"chance": 17.69
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.31
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 12
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.74
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.78
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 9.3
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 8.48
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.39
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.27
+		}
+	]
+}

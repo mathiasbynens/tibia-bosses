@@ -1,0 +1,81 @@
+{
+	"timestamp": "2025-12-02T09:38:24.151Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 37.33
+		},
+		{
+			"name": "Dracola",
+			"chance": 35.34
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 34.06
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 27.34
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 25.79
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 24.37
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.75
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 20.06
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.07
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.43
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.86
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.46
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.25
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.23
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.85
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.75
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.89
+		}
+	]
+}

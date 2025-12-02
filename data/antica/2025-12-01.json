@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-01T09:39:32.207Z",
+	"timestamp": "2025-12-02T03:47:59.781Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 21.09
+			"chance": 21.09,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.4
+			"chance": 15.4,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.07
+			"chance": 4.07,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +95,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

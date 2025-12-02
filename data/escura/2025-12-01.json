@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-01T09:39:47.723Z",
+	"timestamp": "2025-12-02T03:48:04.141Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.48
+			"chance": 6.48,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -60,6 +62,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.4
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

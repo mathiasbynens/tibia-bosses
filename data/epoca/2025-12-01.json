@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-01T09:39:44.568Z",
+	"timestamp": "2025-12-02T03:48:02.328Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 61.14
+			"chance": 61.14,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.87
+			"chance": 54.87,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.01
+			"chance": 18.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -75,15 +79,18 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.35
+			"chance": 10.35,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.46
+			"chance": 8.46,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.44
+			"chance": 8.44,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +103,16 @@
 		{
 			"name": "Gaz'haragoth",
 			"chance": 6.62
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

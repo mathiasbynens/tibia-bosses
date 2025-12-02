@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-01T09:39:37.235Z",
+	"timestamp": "2025-12-02T03:48:00.668Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 37.04
+			"chance": 37.04,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 28.82
+			"chance": 28.82,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -68,6 +71,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.72
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

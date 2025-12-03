@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-12-03T09:36:51.901Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 43.77
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.94
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 29.22
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 20.59
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.1
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.06
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.67
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 17.6
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.39
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Xenia",
+			"chance": 15.85
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.91
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.37
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.37
+		},
+		{
+			"name": "Massacre",
+			"chance": 12.81
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.04
+		},
+		{
+			"name": "yeti",
+			"chance": 10.82
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.34
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.82
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 4.24
+		}
+	]
+}

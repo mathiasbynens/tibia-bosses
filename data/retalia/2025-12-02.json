@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-02T09:38:36.354Z",
+	"timestamp": "2025-12-03T03:47:45.428Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -60,6 +61,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.27
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

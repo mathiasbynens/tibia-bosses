@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-02T09:38:24.151Z",
+	"timestamp": "2025-12-03T03:47:43.034Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.85
+			"chance": 7.85,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -71,11 +72,17 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.75
+			"chance": 6.75,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
 			"chance": 5.89
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

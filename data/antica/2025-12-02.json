@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-02T09:38:14.127Z",
+	"timestamp": "2025-12-03T03:47:40.129Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.33
+			"chance": 21.33,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -104,6 +108,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

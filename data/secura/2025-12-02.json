@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-02T09:38:39.835Z",
+	"timestamp": "2025-12-03T03:47:46.144Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.62
+			"chance": 32.62,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 30.9
+			"chance": 30.9,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 6.83
+			"chance": 6.83,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.84
+			"chance": 4.84,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +101,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.73
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

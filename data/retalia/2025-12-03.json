@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-03T09:37:09.433Z",
+	"timestamp": "2025-12-04T03:48:15.344Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -56,6 +57,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.98
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

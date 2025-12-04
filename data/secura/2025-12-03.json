@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-03T09:37:12.923Z",
+	"timestamp": "2025-12-04T03:48:16.044Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.59
+			"chance": 23.59,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.76
+			"chance": 18.76,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.35
+			"chance": 11.35,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.95
+			"chance": 8.95,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -112,6 +116,36 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

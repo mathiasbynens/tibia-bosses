@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-03T09:36:48.537Z",
+	"timestamp": "2025-12-04T03:48:09.421Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.62
+			"chance": 17.62,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -55,15 +56,18 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.74
+			"chance": 12.74,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 12
+			"chance": 12,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 12
+			"chance": 12,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -108,6 +113,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

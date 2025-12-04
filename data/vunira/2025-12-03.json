@@ -1,21 +1,25 @@
 {
-	"timestamp": "2025-12-03T09:37:16.150Z",
+	"timestamp": "2025-12-04T03:48:17.804Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.16
+			"chance": 62.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.94
+			"chance": 61.94,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.17
+			"chance": 43.17,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.53
+			"chance": 41.53,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.3
+			"chance": 34.3,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,15 +40,18 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.04
+			"chance": 24.04,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.4
+			"chance": 22.4,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -51,7 +59,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.44
+			"chance": 20.44,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -67,7 +76,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.36
+			"chance": 14.36,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -132,6 +142,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

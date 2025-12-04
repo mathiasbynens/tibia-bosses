@@ -1,0 +1,105 @@
+{
+	"timestamp": "2025-12-04T09:37:11.262Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.2
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.16
+		},
+		{
+			"name": "Barbaria",
+			"chance": 36.41
+		},
+		{
+			"name": "Massacre",
+			"chance": 29.95
+		},
+		{
+			"name": "Xenia",
+			"chance": 27.92
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 24.53
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.39
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 21.2
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.2
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.79
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.52
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.21
+		},
+		{
+			"name": "Dracola",
+			"chance": 15.96
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.92
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.31
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.7
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.89
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.76
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.01
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.93
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 6.74
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.28
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 5.28
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.36
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.03
+		}
+	]
+}

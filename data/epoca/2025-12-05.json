@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-12-05T09:35:43.787Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 55
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 44.9
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.45
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.96
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 32.25
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 31.39
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 19.82
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.87
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.31
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.67
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.6
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.53
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.47
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.29
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.76
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 9.71
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.59
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.07
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 2.93
+		}
+	]
+}

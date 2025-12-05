@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-04T09:37:14.637Z",
+	"timestamp": "2025-12-05T03:48:07.942Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.95
+			"chance": 61.95,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.22
+			"chance": 28.22,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.65
+			"chance": 14.65,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 8.1
+			"chance": 8.1,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -68,6 +73,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.76
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

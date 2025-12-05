@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-04T09:37:25.652Z",
+	"timestamp": "2025-12-05T03:48:12.059Z",
 	"bosses": [
 		{
 			"name": "Fleabringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.51
+			"chance": 20.51,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -60,6 +61,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.57
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

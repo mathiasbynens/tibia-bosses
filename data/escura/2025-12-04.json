@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-04T09:37:17.463Z",
+	"timestamp": "2025-12-05T03:48:09.044Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.2
+			"chance": 70.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

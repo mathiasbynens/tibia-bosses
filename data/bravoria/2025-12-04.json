@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-04T09:37:07.620Z",
+	"timestamp": "2025-12-05T03:48:04.918Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.95
+			"chance": 63.95,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.45
+			"chance": 29.45,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.33
+			"chance": 7.33,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",

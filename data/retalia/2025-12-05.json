@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-05T09:35:58.605Z",
+	"timestamp": "2025-12-06T03:45:14.005Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -64,6 +64,11 @@
 		{
 			"name": "Ghazbaran",
 			"chance": 7.93
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

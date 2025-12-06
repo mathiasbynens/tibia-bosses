@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-05T09:35:38.934Z",
+	"timestamp": "2025-12-06T03:45:10.740Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 43.81
+			"chance": 43.81,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.4
+			"chance": 29.4,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.74
+			"chance": 21.74,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.84
+			"chance": 20.84,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -124,6 +128,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.38
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

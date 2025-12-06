@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-05T09:35:43.787Z",
+	"timestamp": "2025-12-06T03:45:11.467Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.45
+			"chance": 42.45,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -88,6 +89,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.93
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-05T09:35:47.951Z",
+	"timestamp": "2025-12-06T03:45:12.002Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.13
+			"chance": 65.13,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -64,6 +65,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.26
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

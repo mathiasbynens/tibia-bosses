@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-05T09:35:34.207Z",
+	"timestamp": "2025-12-06T03:45:10.080Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -88,6 +89,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.39
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

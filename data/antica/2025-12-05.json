@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-05T09:35:28.298Z",
+	"timestamp": "2025-12-06T03:45:09.433Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.48
+			"chance": 38.48,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.7
+			"chance": 16.7,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -119,11 +121,13 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 6.04
+			"chance": 6.04,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.83
+			"chance": 4.83,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -136,6 +140,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

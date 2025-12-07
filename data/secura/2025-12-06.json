@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-06T09:33:24.274Z",
+	"timestamp": "2025-12-07T03:50:11.797Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.21
+			"chance": 70.21,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.4
+			"chance": 31.4,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.56
+			"chance": 26.56,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 20.96
+			"chance": 20.96,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -128,6 +133,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.08
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

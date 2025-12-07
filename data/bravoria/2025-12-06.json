@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-06T09:33:01.423Z",
+	"timestamp": "2025-12-07T03:50:01.836Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -75,11 +76,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.23
+			"chance": 8.23,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.21
+			"chance": 8.21,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +95,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

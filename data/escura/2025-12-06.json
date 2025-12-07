@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-06T09:33:11.723Z",
+	"timestamp": "2025-12-07T03:50:06.718Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -64,6 +64,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.54
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

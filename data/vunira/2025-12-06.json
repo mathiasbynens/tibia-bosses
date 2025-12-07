@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-06T09:33:27.292Z",
+	"timestamp": "2025-12-07T03:50:13.197Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.23
+			"chance": 28.23,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -128,6 +131,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

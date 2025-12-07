@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-06T09:32:57.399Z",
+	"timestamp": "2025-12-07T03:50:00.786Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.78
+			"chance": 93.78,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 54.31
+			"chance": 54.31,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.46
+			"chance": 13.46,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.14
+			"chance": 13.14,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -135,7 +140,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -144,6 +150,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-06T09:33:08.895Z",
+	"timestamp": "2025-12-07T03:50:04.786Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.14
+			"chance": 21.14,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.87
+			"chance": 17.87,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +90,31 @@
 		{
 			"name": "Orshabaal",
 			"chance": 3.95
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

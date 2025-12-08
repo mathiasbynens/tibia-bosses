@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-07T09:33:19.885Z",
+	"timestamp": "2025-12-08T03:48:38.994Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.28
+			"chance": 43.28,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.09
+			"chance": 17.09,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -128,6 +131,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

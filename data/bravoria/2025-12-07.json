@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-07T09:33:23.781Z",
+	"timestamp": "2025-12-08T03:48:39.711Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.48
+			"chance": 39.48,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -76,6 +77,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 7.1
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

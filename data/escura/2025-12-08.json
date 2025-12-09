@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-08T09:39:42.501Z",
+	"timestamp": "2025-12-09T03:47:43.127Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.47
+			"chance": 42.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.67
+			"chance": 32.67,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.37
+			"chance": 29.37,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",

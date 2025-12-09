@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-08T09:39:57.608Z",
+	"timestamp": "2025-12-09T03:47:51.221Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 50.43
+			"chance": 50.43,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.47
+			"chance": 42.47,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.4
+			"chance": 22.4,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 15.99
+			"chance": 15.99,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.58
+			"chance": 11.58,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -107,7 +113,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.31
+			"chance": 7.31,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -116,6 +123,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

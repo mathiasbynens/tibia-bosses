@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-08T09:39:28.214Z",
+	"timestamp": "2025-12-09T03:47:39.333Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.96
+			"chance": 61.96,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.76
+			"chance": 29.76,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.62
+			"chance": 18.62,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.19
+			"chance": 14.19,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.85
+			"chance": 4.85,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -111,7 +116,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 3.31
+			"chance": 3.31,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -120,6 +126,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.6
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

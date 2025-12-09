@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-08T09:39:35.723Z",
+	"timestamp": "2025-12-09T03:47:40.927Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 47.36
+			"chance": 47.36,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.2
+			"chance": 37.2,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -136,6 +140,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-08T09:39:50.358Z",
+	"timestamp": "2025-12-09T03:47:46.479Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.9
+			"chance": 40.9,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.9
+			"chance": 40.9,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.14
+			"chance": 21.14,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -72,6 +75,26 @@
 		{
 			"name": "Tzumrah the Dazzler",
 			"chance": 6.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-08T09:39:32.230Z",
+	"timestamp": "2025-12-09T03:47:40.032Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-09T09:36:44.958Z",
+	"timestamp": "2025-12-10T03:48:53.015Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 54.86
+			"chance": 54.86,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-09T09:37:00.458Z",
+	"timestamp": "2025-12-10T03:48:57.234Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.07
+			"chance": 74.07,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.77
+			"chance": 32.77,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.53
+			"chance": 24.53,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -55,11 +60,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.6
+			"chance": 11.6,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.32
+			"chance": 9.32,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -100,6 +107,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

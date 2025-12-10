@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-09T09:36:56.810Z",
+	"timestamp": "2025-12-10T03:48:56.436Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.12
+			"chance": 62.12,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.49
+			"chance": 11.49,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -68,6 +70,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 7.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

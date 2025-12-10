@@ -1,0 +1,69 @@
+{
+	"timestamp": "2025-12-10T09:45:41.032Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 80.65
+		},
+		{
+			"name": "Zushuka",
+			"chance": 65.88
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 50.38
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.62
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.4
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.36
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 15.79
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.32
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.27
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.99
+		},
+		{
+			"name": "Hirintror",
+			"chance": 12.5
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.81
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.12
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.85
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.49
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.06
+		}
+	]
+}

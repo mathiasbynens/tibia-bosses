@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-12-11T09:38:31.041Z",
+	"bosses": [
+		{
+			"name": "Tyrn",
+			"chance": 28.63
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 20.75
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 20.39
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.4
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 15.67
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.78
+		},
+		{
+			"name": "Hirintror",
+			"chance": 11.52
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.31
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.67
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.08
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.06
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.04
+		}
+	]
+}

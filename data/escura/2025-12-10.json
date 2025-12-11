@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-10T09:45:31.292Z",
+	"timestamp": "2025-12-11T03:49:39.063Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.78
+			"chance": 62.78,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.39
+			"chance": 43.39,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

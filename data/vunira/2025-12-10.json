@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-10T09:45:48.451Z",
+	"timestamp": "2025-12-11T03:49:42.377Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.5
+			"chance": 39.5,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.99
+			"chance": 37.99,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.29
+			"chance": 34.29,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.2
+			"chance": 25.2,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 21.37
+			"chance": 21.37,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.13
+			"chance": 19.13,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -99,11 +105,17 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 4.39
+			"chance": 4.39,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 4.27
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

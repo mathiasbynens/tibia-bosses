@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-10T09:45:27.786Z",
+	"timestamp": "2025-12-11T03:49:38.266Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -80,6 +80,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.6
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

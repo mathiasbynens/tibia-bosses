@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-10T09:45:20.455Z",
+	"timestamp": "2025-12-11T03:49:36.554Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -60,6 +60,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.75
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

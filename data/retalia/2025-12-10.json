@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-10T09:45:41.032Z",
+	"timestamp": "2025-12-11T03:49:40.887Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 65.88
+			"chance": 65.88,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.4
+			"chance": 17.4,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.32
+			"chance": 13.32,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -64,6 +67,31 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.06
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

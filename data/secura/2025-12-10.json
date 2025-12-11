@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-10T09:45:44.714Z",
+	"timestamp": "2025-12-11T03:49:41.550Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 27.58
+			"chance": 27.58,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 12.71
+			"chance": 12.71,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.83
+			"chance": 8.83,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +92,36 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

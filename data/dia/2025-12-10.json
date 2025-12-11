@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-10T09:45:23.773Z",
+	"timestamp": "2025-12-11T03:49:37.485Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 54.32
+			"chance": 54.32,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.39
+			"chance": 43.39,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.31
+			"chance": 25.31,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -39,11 +42,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.39
+			"chance": 22.39,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -104,6 +109,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-11T09:38:31.041Z",
+	"timestamp": "2025-12-12T03:49:16.182Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 20.39
+			"chance": 20.39,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

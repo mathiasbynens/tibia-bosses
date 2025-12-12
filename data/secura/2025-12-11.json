@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-11T09:38:34.699Z",
+	"timestamp": "2025-12-12T03:49:16.890Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.24
+			"chance": 9.24,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -100,6 +104,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

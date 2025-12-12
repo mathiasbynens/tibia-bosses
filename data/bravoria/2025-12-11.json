@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-11T09:38:08.727Z",
+	"timestamp": "2025-12-12T03:49:11.827Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -64,6 +64,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.17
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

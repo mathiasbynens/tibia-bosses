@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-12-12T09:37:22.326Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 55.03
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 54.22
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 39.42
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.37
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 26.95
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.76
+		},
+		{
+			"name": "Zushuka",
+			"chance": 22.06
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.77
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.74
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 18.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 15.91
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.07
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 12.59
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 12.51
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.48
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 6.32
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.01
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"timestamp": "2025-12-12T09:37:25.324Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 63.98
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.34
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.79
+		},
+		{
+			"name": "Xenia",
+			"chance": 20
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.27
+		},
+		{
+			"name": "Barbaria",
+			"chance": 18.23
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.2
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 16
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.99
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.43
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.39
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 7.87
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.77
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.71
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.59
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.8
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.76
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.78
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.75
+		}
+	]
+}

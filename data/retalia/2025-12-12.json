@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-12T09:37:39.443Z",
+	"timestamp": "2025-12-13T03:47:08.333Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 28.37
+			"chance": 28.37,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.15
+			"chance": 13.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -68,6 +70,21 @@
 		{
 			"name": "Ocyakao",
 			"chance": 6.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

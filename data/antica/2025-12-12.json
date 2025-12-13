@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-12T09:37:18.194Z",
+	"timestamp": "2025-12-13T03:47:01.829Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.48
+			"chance": 22.48,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.77
+			"chance": 20.77,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 19.93
+			"chance": 19.93,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -128,6 +132,26 @@
 		{
 			"name": "The Abomination",
 			"chance": 2.96
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

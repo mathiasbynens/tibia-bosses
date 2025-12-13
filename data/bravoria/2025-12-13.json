@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-12-13T09:33:22.691Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.28
+		},
+		{
+			"name": "Zushuka",
+			"chance": 28.72
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.55
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 27.72
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 27.34
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.66
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.87
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 19.72
+		},
+		{
+			"name": "Xenia",
+			"chance": 16.7
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 16.59
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 15.9
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 11.72
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.49
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.78
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 7.16
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.06
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.73
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.47
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.39
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.56
+		}
+	]
+}

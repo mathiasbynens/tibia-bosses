@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-13T09:33:46.679Z",
+	"timestamp": "2025-12-14T03:51:55.001Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +104,21 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.92
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-13T09:33:29.680Z",
+	"timestamp": "2025-12-14T03:51:51.286Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.04
+			"chance": 74.04,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.02
+			"chance": 21.02,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +95,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.83
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

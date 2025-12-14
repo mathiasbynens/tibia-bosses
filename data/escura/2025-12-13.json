@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-13T09:33:32.176Z",
+	"timestamp": "2025-12-14T03:51:51.851Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 51.69
+			"chance": 51.69,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -68,6 +69,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.76
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-14T09:34:10.297Z",
+	"timestamp": "2025-12-15T03:55:44.684Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 23.02
+			"chance": 23.02,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.29
+			"chance": 19.29,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.1
+			"chance": 18.1,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.73
+			"chance": 15.73,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -96,6 +101,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.18
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

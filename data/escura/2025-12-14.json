@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-14T09:34:13.119Z",
+	"timestamp": "2025-12-15T03:55:45.162Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.29
+			"chance": 19.29,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-14T09:34:06.230Z",
+	"timestamp": "2025-12-15T03:55:44.209Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.66
+			"chance": 32.66,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.15
+			"chance": 19.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.69
+			"chance": 9.69,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +112,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.99
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

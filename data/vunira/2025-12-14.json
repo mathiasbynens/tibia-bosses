@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-14T09:34:30.123Z",
+	"timestamp": "2025-12-15T03:55:48.122Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.74
+			"chance": 20.74,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.1
+			"chance": 19.1,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.08
+			"chance": 18.08,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -92,6 +95,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.01
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

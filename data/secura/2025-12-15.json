@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-15T09:42:00.767Z",
+	"timestamp": "2025-12-16T03:50:24.979Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.66
+			"chance": 32.66,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "yeti",

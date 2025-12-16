@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-15T09:41:31.033Z",
+	"timestamp": "2025-12-16T03:50:12.573Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 35.1
+			"chance": 35.1,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.73
+			"chance": 15.73,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -119,7 +121,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.15
+			"chance": 5.15,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -132,6 +135,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-15T09:41:39.315Z",
+	"timestamp": "2025-12-16T03:50:15.238Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 29.82
+			"chance": 29.82,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 29.66
+			"chance": 29.66,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -112,6 +114,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

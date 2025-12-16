@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-15T09:41:46.433Z",
+	"timestamp": "2025-12-16T03:50:19.394Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.31
+			"chance": 16.31,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -72,6 +74,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.39
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

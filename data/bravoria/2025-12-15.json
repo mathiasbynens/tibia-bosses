@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-15T09:41:35.414Z",
+	"timestamp": "2025-12-16T03:50:13.778Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 23.67
+			"chance": 23.67,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.96
+			"chance": 15.96,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -88,6 +90,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.74
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

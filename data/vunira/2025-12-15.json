@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-15T09:42:04.497Z",
+	"timestamp": "2025-12-16T03:50:26.328Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 34.7
+			"chance": 34.7,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20
+			"chance": 20,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -96,6 +99,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.82
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

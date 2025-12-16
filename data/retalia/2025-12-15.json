@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-15T09:41:56.643Z",
+	"timestamp": "2025-12-16T03:50:23.263Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.87
+			"chance": 21.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -60,6 +61,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

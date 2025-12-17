@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-16T09:38:04.860Z",
+	"timestamp": "2025-12-17T03:48:33.419Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.5
+			"chance": 39.5,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -116,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-17T09:38:59.845Z",
+	"timestamp": "2025-12-18T03:48:59.413Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.49
+			"chance": 39.49,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.17
+			"chance": 23.17,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.87
+			"chance": 14.87,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -128,6 +131,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.73
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

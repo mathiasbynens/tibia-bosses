@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-17T09:38:34.494Z",
+	"timestamp": "2025-12-18T03:48:52.470Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.16
+			"chance": 70.16,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.32
+			"chance": 37.32,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -76,6 +78,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.02
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

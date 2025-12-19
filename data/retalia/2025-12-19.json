@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-12-19T09:36:56.388Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 31.7
+		},
+		{
+			"name": "Massacre",
+			"chance": 23.03
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.46
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.8
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.29
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 17.19
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.05
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.74
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 14.3
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.64
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.14
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.46
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.62
+		}
+	]
+}

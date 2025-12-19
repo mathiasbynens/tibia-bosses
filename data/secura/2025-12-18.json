@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-18T09:39:01.677Z",
+	"timestamp": "2025-12-19T03:49:39.461Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 61.97
+			"chance": 61.97,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.96
+			"chance": 39.96,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.1
+			"chance": 21.1,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.63
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

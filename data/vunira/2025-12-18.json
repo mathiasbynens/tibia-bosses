@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-18T09:39:05.752Z",
+	"timestamp": "2025-12-19T03:49:40.523Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.18
+			"chance": 70.18,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.81
+			"chance": 53.81,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.4
+			"chance": 22.4,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.82
+			"chance": 18.82,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.14
+			"chance": 17.14,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.86
+			"chance": 14.86,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -103,11 +109,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.67
+			"chance": 9.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.65
+			"chance": 9.65,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -132,6 +140,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.03
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

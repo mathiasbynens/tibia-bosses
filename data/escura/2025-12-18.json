@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-18T09:38:48.516Z",
+	"timestamp": "2025-12-19T03:49:34.503Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.73
+			"chance": 14.73,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

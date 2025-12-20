@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-19T09:36:44.314Z",
+	"timestamp": "2025-12-20T03:47:01.340Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -64,6 +65,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.06
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

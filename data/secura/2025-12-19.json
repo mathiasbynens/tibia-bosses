@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-19T09:36:59.319Z",
+	"timestamp": "2025-12-20T03:47:05.380Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.31
+			"chance": 29.31,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.38
+			"chance": 25.38,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.4
+			"chance": 14.4,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -116,6 +120,16 @@
 		{
 			"name": "Rotrender",
 			"chance": 3.45
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

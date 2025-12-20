@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-19T09:36:40.549Z",
+	"timestamp": "2025-12-20T03:47:00.433Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -99,7 +100,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.45
+			"chance": 5.45,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -107,11 +109,22 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.35
+			"chance": 3.35,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.72
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

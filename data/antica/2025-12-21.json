@@ -1,0 +1,77 @@
+{
+	"timestamp": "2025-12-21T09:33:59.157Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.47
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 27.74
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 25.56
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.36
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 21.41
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.52
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 15.49
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.32
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.8
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.21
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.19
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.88
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.56
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.82
+		},
+		{
+			"name": "The Abomination",
+			"chance": 3.88
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.62
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.05
+		}
+	]
+}

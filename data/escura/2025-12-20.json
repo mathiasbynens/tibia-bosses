@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-20T09:33:48.741Z",
+	"timestamp": "2025-12-21T03:52:19.773Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -52,6 +53,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.82
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

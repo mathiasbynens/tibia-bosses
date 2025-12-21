@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-20T09:33:57.207Z",
+	"timestamp": "2025-12-21T03:52:25.159Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.32
+			"chance": 14.32,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",

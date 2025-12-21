@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-20T09:33:45.849Z",
+	"timestamp": "2025-12-21T03:52:18.653Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.92
+			"chance": 63.92,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -80,6 +83,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-21T09:34:21.493Z",
+	"timestamp": "2025-12-22T03:56:05.597Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.66
+			"chance": 32.66,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -72,6 +73,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.71
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

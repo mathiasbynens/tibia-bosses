@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-21T09:34:02.758Z",
+	"timestamp": "2025-12-22T03:55:57.609Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -56,6 +56,11 @@
 		{
 			"name": "White Pale",
 			"chance": 6.6
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

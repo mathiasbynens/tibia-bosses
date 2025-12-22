@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-21T09:34:06.284Z",
+	"timestamp": "2025-12-22T03:55:58.963Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.94
+			"chance": 63.94,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 53.83
+			"chance": 53.83,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 9.5
+			"chance": 9.5,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 7.14
+			"chance": 7.14,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -116,6 +120,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

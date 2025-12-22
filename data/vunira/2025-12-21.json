@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-21T09:34:28.066Z",
+	"timestamp": "2025-12-22T03:56:08.534Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.4
+			"chance": 46.4,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 26.64
+			"chance": 26.64,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -116,6 +118,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.02
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

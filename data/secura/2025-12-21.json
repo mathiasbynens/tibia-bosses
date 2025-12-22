@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-12-21T09:34:24.817Z",
+	"timestamp": "2025-12-22T03:56:06.591Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 33.85
+			"chance": 33.85,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 32.27
+			"chance": 32.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.44
+			"chance": 31.44,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -35,11 +39,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.73
+			"chance": 20.73,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -75,11 +81,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.21
+			"chance": 13.21,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.05
+			"chance": 13.05,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -87,7 +95,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.98
+			"chance": 8.98,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -103,7 +112,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -120,6 +130,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

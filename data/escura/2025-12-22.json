@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-12-22T09:40:02.795Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.53
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.65
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.67
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 22.28
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.56
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.09
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 13.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 13.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.23
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.57
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.97
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.88
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.63
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.06
+		}
+	]
+}

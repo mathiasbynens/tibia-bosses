@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-22T09:40:02.795Z",
+	"timestamp": "2025-12-23T03:51:55.784Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.53
+			"chance": 42.53,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.65
+			"chance": 32.65,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.23
+			"chance": 12.23,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -59,7 +62,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 4.06
+			"chance": 4.06,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-22T09:39:53.660Z",
+	"timestamp": "2025-12-23T03:51:50.462Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.66
+			"chance": 17.66,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -56,6 +57,21 @@
 		{
 			"name": "White Pale",
 			"chance": 6.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

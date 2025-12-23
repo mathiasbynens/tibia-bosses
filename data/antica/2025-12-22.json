@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-22T09:39:49.571Z",
+	"timestamp": "2025-12-23T03:51:48.599Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.67
+			"chance": 6.67,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -92,6 +93,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.37
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

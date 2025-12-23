@@ -1,0 +1,53 @@
+{
+	"timestamp": "2025-12-23T09:37:29.298Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.17
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 56.92
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 50.15
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.35
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.21
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.17
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.35
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.23
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5.15
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.03
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.4
+		}
+	]
+}

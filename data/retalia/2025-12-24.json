@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-12-24T09:36:42.942Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 77.5
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.29
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.55
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.62
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.84
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.74
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.57
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.38
+		}
+	]
+}

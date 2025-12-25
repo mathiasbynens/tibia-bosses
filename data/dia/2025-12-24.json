@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-24T09:36:27.235Z",
+	"timestamp": "2025-12-25T03:51:49.652Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.2
+			"chance": 70.2,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 41.01
+			"chance": 41.01,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.96
+			"chance": 37.96,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.96
+			"chance": 29.96,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -31,7 +35,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.71
+			"chance": 27.71,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -116,6 +121,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.99
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

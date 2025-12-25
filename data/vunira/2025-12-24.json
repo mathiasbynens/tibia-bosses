@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-24T09:36:51.168Z",
+	"timestamp": "2025-12-25T03:52:12.132Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.52
+			"chance": 39.52,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.94
+			"chance": 31.94,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.28
+			"chance": 29.28,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 28.9
+			"chance": 28.9,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 14.61
+			"chance": 14.61,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.98
+			"chance": 8.98,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 7.75
+			"chance": 7.75,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -108,6 +116,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.26
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-25T09:36:06.382Z",
+	"timestamp": "2025-12-26T03:50:12.972Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.66
+			"chance": 20.66,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.44
+			"chance": 17.44,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.17
+			"chance": 17.17,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.02
+			"chance": 17.02,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 13.41
+			"chance": 13.41,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.27
+			"chance": 11.27,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +127,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

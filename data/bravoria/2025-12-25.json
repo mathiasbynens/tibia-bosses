@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-25T09:36:11.197Z",
+	"timestamp": "2025-12-26T03:50:14.691Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.45
+			"chance": 14.45,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -84,6 +86,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.81
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

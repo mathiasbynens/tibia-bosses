@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-12-26T09:36:19.636Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 61.99
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.17
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.15
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.23
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 14.52
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.18
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.78
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.31
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.76
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.05
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.44
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.26
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.24
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.23
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.69
+		}
+	]
+}

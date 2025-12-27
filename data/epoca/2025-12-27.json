@@ -1,0 +1,93 @@
+{
+	"timestamp": "2025-12-27T09:34:31.200Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 55.17
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 35.05
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 32.85
+		},
+		{
+			"name": "Xenia",
+			"chance": 30.47
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 29
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.53
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.16
+		},
+		{
+			"name": "Shlorg",
+			"chance": 28.15
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.37
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.16
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.39
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19.15
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.98
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 18.96
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.43
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.75
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 16.09
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.47
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.87
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.06
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.61
+		}
+	]
+}

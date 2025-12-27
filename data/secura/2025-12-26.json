@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-26T09:36:22.963Z",
+	"timestamp": "2025-12-27T03:49:11.539Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.07
+			"chance": 34.07,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.18
+			"chance": 21.18,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.31
+			"chance": 18.31,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.43
+			"chance": 17.43,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.69
+			"chance": 11.69,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -112,6 +118,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.61
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

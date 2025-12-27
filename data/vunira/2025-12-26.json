@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-26T09:36:26.661Z",
+	"timestamp": "2025-12-27T03:49:13.564Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 37.96
+			"chance": 37.96,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 30.64
+			"chance": 30.64,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.6
+			"chance": 15.6,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.91
+			"chance": 8.91,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -111,7 +115,28 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.56
+			"chance": 3.56,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

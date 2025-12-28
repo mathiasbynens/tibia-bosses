@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-27T09:34:31.200Z",
+	"timestamp": "2025-12-28T03:58:59.952Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 55.17
+			"chance": 55.17,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -88,6 +89,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.61
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

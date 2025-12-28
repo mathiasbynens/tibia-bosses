@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-27T09:34:21.086Z",
+	"timestamp": "2025-12-28T03:58:55.770Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.96
+			"chance": 73.96,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.29
+			"chance": 32.29,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 20.28
+			"chance": 20.28,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
-			"chance": 18.19
+			"chance": 18.19,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 12.82
+			"chance": 12.82,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.77
+			"chance": 10.77,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

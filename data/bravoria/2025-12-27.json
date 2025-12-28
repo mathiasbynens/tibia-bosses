@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-27T09:34:24.545Z",
+	"timestamp": "2025-12-28T03:58:57.002Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.96
+			"chance": 73.96,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.56
+			"chance": 39.56,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.93
+			"chance": 9.93,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +76,16 @@
 		{
 			"name": "High Templar Cobrass",
 			"chance": 4.55
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

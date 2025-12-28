@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-27T09:34:48.300Z",
+	"timestamp": "2025-12-28T03:59:08.927Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.5
+			"chance": 42.5,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -116,6 +117,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

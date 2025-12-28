@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-27T09:34:41.856Z",
+	"timestamp": "2025-12-28T03:59:04.567Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -64,6 +64,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,65 @@
+{
+	"timestamp": "2025-12-28T09:34:46.613Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 62
+		},
+		{
+			"name": "yeti",
+			"chance": 30
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 28.24
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.54
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.28
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.06
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.98
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.26
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.25
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 7.33
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.29
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 7.11
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.49
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.73
+		}
+	]
+}

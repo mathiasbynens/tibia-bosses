@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-28T09:34:46.613Z",
+	"timestamp": "2025-12-29T04:00:38.767Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 16.28
+			"chance": 16.28,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -60,6 +61,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.73
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

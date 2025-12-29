@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-28T09:35:10.211Z",
+	"timestamp": "2025-12-29T04:00:54.019Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.26
+			"chance": 81.26,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.56
+			"chance": 39.56,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.36
+			"chance": 19.36,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -51,11 +55,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.48
+			"chance": 14.48,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.7
+			"chance": 13.7,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 12.46
+			"chance": 12.46,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -103,7 +111,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.29
+			"chance": 8.29,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -119,11 +128,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.49
+			"chance": 6.49,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 4.03
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

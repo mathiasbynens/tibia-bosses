@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-28T09:35:06.483Z",
+	"timestamp": "2025-12-29T04:00:52.102Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -84,6 +84,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.25
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

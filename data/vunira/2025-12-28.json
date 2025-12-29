@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-28T09:35:14.043Z",
+	"timestamp": "2025-12-29T04:00:55.581Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.14
+			"chance": 34.14,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 33.56
+			"chance": 33.56,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.65
+			"chance": 24.65,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 18.94
+			"chance": 18.94,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 18.83
+			"chance": 18.83,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 13.96
+			"chance": 13.96,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -132,6 +139,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

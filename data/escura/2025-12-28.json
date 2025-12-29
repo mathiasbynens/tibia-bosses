@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-28T09:34:57.605Z",
+	"timestamp": "2025-12-29T04:00:44.819Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.76
+			"chance": 62.76,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.74
+			"chance": 19.74,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

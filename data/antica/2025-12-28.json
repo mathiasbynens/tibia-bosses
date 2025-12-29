@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-28T09:34:42.648Z",
+	"timestamp": "2025-12-29T04:00:37.983Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 32.84
+			"chance": 32.84,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.07
+			"chance": 9.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +110,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.42
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

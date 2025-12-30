@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-29T09:40:59.414Z",
+	"timestamp": "2025-12-30T03:52:59.798Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 27.02
+			"chance": 27.02,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.8
+			"chance": 23.8,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -55,11 +57,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.72
+			"chance": 10.72,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.69
+			"chance": 10.69,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +100,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

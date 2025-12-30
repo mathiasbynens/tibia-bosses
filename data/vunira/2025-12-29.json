@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-29T09:41:07.204Z",
+	"timestamp": "2025-12-30T03:53:02.412Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.74
+			"chance": 62.74,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.69
+			"chance": 28.69,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -108,6 +111,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

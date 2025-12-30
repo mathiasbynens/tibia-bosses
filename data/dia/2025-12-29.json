@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-29T09:40:44.622Z",
+	"timestamp": "2025-12-30T03:52:54.111Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.5
+			"chance": 22.5,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.74
+			"chance": 19.74,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -104,6 +106,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.13
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

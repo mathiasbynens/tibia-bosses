@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-30T09:37:30.042Z",
+	"timestamp": "2025-12-31T03:52:06.955Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.01
+			"chance": 38.01,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.95
+			"chance": 31.95,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.39
+			"chance": 22.39,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.77
+			"chance": 21.77,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.52
+			"chance": 14.52,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -128,6 +133,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

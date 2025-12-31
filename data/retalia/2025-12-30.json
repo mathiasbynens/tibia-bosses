@@ -1,13 +1,15 @@
 {
-	"timestamp": "2025-12-30T09:37:54.209Z",
+	"timestamp": "2025-12-31T03:52:14.776Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.93
+			"chance": 73.93,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.45
+			"chance": 46.45,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -88,6 +90,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.17
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

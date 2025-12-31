@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-30T09:37:45.769Z",
+	"timestamp": "2025-12-31T03:52:10.384Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.93
+			"chance": 73.93,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.21
+			"chance": 28.21,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.24
+			"chance": 11.24,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -52,6 +55,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

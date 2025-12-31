@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-30T09:38:01.859Z",
+	"timestamp": "2025-12-31T03:52:17.313Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.12
+			"chance": 19.12,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -95,19 +96,32 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.48
+			"chance": 6.48,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.78
+			"chance": 4.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.57
+			"chance": 4.57,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-30T09:37:58.106Z",
+	"timestamp": "2025-12-31T03:52:16.343Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.74
+			"chance": 32.74,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.67
+			"chance": 27.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.59
+			"chance": 23.59,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 17.33
+			"chance": 17.33,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -71,11 +76,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.56
+			"chance": 11.56,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.96
+			"chance": 8.96,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +99,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

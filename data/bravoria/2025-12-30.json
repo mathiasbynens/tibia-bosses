@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-30T09:37:34.014Z",
+	"timestamp": "2025-12-31T03:52:07.737Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 29.12
+			"chance": 29.12,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -76,6 +78,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.05
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

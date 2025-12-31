@@ -1,0 +1,49 @@
+{
+	"timestamp": "2025-12-31T09:37:32.802Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 46.47
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.3
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.54
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 22.51
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.46
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.86
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 11.21
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.54
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.42
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.41
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.89
+		}
+	]
+}

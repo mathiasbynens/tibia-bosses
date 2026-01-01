@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-31T09:37:22.813Z",
+	"timestamp": "2026-01-01T04:00:38.470Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.32
+			"chance": 8.32,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +83,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

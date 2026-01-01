@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-31T09:37:26.003Z",
+	"timestamp": "2026-01-01T04:00:39.398Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 46.47
+			"chance": 46.47,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.94
+			"chance": 22.94,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.93
+			"chance": 22.93,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.34
+			"chance": 16.34,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.22
+			"chance": 6.22,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -108,6 +113,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

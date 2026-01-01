@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-31T09:37:29.414Z",
+	"timestamp": "2026-01-01T04:00:39.931Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.77
+			"chance": 62.77,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.95
+			"chance": 29.95,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -68,6 +70,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

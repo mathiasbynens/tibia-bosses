@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025-12-31T09:37:32.802Z",
+	"timestamp": "2026-01-01T04:00:40.736Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -44,6 +44,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.89
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

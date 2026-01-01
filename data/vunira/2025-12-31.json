@@ -1,17 +1,20 @@
 {
-	"timestamp": "2025-12-31T09:37:48.183Z",
+	"timestamp": "2026-01-01T04:00:44.099Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.2
+			"chance": 70.2,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.3
+			"chance": 40.3,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.54
+			"chance": 39.54,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.6
+			"chance": 22.6,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.39
+			"chance": 22.39,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -63,11 +68,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.65
+			"chance": 13.65,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -107,11 +114,32 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.74
+			"chance": 3.74,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025-12-31T09:37:41.217Z",
+	"timestamp": "2026-01-01T04:00:42.834Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.77
+			"chance": 62.77,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -92,6 +94,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.44
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

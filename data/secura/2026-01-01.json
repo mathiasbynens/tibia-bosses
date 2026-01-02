@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-01T09:37:43.086Z",
+	"timestamp": "2026-01-02T03:55:02.710Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.98
+			"chance": 73.98,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38
+			"chance": 38,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 29.89
+			"chance": 29.89,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.03
+			"chance": 26.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +82,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.77
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-01T09:37:24.796Z",
+	"timestamp": "2026-01-02T03:54:54.921Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.03
+			"chance": 62.03,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 56.9
+			"chance": 56.9,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 21.95
+			"chance": 21.95,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -67,11 +70,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 8.28
+			"chance": 8.28,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.29
+			"chance": 7.29,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -96,6 +101,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.69
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

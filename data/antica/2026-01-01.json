@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-01T09:37:16.085Z",
+	"timestamp": "2026-01-02T03:54:52.688Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.64
+			"chance": 71.64,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.92
+			"chance": 33.92,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 11.06
+			"chance": 11.06,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -128,6 +132,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

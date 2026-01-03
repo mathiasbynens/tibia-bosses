@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-02T09:37:10.836Z",
+	"timestamp": "2026-01-03T03:49:14.576Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 46.02
+			"chance": 46.02,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.17
+			"chance": 28.17,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 4.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

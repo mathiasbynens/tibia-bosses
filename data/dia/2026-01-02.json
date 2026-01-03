@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-02T09:36:53.943Z",
+	"timestamp": "2026-01-03T03:49:06.252Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.33
+			"chance": 40.33,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.69
+			"chance": 32.69,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.24
+			"chance": 12.24,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -108,6 +111,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

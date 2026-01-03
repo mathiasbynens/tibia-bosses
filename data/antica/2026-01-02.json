@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-02T09:36:46.735Z",
+	"timestamp": "2026-01-03T03:49:00.891Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.67
+			"chance": 24.67,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.09
+			"chance": 18.09,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.84
+			"chance": 15.84,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.03
+			"chance": 8.03,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -128,6 +132,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-02T09:36:50.540Z",
+	"timestamp": "2026-01-03T03:49:03.429Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -96,6 +96,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.16
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

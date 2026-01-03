@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-02T09:37:14.080Z",
+	"timestamp": "2026-01-03T03:49:17.566Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.56
+			"chance": 45.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -68,6 +69,26 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.06
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

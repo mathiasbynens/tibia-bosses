@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-02T09:36:57.985Z",
+	"timestamp": "2026-01-03T03:49:07.724Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 22.77
+			"chance": 22.77,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 7.59
+			"chance": 7.59,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -80,6 +82,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.37
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

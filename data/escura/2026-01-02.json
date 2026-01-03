@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-02T09:37:01.124Z",
+	"timestamp": "2026-01-03T03:49:09.516Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -48,6 +49,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.46
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

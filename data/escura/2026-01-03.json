@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-01-03T09:34:44.206Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 68.91
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 51.81
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 19.61
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.09
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.41
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.37
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.97
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.77
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.71
+		}
+	]
+}

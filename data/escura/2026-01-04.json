@@ -1,0 +1,49 @@
+{
+	"timestamp": "2026-01-04T09:34:22.277Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 62.74
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 25.17
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.24
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 15.98
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.51
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.24
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.99
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.33
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.5
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.6
+		}
+	]
+}

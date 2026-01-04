@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-03T09:34:34.235Z",
+	"timestamp": "2026-01-04T04:01:01.904Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 9.73
+			"chance": 9.73,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -108,6 +109,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.65
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

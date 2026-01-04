@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-03T09:34:41.282Z",
+	"timestamp": "2026-01-04T04:01:05.453Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.14
+			"chance": 21.14,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -80,6 +81,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.6
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

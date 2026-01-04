@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-03T09:35:00.138Z",
+	"timestamp": "2026-01-04T04:01:16.160Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.03
+			"chance": 62.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 35.84
+			"chance": 35.84,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.05
+			"chance": 24.05,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.78
+			"chance": 17.78,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.65
+			"chance": 5.65,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -104,6 +110,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.03
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-03T09:34:56.140Z",
+	"timestamp": "2026-01-04T04:01:14.105Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.79
+			"chance": 36.79,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.92
+			"chance": 15.92,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.79
+			"chance": 9.79,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -80,6 +83,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.04
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

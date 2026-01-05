@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-01-05T09:42:08.386Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 30.39
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.47
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 28.68
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.88
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.66
+		},
+		{
+			"name": "midnight panther",
+			"chance": 18.97
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 12.49
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.81
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.43
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.25
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.29
+		}
+	]
+}

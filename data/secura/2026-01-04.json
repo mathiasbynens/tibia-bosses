@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-04T09:34:34.273Z",
+	"timestamp": "2026-01-05T04:04:51.321Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.48
+			"chance": 31.48,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.4
+			"chance": 22.4,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.35
+			"chance": 19.35,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.7
+			"chance": 6.7,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -99,7 +104,23 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.57
+			"chance": 4.57,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

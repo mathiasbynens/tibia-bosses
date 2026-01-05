@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-04T09:34:18.460Z",
+	"timestamp": "2026-01-05T04:04:46.039Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.45
+			"chance": 18.45,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.32
+			"chance": 9.32,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -84,6 +87,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.69
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

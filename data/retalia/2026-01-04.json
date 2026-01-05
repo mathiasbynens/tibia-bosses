@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-04T09:34:30.420Z",
+	"timestamp": "2026-01-05T04:04:49.947Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.37
+			"chance": 81.37,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -88,6 +89,11 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.72
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-05T09:42:20.536Z",
+	"timestamp": "2026-01-06T03:53:32.938Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.26
+			"chance": 81.26,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.52
+			"chance": 23.52,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.18
+			"chance": 11.18,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.21
+			"chance": 9.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +122,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.78
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

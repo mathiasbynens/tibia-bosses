@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-05T09:42:08.386Z",
+	"timestamp": "2026-01-06T03:53:27.748Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.88
+			"chance": 23.88,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",

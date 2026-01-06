@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-05T09:42:23.914Z",
+	"timestamp": "2026-01-06T03:53:34.247Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.53
+			"chance": 26.53,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.72
+			"chance": 25.72,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.07
+			"chance": 20.07,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -92,6 +95,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.83
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

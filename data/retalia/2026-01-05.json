@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-05T09:42:16.669Z",
+	"timestamp": "2026-01-06T03:53:31.298Z",
 	"bosses": [
 		{
 			"name": "Tzumrah the Dazzler",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.77
+			"chance": 28.77,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -75,11 +76,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 9.91
+			"chance": 9.91,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 9.23
+			"chance": 9.23,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

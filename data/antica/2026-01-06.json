@@ -1,0 +1,105 @@
+{
+	"timestamp": "2026-01-06T09:38:20.340Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.18
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 43.88
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 29.78
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 29.57
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 26.44
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.88
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 18.8
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.52
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 14.6
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 12.95
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.26
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.45
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 10.94
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.91
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.97
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.09
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.23
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.5
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 4.84
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.58
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.58
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.31
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.89
+		}
+	]
+}

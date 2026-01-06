@@ -1,0 +1,85 @@
+{
+	"timestamp": "2026-01-06T09:38:46.319Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.5
+		},
+		{
+			"name": "Tyrn",
+			"chance": 39.95
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.59
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 39.35
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 34.21
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.91
+		},
+		{
+			"name": "Massacre",
+			"chance": 26.08
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.68
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 23.29
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.2
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.75
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 19.54
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.85
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.93
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.9
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.33
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.26
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.25
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.34
+		}
+	]
+}

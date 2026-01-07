@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-06T09:38:37.424Z",
+	"timestamp": "2026-01-07T03:53:51.029Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -44,6 +44,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.15
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

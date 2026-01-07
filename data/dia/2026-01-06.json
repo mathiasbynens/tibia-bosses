@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-06T09:38:29.240Z",
+	"timestamp": "2026-01-07T03:53:48.952Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.18
+			"chance": 70.18,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.32
+			"chance": 54.32,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.23
+			"chance": 29.23,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.86
+			"chance": 27.86,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.28
+			"chance": 18.28,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.67
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

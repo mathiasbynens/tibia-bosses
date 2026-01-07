@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-06T09:38:33.457Z",
+	"timestamp": "2026-01-07T03:53:50.161Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 15.97
+			"chance": 15.97,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -72,6 +74,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

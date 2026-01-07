@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-06T09:38:49.967Z",
+	"timestamp": "2026-01-07T03:53:55.323Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.58
+			"chance": 22.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.51
+			"chance": 12.51,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.97
+			"chance": 8.97,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -107,11 +110,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.3
+			"chance": 4.3,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.89
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

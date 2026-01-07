@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-06T09:38:46.319Z",
+	"timestamp": "2026-01-07T03:53:54.211Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.35
+			"chance": 39.35,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.68
+			"chance": 24.68,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.2
+			"chance": 23.2,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -80,6 +83,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.34
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

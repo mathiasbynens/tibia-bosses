@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-06T09:38:24.509Z",
+	"timestamp": "2026-01-07T03:53:47.603Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.75
+			"chance": 62.75,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -88,6 +89,21 @@
 		{
 			"name": "Ghazbaran",
 			"chance": 4.59
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-01-08T09:39:34.964Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 28.54
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 23.06
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.54
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.52
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.37
+		},
+		{
+			"name": "yeti",
+			"chance": 10.8
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.26
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.96
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.02
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.71
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.42
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.41
+		}
+	]
+}

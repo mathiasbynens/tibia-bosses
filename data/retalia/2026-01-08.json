@@ -1,0 +1,77 @@
+{
+	"timestamp": "2026-01-08T09:39:43.862Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 93.79
+		},
+		{
+			"name": "Zomba",
+			"chance": 79.21
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 71.72
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 40.25
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.46
+		},
+		{
+			"name": "White Pale",
+			"chance": 26.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 23.92
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 20.66
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.65
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.52
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.82
+		},
+		{
+			"name": "Hirintror",
+			"chance": 15.3
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.75
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 13.2
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.67
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.65
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.21
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.07
+		}
+	]
+}

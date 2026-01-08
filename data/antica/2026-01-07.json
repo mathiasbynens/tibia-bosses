@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-07T09:39:02.698Z",
+	"timestamp": "2026-01-08T03:53:27.038Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.04
+			"chance": 62.04,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.01
+			"chance": 17.01,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -100,6 +104,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

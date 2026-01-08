@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-07T09:39:24.514Z",
+	"timestamp": "2026-01-08T03:53:32.973Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -68,6 +68,11 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 8.49
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

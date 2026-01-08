@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-07T09:39:31.817Z",
+	"timestamp": "2026-01-08T03:53:34.914Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 36.92
+			"chance": 36.92,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.68
+			"chance": 32.68,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.64
+			"chance": 13.64,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 6.23
+			"chance": 6.23,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -104,6 +109,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

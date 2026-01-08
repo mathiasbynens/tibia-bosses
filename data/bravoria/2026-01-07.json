@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-07T09:39:06.044Z",
+	"timestamp": "2026-01-08T03:53:28.266Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.14
+			"chance": 21.14,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +98,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.59
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

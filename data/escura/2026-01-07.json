@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-07T09:39:16.752Z",
+	"timestamp": "2026-01-08T03:53:30.743Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.91
+			"chance": 39.91,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.8
+			"chance": 23.8,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.13
+			"chance": 9.13,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

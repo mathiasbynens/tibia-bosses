@@ -1,0 +1,81 @@
+{
+	"timestamp": "2026-01-09T09:39:30.237Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 81.32
+		},
+		{
+			"name": "General Murius",
+			"chance": 53.85
+		},
+		{
+			"name": "midnight panther",
+			"chance": 25.89
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 25.08
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 24.52
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 23.62
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.16
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 20.49
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.4
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.31
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.19
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 14.66
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.73
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.69
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.66
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.96
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.35
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.32
+		}
+	]
+}

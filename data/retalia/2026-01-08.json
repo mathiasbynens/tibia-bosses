@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-01-08T09:39:43.862Z",
+	"timestamp": "2026-01-09T03:53:58.821Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.79
+			"chance": 93.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 79.21
+			"chance": 79.21,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.72
+			"chance": 71.72,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.46
+			"chance": 38.46,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 15.82
+			"chance": 15.82,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -72,6 +77,26 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.07
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

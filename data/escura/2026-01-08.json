@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-08T09:39:34.964Z",
+	"timestamp": "2026-01-09T03:53:54.889Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -48,6 +48,16 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 5.41
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

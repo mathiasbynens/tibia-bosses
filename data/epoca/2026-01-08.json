@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-08T09:39:31.381Z",
+	"timestamp": "2026-01-09T03:53:52.423Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.46
+			"chance": 38.46,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -84,6 +85,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

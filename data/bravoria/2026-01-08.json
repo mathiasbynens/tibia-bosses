@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-08T09:39:24.413Z",
+	"timestamp": "2026-01-09T03:53:49.678Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.2
+			"chance": 14.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,11 +84,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.1
+			"chance": 8.1,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

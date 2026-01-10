@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-09T09:39:23.636Z",
+	"timestamp": "2026-01-10T03:49:20.651Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 12.4
+			"chance": 12.4,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -92,6 +95,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.79
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-09T09:39:41.444Z",
+	"timestamp": "2026-01-10T03:49:33.958Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

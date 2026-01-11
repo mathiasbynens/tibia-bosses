@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-10T09:34:45.564Z",
+	"timestamp": "2026-01-11T04:00:41.787Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -88,6 +89,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

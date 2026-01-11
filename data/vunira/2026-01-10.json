@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-10T09:35:05.916Z",
+	"timestamp": "2026-01-11T04:00:46.363Z",
 	"bosses": [
 		{
 			"name": "Zarabustor",
-			"chance": 34.03
+			"chance": 34.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.68
+			"chance": 24.68,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.46
+			"chance": 22.46,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 19.43
+			"chance": 19.43,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.05
+			"chance": 14.05,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.99
+			"chance": 8.99,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +110,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

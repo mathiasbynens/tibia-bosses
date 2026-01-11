@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-10T09:34:33.758Z",
+	"timestamp": "2026-01-11T04:00:38.357Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.7
+			"chance": 35.7,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.36
+			"chance": 28.36,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.03
+			"chance": 22.03,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -88,6 +92,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.39
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

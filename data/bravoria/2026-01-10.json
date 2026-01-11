@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-10T09:34:37.736Z",
+	"timestamp": "2026-01-11T04:00:39.333Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 77
+			"chance": 77,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.86
+			"chance": 22.86,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 7.94
+			"chance": 7.94,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -84,6 +88,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

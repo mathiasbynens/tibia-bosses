@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-11T09:34:58.670Z",
+	"timestamp": "2026-01-12T04:00:47.051Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -39,11 +39,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.62
+			"chance": 13.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 11.35
+			"chance": 11.35,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -92,6 +97,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.74
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

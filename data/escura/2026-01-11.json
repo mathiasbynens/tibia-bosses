@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-11T09:35:01.902Z",
+	"timestamp": "2026-01-12T04:00:47.636Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.19
+			"chance": 79.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -64,6 +65,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 8.69
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

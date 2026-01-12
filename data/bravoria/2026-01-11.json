@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-11T09:34:52.202Z",
+	"timestamp": "2026-01-12T04:00:45.193Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -64,6 +64,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

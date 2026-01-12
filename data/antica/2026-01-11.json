@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-11T09:34:48.117Z",
+	"timestamp": "2026-01-12T04:00:44.380Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.85
+			"chance": 20.85,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -84,6 +86,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

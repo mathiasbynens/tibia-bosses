@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-11T09:34:55.486Z",
+	"timestamp": "2026-01-12T04:00:46.118Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.39
+			"chance": 43.39,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -128,6 +130,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

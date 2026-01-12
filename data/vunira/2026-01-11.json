@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-11T09:35:16.226Z",
+	"timestamp": "2026-01-12T04:00:53.094Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.31
+			"chance": 12.31,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -104,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

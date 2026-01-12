@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-11T09:35:12.774Z",
+	"timestamp": "2026-01-12T04:00:51.768Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.39
+			"chance": 43.39,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.67
+			"chance": 24.67,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.38
+			"chance": 16.38,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 12.13
+			"chance": 12.13,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -120,6 +125,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,73 @@
+{
+	"timestamp": "2026-01-12T09:42:18.693Z",
+	"bosses": [
+		{
+			"name": "White Pale",
+			"chance": 53.46
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 32.64
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.94
+		},
+		{
+			"name": "Hirintror",
+			"chance": 27.3
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 26.43
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 24.88
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.34
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.46
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.19
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.19
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 16.01
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 16
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 15.86
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.44
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 14.34
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.81
+		}
+	]
+}

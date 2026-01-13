@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-01-13T09:39:16.136Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 44.78
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.46
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 31.61
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.68
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.34
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.68
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.71
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 10.93
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.32
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.85
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.29
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.82
+		},
+		{
+			"name": "Hirintror",
+			"chance": 4.24
+		}
+	]
+}

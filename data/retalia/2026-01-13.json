@@ -1,0 +1,89 @@
+{
+	"timestamp": "2026-01-13T09:39:26.861Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Dharalion",
+			"chance": 70.17
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 46.21
+		},
+		{
+			"name": "Hirintror",
+			"chance": 35.85
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 34.86
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.67
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.87
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.81
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 20.85
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.67
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.35
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 19
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 18.99
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.31
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 17.57
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.32
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 10.61
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.34
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.81
+		}
+	]
+}

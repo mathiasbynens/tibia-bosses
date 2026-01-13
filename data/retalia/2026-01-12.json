@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-12T09:42:18.693Z",
+	"timestamp": "2026-01-13T03:54:00.649Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -68,6 +68,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 8.81
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

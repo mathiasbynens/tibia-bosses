@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-12T09:42:05.229Z",
+	"timestamp": "2026-01-13T03:53:53.251Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.61
+			"chance": 39.61,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -60,6 +62,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.03
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

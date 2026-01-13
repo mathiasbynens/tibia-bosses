@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-12T09:42:22.561Z",
+	"timestamp": "2026-01-13T03:54:02.207Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 25.89
+			"chance": 25.89,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 25.59
+			"chance": 25.59,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.6
+			"chance": 23.6,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 15.75
+			"chance": 15.75,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -95,7 +100,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 7.49
+			"chance": 7.49,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -120,6 +127,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

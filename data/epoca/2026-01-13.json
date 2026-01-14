@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-13T09:39:16.136Z",
+	"timestamp": "2026-01-14T03:59:27.952Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -56,6 +57,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.24
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

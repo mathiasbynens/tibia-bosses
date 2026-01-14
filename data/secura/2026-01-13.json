@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-01-13T09:39:29.663Z",
+	"timestamp": "2026-01-14T03:59:36.866Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 34.03
+			"chance": 34.03,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.09
+			"chance": 26.09,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -31,11 +35,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 19.46
+			"chance": 19.46,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -112,6 +119,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

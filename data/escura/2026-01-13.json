@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-13T09:39:19.100Z",
+	"timestamp": "2026-01-14T03:59:29.574Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74.03
+			"chance": 74.03,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -64,6 +65,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 10.31
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

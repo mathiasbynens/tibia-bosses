@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-13T09:39:33.275Z",
+	"timestamp": "2026-01-14T03:59:37.620Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.78
+			"chance": 35.78,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.7
+			"chance": 22.7,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -96,6 +100,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

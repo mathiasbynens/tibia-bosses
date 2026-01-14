@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-13T09:39:26.861Z",
+	"timestamp": "2026-01-14T03:59:35.021Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 46.21
+			"chance": 46.21,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +85,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

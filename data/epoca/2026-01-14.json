@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-14T09:39:55.272Z",
+	"timestamp": "2026-01-15T03:55:43.227Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -56,6 +56,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-14T09:40:15.479Z",
+	"timestamp": "2026-01-15T03:55:48.142Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.4
+			"chance": 18.4,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.45
+			"chance": 17.45,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.03
+			"chance": 9.03,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.06
+			"chance": 6.06,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +114,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.64
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

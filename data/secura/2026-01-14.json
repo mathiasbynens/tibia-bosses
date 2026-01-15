@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-14T09:40:11.555Z",
+	"timestamp": "2026-01-15T03:55:47.350Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 34.1
+			"chance": 34.1,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.74
+			"chance": 22.74,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.1
+			"chance": 14.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -107,7 +111,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -116,6 +121,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.35
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

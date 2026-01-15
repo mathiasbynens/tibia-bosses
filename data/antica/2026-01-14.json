@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-14T09:39:44.216Z",
+	"timestamp": "2026-01-15T03:55:40.477Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.4
+			"chance": 37.4,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.92
+			"chance": 33.92,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.63
+			"chance": 32.63,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 17.96
+			"chance": 17.96,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -104,6 +109,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.05
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

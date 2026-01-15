@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-14T09:39:58.327Z",
+	"timestamp": "2026-01-15T03:55:44.025Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -47,11 +47,17 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.59
+			"chance": 11.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
 			"chance": 9.18
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

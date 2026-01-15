@@ -1,0 +1,73 @@
+{
+	"timestamp": "2026-01-15T09:39:03.769Z",
+	"bosses": [
+		{
+			"name": "midnight panther",
+			"chance": 40.87
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.31
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.61
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.72
+		},
+		{
+			"name": "Tyrn",
+			"chance": 21.94
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.81
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.02
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.15
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.51
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.39
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.76
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.06
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.66
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.25
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.77
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.11
+		}
+	]
+}

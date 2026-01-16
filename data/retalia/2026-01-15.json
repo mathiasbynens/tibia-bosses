@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-15T09:39:23.631Z",
+	"timestamp": "2026-01-16T03:53:34.062Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -68,6 +68,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.82
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

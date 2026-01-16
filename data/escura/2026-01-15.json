@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-15T09:39:15.004Z",
+	"timestamp": "2026-01-16T03:53:32.373Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.91
+			"chance": 39.91,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

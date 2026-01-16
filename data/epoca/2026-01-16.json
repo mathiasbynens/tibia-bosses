@@ -1,0 +1,69 @@
+{
+	"timestamp": "2026-01-16T09:38:32.773Z",
+	"bosses": [
+		{
+			"name": "The Blightfather",
+			"chance": 46.54
+		},
+		{
+			"name": "General Murius",
+			"chance": 43.92
+		},
+		{
+			"name": "White Pale",
+			"chance": 28.06
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 24.83
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 21.53
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.87
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.64
+		},
+		{
+			"name": "Barbaria",
+			"chance": 19.31
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.19
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 13.15
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 10.04
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.02
+		},
+		{
+			"name": "Shlorg",
+			"chance": 9.94
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.59
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.47
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.58
+		}
+	]
+}

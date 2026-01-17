@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-16T09:38:32.773Z",
+	"timestamp": "2026-01-17T03:48:53.969Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -64,6 +65,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

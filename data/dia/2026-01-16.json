@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-16T09:38:29.451Z",
+	"timestamp": "2026-01-17T03:48:51.823Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.51
+			"chance": 31.51,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.83
+			"chance": 15.83,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +102,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

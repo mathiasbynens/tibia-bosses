@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-16T09:38:44.500Z",
+	"timestamp": "2026-01-17T03:48:59.504Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 74
+			"chance": 74,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.56
+			"chance": 15.56,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -72,6 +75,31 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.28
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

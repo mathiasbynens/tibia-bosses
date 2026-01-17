@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-16T09:38:36.285Z",
+	"timestamp": "2026-01-17T03:48:56.293Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

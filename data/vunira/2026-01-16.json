@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-16T09:38:51.358Z",
+	"timestamp": "2026-01-17T03:49:02.249Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.02
+			"chance": 38.02,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.13
+			"chance": 24.13,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.15
+			"chance": 22.15,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.81
+			"chance": 21.81,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.33
+			"chance": 19.33,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +105,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.03
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-17T09:34:27.510Z",
+	"timestamp": "2026-01-18T03:57:33.299Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.49
+			"chance": 46.49,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.52
+			"chance": 20.52,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.73
+			"chance": 18.73,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.18
+			"chance": 14.18,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.86
+			"chance": 12.86,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.57
+			"chance": 6.57,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 5.76
+			"chance": 5.76,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.58
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

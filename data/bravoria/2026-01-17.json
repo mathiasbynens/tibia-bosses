@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-17T09:34:31.291Z",
+	"timestamp": "2026-01-18T03:57:34.580Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.65
+			"chance": 32.65,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 21.22
+			"chance": 21.22,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -72,6 +74,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.6
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

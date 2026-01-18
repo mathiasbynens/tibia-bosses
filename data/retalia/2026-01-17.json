@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-17T09:34:50.349Z",
+	"timestamp": "2026-01-18T03:57:38.691Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.79
+			"chance": 62.79,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.94
+			"chance": 39.94,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 37.78
+			"chance": 37.78,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 26.36
+			"chance": 26.36,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

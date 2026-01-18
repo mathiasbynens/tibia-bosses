@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-01-18T09:35:12.203Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.61
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 29.81
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 29.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 28.61
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 27.15
+		},
+		{
+			"name": "White Pale",
+			"chance": 26.24
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.71
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 17.36
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "midnight panther",
+			"chance": 15.79
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 14.13
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		}
+	]
+}

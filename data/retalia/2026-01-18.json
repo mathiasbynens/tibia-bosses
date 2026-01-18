@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-01-18T09:35:20.390Z",
+	"bosses": [
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 71.88
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 71.23
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 62.06
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 37.47
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 21.85
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.21
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.18
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.91
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.27
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.73
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.15
+		}
+	]
+}

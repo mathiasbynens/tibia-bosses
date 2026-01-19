@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-01-19T09:43:08.100Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 55.3
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 25.21
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.8
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 17.28
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 13.44
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.03
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.73
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.22
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.18
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.5
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.42
+		}
+	]
+}

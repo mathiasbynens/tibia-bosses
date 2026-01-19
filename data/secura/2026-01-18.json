@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-18T09:35:23.776Z",
+	"timestamp": "2026-01-19T04:01:29.810Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.95
+			"chance": 31.95,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.12
+			"chance": 24.12,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -39,11 +41,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.31
+			"chance": 11.31,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -76,6 +80,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.24
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-18T09:34:59.895Z",
+	"timestamp": "2026-01-19T04:01:20.490Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.87
+			"chance": 12.87,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-18T09:35:08.298Z",
+	"timestamp": "2026-01-19T04:01:23.337Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 26.14
+			"chance": 26.14,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.63
+			"chance": 11.63,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +79,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.11
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

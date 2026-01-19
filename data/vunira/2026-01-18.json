@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-18T09:35:27.435Z",
+	"timestamp": "2026-01-19T04:01:30.752Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.68
+			"chance": 71.68,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 34.04
+			"chance": 34.04,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.65
+			"chance": 20.65,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.8
+			"chance": 18.8,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.38
+			"chance": 18.38,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -108,6 +114,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.08
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

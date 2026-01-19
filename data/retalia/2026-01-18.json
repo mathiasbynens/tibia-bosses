@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-18T09:35:20.390Z",
+	"timestamp": "2026-01-19T04:01:28.719Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 9.91
+			"chance": 9.91,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -48,6 +49,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.15
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

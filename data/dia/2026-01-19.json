@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-19T09:42:52.583Z",
+	"timestamp": "2026-01-20T03:57:37.693Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.04
+			"chance": 43.04,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.85
+			"chance": 17.85,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -67,11 +69,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.19
+			"chance": 15.19,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.03
+			"chance": 13.03,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.77
+			"chance": 4.77,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

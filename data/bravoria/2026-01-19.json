@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-19T09:42:49.150Z",
+	"timestamp": "2026-01-20T03:57:36.833Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.92
+			"chance": 63.92,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.32
+			"chance": 19.32,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.66
+			"chance": 5.66,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-19T09:42:55.845Z",
+	"timestamp": "2026-01-20T03:57:38.790Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.58
+			"chance": 39.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 19.7
+			"chance": 19.7,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -64,6 +66,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

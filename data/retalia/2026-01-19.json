@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-19T09:43:08.100Z",
+	"timestamp": "2026-01-20T03:57:43.025Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -48,6 +48,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.42
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

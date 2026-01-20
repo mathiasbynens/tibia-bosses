@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-01-19T09:42:44.210Z",
+	"timestamp": "2026-01-20T03:57:35.683Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.91
+			"chance": 93.91,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.15
+			"chance": 70.15,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -59,11 +62,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.88
+			"chance": 12.88,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -120,6 +125,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.1
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

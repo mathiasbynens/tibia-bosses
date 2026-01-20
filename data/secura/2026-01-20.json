@@ -1,0 +1,77 @@
+{
+	"timestamp": "2026-01-20T09:42:02.435Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 43.05
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.44
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 29.31
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.58
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.18
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.42
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.01
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.11
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.69
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.01
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.04
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.16
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.81
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.82
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.81
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.66
+		}
+	]
+}

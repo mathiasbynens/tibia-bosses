@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-01-21T09:41:54.561Z",
+	"bosses": [
+		{
+			"name": "The Pale Count",
+			"chance": 64.8
+		},
+		{
+			"name": "Tyrn",
+			"chance": 60.89
+		},
+		{
+			"name": "White Pale",
+			"chance": 38.33
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 24.08
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.34
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.65
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 20.52
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.79
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.73
+		}
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"timestamp": "2026-01-21T09:41:43.649Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.58
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 31.52
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 30.77
+		},
+		{
+			"name": "Xenia",
+			"chance": 30.66
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.65
+		},
+		{
+			"name": "Barbaria",
+			"chance": 23.53
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.34
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 22.8
+		},
+		{
+			"name": "White Pale",
+			"chance": 20.69
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 19.16
+		},
+		{
+			"name": "Dracola",
+			"chance": 16
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.03
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.3
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.15
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 9.95
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.42
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 5.81
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.4
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.4
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.82
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.57
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"timestamp": "2026-01-21T09:42:04.050Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.58
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.5
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.11
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 18.83
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.36
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.02
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 9.08
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.18
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.64
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.36
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.27
+		}
+	]
+}

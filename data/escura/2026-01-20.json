@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-20T09:41:51.121Z",
+	"timestamp": "2026-01-21T03:56:56.749Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 18.37
+			"chance": 18.37,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

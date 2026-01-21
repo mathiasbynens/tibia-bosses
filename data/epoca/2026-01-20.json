@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-20T09:41:48.215Z",
+	"timestamp": "2026-01-21T03:56:55.842Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -64,6 +64,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.66
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

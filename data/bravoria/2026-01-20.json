@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-20T09:41:41.508Z",
+	"timestamp": "2026-01-21T03:56:52.126Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.39
+			"chance": 81.39,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 80.65
+			"chance": 80.65,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -80,6 +82,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.16
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

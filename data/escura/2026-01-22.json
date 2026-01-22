@@ -1,0 +1,25 @@
+{
+	"timestamp": "2026-01-22T09:42:01.038Z",
+	"bosses": [
+		{
+			"name": "White Pale",
+			"chance": 53.95
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 23.73
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.13
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.33
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.18
+		}
+	]
+}

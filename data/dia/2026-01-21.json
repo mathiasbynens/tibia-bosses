@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-21T09:41:47.536Z",
+	"timestamp": "2026-01-22T03:59:54.194Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.86
+			"chance": 35.86,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -103,7 +104,18 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.57
+			"chance": 3.57,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

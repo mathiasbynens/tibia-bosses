@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-21T09:41:43.649Z",
+	"timestamp": "2026-01-22T03:59:52.756Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.58
+			"chance": 39.58,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.52
+			"chance": 31.52,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -88,6 +91,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

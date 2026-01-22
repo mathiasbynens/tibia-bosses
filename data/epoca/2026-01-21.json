@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-21T09:41:51.604Z",
+	"timestamp": "2026-01-22T03:59:55.032Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -84,6 +84,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.12
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

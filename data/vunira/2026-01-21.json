@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-21T09:42:12.051Z",
+	"timestamp": "2026-01-22T04:00:01.033Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.08
+			"chance": 30.08,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.43
+			"chance": 13.43,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -96,6 +102,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.34
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

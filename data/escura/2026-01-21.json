@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-21T09:41:54.561Z",
+	"timestamp": "2026-01-22T03:59:55.593Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.65
+			"chance": 20.65,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -36,6 +38,16 @@
 		{
 			"name": "The Blightfather",
 			"chance": 10.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

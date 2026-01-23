@@ -1,0 +1,25 @@
+{
+	"timestamp": "2026-01-23T09:40:40.060Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 30.48
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.85
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.25
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.75
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.59
+		}
+	]
+}

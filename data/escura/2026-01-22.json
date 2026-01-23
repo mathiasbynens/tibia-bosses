@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-22T09:42:01.038Z",
+	"timestamp": "2026-01-23T03:56:04.275Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.33
+			"chance": 19.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		}
 	]
 }

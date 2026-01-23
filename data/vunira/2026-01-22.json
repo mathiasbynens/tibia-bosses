@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-01-22T09:42:17.195Z",
+	"timestamp": "2026-01-23T03:56:09.331Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.14
+			"chance": 70.14,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "yeti",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.55
+			"chance": 24.55,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",

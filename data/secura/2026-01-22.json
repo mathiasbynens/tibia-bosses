@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-01-22T09:42:13.389Z",
+	"timestamp": "2026-01-23T03:56:08.012Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.49
+			"chance": 38.49,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.79
+			"chance": 35.79,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.33
+			"chance": 28.33,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -104,6 +108,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.38
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

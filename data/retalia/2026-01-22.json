@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-22T09:42:09.543Z",
+	"timestamp": "2026-01-23T03:56:06.977Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -47,11 +47,32 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.08
+			"chance": 6.08,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
 			"chance": 4.59
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

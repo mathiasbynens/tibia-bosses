@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-23T09:40:47.621Z",
+	"timestamp": "2026-01-24T03:51:49.737Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.43
+			"chance": 42.43,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 32.8
+			"chance": 32.8,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -31,15 +33,18 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.47
+			"chance": 14.47,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.11
+			"chance": 14.11,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.25
+			"chance": 12.25,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -68,6 +73,11 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.79
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

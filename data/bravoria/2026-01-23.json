@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-23T09:40:30.029Z",
+	"timestamp": "2026-01-24T03:51:39.133Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -67,11 +67,27 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.68
+			"chance": 5.68,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.1
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

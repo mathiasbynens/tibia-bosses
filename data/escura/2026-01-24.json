@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-24T09:35:07.371Z",
+	"timestamp": "2026-01-25T04:03:16.070Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -20,6 +20,11 @@
 		{
 			"name": "The Welter",
 			"chance": 8.23
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

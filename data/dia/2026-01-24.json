@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-24T09:35:01.273Z",
+	"timestamp": "2026-01-25T04:03:13.548Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 39.6
+			"chance": 39.6,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 37.83
+			"chance": 37.83,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.59
+			"chance": 31.59,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 26.8
+			"chance": 26.8,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.51
+			"chance": 22.51,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.98
+			"chance": 12.98,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -99,7 +105,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 7.77
+			"chance": 7.77,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",

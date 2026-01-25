@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-24T09:35:14.577Z",
+	"timestamp": "2026-01-25T04:03:20.114Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -60,6 +60,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.68
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-25T09:35:35.990Z",
+	"timestamp": "2026-01-26T04:05:33.427Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.04
+			"chance": 38.04,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.56
+			"chance": 28.56,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.64
+			"chance": 11.64,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -100,6 +103,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

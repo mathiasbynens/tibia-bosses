@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-25T09:35:33.004Z",
+	"timestamp": "2026-01-26T04:05:32.320Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 43.59
+			"chance": 43.59,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.07
+			"chance": 43.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.44
+			"chance": 42.44,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.22
+			"chance": 23.22,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -91,11 +95,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.88
+			"chance": 7.88,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 6.42
+			"chance": 6.42,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +114,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

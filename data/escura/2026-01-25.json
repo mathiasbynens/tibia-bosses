@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-25T09:35:38.860Z",
+	"timestamp": "2026-01-26T04:05:34.391Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -36,6 +36,11 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 5.39
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

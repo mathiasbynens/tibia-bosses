@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-25T09:35:48.484Z",
+	"timestamp": "2026-01-26T04:05:38.663Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.16
+			"chance": 70.16,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 63.98
+			"chance": 63.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.2
+			"chance": 8.2,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

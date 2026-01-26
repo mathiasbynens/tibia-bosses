@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-25T09:35:29.956Z",
+	"timestamp": "2026-01-26T04:05:31.190Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.69
+			"chance": 32.69,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -72,6 +73,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-25T09:35:45.657Z",
+	"timestamp": "2026-01-26T04:05:37.604Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -64,6 +65,11 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 7.29
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

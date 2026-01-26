@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-25T09:35:51.500Z",
+	"timestamp": "2026-01-26T04:05:40.081Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.62
+			"chance": 24.62,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -104,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

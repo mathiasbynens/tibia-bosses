@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-26T09:43:15.423Z",
+	"timestamp": "2026-01-27T03:59:09.557Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.17
+			"chance": 29.17,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.5
+			"chance": 17.5,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 15.86
+			"chance": 15.86,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -67,11 +71,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 9.06
+			"chance": 9.06,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +110,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

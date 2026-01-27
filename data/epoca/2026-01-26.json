@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-26T09:43:00.387Z",
+	"timestamp": "2026-01-27T03:59:05.488Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.75
+			"chance": 71.75,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -92,6 +93,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

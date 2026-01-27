@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-26T09:42:56.965Z",
+	"timestamp": "2026-01-27T03:59:04.113Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.75
+			"chance": 71.75,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 55.26
+			"chance": 55.26,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.05
+			"chance": 28.05,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.56
+			"chance": 20.56,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.5
+			"chance": 17.5,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -100,6 +105,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.67
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

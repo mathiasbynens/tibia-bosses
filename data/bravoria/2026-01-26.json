@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-26T09:42:53.308Z",
+	"timestamp": "2026-01-27T03:59:02.860Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

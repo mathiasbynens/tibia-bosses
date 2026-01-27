@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-26T09:43:18.683Z",
+	"timestamp": "2026-01-27T03:59:10.515Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,23 +11,28 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.69
+			"chance": 25.69,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.8
+			"chance": 20.8,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.11
+			"chance": 19.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +44,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 18.24
+			"chance": 18.24,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,15 +57,18 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.77
+			"chance": 12.77,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 10.91
+			"chance": 10.91,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -71,7 +80,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 9.42
+			"chance": 9.42,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -108,6 +118,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.32
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-26T09:42:50.462Z",
+	"timestamp": "2026-01-27T03:59:01.717Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 37.88
+			"chance": 37.88,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 34.22
+			"chance": 34.22,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.15
+			"chance": 18.15,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -75,7 +78,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +116,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.65
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,49 @@
+{
+	"timestamp": "2026-01-27T09:42:26.903Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.18
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.55
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 25.19
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.65
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.52
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 19.14
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.14
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.68
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.51
+		},
+		{
+			"name": "Shlorg",
+			"chance": 12.97
+		},
+		{
+			"name": "The Welter",
+			"chance": 11.36
+		}
+	]
+}

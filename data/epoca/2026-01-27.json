@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-27T09:42:17.331Z",
+	"timestamp": "2026-01-28T03:57:54.958Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 53.88
+			"chance": 53.88,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.25
+			"chance": 11.25,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 8.6
+			"chance": 8.6,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +100,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.29
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

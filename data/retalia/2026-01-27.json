@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-27T09:42:26.903Z",
+	"timestamp": "2026-01-28T03:57:58.354Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.18
+			"chance": 70.18,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -44,6 +45,11 @@
 		{
 			"name": "The Welter",
 			"chance": 11.36
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

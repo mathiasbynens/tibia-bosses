@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-27T09:42:20.263Z",
+	"timestamp": "2026-01-28T03:57:55.651Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.19
+			"chance": 65.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.8
+			"chance": 21.8,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.64
+			"chance": 20.64,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -52,6 +55,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.15
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

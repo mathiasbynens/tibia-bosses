@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-27T09:42:30.496Z",
+	"timestamp": "2026-01-28T03:57:59.460Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 54.32
+			"chance": 54.32,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -11,15 +12,18 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 38.08
+			"chance": 38.08,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 34.02
+			"chance": 34.02,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 31.65
+			"chance": 31.65,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 13.95
+			"chance": 13.95,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 10.81
+			"chance": 10.81,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -92,6 +98,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

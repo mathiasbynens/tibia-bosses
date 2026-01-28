@@ -1,0 +1,89 @@
+{
+	"timestamp": "2026-01-28T09:42:34.641Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 42.47
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 37.36
+		},
+		{
+			"name": "Barbaria",
+			"chance": 37.19
+		},
+		{
+			"name": "yeti",
+			"chance": 27.64
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 22.55
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.17
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.63
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 17.23
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.48
+		},
+		{
+			"name": "Zushuka",
+			"chance": 14.69
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 14.64
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.14
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.71
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 13.49
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 12.57
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 9.87
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.18
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.03
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.2
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.55
+		}
+	]
+}

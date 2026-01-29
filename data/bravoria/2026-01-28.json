@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-01-28T09:42:28.857Z",
+	"timestamp": "2026-01-29T04:13:26.556Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.01
+			"chance": 94.01,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.52
+			"chance": 46.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.56
+			"chance": 39.56,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -104,6 +108,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.16
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

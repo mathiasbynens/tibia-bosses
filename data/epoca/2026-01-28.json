@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-28T09:42:34.641Z",
+	"timestamp": "2026-01-29T04:13:56.726Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -84,6 +84,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.55
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-28T09:42:25.690Z",
+	"timestamp": "2026-01-29T04:13:06.548Z",
 	"bosses": [
 		{
 			"name": "Omrafir",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.38
+			"chance": 29.38,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 11.98
+			"chance": 11.98,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -100,6 +102,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.87
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

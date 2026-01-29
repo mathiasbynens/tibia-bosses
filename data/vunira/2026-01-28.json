@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-28T09:42:49.280Z",
+	"timestamp": "2026-01-29T04:15:55.951Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.5
+			"chance": 54.5,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.79
+			"chance": 35.79,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.35
+			"chance": 7.35,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,11 +94,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.6
+			"chance": 4.6,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.74
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

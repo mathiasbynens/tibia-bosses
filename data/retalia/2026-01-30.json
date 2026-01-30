@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-01-30T09:43:51.184Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.64
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 26.99
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 25.56
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.4
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.34
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.83
+		},
+		{
+			"name": "The Welter",
+			"chance": 17.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.53
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 14.82
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.79
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.35
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.26
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 10.62
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.59
+		}
+	]
+}

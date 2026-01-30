@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-29T09:44:23.737Z",
+	"timestamp": "2026-01-30T04:14:49.699Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.19
+			"chance": 62.19,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.51
+			"chance": 46.51,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.75
+			"chance": 17.75,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -60,6 +63,16 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 6.2
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

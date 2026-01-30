@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-29T09:44:14.788Z",
+	"timestamp": "2026-01-30T04:14:47.751Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.25
+			"chance": 13.25,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -32,6 +33,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.71
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-29T09:44:03.795Z",
+	"timestamp": "2026-01-30T04:14:45.142Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -88,6 +88,21 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.03
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

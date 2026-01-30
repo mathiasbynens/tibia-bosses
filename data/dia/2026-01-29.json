@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-29T09:44:07.469Z",
+	"timestamp": "2026-01-30T04:14:46.095Z",
 	"bosses": [
 		{
 			"name": "Massacre",
-			"chance": 43.81
+			"chance": 43.81,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.79
+			"chance": 12.79,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -96,6 +99,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.66
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

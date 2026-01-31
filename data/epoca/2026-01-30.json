@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-30T09:43:41.207Z",
+	"timestamp": "2026-01-31T04:11:13.599Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.34
+			"chance": 40.34,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -63,7 +64,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 11.11
+			"chance": 11.11,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +90,26 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.39
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

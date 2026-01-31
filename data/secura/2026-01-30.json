@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-30T09:43:54.113Z",
+	"timestamp": "2026-01-31T04:11:16.432Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.34
+			"chance": 40.34,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 33.91
+			"chance": 33.91,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.01
+			"chance": 19.01,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.59
+			"chance": 13.59,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -83,11 +88,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.89
+			"chance": 7.89,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -100,6 +107,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

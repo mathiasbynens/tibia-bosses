@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-30T09:43:56.814Z",
+	"timestamp": "2026-01-31T04:11:17.476Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.24
+			"chance": 29.24,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,15 +32,18 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.99
+			"chance": 18.99,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.97
+			"chance": 18.97,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.04
+			"chance": 17.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -100,6 +105,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.25
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

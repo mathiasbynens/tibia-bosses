@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-30T09:43:34.681Z",
+	"timestamp": "2026-01-31T04:11:12.083Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.44
+			"chance": 15.44,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +93,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.13
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

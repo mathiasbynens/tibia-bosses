@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-30T09:43:51.184Z",
+	"timestamp": "2026-01-31T04:11:15.753Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 17.63
+			"chance": 17.63,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.82
+			"chance": 14.82,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -56,6 +58,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

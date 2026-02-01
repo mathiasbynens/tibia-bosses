@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-01-31T09:39:55.738Z",
+	"timestamp": "2026-02-01T04:18:37.529Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.25
+			"chance": 79.25,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 10.88
+			"chance": 10.88,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -91,11 +93,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.72
+			"chance": 6.72,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.21
+			"chance": 6.21,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +116,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

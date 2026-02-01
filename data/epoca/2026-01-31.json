@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-31T09:39:38.063Z",
+	"timestamp": "2026-02-01T04:18:33.215Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 38.39
+			"chance": 38.39,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +94,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

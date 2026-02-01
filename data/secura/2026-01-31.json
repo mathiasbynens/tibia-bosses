@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-01-31T09:39:52.501Z",
+	"timestamp": "2026-02-01T04:18:36.952Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.08
+			"chance": 43.08,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 21.38
+			"chance": 21.38,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.96
+			"chance": 4.96,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -108,6 +113,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

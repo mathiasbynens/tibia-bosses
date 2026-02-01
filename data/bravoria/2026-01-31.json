@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-01-31T09:39:31.369Z",
+	"timestamp": "2026-02-01T04:18:31.977Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.15
+			"chance": 65.15,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -108,6 +109,11 @@
 		{
 			"name": "Warlord Ruzad",
 			"chance": 3.77
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

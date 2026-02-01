@@ -1,0 +1,33 @@
+{
+	"timestamp": "2026-02-01T09:41:09.757Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 29.41
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.45
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.25
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.71
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.68
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.83
+		}
+	]
+}

@@ -1,25 +1,30 @@
 {
-	"timestamp": "2026-02-01T09:41:04.007Z",
+	"timestamp": "2026-02-02T04:17:35.189Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.01
+			"chance": 64.01,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.5
+			"chance": 42.5,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.91
+			"chance": 36.91,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.68
+			"chance": 32.68,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 32.32
+			"chance": 32.32,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.72
+			"chance": 14.72,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -71,11 +77,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 9.95
+			"chance": 9.95,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.75
+			"chance": 8.75,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -96,6 +104,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.37
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

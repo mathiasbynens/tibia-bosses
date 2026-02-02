@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-01T09:41:16.176Z",
+	"timestamp": "2026-02-02T04:17:37.878Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -68,6 +68,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

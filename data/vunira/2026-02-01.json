@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-01T09:41:21.677Z",
+	"timestamp": "2026-02-02T04:17:39.433Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.44
+			"chance": 43.44,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.84
+			"chance": 14.84,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 11.1
+			"chance": 11.1,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -103,7 +107,8 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 8.05
+			"chance": 8.05,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -119,7 +124,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.38
+			"chance": 5.38,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -132,6 +138,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

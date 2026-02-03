@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-02-03T09:43:55.116Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.27
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.18
+		},
+		{
+			"name": "midnight panther",
+			"chance": 19.04
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.19
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.1
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.39
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.35
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 7.64
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.22
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.87
+		}
+	]
+}

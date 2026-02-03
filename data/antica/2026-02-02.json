@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-02T09:44:33.058Z",
+	"timestamp": "2026-02-03T04:16:19.226Z",
 	"bosses": [
 		{
 			"name": "Tyrn",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 33.78
+			"chance": 33.78,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 15.99
+			"chance": 15.99,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.01
+			"chance": 10.01,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +103,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

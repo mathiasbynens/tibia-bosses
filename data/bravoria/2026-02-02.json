@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-02T09:44:36.402Z",
+	"timestamp": "2026-02-03T04:16:20.062Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.01
+			"chance": 64.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.07
+			"chance": 12.07,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 10.98
+			"chance": 10.98,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -96,6 +100,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.82
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

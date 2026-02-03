@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-02T09:44:56.414Z",
+	"timestamp": "2026-02-03T04:16:25.450Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.58
+			"chance": 39.58,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -47,11 +49,13 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 16.24
+			"chance": 16.24,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.29
+			"chance": 15.29,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.17
+			"chance": 11.17,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 11.12
+			"chance": 11.12,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -100,6 +106,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

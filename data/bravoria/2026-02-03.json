@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-03T09:43:46.498Z",
+	"timestamp": "2026-02-04T04:14:56.783Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.47
+			"chance": 81.47,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -80,6 +82,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.22
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-03T09:43:43.715Z",
+	"timestamp": "2026-02-04T04:14:56.317Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.04
+			"chance": 64.04,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.57
+			"chance": 22.57,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -95,7 +99,18 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.62
+			"chance": 3.62,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

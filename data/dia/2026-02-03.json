@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-03T09:43:49.683Z",
+	"timestamp": "2026-02-04T04:14:57.367Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.07
+			"chance": 34.07,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 22.14
+			"chance": 22.14,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 16.15
+			"chance": 16.15,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.03
+			"chance": 7.03,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -100,6 +105,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.62
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

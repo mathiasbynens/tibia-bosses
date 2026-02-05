@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-02-05T09:44:23.763Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 38.5
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 24.71
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.8
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.34
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.68
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.01
+		},
+		{
+			"name": "Shlorg",
+			"chance": 12.91
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.98
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.47
+		}
+	]
+}

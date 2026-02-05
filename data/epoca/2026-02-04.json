@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-04T09:44:14.424Z",
+	"timestamp": "2026-02-05T04:16:18.866Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.51
+			"chance": 12.51,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -80,6 +81,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.36
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

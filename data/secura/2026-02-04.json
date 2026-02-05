@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-04T09:44:29.600Z",
+	"timestamp": "2026-02-05T04:16:22.416Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 41.78
+			"chance": 41.78,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.74
+			"chance": 14.74,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.46
+			"chance": 5.46,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -96,6 +100,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.68
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

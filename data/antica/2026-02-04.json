@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-02-04T09:44:04.516Z",
+	"timestamp": "2026-02-05T04:16:15.906Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.34
+			"chance": 40.34,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 37.4
+			"chance": 37.4,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.26
+			"chance": 29.26,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -19,11 +22,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.79
+			"chance": 20.79,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.59
+			"chance": 9.59,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +110,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

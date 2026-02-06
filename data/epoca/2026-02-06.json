@@ -1,0 +1,93 @@
+{
+	"timestamp": "2026-02-06T09:44:13.303Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.31
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 40.33
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.28
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 27.77
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.51
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.78
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.04
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.79
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 16.03
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 16.03
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 14.41
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.14
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.08
+		},
+		{
+			"name": "midnight panther",
+			"chance": 13.68
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.75
+		},
+		{
+			"name": "Shlorg",
+			"chance": 9.95
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.33
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.64
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.61
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.64
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.57
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-05T09:44:23.763Z",
+	"timestamp": "2026-02-06T04:16:05.351Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 18.68
+			"chance": 18.68,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",

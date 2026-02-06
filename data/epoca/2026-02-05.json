@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-05T09:44:21.075Z",
+	"timestamp": "2026-02-06T04:16:04.551Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 20.08
+			"chance": 20.08,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -92,6 +93,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

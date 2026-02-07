@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-06T09:44:24.152Z",
+	"timestamp": "2026-02-07T04:13:44.005Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 38.19
+			"chance": 38.19,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 12.44
+			"chance": 12.44,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -84,6 +86,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

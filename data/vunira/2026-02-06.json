@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-06T09:44:30.985Z",
+	"timestamp": "2026-02-07T04:13:45.260Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 20.78
+			"chance": 20.78,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 18.73
+			"chance": 18.73,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -108,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

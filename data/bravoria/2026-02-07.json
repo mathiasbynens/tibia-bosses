@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-07T09:40:53.759Z",
+	"timestamp": "2026-02-08T04:20:49.485Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -80,6 +80,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 4.31
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

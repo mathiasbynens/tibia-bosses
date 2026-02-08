@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-07T09:41:00.600Z",
+	"timestamp": "2026-02-08T04:20:50.673Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.88
+			"chance": 17.88,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.15
+			"chance": 7.15,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

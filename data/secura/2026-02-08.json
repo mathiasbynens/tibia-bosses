@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-02-08T09:41:01.839Z",
+	"timestamp": "2026-02-09T04:18:14.032Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.2
+			"chance": 65.2,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.13
+			"chance": 62.13,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 47.86
+			"chance": 47.86,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.68
+			"chance": 19.68,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 5.12
+			"chance": 5.12,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +101,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-08T09:40:46.364Z",
+	"timestamp": "2026-02-09T04:18:10.056Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.49
+			"chance": 38.49,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 27.71
+			"chance": 27.71,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.58
+			"chance": 22.58,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -136,6 +141,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

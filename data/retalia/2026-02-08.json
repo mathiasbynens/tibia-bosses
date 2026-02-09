@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-08T09:40:59.157Z",
+	"timestamp": "2026-02-09T04:18:13.217Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -76,6 +76,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 5.12
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

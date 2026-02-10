@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-09T09:46:37.697Z",
+	"timestamp": "2026-02-10T04:19:24.184Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.3
+			"chance": 23.3,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 19.19
+			"chance": 19.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.04
+			"chance": 16.04,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.4
+			"chance": 13.4,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.29
+			"chance": 7.29,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -111,7 +117,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.1
+			"chance": 6.1,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -128,6 +135,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

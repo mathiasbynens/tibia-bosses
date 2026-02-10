@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-09T09:46:44.632Z",
+	"timestamp": "2026-02-10T04:19:25.392Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.39
+			"chance": 16.39,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.78
+			"chance": 15.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.37
+			"chance": 13.37,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.26
+			"chance": 12.26,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.59
+			"chance": 7.59,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -131,7 +137,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -144,6 +151,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

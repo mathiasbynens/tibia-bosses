@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-09T09:46:51.110Z",
+	"timestamp": "2026-02-10T04:19:26.692Z",
 	"bosses": [
 		{
 			"name": "midnight panther",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.47
+			"chance": 43.47,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

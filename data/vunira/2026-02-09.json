@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-09T09:47:06.108Z",
+	"timestamp": "2026-02-10T04:19:30.004Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.64
+			"chance": 22.64,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.82
+			"chance": 19.82,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.15
+			"chance": 19.15,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.74
+			"chance": 10.74,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.23
+			"chance": 8.23,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -120,6 +127,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.31
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

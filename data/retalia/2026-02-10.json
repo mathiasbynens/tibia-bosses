@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-10T09:46:54.667Z",
+	"timestamp": "2026-02-11T04:18:49.980Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.1
+			"chance": 22.1,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -72,6 +73,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.13
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

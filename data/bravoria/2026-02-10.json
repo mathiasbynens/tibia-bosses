@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-10T09:46:38.206Z",
+	"timestamp": "2026-02-11T04:18:47.107Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.49
+			"chance": 42.49,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.96
+			"chance": 39.96,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.5
+			"chance": 8.5,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.48
+			"chance": 8.48,
+			"killed": true
 		},
 		{
 			"name": "The Abomination",
@@ -72,6 +78,26 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.79
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

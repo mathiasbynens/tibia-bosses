@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-02-10T09:46:58.318Z",
+	"timestamp": "2026-02-11T04:18:50.501Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.97
+			"chance": 73.97,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.6
+			"chance": 46.6,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 36.95
+			"chance": 36.95,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 32.39
+			"chance": 32.39,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.32
+			"chance": 29.32,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -103,7 +108,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.81
+			"chance": 3.81,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -116,6 +122,16 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.23
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

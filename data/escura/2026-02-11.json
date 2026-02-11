@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-02-11T09:45:29.969Z",
+	"bosses": [
+		{
+			"name": "Shlorg",
+			"chance": 65.04
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 48.26
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.35
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.96
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 28.53
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.91
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 16.06
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 12
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 11.98
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.74
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.26
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.01
+		}
+	]
+}

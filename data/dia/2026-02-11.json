@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-02-11T09:45:24.489Z",
+	"timestamp": "2026-02-12T04:18:07.322Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.49
+			"chance": 81.49,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 80.62
+			"chance": 80.62,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.2
+			"chance": 65.2,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 40.36
+			"chance": 40.36,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.94
+			"chance": 19.94,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.54
+			"chance": 18.54,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -79,7 +86,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.55
+			"chance": 9.55,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -116,6 +124,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.74
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

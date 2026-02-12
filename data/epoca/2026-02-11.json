@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-11T09:45:27.495Z",
+	"timestamp": "2026-02-12T04:18:08.220Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.01
+			"chance": 94.01,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 22.21
+			"chance": 22.21,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.53
+			"chance": 19.53,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -100,6 +103,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.74
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

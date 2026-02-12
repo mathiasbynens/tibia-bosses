@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-11T09:45:29.969Z",
+	"timestamp": "2026-02-12T04:18:09.983Z",
 	"bosses": [
 		{
 			"name": "Shlorg",
@@ -48,6 +48,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 8.01
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

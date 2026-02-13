@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-12T09:45:08.511Z",
+	"timestamp": "2026-02-13T04:17:25.347Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.52
+			"chance": 38.52,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.39
+			"chance": 5.39,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -96,6 +99,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.79
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

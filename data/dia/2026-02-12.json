@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-12T09:45:05.655Z",
+	"timestamp": "2026-02-13T04:17:24.912Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.52
+			"chance": 28.52,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -92,6 +95,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.99
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

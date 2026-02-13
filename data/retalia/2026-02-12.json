@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-12T09:45:18.805Z",
+	"timestamp": "2026-02-13T04:17:27.003Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.19
+			"chance": 28.19,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -60,6 +61,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

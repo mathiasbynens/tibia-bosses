@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-12T09:45:21.645Z",
+	"timestamp": "2026-02-13T04:17:27.684Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.07
+			"chance": 43.07,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 34.46
+			"chance": 34.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.66
+			"chance": 24.66,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.37
+			"chance": 13.37,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -99,7 +103,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.24
+			"chance": 6.24,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -115,7 +120,8 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 3.94
+			"chance": 3.94,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -124,6 +130,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-12T09:45:02.108Z",
+	"timestamp": "2026-02-13T04:17:24.434Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +69,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.12
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

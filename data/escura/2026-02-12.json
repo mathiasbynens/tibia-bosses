@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-12T09:45:12.026Z",
+	"timestamp": "2026-02-13T04:17:25.783Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64
+			"chance": 64,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.34
+			"chance": 19.34,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Xenia",

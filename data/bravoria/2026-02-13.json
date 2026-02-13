@@ -1,0 +1,77 @@
+{
+	"timestamp": "2026-02-13T09:44:02.072Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Dracola",
+			"chance": 47.65
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 29.02
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.29
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.33
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 23.22
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.08
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 20.11
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.86
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.56
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 17.46
+		},
+		{
+			"name": "Hirintror",
+			"chance": 13.35
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 13.16
+		},
+		{
+			"name": "The Abomination",
+			"chance": 13.02
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.05
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.86
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.39
+		}
+	]
+}

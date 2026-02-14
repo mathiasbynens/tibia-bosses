@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-13T09:43:59.442Z",
+	"timestamp": "2026-02-14T04:14:55.551Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 32.47
+			"chance": 32.47,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.56
+			"chance": 18.56,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -91,7 +94,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.33
+			"chance": 10.33,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -116,6 +120,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.57
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-13T09:44:11.038Z",
+	"timestamp": "2026-02-14T04:14:57.732Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -48,6 +48,16 @@
 		{
 			"name": "Rukor Zad",
 			"chance": 8.49
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

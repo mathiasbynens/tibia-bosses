@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-13T09:44:07.961Z",
+	"timestamp": "2026-02-14T04:14:57.308Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "White Pale",

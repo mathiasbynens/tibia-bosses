@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-13T09:44:05.085Z",
+	"timestamp": "2026-02-14T04:14:56.562Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 53.69
+			"chance": 53.69,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.07
+			"chance": 17.07,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,11 +34,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 5.68
+			"chance": 5.68,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +110,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.04
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

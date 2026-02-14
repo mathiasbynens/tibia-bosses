@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-13T09:44:17.289Z",
+	"timestamp": "2026-02-14T04:14:59.545Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.91
+			"chance": 93.91,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.36
+			"chance": 34.36,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.49
+			"chance": 17.49,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.36
+			"chance": 9.36,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -68,6 +72,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.04
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

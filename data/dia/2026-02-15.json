@@ -1,0 +1,113 @@
+{
+	"timestamp": "2026-02-15T09:41:40.097Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.01
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 27.76
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.65
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 22.63
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.58
+		},
+		{
+			"name": "Massacre",
+			"chance": 17.74
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.06
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.04
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.71
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.38
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.26
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.01
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.57
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.26
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.76
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 11.37
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.06
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.35
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.18
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.64
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.59
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 7.72
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.32
+		},
+		{
+			"name": "Hirintror",
+			"chance": 6.16
+		},
+		{
+			"name": "Omrafir",
+			"chance": 4.84
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.26
+		}
+	]
+}

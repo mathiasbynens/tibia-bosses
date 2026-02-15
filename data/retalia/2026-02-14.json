@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-14T09:41:40.374Z",
+	"timestamp": "2026-02-15T04:17:32.821Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -52,6 +52,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.63
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

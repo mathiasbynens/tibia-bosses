@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-14T09:41:21.068Z",
+	"timestamp": "2026-02-15T04:17:28.219Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.09
+			"chance": 43.09,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.82
+			"chance": 24.82,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.68
+			"chance": 24.68,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -120,6 +123,26 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.67
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

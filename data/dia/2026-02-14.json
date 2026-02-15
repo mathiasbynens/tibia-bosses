@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-14T09:41:26.710Z",
+	"timestamp": "2026-02-15T04:17:29.802Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.94
+			"chance": 39.94,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -15,15 +16,18 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.39
+			"chance": 22.39,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 19.76
+			"chance": 19.76,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.16
+			"chance": 9.16,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",

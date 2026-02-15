@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-14T09:41:23.952Z",
+	"timestamp": "2026-02-15T04:17:29.062Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -72,6 +72,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.81
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

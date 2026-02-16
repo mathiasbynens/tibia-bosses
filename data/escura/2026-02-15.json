@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-15T09:41:46.651Z",
+	"timestamp": "2026-02-16T04:17:44.850Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 68.41
+			"chance": 68.41,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.87
+			"chance": 62.87,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -44,6 +47,16 @@
 		{
 			"name": "yeti",
 			"chance": 5.82
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

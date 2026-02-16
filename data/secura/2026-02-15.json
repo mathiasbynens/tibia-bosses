@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-15T09:41:56.895Z",
+	"timestamp": "2026-02-16T04:17:46.585Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.87
+			"chance": 62.87,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 23.1
+			"chance": 23.1,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.29
+			"chance": 13.29,
+			"killed": true
 		},
 		{
 			"name": "yeti",
@@ -96,6 +101,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.57
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

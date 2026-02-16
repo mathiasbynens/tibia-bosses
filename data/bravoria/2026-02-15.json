@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-15T09:41:36.541Z",
+	"timestamp": "2026-02-16T04:17:43.440Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.79
+			"chance": 21.79,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",

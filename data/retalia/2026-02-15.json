@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-15T09:41:53.788Z",
+	"timestamp": "2026-02-16T04:17:46.067Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -64,6 +64,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.55
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

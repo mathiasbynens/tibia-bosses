@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-15T09:41:59.952Z",
+	"timestamp": "2026-02-16T04:17:47.266Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 54.99
+			"chance": 54.99,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.41
+			"chance": 22.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.35
+			"chance": 19.35,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.06
+			"chance": 16.06,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.74
+			"chance": 13.74,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +106,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.56
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

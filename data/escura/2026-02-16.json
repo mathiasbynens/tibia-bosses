@@ -1,0 +1,49 @@
+{
+	"timestamp": "2026-02-16T09:45:42.572Z",
+	"bosses": [
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 29.96
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 29.78
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.81
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.07
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.73
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 16.86
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.03
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.31
+		},
+		{
+			"name": "yeti",
+			"chance": 10.81
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.16
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.55
+		}
+	]
+}

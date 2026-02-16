@@ -1,0 +1,97 @@
+{
+	"timestamp": "2026-02-16T09:45:39.367Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 45.74
+		},
+		{
+			"name": "Massacre",
+			"chance": 45.62
+		},
+		{
+			"name": "Dharalion",
+			"chance": 43.85
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.35
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.02
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.7
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.49
+		},
+		{
+			"name": "yeti",
+			"chance": 20.89
+		},
+		{
+			"name": "midnight panther",
+			"chance": 17.89
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 17.57
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 16.86
+		},
+		{
+			"name": "General Murius",
+			"chance": 16.21
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.03
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.38
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.25
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.14
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.28
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.9
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.42
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.39
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 4.6
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.55
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"timestamp": "2026-02-17T09:44:51.427Z",
+	"bosses": [
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 40.73
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 40.7
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Xenia",
+			"chance": 23.24
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.91
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.73
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.05
+		},
+		{
+			"name": "yeti",
+			"chance": 14.47
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.27
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.76
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.05
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 8.53
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.72
+		}
+	]
+}

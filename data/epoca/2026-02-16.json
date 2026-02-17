@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-16T09:45:39.367Z",
+	"timestamp": "2026-02-17T04:17:17.726Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.7
+			"chance": 24.7,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.89
+			"chance": 17.89,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -92,6 +95,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.55
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

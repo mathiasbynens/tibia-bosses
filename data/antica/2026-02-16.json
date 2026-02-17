@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-16T09:45:29.472Z",
+	"timestamp": "2026-02-17T04:17:13.835Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.53
+			"chance": 28.53,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.55
+			"chance": 20.55,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.68
+			"chance": 13.68,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.3
+			"chance": 13.3,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -108,6 +114,31 @@
 		{
 			"name": "Xenia",
 			"chance": 5.69
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

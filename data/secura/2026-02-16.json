@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-16T09:45:53.733Z",
+	"timestamp": "2026-02-17T04:17:22.654Z",
 	"bosses": [
 		{
 			"name": "The Plasmother",
-			"chance": 37.13
+			"chance": 37.13,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.21
+			"chance": 23.21,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -104,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-16T09:45:42.572Z",
+	"timestamp": "2026-02-17T04:17:18.624Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 16.86
+			"chance": 16.86,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",

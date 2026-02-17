@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-16T09:45:36.144Z",
+	"timestamp": "2026-02-17T04:17:16.621Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.51
+			"chance": 18.51,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.11
+			"chance": 16.11,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -124,6 +129,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.37
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

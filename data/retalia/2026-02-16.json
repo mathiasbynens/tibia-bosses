@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-16T09:45:50.083Z",
+	"timestamp": "2026-02-17T04:17:22.068Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 43.85
+			"chance": 43.85,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.79
+			"chance": 21.79,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.53
+			"chance": 19.53,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 10.01
+			"chance": 10.01,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -68,6 +73,16 @@
 		{
 			"name": "The Welter",
 			"chance": 8.23
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

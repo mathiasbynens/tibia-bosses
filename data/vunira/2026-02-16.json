@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-16T09:45:57.450Z",
+	"timestamp": "2026-02-17T04:17:23.517Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.29
+			"chance": 21.29,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.12
+			"chance": 18.12,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -92,6 +96,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.05
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

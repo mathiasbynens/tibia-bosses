@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-17T09:44:43.694Z",
+	"timestamp": "2026-02-18T04:17:20.784Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.02
+			"chance": 38.02,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -75,11 +76,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 5.38
+			"chance": 5.38,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 5.37
+			"chance": 5.37,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -88,6 +91,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.64
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

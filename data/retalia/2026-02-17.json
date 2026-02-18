@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-17T09:44:57.677Z",
+	"timestamp": "2026-02-18T04:17:24.905Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.5
+			"chance": 38.5,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 24.63
+			"chance": 24.63,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -60,6 +62,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 6.83
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-17T09:45:02.874Z",
+	"timestamp": "2026-02-18T04:17:26.125Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 28.87
+			"chance": 28.87,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.32
+			"chance": 18.32,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -88,6 +90,16 @@
 		{
 			"name": "Zarabustor",
 			"chance": 4.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

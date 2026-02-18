@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-02-17T09:44:40.936Z",
+	"timestamp": "2026-02-18T04:17:20.125Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.17
+			"chance": 70.17,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 64.69
+			"chance": 64.69,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 48.3
+			"chance": 48.3,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 37.17
+			"chance": 37.17,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.84
+			"chance": 4.84,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -104,6 +109,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

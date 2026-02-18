@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-17T09:44:49.036Z",
+	"timestamp": "2026-02-18T04:17:21.776Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.14
+			"chance": 62.14,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.92
+			"chance": 20.92,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.84
+			"chance": 8.84,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -88,6 +91,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 4.82
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

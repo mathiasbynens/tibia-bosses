@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-17T09:44:51.427Z",
+	"timestamp": "2026-02-18T04:17:22.849Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.24
+			"chance": 23.24,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

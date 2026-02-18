@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-17T09:44:46.219Z",
+	"timestamp": "2026-02-18T04:17:21.230Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 55.58
+			"chance": 55.58,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.34
+			"chance": 34.34,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.99
+			"chance": 30.99,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.62
+			"chance": 23.62,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.06
+			"chance": 17.06,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -115,7 +120,18 @@
 		},
 		{
 			"name": "The Abomination",
-			"chance": 2.49
+			"chance": 2.49,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

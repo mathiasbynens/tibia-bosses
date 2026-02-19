@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-18T09:44:55.638Z",
+	"timestamp": "2026-02-19T04:17:20.070Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -19,15 +19,18 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 32.44
+			"chance": 32.44,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.18
+			"chance": 28.18,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.92
+			"chance": 17.92,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -79,11 +83,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.87
+			"chance": 7.87,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.11
+			"chance": 6.11,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +102,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.43
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

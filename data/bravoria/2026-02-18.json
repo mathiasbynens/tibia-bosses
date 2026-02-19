@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-18T09:44:34.761Z",
+	"timestamp": "2026-02-19T04:17:14.101Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.97
+			"chance": 39.97,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.35
+			"chance": 19.35,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -84,6 +87,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

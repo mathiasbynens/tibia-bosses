@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-18T09:44:43.027Z",
+	"timestamp": "2026-02-19T04:17:16.886Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 67.14
+			"chance": 67.14,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 67.07
+			"chance": 67.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -48,6 +50,16 @@
 		{
 			"name": "White Pale",
 			"chance": 7.06
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

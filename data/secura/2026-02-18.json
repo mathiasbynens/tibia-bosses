@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-02-18T09:44:52.181Z",
+	"timestamp": "2026-02-19T04:17:19.500Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.99
+			"chance": 73.99,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.14
+			"chance": 43.14,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 35.93
+			"chance": 35.93,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -31,15 +34,18 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +57,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.87
+			"chance": 9.87,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -112,6 +119,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

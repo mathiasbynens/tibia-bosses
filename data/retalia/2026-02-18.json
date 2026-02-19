@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-18T09:44:49.632Z",
+	"timestamp": "2026-02-19T04:17:18.748Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.68
+			"chance": 16.68,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 12.5
+			"chance": 12.5,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.04
+			"chance": 9.04,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -68,6 +72,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-02-18T09:44:31.877Z",
+	"timestamp": "2026-02-19T04:17:13.585Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
-			"chance": 41.4
+			"chance": 41.4,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.71
+			"chance": 40.71,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.64
+			"chance": 40.64,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -88,6 +92,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.65
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

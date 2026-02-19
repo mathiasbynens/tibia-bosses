@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-18T09:44:37.615Z",
+	"timestamp": "2026-02-19T04:17:14.796Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 25.72
+			"chance": 25.72,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.95
+			"chance": 15.95,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.22
+			"chance": 9.22,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 7.02
+			"chance": 7.02,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -100,6 +104,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

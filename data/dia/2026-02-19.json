@@ -1,0 +1,93 @@
+{
+	"timestamp": "2026-02-19T09:44:21.416Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 40.39
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.35
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.61
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 30.75
+		},
+		{
+			"name": "Barbaria",
+			"chance": 26.33
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.71
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 24.61
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.65
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.38
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 16.41
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.63
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.23
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 12.82
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.3
+		},
+		{
+			"name": "midnight panther",
+			"chance": 12.26
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.32
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.76
+		},
+		{
+			"name": "Omrafir",
+			"chance": 8.77
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.68
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.76
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.56
+		}
+	]
+}

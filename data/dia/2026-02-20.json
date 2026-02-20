@@ -1,0 +1,93 @@
+{
+	"timestamp": "2026-02-20T09:43:46.857Z",
+	"bosses": [
+		{
+			"name": "High Templar Cobrass",
+			"chance": 37.6
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 33.68
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 32.73
+		},
+		{
+			"name": "midnight panther",
+			"chance": 23.32
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 18.46
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.59
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 14
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 13
+		},
+		{
+			"name": "Omrafir",
+			"chance": 11.17
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 11.16
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.87
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.27
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 8.89
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.27
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 7.41
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.55
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.51
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.29
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.69
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.38
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.38
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.56
+		}
+	]
+}

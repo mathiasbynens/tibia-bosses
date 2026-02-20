@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-19T09:44:24.466Z",
+	"timestamp": "2026-02-20T04:16:08.949Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.42
+			"chance": 13.42,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 11.29
+			"chance": 11.29,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 11.17
+			"chance": 11.17,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.05
+			"chance": 9.05,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",

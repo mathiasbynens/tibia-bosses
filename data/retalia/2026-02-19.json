@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-19T09:44:35.056Z",
+	"timestamp": "2026-02-20T04:16:11.560Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.91
+			"chance": 17.91,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 13.21
+			"chance": 13.21,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 13.18
+			"chance": 13.18,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.34
+			"chance": 9.34,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -76,6 +80,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.56
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

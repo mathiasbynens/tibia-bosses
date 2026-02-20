@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-02-19T09:44:14.843Z",
+	"timestamp": "2026-02-20T04:16:07.044Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 34.34
+			"chance": 34.34,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 33.75
+			"chance": 33.75,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.34
+			"chance": 18.34,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -55,7 +59,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.71
+			"chance": 14.71,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -104,6 +110,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.14
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

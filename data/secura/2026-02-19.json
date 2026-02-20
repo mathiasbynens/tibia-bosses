@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-19T09:44:38.092Z",
+	"timestamp": "2026-02-20T04:16:12.097Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.48
+			"chance": 5.48,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -108,6 +111,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.3
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

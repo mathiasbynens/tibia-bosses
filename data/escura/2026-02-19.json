@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-19T09:44:27.750Z",
+	"timestamp": "2026-02-20T04:16:09.727Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.34
+			"chance": 11.34,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-19T09:44:41.129Z",
+	"timestamp": "2026-02-20T04:16:13.238Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 79.31
+			"chance": 79.31,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.16
+			"chance": 43.16,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.38
+			"chance": 22.38,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -104,6 +107,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.55
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

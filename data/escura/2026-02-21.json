@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-02-21T09:40:46.786Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 63.98
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 46.61
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.5
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 25.04
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 22.76
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.11
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.81
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-20T09:44:06.239Z",
+	"timestamp": "2026-02-21T04:12:24.186Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.66
+			"chance": 23.66,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 15.39
+			"chance": 15.39,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.4
+			"chance": 14.4,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 12.6
+			"chance": 12.6,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.26
+			"chance": 12.26,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 10.53
+			"chance": 10.53,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -107,7 +114,13 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.49
+			"chance": 5.49,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

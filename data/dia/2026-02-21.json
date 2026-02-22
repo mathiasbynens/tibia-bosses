@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-21T09:40:41.556Z",
+	"timestamp": "2026-02-22T04:16:38.165Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.03
+			"chance": 16.03,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -96,6 +98,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

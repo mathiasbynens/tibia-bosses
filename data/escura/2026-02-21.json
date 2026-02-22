@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-21T09:40:46.786Z",
+	"timestamp": "2026-02-22T04:16:39.423Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.5
+			"chance": 28.5,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.11
+			"chance": 22.11,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -36,6 +38,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.81
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

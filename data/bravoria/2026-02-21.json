@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-21T09:40:38.522Z",
+	"timestamp": "2026-02-22T04:16:37.237Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.12
+			"chance": 14.12,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -60,6 +61,11 @@
 		{
 			"name": "Xenia",
 			"chance": 5.69
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

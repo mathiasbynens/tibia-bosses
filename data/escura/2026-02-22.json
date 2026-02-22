@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-02-22T09:41:36.936Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.09
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 38.3
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 31.63
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.64
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 26.64
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 20.06
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.33
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.74
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.78
+		}
+	]
+}

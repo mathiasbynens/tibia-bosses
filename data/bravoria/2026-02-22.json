@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-22T09:41:19.621Z",
+	"timestamp": "2026-02-23T04:17:41.271Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.16
+			"chance": 21.16,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 15.54
+			"chance": 15.54,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -60,6 +63,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.81
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

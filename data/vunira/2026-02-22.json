@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-22T09:41:49.343Z",
+	"timestamp": "2026-02-23T04:17:48.225Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 63.96
+			"chance": 63.96,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.24
+			"chance": 19.24,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.45
+			"chance": 6.45,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -112,6 +115,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.63
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

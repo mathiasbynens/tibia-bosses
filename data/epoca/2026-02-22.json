@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-22T09:41:26.610Z",
+	"timestamp": "2026-02-23T04:17:42.360Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -72,6 +72,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.82
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

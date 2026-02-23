@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-22T09:41:17.003Z",
+	"timestamp": "2026-02-23T04:17:40.406Z",
 	"bosses": [
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.71
+			"chance": 32.71,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.46
+			"chance": 29.46,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.02
+			"chance": 13.02,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -84,6 +87,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-22T09:41:23.344Z",
+	"timestamp": "2026-02-23T04:17:41.810Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.64
+			"chance": 27.64,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 17.83
+			"chance": 17.83,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -63,7 +65,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.07
+			"chance": 9.07,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -115,7 +119,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.94
+			"chance": 4.94,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -124,6 +129,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

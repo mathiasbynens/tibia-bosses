@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-22T09:41:46.277Z",
+	"timestamp": "2026-02-23T04:17:46.292Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 33.67
+			"chance": 33.67,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.3
+			"chance": 28.3,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.65
+			"chance": 23.65,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.38
+			"chance": 22.38,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.51
+			"chance": 20.51,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.05
+			"chance": 17.05,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -55,7 +61,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -112,6 +119,31 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.36
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

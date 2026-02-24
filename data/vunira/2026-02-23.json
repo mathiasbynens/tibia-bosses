@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-23T09:45:57.029Z",
+	"timestamp": "2026-02-24T04:17:08.379Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 27.99
+			"chance": 27.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 22.95
+			"chance": 22.95,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 17.78
+			"chance": 17.78,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +105,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.13
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

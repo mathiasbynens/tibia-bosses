@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-23T09:45:29.590Z",
+	"timestamp": "2026-02-24T04:16:58.772Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
-			"chance": 35.87
+			"chance": 35.87,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.32
+			"chance": 28.32,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.64
+			"chance": 27.64,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 22
+			"chance": 22,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 17.54
+			"chance": 17.54,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15
+			"chance": 15,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.42
+			"chance": 9.42,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -100,6 +107,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.08
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

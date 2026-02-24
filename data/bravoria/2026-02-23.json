@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-23T09:45:33.514Z",
+	"timestamp": "2026-02-24T04:16:59.790Z",
 	"bosses": [
 		{
 			"name": "Rukor Zad",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -56,6 +57,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.32
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

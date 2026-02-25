@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-24T09:45:09.478Z",
+	"timestamp": "2026-02-25T04:17:19.571Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.2
+			"chance": 70.2,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.89
+			"chance": 9.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +81,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.82
+			"chance": 4.82,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -96,6 +99,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.53
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

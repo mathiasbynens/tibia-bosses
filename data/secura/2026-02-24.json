@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-24T09:45:31.262Z",
+	"timestamp": "2026-02-25T04:17:27.061Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.02
+			"chance": 64.02,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.19
+			"chance": 43.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.7
+			"chance": 23.7,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -59,11 +63,13 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 13.08
+			"chance": 13.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.28
+			"chance": 12.28,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -96,6 +102,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

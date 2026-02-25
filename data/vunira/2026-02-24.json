@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-24T09:45:34.144Z",
+	"timestamp": "2026-02-25T04:17:28.314Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.29
+			"chance": 81.29,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.56
+			"chance": 38.56,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 22.71
+			"chance": 22.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +86,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 7.05
+			"chance": 7.05,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +99,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.67
+			"chance": 4.67,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +109,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

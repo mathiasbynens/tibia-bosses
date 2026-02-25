@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-24T09:45:28.473Z",
+	"timestamp": "2026-02-25T04:17:26.350Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.65
+			"chance": 27.65,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.8
+			"chance": 20.8,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -64,6 +66,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.65
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

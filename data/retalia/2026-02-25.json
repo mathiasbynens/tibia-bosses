@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-25T09:45:39.186Z",
+	"timestamp": "2026-02-26T04:16:36.164Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -76,6 +76,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.75
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

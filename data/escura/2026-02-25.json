@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-25T09:45:33.259Z",
+	"timestamp": "2026-02-26T04:16:34.352Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 54.51
+			"chance": 54.51,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-25T09:45:44.347Z",
+	"timestamp": "2026-02-26T04:16:40.199Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.18
+			"chance": 70.18,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.19
+			"chance": 43.19,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.34
+			"chance": 22.34,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -104,6 +108,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.39
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

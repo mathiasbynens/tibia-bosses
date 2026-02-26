@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-25T09:45:24.626Z",
+	"timestamp": "2026-02-26T04:16:32.407Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.14
+			"chance": 28.14,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.76
+			"chance": 23.76,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 5.82
+			"chance": 5.82,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

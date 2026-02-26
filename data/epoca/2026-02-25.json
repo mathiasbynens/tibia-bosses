@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-25T09:45:30.485Z",
+	"timestamp": "2026-02-26T04:16:33.784Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.9
+			"chance": 71.9,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 51.29
+			"chance": 51.29,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -112,6 +114,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.38
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

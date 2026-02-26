@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-25T09:45:21.828Z",
+	"timestamp": "2026-02-26T04:16:31.686Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 31.01
+			"chance": 31.01,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.26
+			"chance": 25.26,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.62
+			"chance": 20.62,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.2
+			"chance": 19.2,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.36
+			"chance": 11.36,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 9.16
+			"chance": 9.16,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -132,6 +138,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.29
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

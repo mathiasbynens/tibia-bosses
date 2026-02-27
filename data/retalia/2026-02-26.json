@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-26T09:45:18.327Z",
+	"timestamp": "2026-02-27T04:16:15.818Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -67,7 +67,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.72
+			"chance": 6.72,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

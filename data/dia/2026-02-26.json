@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-26T09:45:03.000Z",
+	"timestamp": "2026-02-27T04:16:11.329Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -112,6 +112,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.01
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

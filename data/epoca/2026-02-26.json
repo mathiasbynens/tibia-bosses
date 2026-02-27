@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-26T09:45:06.543Z",
+	"timestamp": "2026-02-27T04:16:12.944Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 55.66
+			"chance": 55.66,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.34
+			"chance": 40.34,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 19.08
+			"chance": 19.08,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.14
+			"chance": 18.14,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.55
+			"chance": 9.55,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -104,6 +109,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.49
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-26T09:44:59.675Z",
+	"timestamp": "2026-02-27T04:16:09.862Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.59
+			"chance": 15.59,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -59,11 +61,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.51
+			"chance": 8.51,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.49
+			"chance": 8.49,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -76,6 +80,11 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 7.43
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

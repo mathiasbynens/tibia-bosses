@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-26T09:44:56.204Z",
+	"timestamp": "2026-02-27T04:16:08.687Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.97
+			"chance": 73.97,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.23
+			"chance": 43.23,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.89
+			"chance": 23.89,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -108,6 +112,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.6
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

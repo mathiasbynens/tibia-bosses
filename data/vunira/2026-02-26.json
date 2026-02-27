@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-02-26T09:45:24.162Z",
+	"timestamp": "2026-02-27T04:16:17.146Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
-			"chance": 38.31
+			"chance": 38.31,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.73
+			"chance": 22.73,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.12
+			"chance": 22.12,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.79
+			"chance": 20.79,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.02
+			"chance": 15.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.73
+			"chance": 11.73,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -112,6 +118,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.12
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

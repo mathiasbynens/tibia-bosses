@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-27T09:43:56.600Z",
+	"timestamp": "2026-02-28T04:04:18.539Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.34
+			"chance": 34.34,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.78
+			"chance": 17.78,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -51,11 +53,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.01
+			"chance": 14.01,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 13.67
+			"chance": 13.67,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -104,6 +108,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 4.3
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

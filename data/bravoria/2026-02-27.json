@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-27T09:43:42.104Z",
+	"timestamp": "2026-02-28T04:04:14.896Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		}
 	]
 }

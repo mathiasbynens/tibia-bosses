@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-27T09:43:47.310Z",
+	"timestamp": "2026-02-28T04:04:16.257Z",
 	"bosses": [
 		{
 			"name": "Hairman the Huge",
@@ -83,11 +83,18 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.73
+			"chance": 5.73,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 2.83
+			"chance": 2.83,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

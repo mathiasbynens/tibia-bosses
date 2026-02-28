@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-27T09:43:50.252Z",
+	"timestamp": "2026-02-28T04:04:16.749Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.51
+			"chance": 28.51,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -36,6 +38,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.53
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

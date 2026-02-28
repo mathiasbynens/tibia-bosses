@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-27T09:43:44.856Z",
+	"timestamp": "2026-02-28T04:04:15.670Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.77
+			"chance": 22.77,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -111,7 +113,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.52
+			"chance": 6.52,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-28T09:38:05.934Z",
+	"timestamp": "2026-03-01T04:17:30.207Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.44
+			"chance": 29.44,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 22.77
+			"chance": 22.77,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.08
+			"chance": 13.08,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.91
+			"chance": 9.91,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -115,7 +119,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 4.13
+			"chance": 4.13,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -124,6 +129,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

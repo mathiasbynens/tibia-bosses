@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-28T09:38:08.698Z",
+	"timestamp": "2026-03-01T04:17:31.067Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -52,6 +52,11 @@
 		{
 			"name": "The Welter",
 			"chance": 9.02
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

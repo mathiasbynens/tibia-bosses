@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-02-28T09:38:15.101Z",
+	"timestamp": "2026-03-01T04:17:32.357Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -104,6 +104,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

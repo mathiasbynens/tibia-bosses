@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-02-28T09:38:26.229Z",
+	"timestamp": "2026-03-01T04:17:35.417Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 29.12
+			"chance": 29.12,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +94,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.81
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

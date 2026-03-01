@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-02-28T09:38:29.209Z",
+	"timestamp": "2026-03-01T04:17:36.028Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.11
+			"chance": 62.11,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 54.75
+			"chance": 54.75,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.44
+			"chance": 29.44,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

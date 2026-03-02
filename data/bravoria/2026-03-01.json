@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-01T09:40:35.981Z",
+	"timestamp": "2026-03-02T04:16:04.187Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.79
+			"chance": 29.79,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

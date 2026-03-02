@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-01T09:40:45.213Z",
+	"timestamp": "2026-03-02T04:16:06.278Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -24,6 +24,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 7.36
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-01T09:40:51.995Z",
+	"timestamp": "2026-03-02T04:16:07.550Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.52
+			"chance": 42.52,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.6
+			"chance": 39.6,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -100,6 +104,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

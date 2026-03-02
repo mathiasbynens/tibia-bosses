@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-01T09:40:42.143Z",
+	"timestamp": "2026-03-02T04:16:05.753Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 19.05
+			"chance": 19.05,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -87,11 +88,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 10.7
+			"chance": 10.7,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 10.67
+			"chance": 10.67,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -124,6 +127,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

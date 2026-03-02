@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-01T09:40:39.233Z",
+	"timestamp": "2026-03-02T04:16:04.999Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.97
+			"chance": 73.97,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.72
+			"chance": 30.72,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 26.88
+			"chance": 26.88,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 22.88
+			"chance": 22.88,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -115,7 +121,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -124,6 +131,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

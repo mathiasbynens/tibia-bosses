@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-01T09:40:32.699Z",
+	"timestamp": "2026-03-02T04:16:03.310Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 32.62
+			"chance": 32.62,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.89
+			"chance": 25.89,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -91,7 +93,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 7.92
+			"chance": 7.92,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -103,7 +106,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.73
+			"chance": 6.73,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -120,6 +124,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.35
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-02T09:44:40.303Z",
+	"timestamp": "2026-03-03T04:16:15.691Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.19
+			"chance": 70.19,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.57
+			"chance": 38.57,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.03
+			"chance": 19.03,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

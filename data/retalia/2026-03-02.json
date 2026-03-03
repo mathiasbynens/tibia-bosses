@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-02T09:44:54.623Z",
+	"timestamp": "2026-03-03T04:16:19.695Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 23.33
+			"chance": 23.33,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.08
+			"chance": 14.08,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",

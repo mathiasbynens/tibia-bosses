@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-02T09:44:47.365Z",
+	"timestamp": "2026-03-03T04:16:18.530Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -28,6 +28,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 7.82
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

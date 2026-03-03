@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-02T09:44:33.610Z",
+	"timestamp": "2026-03-03T04:16:11.849Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
-			"chance": 57.16
+			"chance": 57.16,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 55.71
+			"chance": 55.71,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 17.79
+			"chance": 17.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -108,6 +112,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.72
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

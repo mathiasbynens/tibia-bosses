@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-03-04T09:43:51.300Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 27.61
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.78
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.81
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 15.99
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 15.99
+		},
+		{
+			"name": "White Pale",
+			"chance": 13.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.29
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.73
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.68
+		},
+		{
+			"name": "Xenia",
+			"chance": 6.34
+		}
+	]
+}

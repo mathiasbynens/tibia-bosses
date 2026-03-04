@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-03T09:44:08.948Z",
+	"timestamp": "2026-03-04T04:14:39.242Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -88,6 +88,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.72
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

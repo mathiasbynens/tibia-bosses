@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-03T09:43:56.437Z",
+	"timestamp": "2026-03-04T04:14:37.363Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 77.5
+			"chance": 77.5,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -108,6 +110,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.44
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

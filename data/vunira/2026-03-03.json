@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-03T09:44:15.199Z",
+	"timestamp": "2026-03-04T04:14:48.302Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.21
+			"chance": 62.21,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.2
+			"chance": 43.2,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 32.62
+			"chance": 32.62,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.62
+			"chance": 27.62,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.38
+			"chance": 19.38,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -67,7 +72,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.24
+			"chance": 8.24,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -100,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

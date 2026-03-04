@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-03T09:43:52.726Z",
+	"timestamp": "2026-03-04T04:14:30.135Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 48.44
+			"chance": 48.44,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.91
+			"chance": 22.91,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.15
+			"chance": 21.15,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.24
+			"chance": 17.24,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -128,6 +133,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.05
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-03T09:44:12.059Z",
+	"timestamp": "2026-03-04T04:14:39.939Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.59
+			"chance": 38.59,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.85
+			"chance": 36.85,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 32.65
+			"chance": 32.65,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 23.78
+			"chance": 23.78,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -116,6 +120,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

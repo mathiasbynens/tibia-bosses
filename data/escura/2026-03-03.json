@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-03T09:43:59.437Z",
+	"timestamp": "2026-03-04T04:14:37.958Z",
 	"bosses": [
 		{
 			"name": "Xenia",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 14.99
+			"chance": 14.99,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",

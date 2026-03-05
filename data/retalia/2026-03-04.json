@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-04T09:43:58.905Z",
+	"timestamp": "2026-03-05T04:15:31.299Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.47
+			"chance": 81.47,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -87,7 +88,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.27
+			"chance": 7.27,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +98,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.09
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

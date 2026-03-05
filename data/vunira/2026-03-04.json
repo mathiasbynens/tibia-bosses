@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-04T09:44:05.365Z",
+	"timestamp": "2026-03-05T04:15:32.366Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 48.47
+			"chance": 48.47,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "yeti",
-			"chance": 14.44
+			"chance": 14.44,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -83,11 +86,37 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.52
+			"chance": 3.52,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.62
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

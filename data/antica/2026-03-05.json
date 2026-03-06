@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-05T09:43:59.136Z",
+	"timestamp": "2026-03-06T04:14:31.101Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.97
+			"chance": 39.97,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.42
+			"chance": 39.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.15
+			"chance": 23.15,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.4
+			"chance": 22.4,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -79,11 +83,13 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.57
+			"chance": 12.57,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.38
+			"chance": 12.38,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -136,6 +142,26 @@
 		{
 			"name": "The Welter",
 			"chance": 4.54
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

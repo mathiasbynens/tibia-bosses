@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-05T09:44:12.387Z",
+	"timestamp": "2026-03-06T04:14:33.661Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -40,6 +40,11 @@
 		{
 			"name": "Ocyakao",
 			"chance": 11.64
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-05T09:44:02.559Z",
+	"timestamp": "2026-03-06T04:14:31.642Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -56,6 +56,11 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 5.38
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

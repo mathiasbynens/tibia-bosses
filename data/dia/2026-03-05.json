@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-05T09:44:06.311Z",
+	"timestamp": "2026-03-06T04:14:32.328Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.13
+			"chance": 14.13,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.83
+			"chance": 7.83,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -100,6 +103,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.8
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

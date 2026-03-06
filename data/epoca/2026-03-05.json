@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-05T09:44:09.367Z",
+	"timestamp": "2026-03-06T04:14:32.920Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 34.92
+			"chance": 34.92,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.04
+			"chance": 19.04,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -100,6 +103,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

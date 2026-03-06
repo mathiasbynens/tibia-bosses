@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-03-06T09:43:26.397Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 64
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 45.61
+		},
+		{
+			"name": "Tyrn",
+			"chance": 28.83
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 25.51
+		},
+		{
+			"name": "The Welter",
+			"chance": 23.09
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 22.61
+		},
+		{
+			"name": "Xenia",
+			"chance": 18.73
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 18.59
+		},
+		{
+			"name": "midnight panther",
+			"chance": 16.35
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.05
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.18
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.22
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.2
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 6.28
+		}
+	]
+}

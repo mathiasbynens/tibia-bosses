@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-06T09:43:47.887Z",
+	"timestamp": "2026-03-07T04:08:16.964Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.41
+			"chance": 43.41,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,15 +21,18 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.8
+			"chance": 22.8,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 22.78
+			"chance": 22.78,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -96,6 +101,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

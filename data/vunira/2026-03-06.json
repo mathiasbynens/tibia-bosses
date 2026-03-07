@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-06T09:43:51.061Z",
+	"timestamp": "2026-03-07T04:08:18.678Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 9.97
+			"chance": 9.97,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 8.42
+			"chance": 8.42,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 6.44
+			"chance": 6.44,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",

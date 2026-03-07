@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-06T09:43:26.397Z",
+	"timestamp": "2026-03-07T04:08:07.372Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64
+			"chance": 64,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -56,6 +57,16 @@
 		{
 			"name": "The Handmaiden",
 			"chance": 6.28
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

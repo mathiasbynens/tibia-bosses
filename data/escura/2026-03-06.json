@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-06T09:43:35.967Z",
+	"timestamp": "2026-03-07T04:08:12.545Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.56
+			"chance": 39.56,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.47
+			"chance": 29.47,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -48,6 +50,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

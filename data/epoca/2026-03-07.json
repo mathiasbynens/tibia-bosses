@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-07T09:40:00.499Z",
+	"timestamp": "2026-03-08T04:15:32.296Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 36.45
+			"chance": 36.45,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 19.52
+			"chance": 19.52,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -96,6 +98,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.21
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

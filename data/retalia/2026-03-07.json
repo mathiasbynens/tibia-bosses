@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-07T09:40:12.501Z",
+	"timestamp": "2026-03-08T04:15:35.956Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.81
+			"chance": 29.81,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.55
+			"chance": 28.55,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,11 +33,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 25.1
+			"chance": 25.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.83
+			"chance": 23.83,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -100,6 +104,16 @@
 		{
 			"name": "Zushuka",
 			"chance": 5.67
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

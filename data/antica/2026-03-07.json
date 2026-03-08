@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-07T09:39:51.065Z",
+	"timestamp": "2026-03-08T04:15:25.901Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
-			"chance": 45.88
+			"chance": 45.88,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.57
+			"chance": 26.57,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 26.05
+			"chance": 26.05,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.84
+			"chance": 9.84,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +117,26 @@
 		{
 			"name": "Rotrender",
 			"chance": 3.13
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

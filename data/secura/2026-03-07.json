@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-07T09:40:15.962Z",
+	"timestamp": "2026-03-08T04:15:36.576Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,15 +19,18 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 23.55
+			"chance": 23.55,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.56
+			"chance": 17.56,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.25
+			"chance": 6.25,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -112,6 +116,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.31
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

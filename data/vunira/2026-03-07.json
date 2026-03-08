@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-07T09:40:19.274Z",
+	"timestamp": "2026-03-08T04:15:37.921Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.08
+			"chance": 62.08,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.55
+			"chance": 42.55,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.4
+			"chance": 22.4,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.65
+			"chance": 18.65,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -108,6 +113,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.09
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

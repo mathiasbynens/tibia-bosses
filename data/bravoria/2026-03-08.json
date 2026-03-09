@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-08T09:40:05.500Z",
+	"timestamp": "2026-03-09T04:16:44.382Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 17.57
+			"chance": 17.57,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.42
+			"chance": 15.42,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",

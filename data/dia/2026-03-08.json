@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-08T09:40:08.793Z",
+	"timestamp": "2026-03-09T04:16:45.168Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.39
+			"chance": 43.39,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.8
+			"chance": 41.8,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.19
+			"chance": 23.19,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.59
+			"chance": 22.59,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -87,7 +91,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.72
+			"chance": 11.72,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -128,6 +133,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.04
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-08T09:40:12.365Z",
+	"timestamp": "2026-03-09T04:16:46.397Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 45.59
+			"chance": 45.59,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.29
+			"chance": 12.29,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -112,6 +114,11 @@
 		{
 			"name": "The Abomination",
 			"chance": 3.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

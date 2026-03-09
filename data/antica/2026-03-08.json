@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-08T09:40:00.764Z",
+	"timestamp": "2026-03-09T04:16:42.639Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 40.61
+			"chance": 40.61,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 40.58
+			"chance": 40.58,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.78
+			"chance": 21.78,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -116,6 +119,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

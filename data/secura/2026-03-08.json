@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-08T09:40:24.418Z",
+	"timestamp": "2026-03-09T04:16:49.079Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.09
+			"chance": 62.09,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -15,11 +17,13 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.37
+			"chance": 34.37,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 30.01
+			"chance": 30.01,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -35,11 +39,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 19.02
+			"chance": 19.02,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.35
+			"chance": 18.35,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -112,6 +118,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.55
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-09T09:45:00.497Z",
+	"timestamp": "2026-03-10T04:14:57.212Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.31
+			"chance": 81.31,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 80.75
+			"chance": 80.75,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -52,6 +54,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 7.27
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

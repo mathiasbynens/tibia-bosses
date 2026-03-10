@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-03-09T09:45:15.167Z",
+	"timestamp": "2026-03-10T04:14:59.438Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 55
+			"chance": 55,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.66
+			"chance": 22.66,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 21.69
+			"chance": 21.69,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 11.16
+			"chance": 11.16,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -124,6 +130,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

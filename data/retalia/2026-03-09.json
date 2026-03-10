@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-09T09:45:08.305Z",
+	"timestamp": "2026-03-10T04:14:58.206Z",
 	"bosses": [
 		{
 			"name": "The Pale Count",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.61
+			"chance": 27.61,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 25.36
+			"chance": 25.36,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -76,6 +78,26 @@
 		{
 			"name": "Fleabringer",
 			"chance": 8.25
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

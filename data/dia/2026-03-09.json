@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-09T09:44:54.332Z",
+	"timestamp": "2026-03-10T04:14:56.176Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 29.87
+			"chance": 29.87,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.82
+			"chance": 20.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,11 +65,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.4
+			"chance": 14.4,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.84
+			"chance": 13.84,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -116,6 +120,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.8
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

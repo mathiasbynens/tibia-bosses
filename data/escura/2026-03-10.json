@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-03-10T09:44:09.823Z",
+	"bosses": [
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 71.55
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 71.51
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.98
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 28.1
+		},
+		{
+			"name": "White Pale",
+			"chance": 27.91
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.86
+		},
+		{
+			"name": "Xenia",
+			"chance": 19.94
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.21
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 15.01
+		},
+		{
+			"name": "The Welter",
+			"chance": 9
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.83
+		},
+		{
+			"name": "yeti",
+			"chance": 5.83
+		}
+	]
+}

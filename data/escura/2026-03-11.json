@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-03-11T09:44:01.250Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 64
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.54
+		},
+		{
+			"name": "Xenia",
+			"chance": 22.8
+		},
+		{
+			"name": "Tyrn",
+			"chance": 22.23
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 22.2
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.8
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.15
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.02
+		},
+		{
+			"name": "yeti",
+			"chance": 10.76
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.68
+		}
+	]
+}

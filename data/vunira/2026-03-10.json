@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-10T09:44:21.995Z",
+	"timestamp": "2026-03-11T04:15:10.194Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -39,11 +39,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.99
+			"chance": 12.99,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

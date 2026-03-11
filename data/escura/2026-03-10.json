@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-10T09:44:09.823Z",
+	"timestamp": "2026-03-11T04:15:07.295Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 28.1
+			"chance": 28.1,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9
+			"chance": 9,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -48,6 +50,16 @@
 		{
 			"name": "yeti",
 			"chance": 5.83
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

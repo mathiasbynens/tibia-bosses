@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-03-11T09:43:55.414Z",
+	"timestamp": "2026-03-12T04:15:52.020Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.9
+			"chance": 62.9,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 55.78
+			"chance": 55.78,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 54.99
+			"chance": 54.99,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.22
+			"chance": 43.22,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.54
+			"chance": 28.54,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",

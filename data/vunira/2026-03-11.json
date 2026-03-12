@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-11T09:44:13.870Z",
+	"timestamp": "2026-03-12T04:15:56.083Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.21
+			"chance": 62.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -47,15 +48,18 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15
+			"chance": 15,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 13.43
+			"chance": 13.43,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "midnight panther",
-			"chance": 12.3
+			"chance": 12.3,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -120,6 +125,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

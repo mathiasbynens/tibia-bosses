@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-03-11T09:43:52.222Z",
+	"timestamp": "2026-03-12T04:15:51.470Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.55
+			"chance": 81.55,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.54
+			"chance": 42.54,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -64,6 +66,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.07
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

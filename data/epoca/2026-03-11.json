@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-11T09:43:58.160Z",
+	"timestamp": "2026-03-12T04:15:52.485Z",
 	"bosses": [
 		{
 			"name": "Dracola",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.36
+			"chance": 43.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -104,6 +105,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

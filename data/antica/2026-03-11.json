@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-11T09:43:48.588Z",
+	"timestamp": "2026-03-12T04:15:50.911Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.79
+			"chance": 32.79,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -95,7 +97,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.77
+			"chance": 4.77,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
@@ -112,6 +115,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.45
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-03-12T11:59:04.682Z",
-	"bosses": []
+	"timestamp": "2026-03-13T04:15:38.545Z",
+	"bosses": [
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

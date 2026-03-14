@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-03-13T09:43:48.412Z",
-	"bosses": []
+	"timestamp": "2026-03-14T04:15:09.057Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

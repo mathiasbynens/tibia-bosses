@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-03-14T09:42:27.969Z",
-	"bosses": []
+	"timestamp": "2026-03-15T04:18:59.609Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-03-14T09:42:19.779Z",
-	"bosses": []
+	"timestamp": "2026-03-15T04:18:55.832Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

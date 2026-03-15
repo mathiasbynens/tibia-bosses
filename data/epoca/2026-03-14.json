@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-03-14T09:42:23.219Z",
-	"bosses": []
+	"timestamp": "2026-03-15T04:18:57.542Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-03-15T09:42:32.193Z",
-	"bosses": []
+	"timestamp": "2026-03-16T04:24:36.360Z",
+	"bosses": [
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

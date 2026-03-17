@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-03-16T09:48:39.480Z",
-	"bosses": []
+	"timestamp": "2026-03-17T04:16:48.627Z",
+	"bosses": [
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

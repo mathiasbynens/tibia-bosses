@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-03-18T09:45:09.694Z",
-	"bosses": []
+	"timestamp": "2026-03-19T04:17:32.275Z",
+	"bosses": [
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

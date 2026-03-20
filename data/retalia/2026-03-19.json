@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-03-19T09:44:05.925Z",
-	"bosses": []
+	"timestamp": "2026-03-20T04:15:58.877Z",
+	"bosses": [
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

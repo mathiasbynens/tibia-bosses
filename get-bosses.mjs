@@ -4,7 +4,7 @@ const browser = await puppeteer.launch();
 const page = await browser.newPage();
 const world = process.argv[2] ?? 'Vunira';
 await page.goto(
-	`https://guildstats.eu/bosses?rook=0&world=${encodeURIComponent(world)}`,
+	`https://guildstats.eu/bosses/${encodeURIComponent(world)}?tag=nemesis`,
 );
 
 const bossesToCheck = await page.evaluate(() => {
@@ -41,15 +41,15 @@ const bossesToCheck = await page.evaluate(() => {
 		return prettierName;
 	};
 
-	const rows = document.querySelectorAll(
-		'#myTable tr:has(span[style="color: green; font-weight: bold"])',
-	);
+	const rows = document.querySelectorAll('table tr:has(img[alt="Nemesis"])');
 	const bosses = [];
 	for (const row of rows) {
-		const boss = toPrettyName(row.querySelector('b').textContent.trim());
+		const boss = toPrettyName(
+			row.querySelector('td:has(a[href^="bosses/"])').textContent.trim(),
+		);
 		if (UNINTERESTING_BOSSES.has(boss)) continue;
 		const chanceCell = row.querySelector(
-			'td:has(span[style="color: green; font-weight: bold"]',
+			'td[data-sort-value]:has(.text-green-400)',
 		);
 		if (!chanceCell) continue;
 		const chance = chanceCell.textContent.trim();

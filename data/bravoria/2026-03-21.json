@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-03-21T11:20:37.604Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 51.61
+		},
+		{
+			"name": "Xenia",
+			"chance": 44.52
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.96
+		},
+		{
+			"name": "Shlorg",
+			"chance": 37.83
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 25.47
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.82
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.63
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 13.01
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 10.21
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.12
+		}
+	]
+}

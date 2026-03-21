@@ -1,0 +1,69 @@
+{
+	"timestamp": "2026-03-21T11:20:48.296Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.27
+		},
+		{
+			"name": "Dharalion",
+			"chance": 70.13
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 51.61
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.28
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 39.96
+		},
+		{
+			"name": "Hirintror",
+			"chance": 36.72
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.47
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 21.86
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.51
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.09
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 13.26
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.12
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.29
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.02
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.85
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.07
+		}
+	]
+}

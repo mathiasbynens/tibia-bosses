@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-21T11:20:48.296Z",
+	"timestamp": "2026-03-22T03:50:22.620Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.28
+			"chance": 40.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -64,6 +65,11 @@
 		{
 			"name": "White Pale",
 			"chance": 7.07
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

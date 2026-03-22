@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-21T11:20:42.227Z",
+	"timestamp": "2026-03-22T03:50:20.246Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -52,6 +53,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.3
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,25 +1,30 @@
 {
-	"timestamp": "2026-03-21T11:20:49.825Z",
+	"timestamp": "2026-03-22T03:50:23.178Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.3
+			"chance": 43.3,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 41.52
+			"chance": 41.52,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 22.56
+			"chance": 22.56,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 19.08
+			"chance": 19.08,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.73
+			"chance": 18.73,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -27,7 +32,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.4
+			"chance": 18.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -35,7 +41,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,15 +54,18 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.17
+			"chance": 13.17,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 12.58
+			"chance": 12.58,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.26
+			"chance": 11.26,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -99,11 +109,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.1
+			"chance": 4.1,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

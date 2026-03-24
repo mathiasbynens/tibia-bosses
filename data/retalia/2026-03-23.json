@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-03-23T09:50:06.776Z",
-	"bosses": []
+	"timestamp": "2026-03-24T03:49:08.560Z",
+	"bosses": [
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

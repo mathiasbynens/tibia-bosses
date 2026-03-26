@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-03-25T09:48:40.754Z",
-	"bosses": []
+	"timestamp": "2026-03-26T03:58:00.124Z",
+	"bosses": [
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

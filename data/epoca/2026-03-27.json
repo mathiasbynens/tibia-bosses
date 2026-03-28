@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-03-27T09:48:47.914Z",
-	"bosses": []
+	"timestamp": "2026-03-28T03:49:02.582Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

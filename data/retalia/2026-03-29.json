@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-03-29T08:46:40.753Z",
-	"bosses": []
+	"timestamp": "2026-03-30T03:05:10.115Z",
+	"bosses": [
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

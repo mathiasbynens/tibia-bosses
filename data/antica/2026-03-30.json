@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-03-30T08:58:32.422Z",
-	"bosses": []
+	"timestamp": "2026-03-31T03:04:48.023Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

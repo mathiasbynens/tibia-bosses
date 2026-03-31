@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-03-30T08:58:33.363Z",
-	"bosses": []
+	"timestamp": "2026-03-31T03:04:48.587Z",
+	"bosses": [
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

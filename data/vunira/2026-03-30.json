@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-03-30T08:58:41.887Z",
-	"bosses": []
+	"timestamp": "2026-03-31T03:04:53.062Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

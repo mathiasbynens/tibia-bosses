@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-03-30T08:58:35.270Z",
-	"bosses": []
+	"timestamp": "2026-03-31T03:04:49.396Z",
+	"bosses": [
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

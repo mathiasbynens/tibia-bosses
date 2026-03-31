@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-03-30T08:58:40.057Z",
-	"bosses": []
+	"timestamp": "2026-03-31T03:04:51.655Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,0 +1,49 @@
+{
+	"timestamp": "2026-04-01T08:50:46.948Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 33.92
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.28
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21.33
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.6
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 16.26
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 15.84
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 10.65
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.22
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.22
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.21
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.08
+		}
+	]
+}

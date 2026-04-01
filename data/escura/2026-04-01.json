@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-04-01T08:50:52.767Z",
+	"bosses": [
+		{
+			"name": "Zushuka",
+			"chance": 41.77
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.28
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.17
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 24.55
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.92
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.16
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.34
+		},
+		{
+			"name": "Tyrn",
+			"chance": 12.3
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.21
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.22
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5
+		}
+	]
+}

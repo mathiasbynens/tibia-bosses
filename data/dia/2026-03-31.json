@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-31T08:49:06.962Z",
+	"timestamp": "2026-04-01T03:04:44.314Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -43,11 +44,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 18.12
+			"chance": 18.12,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 15.65
+			"chance": 15.65,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -55,11 +58,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.83
+			"chance": 12.83,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.06
+			"chance": 9.06,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -96,6 +102,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.59
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

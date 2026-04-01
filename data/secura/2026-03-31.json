@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-03-31T08:49:19.741Z",
+	"timestamp": "2026-04-01T03:04:46.982Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.11
+			"chance": 70.11,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
-			"chance": 53.12
+			"chance": 53.12,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.73
+			"chance": 41.73,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,11 +26,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 24.88
+			"chance": 24.88,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 23.42
+			"chance": 23.42,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -43,7 +48,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.49
+			"chance": 18.49,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.83
+			"chance": 12.83,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -87,7 +94,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 9.47
+			"chance": 9.47,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -120,6 +128,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

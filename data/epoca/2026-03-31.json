@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-03-31T08:49:08.949Z",
+	"timestamp": "2026-04-01T03:04:44.794Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.71
+			"chance": 11.71,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -88,6 +89,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.4
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

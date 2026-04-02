@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-01T08:50:52.767Z",
+	"timestamp": "2026-04-02T03:04:17.958Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.16
+			"chance": 22.16,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.34
+			"chance": 13.34,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",

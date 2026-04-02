@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-01T08:50:58.068Z",
+	"timestamp": "2026-04-02T03:04:19.122Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -88,6 +88,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.82
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

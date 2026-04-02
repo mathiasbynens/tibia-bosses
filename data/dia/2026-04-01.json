@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-01T08:50:48.745Z",
+	"timestamp": "2026-04-02T03:04:16.982Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.52
+			"chance": 81.52,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -76,6 +78,31 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.98
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

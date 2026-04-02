@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-01T08:51:00.289Z",
+	"timestamp": "2026-04-02T03:04:19.896Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.16
+			"chance": 62.16,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.41
+			"chance": 22.41,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -100,6 +102,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.34
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

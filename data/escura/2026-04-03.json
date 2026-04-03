@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-04-03T08:48:19.398Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.19
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 64.08
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 39.65
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.5
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.76
+		},
+		{
+			"name": "Tyrn",
+			"chance": 16.05
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.08
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 9.61
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 9.6
+		}
+	]
+}

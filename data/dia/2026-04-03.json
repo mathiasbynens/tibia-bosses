@@ -1,0 +1,81 @@
+{
+	"timestamp": "2026-04-03T08:48:14.863Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 43.31
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.32
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38
+		},
+		{
+			"name": "General Murius",
+			"chance": 34.37
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.8
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 22.25
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.3
+		},
+		{
+			"name": "Omrafir",
+			"chance": 16.28
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.52
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 14.08
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.07
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.86
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 10.88
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.95
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.36
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.38
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.01
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 5.9
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.37
+		}
+	]
+}

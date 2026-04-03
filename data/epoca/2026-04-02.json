@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-02T08:49:01.751Z",
+	"timestamp": "2026-04-03T03:04:29.841Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 29.96
+			"chance": 29.96,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 29.79
+			"chance": 29.79,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -60,6 +62,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.09
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

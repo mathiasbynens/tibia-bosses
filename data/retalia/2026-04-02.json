@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-02T08:49:11.546Z",
+	"timestamp": "2026-04-03T03:04:31.503Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 43.98
+			"chance": 43.98,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.5
+			"chance": 18.5,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -87,7 +89,18 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.41
+			"chance": 4.41,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

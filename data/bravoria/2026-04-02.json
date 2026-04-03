@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-02T08:48:56.874Z",
+	"timestamp": "2026-04-03T03:04:28.711Z",
 	"bosses": [
 		{
 			"name": "Flamecaller Zazrak",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 15.94
+			"chance": 15.94,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.58
+			"chance": 8.58,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.55
+			"chance": 8.55,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -40,6 +43,21 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 6.86
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

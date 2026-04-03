@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-02T08:48:59.312Z",
+	"timestamp": "2026-04-03T03:04:29.269Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.77
+			"chance": 71.77,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.63
+			"chance": 39.63,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 14.85
+			"chance": 14.85,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -88,6 +92,21 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.04
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

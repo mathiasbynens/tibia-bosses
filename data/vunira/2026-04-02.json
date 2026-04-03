@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-02T08:49:16.376Z",
+	"timestamp": "2026-04-03T03:04:32.582Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.11
+			"chance": 70.11,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.76
+			"chance": 46.76,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.31
+			"chance": 6.31,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -108,6 +111,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

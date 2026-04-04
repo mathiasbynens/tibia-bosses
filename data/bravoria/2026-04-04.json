@@ -1,0 +1,49 @@
+{
+	"timestamp": "2026-04-04T08:46:44.401Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 81.49
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.38
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 18.89
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.18
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.14
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.02
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.77
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 11.18
+		},
+		{
+			"name": "Hirintror",
+			"chance": 10.68
+		},
+		{
+			"name": "Shlorg",
+			"chance": 4.13
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-03T08:48:19.398Z",
+	"timestamp": "2026-04-04T03:01:30.827Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -36,6 +37,11 @@
 		{
 			"name": "Chizzoron the Distorter",
 			"chance": 9.6
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

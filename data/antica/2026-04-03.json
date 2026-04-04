@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-03T08:48:10.880Z",
+	"timestamp": "2026-04-04T03:01:28.186Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.9
+			"chance": 73.9,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,15 +20,18 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 25.89
+			"chance": 25.89,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.8
+			"chance": 25.8,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.37
+			"chance": 22.37,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 19.14
+			"chance": 19.14,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -99,7 +104,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.67
+			"chance": 5.67,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -112,6 +118,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.53
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

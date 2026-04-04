@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-03T08:48:12.761Z",
+	"timestamp": "2026-04-04T03:01:28.746Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -36,6 +36,21 @@
 		{
 			"name": "The Big Bad One",
 			"chance": 7.67
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

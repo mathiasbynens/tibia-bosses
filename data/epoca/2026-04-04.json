@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-04T08:46:49.080Z",
+	"timestamp": "2026-04-05T03:04:38.535Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -72,6 +74,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.66
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

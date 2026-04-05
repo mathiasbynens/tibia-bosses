@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-04T08:46:58.463Z",
+	"timestamp": "2026-04-05T03:04:40.423Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.9
+			"chance": 73.9,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 43.73
+			"chance": 43.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 26.73
+			"chance": 26.73,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -92,6 +95,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.43
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-04T08:46:51.647Z",
+	"timestamp": "2026-04-05T03:04:38.983Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 67.28
+			"chance": 67.28,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

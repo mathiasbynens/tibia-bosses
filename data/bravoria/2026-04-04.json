@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-04T08:46:44.401Z",
+	"timestamp": "2026-04-05T03:04:36.988Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.18
+			"chance": 17.18,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -44,6 +45,21 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

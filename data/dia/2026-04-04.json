@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-04T08:46:46.595Z",
+	"timestamp": "2026-04-05T03:04:37.881Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.54
+			"chance": 24.54,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -68,6 +69,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.66
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

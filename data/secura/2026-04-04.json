@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-04T08:47:00.551Z",
+	"timestamp": "2026-04-05T03:04:41.059Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.68
+			"chance": 39.68,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.93
+			"chance": 15.93,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.04
+			"chance": 15.04,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.85
+			"chance": 13.85,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 10.42
+			"chance": 10.42,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -107,11 +112,17 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.43
+			"chance": 4.43,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.57
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

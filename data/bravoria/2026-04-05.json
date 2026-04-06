@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-05T08:47:08.476Z",
+	"timestamp": "2026-04-06T03:05:20.692Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -44,6 +44,11 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.37
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

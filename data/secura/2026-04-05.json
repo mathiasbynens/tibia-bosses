@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-05T08:47:23.377Z",
+	"timestamp": "2026-04-06T03:05:24.129Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 64.08
+			"chance": 64.08,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.65
+			"chance": 38.65,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 36.2
+			"chance": 36.2,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.21
+			"chance": 23.21,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -67,11 +72,13 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 12.26
+			"chance": 12.26,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
-			"chance": 10.68
+			"chance": 10.68,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -108,6 +115,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.82
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

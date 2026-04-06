@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-05T08:47:06.523Z",
+	"timestamp": "2026-04-06T03:05:20.195Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 55.04
+			"chance": 55.04,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 25.84
+			"chance": 25.84,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.63
+			"chance": 14.63,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.49
+			"chance": 12.49,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.14
+			"chance": 9.14,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -96,6 +102,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.39
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

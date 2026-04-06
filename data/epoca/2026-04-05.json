@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-05T08:47:13.397Z",
+	"timestamp": "2026-04-06T03:05:21.855Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 51.62
+			"chance": 51.62,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.69
+			"chance": 39.69,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.66
+			"chance": 27.66,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 20.61
+			"chance": 20.61,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -84,6 +88,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.24
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,33 @@
+{
+	"timestamp": "2026-04-07T08:49:57.550Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 54.64
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 20.88
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 16.01
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 16.01
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 9.07
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.58
+		}
+	]
+}

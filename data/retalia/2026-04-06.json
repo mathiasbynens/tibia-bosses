@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-06T08:56:46.156Z",
+	"timestamp": "2026-04-07T03:04:33.408Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -63,7 +63,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 8.72
+			"chance": 8.72,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -75,7 +76,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -88,6 +90,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

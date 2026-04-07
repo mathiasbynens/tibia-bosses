@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-06T08:56:29.528Z",
+	"timestamp": "2026-04-07T03:04:30.209Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -27,11 +28,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.37
+			"chance": 21.37,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.18
+			"chance": 21.18,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.41
+			"chance": 17.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -116,6 +121,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.43
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-06T08:56:35.575Z",
+	"timestamp": "2026-04-07T03:04:31.173Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 31.87
+			"chance": 31.87,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -35,11 +36,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.25
+			"chance": 16.25,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.79
+			"chance": 15.79,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -104,6 +107,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

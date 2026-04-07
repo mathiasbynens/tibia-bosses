@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-06T08:56:50.261Z",
+	"timestamp": "2026-04-07T03:04:34.376Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -104,6 +104,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.37
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

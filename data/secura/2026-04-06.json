@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-06T08:56:48.266Z",
+	"timestamp": "2026-04-07T03:04:33.920Z",
 	"bosses": [
 		{
 			"name": "Chizzoron the Distorter",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 50.25
+			"chance": 50.25,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 38.36
+			"chance": 38.36,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.93
+			"chance": 31.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -51,11 +54,13 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 15.61
+			"chance": 15.61,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 15.01
+			"chance": 15.01,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.27
+			"chance": 9.27,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -91,7 +98,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -108,6 +116,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.59
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

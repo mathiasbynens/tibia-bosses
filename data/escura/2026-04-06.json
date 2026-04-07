@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-06T08:56:39.451Z",
+	"timestamp": "2026-04-07T03:04:32.168Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -32,6 +32,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 6.19
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

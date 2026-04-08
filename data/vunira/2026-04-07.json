@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-04-07T08:50:07.690Z",
+	"timestamp": "2026-04-08T03:04:40.213Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.25
+			"chance": 62.25,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 41.79
+			"chance": 41.79,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 38.92
+			"chance": 38.92,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 31.9
+			"chance": 31.9,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.47
+			"chance": 22.47,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +40,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.64
+			"chance": 18.64,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -71,7 +77,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 13.39
+			"chance": 13.39,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -111,11 +118,17 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 4.58
+			"chance": 4.58,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.82
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

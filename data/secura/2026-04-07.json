@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-07T08:50:05.442Z",
+	"timestamp": "2026-04-08T03:04:39.696Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 43.81
+			"chance": 43.81,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.84
+			"chance": 18.84,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -47,11 +50,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.51
+			"chance": 14.51,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.88
+			"chance": 12.88,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.5
+			"chance": 5.5,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -88,6 +94,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.23
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

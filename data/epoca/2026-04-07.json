@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-07T08:49:55.544Z",
+	"timestamp": "2026-04-08T03:04:37.375Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,7 +68,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.57
+			"chance": 15.57,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -92,6 +94,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.36
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-07T08:50:03.410Z",
+	"timestamp": "2026-04-08T03:04:39.236Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -92,6 +92,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 2.95
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

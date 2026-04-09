@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-08T08:49:55.341Z",
+	"timestamp": "2026-04-09T03:04:30.293Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -36,6 +36,16 @@
 		{
 			"name": "Ferumbras",
 			"chance": 4.32
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

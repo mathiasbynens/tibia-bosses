@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-08T08:49:48.765Z",
+	"timestamp": "2026-04-09T03:04:16.528Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.02
+			"chance": 94.02,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -40,6 +41,26 @@
 		{
 			"name": "The Old Whopper",
 			"chance": 5.9
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

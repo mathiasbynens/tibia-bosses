@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-08T08:49:52.854Z",
+	"timestamp": "2026-04-09T03:04:29.565Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.73
+			"chance": 71.73,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.7
+			"chance": 29.7,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 25.56
+			"chance": 25.56,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -79,7 +82,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.83
+			"chance": 4.83,
+			"killed": true
 		}
 	]
 }

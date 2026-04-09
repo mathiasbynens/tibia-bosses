@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-08T08:50:01.496Z",
+	"timestamp": "2026-04-09T03:04:33.311Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.27
+			"chance": 62.27,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 34.67
+			"chance": 34.67,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.82
+			"chance": 32.82,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -92,6 +95,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.07
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

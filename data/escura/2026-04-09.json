@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-04-09T08:53:54.595Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.1
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Tyrn",
+			"chance": 25.39
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.81
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 15.08
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 15.05
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 9.13
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 6.73
+		}
+	]
+}

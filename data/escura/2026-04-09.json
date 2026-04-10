@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-09T08:53:54.595Z",
+	"timestamp": "2026-04-10T03:05:26.888Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 22.79
+			"chance": 22.79,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -36,6 +37,16 @@
 		{
 			"name": "Ferumbras",
 			"chance": 6.73
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

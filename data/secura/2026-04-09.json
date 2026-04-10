@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-09T08:54:03.518Z",
+	"timestamp": "2026-04-10T03:05:29.882Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 69.43
+			"chance": 69.43,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.17
+			"chance": 62.17,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 32.95
+			"chance": 32.95,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.57
+			"chance": 20.57,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -84,6 +88,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.58
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

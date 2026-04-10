@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-09T08:53:52.469Z",
+	"timestamp": "2026-04-10T03:05:26.271Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.07
+			"chance": 27.07,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -72,6 +73,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

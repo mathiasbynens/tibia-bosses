@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-09T08:54:06.188Z",
+	"timestamp": "2026-04-10T03:05:30.514Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -51,11 +51,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.13
+			"chance": 10.13,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.11
+			"chance": 10.11,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.86
+			"chance": 7.86,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -83,7 +86,13 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.11
+			"chance": 4.11,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

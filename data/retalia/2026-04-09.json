@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-09T08:54:01.471Z",
+	"timestamp": "2026-04-10T03:05:28.918Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.11
+			"chance": 18.11,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -55,11 +56,13 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.02
+			"chance": 16.02,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.47
+			"chance": 14.47,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -88,6 +91,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 5.09
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

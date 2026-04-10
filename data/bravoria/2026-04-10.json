@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-04-10T08:55:41.845Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.09
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 33.78
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 33.48
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.59
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 18.31
+		},
+		{
+			"name": "Hirintror",
+			"chance": 14.81
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 14.73
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.04
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 9.39
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.22
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.21
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.58
+		}
+	]
+}

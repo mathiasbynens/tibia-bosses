@@ -1,0 +1,77 @@
+{
+	"timestamp": "2026-04-10T08:55:54.945Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 60.96
+		},
+		{
+			"name": "The Welter",
+			"chance": 59.21
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 42.19
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 32.51
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.92
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 25.14
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 22.67
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 22.37
+		},
+		{
+			"name": "Xenia",
+			"chance": 19.84
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.57
+		},
+		{
+			"name": "The Imperor",
+			"chance": 13.03
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 12.59
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.62
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.26
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.87
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.56
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.47
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.81
+		}
+	]
+}

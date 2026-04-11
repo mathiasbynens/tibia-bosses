@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-10T08:55:44.366Z",
+	"timestamp": "2026-04-11T03:03:01.356Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 36.78
+			"chance": 36.78,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -100,6 +101,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.13
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-10T08:55:48.788Z",
+	"timestamp": "2026-04-11T03:03:02.533Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.5
+			"chance": 42.5,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -36,6 +37,11 @@
 		{
 			"name": "Ferumbras",
 			"chance": 6.63
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-10T08:55:57.525Z",
+	"timestamp": "2026-04-11T03:03:05.004Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 41.32
+			"chance": 41.32,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 22.14
+			"chance": 22.14,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 21.02
+			"chance": 21.02,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.88
+			"chance": 12.88,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.92
+			"chance": 7.92,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.85
+			"chance": 5.85,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -95,7 +101,13 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.09
+			"chance": 3.09,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-10T08:55:41.845Z",
+	"timestamp": "2026-04-11T03:03:00.940Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -48,6 +48,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.58
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-10T08:55:46.502Z",
+	"timestamp": "2026-04-11T03:03:02.079Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 48.61
+			"chance": 48.61,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.19
+			"chance": 9.19,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -84,6 +86,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

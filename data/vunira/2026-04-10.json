@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-10T08:55:59.516Z",
+	"timestamp": "2026-04-11T03:03:05.600Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -31,11 +31,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -59,7 +61,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.57
+			"chance": 13.57,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -112,6 +115,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.81
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

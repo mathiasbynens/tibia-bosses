@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-04-11T08:47:24.513Z",
+	"bosses": [
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 40.65
+		},
+		{
+			"name": "Tyrn",
+			"chance": 32.66
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 24.59
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 19.89
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.19
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.3
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.26
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.95
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 7.44
+		}
+	]
+}

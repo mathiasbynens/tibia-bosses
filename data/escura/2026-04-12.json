@@ -1,0 +1,33 @@
+{
+	"timestamp": "2026-04-12T08:47:28.048Z",
+	"bosses": [
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 66.92
+		},
+		{
+			"name": "Tyrn",
+			"chance": 39.73
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 23.09
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.85
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.61
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 13.04
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 9.27
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-12T08:47:24.570Z",
+	"timestamp": "2026-04-13T03:05:56.353Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -56,6 +56,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.38
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

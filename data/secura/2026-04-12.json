@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-04-12T08:47:32.717Z",
+	"timestamp": "2026-04-13T03:06:02.183Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 36.14
+			"chance": 36.14,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 33.8
+			"chance": 33.8,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.92
+			"chance": 31.92,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.41
+			"chance": 25.41,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -47,7 +52,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.29
+			"chance": 16.29,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.45
+			"chance": 4.45,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +111,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

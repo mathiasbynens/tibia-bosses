@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-12T08:47:31.272Z",
+	"timestamp": "2026-04-13T03:06:01.365Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.19
+			"chance": 17.19,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.71
+			"chance": 15.71,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -56,6 +58,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.12
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

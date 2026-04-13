@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-12T08:47:26.908Z",
+	"timestamp": "2026-04-13T03:05:57.884Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.15
+			"chance": 28.15,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.66
+			"chance": 14.66,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -68,6 +70,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.36
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-12T08:47:25.702Z",
+	"timestamp": "2026-04-13T03:05:57.063Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.23
+			"chance": 23.23,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -39,11 +40,13 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 17.73
+			"chance": 17.73,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 16.64
+			"chance": 16.64,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -87,7 +90,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 7.81
+			"chance": 7.81,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -108,6 +112,16 @@
 		{
 			"name": "Morshabaal",
 			"chance": 3.58
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

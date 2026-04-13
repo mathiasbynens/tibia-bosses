@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-12T08:47:28.048Z",
+	"timestamp": "2026-04-13T03:05:58.885Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 13.04
+			"chance": 13.04,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",

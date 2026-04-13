@@ -1,0 +1,37 @@
+{
+	"timestamp": "2026-04-13T09:11:07.991Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 71.95
+		},
+		{
+			"name": "Tyrn",
+			"chance": 61.54
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.6
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.15
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 22.43
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.72
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 8.85
+		}
+	]
+}

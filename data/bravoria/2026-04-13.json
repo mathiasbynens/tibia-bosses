@@ -1,0 +1,69 @@
+{
+	"timestamp": "2026-04-13T09:11:03.106Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 79.29
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.25
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 28.99
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.15
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 25.68
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 23.81
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.77
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.72
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.01
+		},
+		{
+			"name": "Hirintror",
+			"chance": 15.75
+		},
+		{
+			"name": "Shlorg",
+			"chance": 12.97
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 12.82
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.63
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.61
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.42
+		}
+	]
+}

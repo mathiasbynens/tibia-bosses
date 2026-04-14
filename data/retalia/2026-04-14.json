@@ -1,0 +1,69 @@
+{
+	"timestamp": "2026-04-14T09:02:29.450Z",
+	"bosses": [
+		{
+			"name": "The Imperor",
+			"chance": 33.92
+		},
+		{
+			"name": "Xenia",
+			"chance": 30.85
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.87
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.38
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.83
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.77
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.02
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.66
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.39
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 8.75
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.71
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 8.39
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.35
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.03
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 5.63
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.96
+		}
+	]
+}

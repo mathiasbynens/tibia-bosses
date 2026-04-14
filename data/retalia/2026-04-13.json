@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-13T09:11:11.324Z",
+	"timestamp": "2026-04-14T03:05:02.341Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 23.35
+			"chance": 23.35,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -60,6 +61,26 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.04
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

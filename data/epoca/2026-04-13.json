@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-13T09:11:06.716Z",
+	"timestamp": "2026-04-14T03:04:59.813Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.91
+			"chance": 73.91,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 12.54
+			"chance": 12.54,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -72,6 +75,41 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.5
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

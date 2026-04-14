@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-13T09:11:07.991Z",
+	"timestamp": "2026-04-14T03:05:00.433Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -32,6 +33,11 @@
 		{
 			"name": "Ferumbras",
 			"chance": 8.85
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

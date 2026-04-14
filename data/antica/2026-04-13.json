@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-04-13T09:11:01.930Z",
+	"timestamp": "2026-04-14T03:04:57.627Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 70.1
+			"chance": 70.1,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 55.03
+			"chance": 55.03,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.31
+			"chance": 43.31,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.91
+			"chance": 13.91,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -91,7 +97,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 8.79
+			"chance": 8.79,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -116,6 +123,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.79
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

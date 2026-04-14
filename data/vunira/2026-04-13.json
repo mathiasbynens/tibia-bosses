@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-13T09:11:13.776Z",
+	"timestamp": "2026-04-14T03:05:03.771Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.91
+			"chance": 73.91,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.6
+			"chance": 28.6,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -108,6 +111,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.75
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

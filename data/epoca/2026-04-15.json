@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-04-15T09:02:57.152Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.11
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 37.06
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 29.95
+		},
+		{
+			"name": "White Pale",
+			"chance": 29.74
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.84
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 21.1
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 20.1
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.86
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 13.62
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 13.59
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.04
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.54
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.22
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.46
+		}
+	]
+}

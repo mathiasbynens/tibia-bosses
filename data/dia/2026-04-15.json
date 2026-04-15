@@ -1,0 +1,129 @@
+{
+	"timestamp": "2026-04-15T09:02:55.776Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.08
+		},
+		{
+			"name": "Zomba",
+			"chance": 62.31
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 56.93
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 54.63
+		},
+		{
+			"name": "Dracola",
+			"chance": 35.19
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.81
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.48
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 28.57
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 26.83
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 25.94
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 23.41
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 22.34
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.61
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 19.44
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.38
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 19.09
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.08
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 19
+		},
+		{
+			"name": "General Murius",
+			"chance": 17.2
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 17.03
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 15.25
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.91
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 13.71
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 11.2
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 11.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.35
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.59
+		},
+		{
+			"name": "Hirintror",
+			"chance": 5.13
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.96
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.85
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 4.63
+		}
+	]
+}

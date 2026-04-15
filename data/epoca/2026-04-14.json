@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-14T09:02:24.779Z",
+	"timestamp": "2026-04-15T03:04:46.285Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.88
+			"chance": 62.88,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -72,6 +74,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.83
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

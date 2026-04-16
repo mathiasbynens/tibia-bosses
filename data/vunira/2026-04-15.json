@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-15T09:03:04.069Z",
+	"timestamp": "2026-04-16T03:05:13.241Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 30.84
+			"chance": 30.84,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 24.73
+			"chance": 24.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",

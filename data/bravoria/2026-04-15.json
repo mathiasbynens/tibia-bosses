@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-15T09:02:54.569Z",
+	"timestamp": "2026-04-16T03:05:09.462Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -52,6 +53,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.54
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-15T09:03:01.678Z",
+	"timestamp": "2026-04-16T03:05:12.027Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 13.01
+			"chance": 13.01,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -72,6 +73,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.81
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

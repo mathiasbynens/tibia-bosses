@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-15T09:02:57.152Z",
+	"timestamp": "2026-04-16T03:05:10.495Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.11
+			"chance": 65.11,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.84
+			"chance": 21.84,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -55,7 +57,33 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.46
+			"chance": 4.46,
+			"killed": true
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

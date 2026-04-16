@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-04-16T09:02:53.642Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.38
+		},
+		{
+			"name": "Dharalion",
+			"chance": 43.62
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 43.37
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 42.27
+		},
+		{
+			"name": "Shlorg",
+			"chance": 21.88
+		},
+		{
+			"name": "Hirintror",
+			"chance": 19.97
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.87
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 16.02
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 16.02
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.87
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 4.58
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.67
+		}
+	]
+}

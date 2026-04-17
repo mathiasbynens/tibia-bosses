@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-16T09:02:57.401Z",
+	"timestamp": "2026-04-17T03:05:05.797Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.07
+			"chance": 24.07,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

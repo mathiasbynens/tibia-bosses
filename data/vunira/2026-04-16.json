@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-16T09:03:05.374Z",
+	"timestamp": "2026-04-17T03:05:09.504Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.73
+			"chance": 71.73,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.96
+			"chance": 39.96,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 34.72
+			"chance": 34.72,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -116,6 +119,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.68
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

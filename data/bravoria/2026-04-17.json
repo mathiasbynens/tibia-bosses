@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-17T09:02:26.325Z",
+	"timestamp": "2026-04-18T03:04:06.696Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -44,6 +45,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.24
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

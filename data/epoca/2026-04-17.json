@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-17T09:02:30.002Z",
+	"timestamp": "2026-04-18T03:04:08.059Z",
 	"bosses": [
 		{
 			"name": "White Pale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 49.17
+			"chance": 49.17,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.28
+			"chance": 11.28,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -68,6 +70,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.49
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

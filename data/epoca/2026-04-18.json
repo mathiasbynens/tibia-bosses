@@ -1,0 +1,77 @@
+{
+	"timestamp": "2026-04-18T08:47:42.599Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.08
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 30.68
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 24.74
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 24
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.79
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.79
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 19.54
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.33
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 16.7
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.06
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.97
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.94
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.82
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.27
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 4.97
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.14
+		}
+	]
+}

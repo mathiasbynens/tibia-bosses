@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-04-18T08:47:40.081Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 80.96
+		},
+		{
+			"name": "Hirintror",
+			"chance": 36.82
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 25.65
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 22.79
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 22.79
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.04
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.33
+		},
+		{
+			"name": "Dracola",
+			"chance": 7.14
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.55
+		}
+	]
+}

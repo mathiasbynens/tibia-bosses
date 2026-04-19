@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-18T08:47:47.911Z",
+	"timestamp": "2026-04-19T03:05:11.802Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 10.84
+			"chance": 10.84,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.16
+			"chance": 9.16,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 8.08
+			"chance": 8.08,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -91,7 +96,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 5.86
+			"chance": 5.86,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -104,6 +110,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

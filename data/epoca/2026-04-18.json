@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-18T08:47:42.599Z",
+	"timestamp": "2026-04-19T03:05:09.634Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.08
+			"chance": 70.08,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 19.33
+			"chance": 19.33,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -72,6 +74,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.14
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

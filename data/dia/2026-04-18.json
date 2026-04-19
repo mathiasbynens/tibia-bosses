@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-18T08:47:41.475Z",
+	"timestamp": "2026-04-19T03:05:09.096Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 46.77
+			"chance": 46.77,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 9.18
+			"chance": 9.18,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +73,8 @@
 		},
 		{
 			"name": "Morshabaal",
-			"chance": 6.97
+			"chance": 6.97,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -100,6 +103,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.83
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

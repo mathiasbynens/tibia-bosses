@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-18T08:47:49.012Z",
+	"timestamp": "2026-04-19T03:05:12.718Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 23.19
+			"chance": 23.19,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 19.18
+			"chance": 19.18,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -67,15 +69,18 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 15.62
+			"chance": 15.62,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.5
+			"chance": 15.5,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,11 +88,13 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 14.5
+			"chance": 14.5,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 13.87
+			"chance": 13.87,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -95,7 +102,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.13
+			"chance": 13.13,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -127,11 +135,22 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.78
+			"chance": 6.78,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
 			"chance": 4.58
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

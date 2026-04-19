@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-18T08:47:43.715Z",
+	"timestamp": "2026-04-19T03:05:10.255Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -32,6 +32,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.85
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

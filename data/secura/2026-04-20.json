@@ -1,0 +1,93 @@
+{
+	"timestamp": "2026-04-20T09:15:09.342Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 34.4
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 28.56
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 26.23
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 25.1
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.61
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 18.76
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 18.51
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.44
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.18
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 13.19
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 12.04
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.42
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.94
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 9.94
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 8.44
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 6.84
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.77
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 6.51
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.15
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.78
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.55
+		}
+	]
+}

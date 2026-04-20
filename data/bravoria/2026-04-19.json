@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-19T08:48:13.475Z",
+	"timestamp": "2026-04-20T03:05:32.046Z",
 	"bosses": [
 		{
 			"name": "Warlord Ruzad",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 29.9
+			"chance": 29.9,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 29.72
+			"chance": 29.72,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -44,6 +46,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.85
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

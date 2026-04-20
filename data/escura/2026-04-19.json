@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-19T08:48:17.934Z",
+	"timestamp": "2026-04-20T03:05:33.382Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Ferumbras",
-			"chance": 18.67
+			"chance": 18.67,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-19T08:48:14.959Z",
+	"timestamp": "2026-04-20T03:05:32.449Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.22
+			"chance": 80.22,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -100,6 +101,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.49
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

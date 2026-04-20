@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-19T08:48:22.707Z",
+	"timestamp": "2026-04-20T03:05:35.728Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -11,15 +11,18 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.85
+			"chance": 21.85,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.65
+			"chance": 19.65,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.47
+			"chance": 18.47,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.26
+			"chance": 16.26,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 11.39
+			"chance": 11.39,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -96,6 +102,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.23
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

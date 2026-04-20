@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-19T08:48:23.750Z",
+	"timestamp": "2026-04-20T03:05:36.219Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.79
+			"chance": 29.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.58
+			"chance": 28.58,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -23,11 +25,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.27
+			"chance": 28.27,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 27.12
+			"chance": 27.12,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.55
+			"chance": 18.55,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -103,11 +108,22 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 3.84
+			"chance": 3.84,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 2.86
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-19T08:48:21.648Z",
+	"timestamp": "2026-04-20T03:05:34.984Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 48.71
+			"chance": 48.71,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 11.32
+			"chance": 11.32,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -68,6 +70,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 8.37
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

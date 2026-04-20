@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-19T08:48:16.459Z",
+	"timestamp": "2026-04-20T03:05:32.974Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 32.78
+			"chance": 32.78,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.21
+			"chance": 17.21,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

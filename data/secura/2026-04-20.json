@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-20T09:15:09.342Z",
+	"timestamp": "2026-04-21T03:05:07.470Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.56
+			"chance": 28.56,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 26.23
+			"chance": 26.23,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 25.1
+			"chance": 25.1,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.76
+			"chance": 18.76,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -88,6 +92,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.55
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

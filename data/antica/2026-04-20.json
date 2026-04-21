@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-04-20T09:14:57.256Z",
+	"timestamp": "2026-04-21T03:05:01.637Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 48.74
+			"chance": 48.74,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 48.18
+			"chance": 48.18,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 40.51
+			"chance": 40.51,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 13.94
+			"chance": 13.94,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.89
+			"chance": 12.89,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.51
+			"chance": 12.51,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -83,7 +89,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 8.31
+			"chance": 8.31,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -104,6 +111,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.06
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

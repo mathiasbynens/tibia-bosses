@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-20T09:15:02.877Z",
+	"timestamp": "2026-04-21T03:05:03.438Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -51,7 +52,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -80,6 +82,26 @@
 		{
 			"name": "The Welter",
 			"chance": 4.56
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

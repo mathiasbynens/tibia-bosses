@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-21T09:07:41.028Z",
+	"timestamp": "2026-04-22T03:05:23.785Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,11 +19,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.64
+			"chance": 10.64,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
-			"chance": 10.1
+			"chance": 10.1,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -36,6 +38,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.36
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

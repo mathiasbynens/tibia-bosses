@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-04-21T09:07:47.308Z",
+	"timestamp": "2026-04-22T03:05:27.177Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.08
+			"chance": 70.08,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 29.91
+			"chance": 29.91,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 29.72
+			"chance": 29.72,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.36
+			"chance": 12.36,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -99,7 +103,23 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.09
+			"chance": 3.09,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

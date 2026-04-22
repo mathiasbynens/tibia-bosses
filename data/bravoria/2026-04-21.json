@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-21T09:07:36.622Z",
+	"timestamp": "2026-04-22T03:05:21.221Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -40,6 +40,21 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.8
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2026-04-22T09:04:07.389Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 39.94
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.55
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.22
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 18.89
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 18.1
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 16.03
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 15.06
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 14.55
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.85
+		},
+		{
+			"name": "Zushuka",
+			"chance": 13.54
+		},
+		{
+			"name": "Dracola",
+			"chance": 13.35
+		},
+		{
+			"name": "Shlorg",
+			"chance": 13.06
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.67
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 11.58
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 11.04
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.67
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.27
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 9.21
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.33
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 7.91
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.57
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 6.58
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.7
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.36
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.03
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 3.25
+		}
+	]
+}

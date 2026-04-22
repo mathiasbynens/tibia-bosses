@@ -1,0 +1,49 @@
+{
+	"timestamp": "2026-04-22T09:03:58.753Z",
+	"bosses": [
+		{
+			"name": "The Old Whopper",
+			"chance": 42.31
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 33.38
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 32.53
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 31.97
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 25.12
+		},
+		{
+			"name": "Dracola",
+			"chance": 23.19
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 12.66
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 11.35
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.14
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.39
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.36
+		}
+	]
+}

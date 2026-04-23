@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-22T09:04:01.428Z",
+	"timestamp": "2026-04-23T03:05:16.672Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 43.44
+			"chance": 43.44,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.27
+			"chance": 11.27,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -76,6 +79,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.78
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

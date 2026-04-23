@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-22T09:03:58.753Z",
+	"timestamp": "2026-04-23T03:05:15.224Z",
 	"bosses": [
 		{
 			"name": "The Old Whopper",
@@ -44,6 +44,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.36
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

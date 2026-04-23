@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-22T09:04:02.613Z",
+	"timestamp": "2026-04-23T03:05:17.509Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.6
+			"chance": 13.6,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -32,6 +33,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.5
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

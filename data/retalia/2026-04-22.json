@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-22T09:04:06.202Z",
+	"timestamp": "2026-04-23T03:05:18.829Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.48
+			"chance": 12.48,
+			"killed": true
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 11.64
+			"chance": 11.64,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -60,6 +62,11 @@
 		{
 			"name": "Mr. Punish",
 			"chance": 7.14
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

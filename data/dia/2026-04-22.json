@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-22T09:04:00.253Z",
+	"timestamp": "2026-04-23T03:05:16.077Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 32.03
+			"chance": 32.03,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -104,6 +106,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

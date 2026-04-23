@@ -1,0 +1,33 @@
+{
+	"timestamp": "2026-04-23T09:07:35.922Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 78.17
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 33.83
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.18
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.23
+		},
+		{
+			"name": "Zushuka",
+			"chance": 11.32
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.37
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.71
+		}
+	]
+}

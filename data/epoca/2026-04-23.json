@@ -1,0 +1,81 @@
+{
+	"timestamp": "2026-04-23T09:07:34.710Z",
+	"bosses": [
+		{
+			"name": "High Templar Cobrass",
+			"chance": 29.9
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 27.92
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 25.05
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 22.6
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21.38
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 21.18
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 19.16
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.22
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 14.73
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.19
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.85
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 13.59
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.13
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.69
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.09
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.1
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 6.58
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 3.81
+		}
+	]
+}

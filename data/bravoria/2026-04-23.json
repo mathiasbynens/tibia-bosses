@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-23T09:07:32.269Z",
+	"timestamp": "2026-04-24T03:05:28.052Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -48,6 +48,26 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.52
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-23T09:07:42.393Z",
+	"timestamp": "2026-04-24T03:05:31.346Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.91
+			"chance": 62.91,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.46
+			"chance": 33.46,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 24.12
+			"chance": 24.12,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 22.87
+			"chance": 22.87,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -63,11 +67,13 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -120,6 +126,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.55
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

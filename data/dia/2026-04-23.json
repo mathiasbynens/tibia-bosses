@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-23T09:07:33.520Z",
+	"timestamp": "2026-04-24T03:05:28.402Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.07
+			"chance": 70.07,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.7
+			"chance": 42.7,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.87
+			"chance": 26.87,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.61
+			"chance": 24.61,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -51,7 +55,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 18.66
+			"chance": 18.66,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -116,6 +121,16 @@
 		{
 			"name": "Gravelord Oshuran",
 			"chance": 5.8
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

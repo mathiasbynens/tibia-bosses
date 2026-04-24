@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-23T09:07:34.710Z",
+	"timestamp": "2026-04-24T03:05:28.950Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -76,6 +76,11 @@
 		{
 			"name": "Warlord Ruzad",
 			"chance": 3.81
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

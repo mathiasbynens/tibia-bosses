@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-23T09:07:39.975Z",
+	"timestamp": "2026-04-24T03:05:30.365Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 31.43
+			"chance": 31.43,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.17
+			"chance": 28.17,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -76,6 +78,31 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 6.85
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

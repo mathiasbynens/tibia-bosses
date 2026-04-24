@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-23T09:07:41.163Z",
+	"timestamp": "2026-04-24T03:05:30.883Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.07
+			"chance": 64.07,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 21.45
+			"chance": 21.45,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 20.46
+			"chance": 20.46,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,15 +38,18 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.59
+			"chance": 18.59,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.22
+			"chance": 17.22,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.3
+			"chance": 16.3,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -112,6 +118,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

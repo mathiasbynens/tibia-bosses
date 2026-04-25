@@ -1,0 +1,37 @@
+{
+	"timestamp": "2026-04-25T08:48:00.189Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 34.41
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 31.66
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 23.86
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.62
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.36
+		},
+		{
+			"name": "Zushuka",
+			"chance": 14.57
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.33
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.18
+		}
+	]
+}

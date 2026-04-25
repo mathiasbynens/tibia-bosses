@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-24T09:10:34.843Z",
+	"timestamp": "2026-04-25T03:04:05.624Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.94
+			"chance": 39.94,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.88
+			"chance": 21.88,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -71,7 +75,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -108,6 +113,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

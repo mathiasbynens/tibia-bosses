@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-04-24T09:10:32.622Z",
+	"timestamp": "2026-04-25T03:04:04.473Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.1
+			"chance": 70.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -72,6 +73,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.25
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

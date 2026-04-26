@@ -1,0 +1,97 @@
+{
+	"timestamp": "2026-04-26T08:49:01.877Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 42.63
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.57
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 26.92
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 25.1
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.37
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.4
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 16.95
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 15.99
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.41
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.56
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.35
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 12.4
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 11.72
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.87
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.33
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 8.03
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 7.77
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 7.19
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.08
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.05
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.7
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 5.36
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 2.54
+		}
+	]
+}

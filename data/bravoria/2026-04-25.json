@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-25T08:47:56.417Z",
+	"timestamp": "2026-04-26T03:05:19.112Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -48,6 +48,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 6.52
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

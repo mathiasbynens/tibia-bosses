@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-25T08:47:58.671Z",
+	"timestamp": "2026-04-26T03:05:21.126Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -43,7 +43,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +93,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.85
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

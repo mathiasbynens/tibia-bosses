@@ -1,29 +1,35 @@
 {
-	"timestamp": "2026-04-25T08:48:04.523Z",
+	"timestamp": "2026-04-26T03:05:23.399Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.09
+			"chance": 70.09,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.23
+			"chance": 62.23,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.53
+			"chance": 42.53,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.67
+			"chance": 38.67,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 32.06
+			"chance": 32.06,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.91
+			"chance": 25.91,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -39,11 +45,13 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 18.98
+			"chance": 18.98,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.81
+			"chance": 18.81,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -112,6 +120,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.05
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

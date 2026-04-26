@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-25T08:48:00.189Z",
+	"timestamp": "2026-04-26T03:05:21.629Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 23.86
+			"chance": 23.86,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -32,6 +33,16 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.18
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

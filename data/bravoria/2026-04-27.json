@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-04-27T09:18:09.349Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 43.04
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.6
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 31.05
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.29
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.46
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 20.48
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 20.05
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 18.43
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 9.53
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.21
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.2
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.35
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 6.47
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.18
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"timestamp": "2026-04-27T09:18:19.632Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 47.51
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.27
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 38.36
+		},
+		{
+			"name": "General Murius",
+			"chance": 34.41
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.9
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 29.81
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 25.2
+		},
+		{
+			"name": "Omrafir",
+			"chance": 25.18
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 21.56
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 20.03
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.79
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.19
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 13.96
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.59
+		},
+		{
+			"name": "The Imperor",
+			"chance": 12.97
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.77
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "The Welter",
+			"chance": 9.17
+		},
+		{
+			"name": "Shlorg",
+			"chance": 8.65
+		},
+		{
+			"name": "White Pale",
+			"chance": 8.41
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.71
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.05
+		}
+	]
+}

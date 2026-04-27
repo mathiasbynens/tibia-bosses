@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-04-27T09:18:16.717Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 39.6
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 30.4
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.29
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.08
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.39
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 17.79
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 17.16
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 16.03
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 16.02
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.16
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 12.51
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.79
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 4.04
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.11
+		}
+	]
+}

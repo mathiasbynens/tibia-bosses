@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-26T08:49:00.484Z",
+	"timestamp": "2026-04-27T03:06:29.270Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 35.42
+			"chance": 35.42,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.45
+			"chance": 33.45,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -84,6 +86,41 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

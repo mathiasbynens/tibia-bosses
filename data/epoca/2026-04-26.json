@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-26T08:49:01.877Z",
+	"timestamp": "2026-04-27T03:06:29.850Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.57
+			"chance": 39.57,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 15.99
+			"chance": 15.99,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",

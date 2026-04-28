@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-27T09:18:10.525Z",
+	"timestamp": "2026-04-28T03:06:37.558Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.14
+			"chance": 16.14,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -59,7 +60,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.07
+			"chance": 11.07,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.94
+			"chance": 7.94,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -88,6 +91,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.72
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

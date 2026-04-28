@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-27T09:18:13.363Z",
+	"timestamp": "2026-04-28T03:06:38.445Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.94
+			"chance": 39.94,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -36,6 +37,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 4.44
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

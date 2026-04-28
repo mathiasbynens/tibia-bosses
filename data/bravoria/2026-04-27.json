@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-27T09:18:09.349Z",
+	"timestamp": "2026-04-28T03:06:37.083Z",
 	"bosses": [
 		{
 			"name": "Captain Jones",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.05
+			"chance": 31.05,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.29
+			"chance": 28.29,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -56,6 +58,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 5.18
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-27T09:18:12.172Z",
+	"timestamp": "2026-04-28T03:06:37.991Z",
 	"bosses": [
 		{
 			"name": "Countess Sorrow",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.47
+			"chance": 33.47,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 24.6
+			"chance": 24.6,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.08
+			"chance": 19.08,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "General Murius",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -83,7 +87,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.59
+			"chance": 7.59,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",

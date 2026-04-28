@@ -1,0 +1,49 @@
+{
+	"timestamp": "2026-04-28T09:18:23.595Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.31
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 29.84
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 22.92
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 19.03
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 16.01
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 13.72
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.58
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 12.59
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.59
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.55
+		},
+		{
+			"name": "Tyrn",
+			"chance": 7.82
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-04-28T09:18:27.032Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.1
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 48.85
+		},
+		{
+			"name": "Zushuka",
+			"chance": 28.87
+		},
+		{
+			"name": "General Murius",
+			"chance": 13.63
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 13.04
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Tyrn",
+			"chance": 8.1
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.55
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.03
+		}
+	]
+}

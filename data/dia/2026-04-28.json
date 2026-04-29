@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-28T09:18:24.748Z",
+	"timestamp": "2026-04-29T03:06:13.292Z",
 	"bosses": [
 		{
 			"name": "Zushuka",
-			"chance": 61.45
+			"chance": 61.45,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -27,11 +29,13 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 20.26
+			"chance": 20.26,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.09
+			"chance": 19.09,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 18.58
+			"chance": 18.58,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.79
+			"chance": 11.79,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -95,7 +103,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 5.38
+			"chance": 5.38,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -104,6 +113,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.85
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

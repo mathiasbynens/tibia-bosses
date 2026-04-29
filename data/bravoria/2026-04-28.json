@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-28T09:18:23.595Z",
+	"timestamp": "2026-04-29T03:06:12.173Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -44,6 +45,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 7.82
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-28T09:18:32.590Z",
+	"timestamp": "2026-04-29T03:06:23.333Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 18.79
+			"chance": 18.79,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -92,6 +93,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.53
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

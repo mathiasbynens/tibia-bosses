@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-04-28T09:18:27.032Z",
+	"timestamp": "2026-04-29T03:06:17.446Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.1
+			"chance": 70.1,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 48.85
+			"chance": 48.85,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",

@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-04-29T09:16:37.594Z",
+	"timestamp": "2026-04-30T03:06:44.494Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 55.1
+			"chance": 55.1,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 48.13
+			"chance": 48.13,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 47.47
+			"chance": 47.47,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 23.49
+			"chance": 23.49,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 13.07
+			"chance": 13.07,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -100,6 +105,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.1
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

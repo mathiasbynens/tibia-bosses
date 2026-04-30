@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-29T09:16:29.400Z",
+	"timestamp": "2026-04-30T03:06:42.205Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.17
+			"chance": 28.17,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 23.82
+			"chance": 23.82,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 17
+			"chance": 17,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

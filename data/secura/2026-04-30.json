@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-30T09:17:05.504Z",
+	"timestamp": "2026-05-01T03:06:25.394Z",
 	"bosses": [
 		{
 			"name": "The Handmaiden",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 16.17
+			"chance": 16.17,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -67,7 +69,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.37
+			"chance": 9.37,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
@@ -104,6 +107,21 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-30T09:16:54.594Z",
+	"timestamp": "2026-05-01T03:06:20.858Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -23,11 +23,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 21.21
+			"chance": 21.21,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.42
+			"chance": 18.42,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 16.67
+			"chance": 16.67,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 15.06
+			"chance": 15.06,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 10.66
+			"chance": 10.66,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -100,6 +105,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.83
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

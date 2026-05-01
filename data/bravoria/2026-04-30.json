@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-30T09:16:56.011Z",
+	"timestamp": "2026-05-01T03:06:21.286Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 39.93
+			"chance": 39.93,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 12.27
+			"chance": 12.27,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -40,6 +42,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.14
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

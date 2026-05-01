@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-04-30T09:17:07.148Z",
+	"timestamp": "2026-05-01T03:06:25.878Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.48
+			"chance": 29.48,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.96
+			"chance": 14.96,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -92,6 +94,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.23
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

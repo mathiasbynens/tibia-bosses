@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-01T09:09:49.955Z",
+	"timestamp": "2026-05-02T03:05:23.407Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.49
+			"chance": 29.49,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -31,11 +32,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.59
+			"chance": 8.59,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.57
+			"chance": 8.57,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -44,6 +47,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 5.68
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

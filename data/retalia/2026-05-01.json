@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-01T09:09:53.981Z",
+	"timestamp": "2026-05-02T03:05:24.749Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 36.2
+			"chance": 36.2,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.21
+			"chance": 7.21,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -80,6 +82,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.24
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,33 @@
+{
+	"timestamp": "2026-05-03T09:02:28.384Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 51.36
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 33.45
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.58
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 20.62
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.17
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 10.41
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 6.53
+		}
+	]
+}

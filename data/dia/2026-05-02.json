@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-02T08:53:45.218Z",
+	"timestamp": "2026-05-03T03:06:14.328Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 81.11
+			"chance": 81.11,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 44.12
+			"chance": 44.12,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 37.16
+			"chance": 37.16,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.27
+			"chance": 28.27,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +39,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -55,7 +60,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -112,6 +118,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

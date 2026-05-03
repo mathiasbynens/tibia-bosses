@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-02T08:53:52.958Z",
+	"timestamp": "2026-05-03T03:06:19.535Z",
 	"bosses": [
 		{
 			"name": "Zomba",
-			"chance": 62.38
+			"chance": 62.38,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 33.45
+			"chance": 33.45,
+			"killed": true
 		},
 		{
 			"name": "Xenia",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.74
+			"chance": 11.74,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.54
+			"chance": 9.54,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -88,6 +92,31 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.86
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

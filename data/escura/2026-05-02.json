@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-02T08:53:47.510Z",
+	"timestamp": "2026-05-03T03:06:15.701Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.17
+			"chance": 65.17,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -36,6 +37,11 @@
 		{
 			"name": "Orshabaal",
 			"chance": 6.33
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-02T08:53:42.992Z",
+	"timestamp": "2026-05-03T03:06:11.528Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 94.13
+			"chance": 94.13,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 43.39
+			"chance": 43.39,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.78
+			"chance": 37.78,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 18.82
+			"chance": 18.82,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -112,6 +116,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.32
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

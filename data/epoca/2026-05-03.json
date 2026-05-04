@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-03T09:02:27.222Z",
+	"timestamp": "2026-05-04T03:06:47.948Z",
 	"bosses": [
 		{
 			"name": "The Welter",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.81
+			"chance": 29.81,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -80,6 +82,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 4.22
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

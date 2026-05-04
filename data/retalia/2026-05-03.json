@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-03T09:02:31.569Z",
+	"timestamp": "2026-05-04T03:06:50.764Z",
 	"bosses": [
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 72.29
+			"chance": 72.29,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 71.83
+			"chance": 71.83,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -64,6 +66,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-03T09:02:33.885Z",
+	"timestamp": "2026-05-04T03:06:52.342Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -80,6 +80,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.55
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

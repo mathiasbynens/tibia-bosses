@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-05-03T09:02:32.730Z",
+	"timestamp": "2026-05-04T03:06:51.499Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.97
+			"chance": 73.97,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.31
+			"chance": 62.31,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.68
+			"chance": 38.68,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -19,7 +22,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.81
+			"chance": 29.81,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -39,11 +43,13 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.77
+			"chance": 12.77,
+			"killed": true
 		},
 		{
 			"name": "Omrafir",
-			"chance": 12.68
+			"chance": 12.68,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -100,6 +106,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.52
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

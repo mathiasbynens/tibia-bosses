@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-03T09:02:24.527Z",
+	"timestamp": "2026-05-04T03:06:47.426Z",
 	"bosses": [
 		{
 			"name": "The Evil Eye",
-			"chance": 33.9
+			"chance": 33.9,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 24.32
+			"chance": 24.32,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 23.34
+			"chance": 23.34,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -31,7 +34,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 20.7
+			"chance": 20.7,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 12.49
+			"chance": 12.49,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.98
+			"chance": 7.98,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -83,11 +89,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 4.86
+			"chance": 4.86,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -96,6 +104,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.29
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

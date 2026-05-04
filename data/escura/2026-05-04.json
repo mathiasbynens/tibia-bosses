@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-05-04T09:18:38.260Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 73.43
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 48.13
+		},
+		{
+			"name": "Zomba",
+			"chance": 39.61
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 19.87
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.35
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 9.92
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.38
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 7.23
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-04T09:18:35.171Z",
+	"timestamp": "2026-05-05T03:06:00.769Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -39,7 +39,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 13.88
+			"chance": 13.88,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -71,7 +72,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 7.04
+			"chance": 7.04,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +102,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

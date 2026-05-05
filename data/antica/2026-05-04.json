@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-04T09:18:31.725Z",
+	"timestamp": "2026-05-05T03:05:59.160Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.15
+			"chance": 64.15,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 31.91
+			"chance": 31.91,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +85,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -99,7 +102,8 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 6.61
+			"chance": 6.61,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
@@ -116,6 +120,11 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 4.03
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

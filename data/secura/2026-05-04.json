@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-04T09:18:43.994Z",
+	"timestamp": "2026-05-05T03:06:04.749Z",
 	"bosses": [
 		{
 			"name": "The Imperor",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 36.28
+			"chance": 36.28,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 24.09
+			"chance": 24.09,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -35,7 +37,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.77
+			"chance": 13.77,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 12.9
+			"chance": 12.9,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -67,7 +71,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.71
+			"chance": 5.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -80,6 +85,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-04T09:18:33.420Z",
+	"timestamp": "2026-05-05T03:05:59.842Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 56.25
+			"chance": 56.25,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.57
+			"chance": 19.57,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",

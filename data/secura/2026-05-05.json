@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-05T09:15:20.232Z",
+	"timestamp": "2026-05-06T03:06:39.555Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 20.87
+			"chance": 20.87,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.09
+			"chance": 9.09,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -55,7 +57,8 @@
 		},
 		{
 			"name": "Orshabaal",
-			"chance": 5.67
+			"chance": 5.67,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -83,7 +86,23 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.54
+			"chance": 3.54,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

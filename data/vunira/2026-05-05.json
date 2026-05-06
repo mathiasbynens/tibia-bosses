@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-05T09:15:21.806Z",
+	"timestamp": "2026-05-06T03:06:40.280Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 12.66
+			"chance": 12.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -83,7 +84,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.96
+			"chance": 4.96,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -96,6 +98,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

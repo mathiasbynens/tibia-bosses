@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-05T09:15:14.562Z",
+	"timestamp": "2026-05-06T03:06:36.406Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 20.88
+			"chance": 20.88,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",

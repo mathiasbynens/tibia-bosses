@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-05T09:15:11.626Z",
+	"timestamp": "2026-05-06T03:06:35.271Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -104,6 +104,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.72
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

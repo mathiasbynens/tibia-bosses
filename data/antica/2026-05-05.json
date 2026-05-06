@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-05T09:15:09.049Z",
+	"timestamp": "2026-05-06T03:06:34.174Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 39.59
+			"chance": 39.59,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.37
+			"chance": 34.37,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 22.45
+			"chance": 22.45,
+			"killed": true
 		},
 		{
 			"name": "Ghazbaran",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.6
+			"chance": 18.6,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 16.27
+			"chance": 16.27,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
@@ -87,7 +92,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 12.59
+			"chance": 12.59,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -103,7 +109,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.5
+			"chance": 5.5,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -116,6 +123,16 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

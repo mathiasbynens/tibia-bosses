@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-05T09:15:18.159Z",
+	"timestamp": "2026-05-06T03:06:38.955Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -48,6 +48,11 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.02
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

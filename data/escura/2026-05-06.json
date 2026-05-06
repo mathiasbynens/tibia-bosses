@@ -1,0 +1,41 @@
+{
+	"timestamp": "2026-05-06T09:18:46.158Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 79.41
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 64.13
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.2
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.42
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 15.68
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 14.14
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 8.32
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.85
+		}
+	]
+}

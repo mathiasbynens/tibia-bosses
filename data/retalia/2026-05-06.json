@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-05-06T09:18:49.862Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 41.5
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 24.11
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 21.21
+		},
+		{
+			"name": "Massacre",
+			"chance": 20.64
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 15.09
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.71
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 10.73
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 10.15
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.34
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.31
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 7.05
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"timestamp": "2026-05-06T09:18:41.815Z",
+	"bosses": [
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 65.2
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 54.88
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 53.08
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 49
+		},
+		{
+			"name": "Massacre",
+			"chance": 30.19
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 25.64
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 25.26
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 21.58
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 18.16
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 16.57
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 16.08
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.58
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.27
+		},
+		{
+			"name": "Shlorg",
+			"chance": 10.08
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.18
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.55
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.71
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 4.75
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.28
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-06T09:18:52.760Z",
+	"timestamp": "2026-05-07T03:06:55.560Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -35,11 +35,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.89
+			"chance": 18.89,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 16.28
+			"chance": 16.28,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -67,7 +70,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 13.56
+			"chance": 13.56,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 8.72
+			"chance": 8.72,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -100,6 +105,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.88
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

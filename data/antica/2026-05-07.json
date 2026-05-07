@@ -1,0 +1,81 @@
+{
+	"timestamp": "2026-05-07T09:21:24.799Z",
+	"bosses": [
+		{
+			"name": "Massacre",
+			"chance": 30.19
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 28.68
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.28
+		},
+		{
+			"name": "Barbaria",
+			"chance": 26.94
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 20.76
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 18.78
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.01
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 15.34
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 15.08
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.71
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.62
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 11.26
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 10.86
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 9.36
+		},
+		{
+			"name": "White Pale",
+			"chance": 9.14
+		},
+		{
+			"name": "Shlorg",
+			"chance": 6.75
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 6.06
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.65
+		}
+	]
+}

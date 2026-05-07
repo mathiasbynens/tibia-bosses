@@ -1,0 +1,53 @@
+{
+	"timestamp": "2026-05-07T09:21:31.895Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 80.28
+		},
+		{
+			"name": "Zomba",
+			"chance": 77.66
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 29.69
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 29.5
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 24.6
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 21.36
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 17.2
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 9.05
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.13
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.56
+		}
+	]
+}

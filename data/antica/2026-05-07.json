@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-07T09:21:24.799Z",
+	"timestamp": "2026-05-08T03:05:22.742Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -11,11 +11,13 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.28
+			"chance": 28.28,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.94
+			"chance": 26.94,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -35,11 +37,13 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 14.71
+			"chance": 14.71,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -76,6 +80,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.65
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

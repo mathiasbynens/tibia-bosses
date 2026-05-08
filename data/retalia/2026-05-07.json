@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-07T09:21:36.393Z",
+	"timestamp": "2026-05-08T03:05:27.249Z",
 	"bosses": [
 		{
 			"name": "Battlemaster Zunzu",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 21.89
+			"chance": 21.89,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -51,11 +52,13 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.27
+			"chance": 11.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.83
+			"chance": 10.83,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -76,6 +79,16 @@
 		{
 			"name": "Smuggler Baron Silvertoe",
 			"chance": 5.82
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

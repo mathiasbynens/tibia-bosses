@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-07T09:21:39.465Z",
+	"timestamp": "2026-05-08T03:05:28.769Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.63
+			"chance": 81.63,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
@@ -88,6 +91,11 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.53
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

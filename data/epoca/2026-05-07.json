@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-07T09:21:30.225Z",
+	"timestamp": "2026-05-08T03:05:24.650Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.67
+			"chance": 71.67,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -76,6 +77,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

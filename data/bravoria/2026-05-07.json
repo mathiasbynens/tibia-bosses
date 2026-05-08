@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-07T09:21:27.271Z",
+	"timestamp": "2026-05-08T03:05:23.296Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 81.41
+			"chance": 81.41,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -27,7 +28,8 @@
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.18
+			"chance": 24.18,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16.01
+			"chance": 16.01,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -71,11 +74,27 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.68
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

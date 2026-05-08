@@ -1,0 +1,73 @@
+{
+	"timestamp": "2026-05-08T08:59:04.389Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.12
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 44.63
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 37.14
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 28.17
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 25.79
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 22.76
+		},
+		{
+			"name": "Zomba",
+			"chance": 21.89
+		},
+		{
+			"name": "Dracola",
+			"chance": 16.48
+		},
+		{
+			"name": "The Imperor",
+			"chance": 16.18
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.43
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 12.93
+		},
+		{
+			"name": "Shlorg",
+			"chance": 11.69
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 10.75
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 8.34
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 6.31
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.85
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.73
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-08T08:59:09.305Z",
+	"timestamp": "2026-05-09T03:06:19.032Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
@@ -56,6 +56,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.13
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

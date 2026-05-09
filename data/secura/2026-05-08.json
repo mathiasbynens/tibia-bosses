@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-08T08:59:14.426Z",
+	"timestamp": "2026-05-09T03:06:22.082Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -55,7 +55,8 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 10.75
+			"chance": 10.75,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -92,6 +93,36 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.14
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

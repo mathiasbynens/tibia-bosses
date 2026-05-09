@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-08T08:59:13.195Z",
+	"timestamp": "2026-05-09T03:06:21.357Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 74.16
+			"chance": 74.16,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -72,6 +73,16 @@
 		{
 			"name": "White Pale",
 			"chance": 6.75
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

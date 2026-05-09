@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-08T08:59:02.730Z",
+	"timestamp": "2026-05-09T03:06:15.158Z",
 	"bosses": [
 		{
 			"name": "Massacre",
@@ -23,7 +23,8 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 22.61
+			"chance": 22.61,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -31,7 +32,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.08
+			"chance": 15.08,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -83,11 +85,27 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 3.51
+			"chance": 3.51,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.23
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

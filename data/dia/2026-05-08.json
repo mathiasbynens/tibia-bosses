@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-05-08T08:59:06.026Z",
+	"timestamp": "2026-05-09T03:06:17.223Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.67
+			"chance": 38.67,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.4
+			"chance": 34.4,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 28.59
+			"chance": 28.59,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -84,6 +87,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.86
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

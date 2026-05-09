@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-05-09T09:00:38.508Z",
+	"bosses": [
+		{
+			"name": "Willi Wasp",
+			"chance": 39.92
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 32.9
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.59
+		},
+		{
+			"name": "Dracola",
+			"chance": 25.47
+		},
+		{
+			"name": "The Imperor",
+			"chance": 19.96
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 14.7
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 14.39
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 13.2
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 12.93
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 10.84
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 9.32
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 4.03
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.94
+		}
+	]
+}

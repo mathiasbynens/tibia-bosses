@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-09T09:00:38.508Z",
+	"timestamp": "2026-05-10T03:06:35.167Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.92
+			"chance": 39.92,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -39,7 +40,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.84
+			"chance": 10.84,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -56,6 +58,16 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.94
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

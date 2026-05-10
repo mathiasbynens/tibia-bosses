@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-09T09:00:36.786Z",
+	"timestamp": "2026-05-10T03:06:34.492Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 35.89
+			"chance": 35.89,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Massacre",
-			"chance": 29.15
+			"chance": 29.15,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 19.07
+			"chance": 19.07,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -35,7 +38,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -108,6 +113,16 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.31
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-09T09:00:41.237Z",
+	"timestamp": "2026-05-10T03:06:35.863Z",
 	"bosses": [
 		{
 			"name": "Big Boss Trolliver",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.03
+			"chance": 28.03,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 25.09
+			"chance": 25.09,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 13.98
+			"chance": 13.98,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -83,11 +86,17 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.84
+			"chance": 4.84,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.55
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

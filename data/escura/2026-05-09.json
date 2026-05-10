@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-09T09:00:44.139Z",
+	"timestamp": "2026-05-10T03:06:37.049Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -43,11 +43,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.22
+			"chance": 8.22,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.2
+			"chance": 8.2,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",

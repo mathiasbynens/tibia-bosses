@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-09T09:00:48.797Z",
+	"timestamp": "2026-05-10T03:06:38.902Z",
 	"bosses": [
 		{
 			"name": "Barbaria",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 33.07
+			"chance": 33.07,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 23.02
+			"chance": 23.02,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -55,7 +58,8 @@
 		},
 		{
 			"name": "Gravelord Oshuran",
-			"chance": 15.98
+			"chance": 15.98,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -75,7 +79,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.1
+			"chance": 9.1,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -104,6 +109,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.91
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-09T09:00:42.915Z",
+	"timestamp": "2026-05-10T03:06:36.641Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.63
+			"chance": 13.63,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -63,7 +65,18 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.35
+			"chance": 5.35,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,0 +1,113 @@
+{
+	"timestamp": "2026-05-11T09:47:10.138Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 54.92
+		},
+		{
+			"name": "General Murius",
+			"chance": 34.41
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 22.86
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.39
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 22.2
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 22.15
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 19.62
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 18.41
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 17.19
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 17
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 16.81
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 13.19
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 12.18
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 11.66
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 11.33
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 10.91
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 10.48
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 10.12
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.19
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 8.77
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 8.05
+		},
+		{
+			"name": "The Imperor",
+			"chance": 7.54
+		},
+		{
+			"name": "Gaz'haragoth",
+			"chance": 7.17
+		},
+		{
+			"name": "White Pale",
+			"chance": 7.11
+		},
+		{
+			"name": "Xenia",
+			"chance": 5.72
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.77
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 3.07
+		}
+	]
+}

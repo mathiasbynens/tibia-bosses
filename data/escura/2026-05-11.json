@@ -1,0 +1,29 @@
+{
+	"timestamp": "2026-05-11T09:47:02.550Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 70.1
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 45.57
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 15.64
+		},
+		{
+			"name": "The Welter",
+			"chance": 10.16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.72
+		}
+	]
+}

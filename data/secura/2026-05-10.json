@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-10T09:07:30.000Z",
+	"timestamp": "2026-05-11T03:08:05.637Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.03
+			"chance": 38.03,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 33.96
+			"chance": 33.96,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 26.99
+			"chance": 26.99,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 18.61
+			"chance": 18.61,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 18.53
+			"chance": 18.53,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -83,7 +88,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.09
+			"chance": 7.09,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -95,7 +101,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 5.71
+			"chance": 5.71,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -104,6 +111,36 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.59
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

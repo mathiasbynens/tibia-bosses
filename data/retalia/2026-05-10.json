@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-10T09:07:28.864Z",
+	"timestamp": "2026-05-11T03:08:05.006Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.94
+			"chance": 73.94,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",

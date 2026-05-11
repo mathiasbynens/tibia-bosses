@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-10T09:07:22.050Z",
+	"timestamp": "2026-05-11T03:08:01.144Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.43
+			"chance": 22.43,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 18.91
+			"chance": 18.91,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 13.23
+			"chance": 13.23,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +104,26 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.12
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

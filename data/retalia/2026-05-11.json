@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-11T09:47:07.016Z",
+	"timestamp": "2026-05-12T03:07:03.622Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 34.81
+			"chance": 34.81,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 28.08
+			"chance": 28.08,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 27.68
+			"chance": 27.68,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",

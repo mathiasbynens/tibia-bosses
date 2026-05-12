@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-11T09:46:59.423Z",
+	"timestamp": "2026-05-12T03:06:59.232Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.13
+			"chance": 65.13,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
-			"chance": 33.08
+			"chance": 33.08,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -19,11 +21,13 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 23.36
+			"chance": 23.36,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 19.49
+			"chance": 19.49,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.12
+			"chance": 15.12,
+			"killed": true
 		},
 		{
 			"name": "Barbaria",
@@ -63,7 +68,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.27
+			"chance": 11.27,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +106,16 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.75
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

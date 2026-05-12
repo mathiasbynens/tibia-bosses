@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-11T09:47:02.550Z",
+	"timestamp": "2026-05-12T03:07:01.046Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.64
+			"chance": 15.64,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -24,6 +25,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.72
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

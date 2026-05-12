@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-11T09:46:56.863Z",
+	"timestamp": "2026-05-12T03:06:57.255Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 30.16
+			"chance": 30.16,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.67
+			"chance": 29.67,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 25.88
+			"chance": 25.88,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -39,7 +42,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.18
+			"chance": 16.18,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -47,7 +51,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 14.54
+			"chance": 14.54,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -96,6 +101,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.15
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

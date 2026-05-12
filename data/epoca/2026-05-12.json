@@ -1,0 +1,61 @@
+{
+	"timestamp": "2026-05-12T09:24:35.918Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 38.05
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 36.93
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 22.46
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 18.98
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 18.89
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 18.77
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 18.64
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 15.08
+		},
+		{
+			"name": "White Pale",
+			"chance": 11.68
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 9.35
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.44
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.1
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 4.16
+		}
+	]
+}

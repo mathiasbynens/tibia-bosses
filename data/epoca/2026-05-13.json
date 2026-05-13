@@ -1,0 +1,73 @@
+{
+	"timestamp": "2026-05-13T09:29:04.155Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 62.35
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 25.51
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 23.05
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 22.47
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 20.71
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 19.34
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16.01
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 13.18
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 11.74
+		},
+		{
+			"name": "White Pale",
+			"chance": 10.61
+		},
+		{
+			"name": "Zomba",
+			"chance": 9.2
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 7.57
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 5.69
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 5.64
+		},
+		{
+			"name": "Tyrn",
+			"chance": 5.36
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 5.09
+		}
+	]
+}

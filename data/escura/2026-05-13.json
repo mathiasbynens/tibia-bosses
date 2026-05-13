@@ -1,0 +1,21 @@
+{
+	"timestamp": "2026-05-13T09:29:05.308Z",
+	"bosses": [
+		{
+			"name": "Feroxa",
+			"chance": 100
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.59
+		},
+		{
+			"name": "The Welter",
+			"chance": 13.37
+		},
+		{
+			"name": "Tyrn",
+			"chance": 6.33
+		}
+	]
+}

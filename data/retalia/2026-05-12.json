@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-12T09:24:41.183Z",
+	"timestamp": "2026-05-13T03:07:20.300Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -31,7 +31,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.46
+			"chance": 18.46,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -72,6 +73,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.75
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

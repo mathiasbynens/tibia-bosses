@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-05-12T09:24:42.463Z",
+	"timestamp": "2026-05-13T03:07:20.971Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.92
+			"chance": 62.92,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.73
+			"chance": 42.73,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.74
+			"chance": 37.74,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 25.06
+			"chance": 25.06,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -39,7 +43,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -51,7 +56,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 10.84
+			"chance": 10.84,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -67,7 +73,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 8.65
+			"chance": 8.65,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -100,6 +107,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.44
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

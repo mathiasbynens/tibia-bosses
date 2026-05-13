@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-12T09:24:34.660Z",
+	"timestamp": "2026-05-13T03:07:17.607Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 21.62
+			"chance": 21.62,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -43,7 +44,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 14.69
+			"chance": 14.69,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -75,7 +77,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 7.23
+			"chance": 7.23,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -92,6 +95,11 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 5.44
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

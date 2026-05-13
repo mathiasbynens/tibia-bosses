@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-05-12T09:24:43.717Z",
+	"timestamp": "2026-05-13T03:07:21.720Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 55.15
+			"chance": 55.15,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
-			"chance": 29.68
+			"chance": 29.68,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.56
+			"chance": 29.56,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 14.04
+			"chance": 14.04,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -63,7 +67,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
@@ -75,7 +80,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 11.3
+			"chance": 11.3,
+			"killed": true
 		},
 		{
 			"name": "Gaz'haragoth",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 4.96
+			"chance": 4.96,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -96,6 +103,31 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.6
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

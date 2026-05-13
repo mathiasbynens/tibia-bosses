@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-12T09:24:31.715Z",
+	"timestamp": "2026-05-13T03:07:16.104Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 39.96
+			"chance": 39.96,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 34.4
+			"chance": 34.4,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 14.06
+			"chance": 14.06,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -51,7 +54,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 12.92
+			"chance": 12.92,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -75,11 +79,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.63
+			"chance": 8.63,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.59
+			"chance": 8.59,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -87,7 +93,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 6.55
+			"chance": 6.55,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -100,6 +107,31 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

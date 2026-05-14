@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-13T09:29:02.666Z",
+	"timestamp": "2026-05-14T03:06:56.512Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
-			"chance": 100
+			"chance": 100,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.14
+			"chance": 53.14,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 18.63
+			"chance": 18.63,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 16.19
+			"chance": 16.19,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 9.98
+			"chance": 9.98,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",

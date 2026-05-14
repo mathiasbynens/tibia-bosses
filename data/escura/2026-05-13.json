@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-13T09:29:05.308Z",
+	"timestamp": "2026-05-14T03:06:58.300Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -11,11 +11,17 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 13.37
+			"chance": 13.37,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 6.33
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

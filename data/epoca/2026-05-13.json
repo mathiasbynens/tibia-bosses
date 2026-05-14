@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-13T09:29:04.155Z",
+	"timestamp": "2026-05-14T03:06:57.462Z",
 	"bosses": [
 		{
 			"name": "Feroxa",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.35
+			"chance": 62.35,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 25.51
+			"chance": 25.51,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 20.71
+			"chance": 20.71,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 9.2
+			"chance": 9.2,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",

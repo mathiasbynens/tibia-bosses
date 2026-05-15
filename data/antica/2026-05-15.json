@@ -1,0 +1,97 @@
+{
+	"timestamp": "2026-05-15T09:31:24.935Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 42.75
+		},
+		{
+			"name": "Dracola",
+			"chance": 34.24
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 32.78
+		},
+		{
+			"name": "Zomba",
+			"chance": 28.58
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 27.82
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 22.65
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 19.07
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 18.91
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 16
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 15.64
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 15.51
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 15.07
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.73
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 14.21
+		},
+		{
+			"name": "Xenia",
+			"chance": 13.37
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 13.22
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 12.53
+		},
+		{
+			"name": "Barbaria",
+			"chance": 9.37
+		},
+		{
+			"name": "The Welter",
+			"chance": 8.13
+		},
+		{
+			"name": "White Pale",
+			"chance": 6.54
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 3.86
+		},
+		{
+			"name": "Hirintror",
+			"chance": 3.77
+		}
+	]
+}

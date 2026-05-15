@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-14T09:22:57.378Z",
+	"timestamp": "2026-05-15T03:07:08.542Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -7,11 +7,13 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 40
+			"chance": 40,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.88
+			"chance": 31.88,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 11.27
+			"chance": 11.27,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",

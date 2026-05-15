@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-14T09:23:07.791Z",
+	"timestamp": "2026-05-15T03:07:14.673Z",
 	"bosses": [
 		{
 			"name": "The Big Bad One",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "Zulazza the Corruptor",
@@ -68,6 +70,11 @@
 		{
 			"name": "White Pale",
 			"chance": 9.15
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

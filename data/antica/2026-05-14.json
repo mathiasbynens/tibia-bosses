@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-14T09:22:56.032Z",
+	"timestamp": "2026-05-15T03:07:07.614Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 40.93
+			"chance": 40.93,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 37.32
+			"chance": 37.32,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -15,7 +17,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 28.31
+			"chance": 28.31,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
@@ -35,15 +38,18 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 21.83
+			"chance": 21.83,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 21.06
+			"chance": 21.06,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
-			"chance": 20.99
+			"chance": 20.99,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -63,7 +69,8 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 13.12
+			"chance": 13.12,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -99,11 +106,27 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.12
+			"chance": 4.12,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.69
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

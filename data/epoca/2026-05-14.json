@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-14T09:23:00.697Z",
+	"timestamp": "2026-05-15T03:07:10.849Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -23,11 +24,13 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 15.4
+			"chance": 15.4,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 14.75
+			"chance": 14.75,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -43,7 +46,8 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 11.78
+			"chance": 11.78,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -76,6 +80,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.11
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

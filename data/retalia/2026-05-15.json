@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-15T09:31:33.451Z",
+	"timestamp": "2026-05-16T03:06:05.850Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.11
+			"chance": 70.11,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.45
+			"chance": 33.45,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -23,7 +25,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 21.41
+			"chance": 21.41,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -55,11 +58,17 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 9.57
+			"chance": 9.57,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
 			"chance": 6.16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

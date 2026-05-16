@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-15T09:31:27.490Z",
+	"timestamp": "2026-05-16T03:06:02.031Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.68
+			"chance": 81.68,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -15,11 +16,13 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 34.85
+			"chance": 34.85,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.88
+			"chance": 29.88,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +30,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.63
+			"chance": 19.63,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 17.23
+			"chance": 17.23,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -59,7 +64,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.19
+			"chance": 13.19,
+			"killed": true
 		},
 		{
 			"name": "The Frog Prince",
@@ -84,6 +90,16 @@
 		{
 			"name": "The Handmaiden",
 			"chance": 6.24
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

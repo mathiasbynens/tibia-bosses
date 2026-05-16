@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-15T09:31:26.348Z",
+	"timestamp": "2026-05-16T03:06:01.358Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 73.92
+			"chance": 73.92,
+			"killed": true
 		},
 		{
 			"name": "Mr. Punish",
@@ -59,11 +60,17 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 5.72
+			"chance": 5.72,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
 			"chance": 4.77
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

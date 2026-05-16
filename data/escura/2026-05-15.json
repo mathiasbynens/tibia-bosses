@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-15T09:31:30.095Z",
+	"timestamp": "2026-05-16T03:06:03.434Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 16
+			"chance": 16,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -20,6 +21,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 7.81
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

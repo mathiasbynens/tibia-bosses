@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-15T09:31:24.935Z",
+	"timestamp": "2026-05-16T03:06:00.709Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
-			"chance": 42.75
+			"chance": 42.75,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -19,7 +20,8 @@
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 27.82
+			"chance": 27.82,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.07
+			"chance": 15.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -71,7 +74,8 @@
 		},
 		{
 			"name": "Barbaria",
-			"chance": 9.37
+			"chance": 9.37,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -79,7 +83,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 6.54
+			"chance": 6.54,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -92,6 +97,26 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.77
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

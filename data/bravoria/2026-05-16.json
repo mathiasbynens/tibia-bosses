@@ -1,0 +1,69 @@
+{
+	"timestamp": "2026-05-16T09:06:10.025Z",
+	"bosses": [
+		{
+			"name": "Mr. Punish",
+			"chance": 43.6
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 25.1
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 17.27
+		},
+		{
+			"name": "Zomba",
+			"chance": 17.2
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 15.28
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 14.99
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 13.87
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 13.42
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 13.15
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 10.65
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 10.62
+		},
+		{
+			"name": "Hirintror",
+			"chance": 9.84
+		},
+		{
+			"name": "Zushuka",
+			"chance": 9.78
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 6.16
+		},
+		{
+			"name": "Tyrn",
+			"chance": 4.86
+		},
+		{
+			"name": "The Welter",
+			"chance": 4.59
+		}
+	]
+}

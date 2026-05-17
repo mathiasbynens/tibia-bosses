@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-16T09:06:08.772Z",
+	"timestamp": "2026-05-17T03:06:54.468Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -35,7 +36,8 @@
 		},
 		{
 			"name": "Xenia",
-			"chance": 15.76
+			"chance": 15.76,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -51,7 +53,8 @@
 		},
 		{
 			"name": "The Voice of Ruin",
-			"chance": 9.99
+			"chance": 9.99,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.98
+			"chance": 7.98,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -88,6 +92,21 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.96
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

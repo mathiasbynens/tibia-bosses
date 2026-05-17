@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-16T09:06:12.657Z",
+	"timestamp": "2026-05-17T03:06:55.655Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 80.38
+			"chance": 80.38,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.39
+			"chance": 62.39,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 18.93
+			"chance": 18.93,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -80,6 +83,16 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.97
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

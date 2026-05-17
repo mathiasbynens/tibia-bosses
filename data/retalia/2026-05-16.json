@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-16T09:06:18.350Z",
+	"timestamp": "2026-05-17T03:06:58.116Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.5
+			"chance": 29.5,
+			"killed": true
 		},
 		{
 			"name": "Grandfather Tridian",
@@ -19,11 +20,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 13.59
+			"chance": 13.59,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 13.56
+			"chance": 13.56,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -56,6 +59,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 4.84
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

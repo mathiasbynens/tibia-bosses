@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-16T09:06:15.042Z",
+	"timestamp": "2026-05-17T03:06:56.756Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -24,6 +24,21 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 5.37
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

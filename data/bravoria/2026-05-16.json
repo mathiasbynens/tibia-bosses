@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-16T09:06:10.025Z",
+	"timestamp": "2026-05-17T03:06:55.090Z",
 	"bosses": [
 		{
 			"name": "Mr. Punish",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "Zomba",
-			"chance": 17.2
+			"chance": 17.2,
+			"killed": true
 		},
 		{
 			"name": "Morgaroth",
@@ -64,6 +65,11 @@
 		{
 			"name": "The Welter",
 			"chance": 4.59
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

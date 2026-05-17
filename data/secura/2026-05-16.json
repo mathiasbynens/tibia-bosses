@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-16T09:06:19.536Z",
+	"timestamp": "2026-05-17T03:06:58.751Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 29.9
+			"chance": 29.9,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -15,7 +16,8 @@
 		},
 		{
 			"name": "Hatebreeder",
-			"chance": 23.07
+			"chance": 23.07,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -31,7 +33,8 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 18.13
+			"chance": 18.13,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
@@ -43,11 +46,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 11.66
+			"chance": 11.66,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.35
+			"chance": 9.35,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -79,7 +84,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.31
+			"chance": 6.31,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
@@ -100,6 +106,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.58
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

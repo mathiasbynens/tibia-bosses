@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-16T09:06:20.742Z",
+	"timestamp": "2026-05-17T03:06:59.787Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -76,6 +76,11 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.55
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

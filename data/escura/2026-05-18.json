@@ -1,0 +1,29 @@
+{
+	"timestamp": "2026-05-18T09:48:23.861Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 50.18
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 40.3
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.89
+		},
+		{
+			"name": "Tyrn",
+			"chance": 15.59
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 8.63
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 8.61
+		}
+	]
+}

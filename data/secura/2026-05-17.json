@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-17T09:12:21.314Z",
+	"timestamp": "2026-05-18T03:08:29.016Z",
 	"bosses": [
 		{
 			"name": "Diblis the Fair",
-			"chance": 71.7
+			"chance": 71.7,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.07
+			"chance": 38.07,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -87,7 +89,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 7.98
+			"chance": 7.98,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -111,15 +114,32 @@
 		},
 		{
 			"name": "Omrafir",
-			"chance": 4.8
+			"chance": 4.8,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.75
+			"chance": 4.75,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",
 			"chance": 3.16
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

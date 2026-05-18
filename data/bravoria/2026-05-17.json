@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-17T09:12:11.318Z",
+	"timestamp": "2026-05-18T03:08:24.942Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Mr. Punish",
-			"chance": 32.12
+			"chance": 32.12,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Morgaroth",
-			"chance": 16.59
+			"chance": 16.59,
+			"killed": true
 		},
 		{
 			"name": "Gravelord Oshuran",
@@ -72,6 +74,21 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.37
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

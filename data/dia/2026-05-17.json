@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-17T09:12:12.580Z",
+	"timestamp": "2026-05-18T03:08:25.481Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.51
+			"chance": 22.51,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -100,6 +101,26 @@
 		{
 			"name": "Battlemaster Zunzu",
 			"chance": 4.84
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-17T09:12:20.027Z",
+	"timestamp": "2026-05-18T03:08:28.393Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -64,6 +64,11 @@
 		{
 			"name": "Ferumbras",
 			"chance": 4.27
+		},
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

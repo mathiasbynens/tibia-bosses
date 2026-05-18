@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-17T09:12:16.036Z",
+	"timestamp": "2026-05-18T03:08:26.651Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -24,6 +24,11 @@
 		{
 			"name": "Zulazza the Corruptor",
 			"chance": 8.21
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

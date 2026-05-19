@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-18T09:48:28.047Z",
+	"timestamp": "2026-05-19T03:07:28.317Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -35,7 +35,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 11.15
+			"chance": 11.15,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

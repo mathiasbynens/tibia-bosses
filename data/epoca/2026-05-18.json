@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-18T09:48:22.594Z",
+	"timestamp": "2026-05-19T03:07:25.615Z",
 	"bosses": [
 		{
 			"name": "General Murius",
-			"chance": 55.17
+			"chance": 55.17,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Frog Prince",
-			"chance": 27.26
+			"chance": 27.26,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -84,6 +86,26 @@
 		{
 			"name": "The Pale Count",
 			"chance": 4.05
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

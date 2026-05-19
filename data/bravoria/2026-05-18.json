@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-18T09:48:19.783Z",
+	"timestamp": "2026-05-19T03:07:24.031Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
-			"chance": 48.15
+			"chance": 48.15,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.05
+			"chance": 38.05,
+			"killed": true
 		},
 		{
 			"name": "Man in the Cave",
@@ -43,7 +45,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 11.75
+			"chance": 11.75,
+			"killed": true
 		},
 		{
 			"name": "Ocyakao",
@@ -59,7 +62,8 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.07
+			"chance": 10.07,
+			"killed": true
 		},
 		{
 			"name": "The Welter",
@@ -72,6 +76,16 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.52
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

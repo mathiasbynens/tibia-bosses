@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-05-18T09:48:30.495Z",
+	"timestamp": "2026-05-19T03:07:29.845Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 40.3
+			"chance": 40.3,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.46
+			"chance": 33.46,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -23,7 +26,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 16.07
+			"chance": 16.07,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -43,7 +47,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 13.22
+			"chance": 13.22,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -84,6 +89,31 @@
 		{
 			"name": "Warlord Ruzad",
 			"chance": 3.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

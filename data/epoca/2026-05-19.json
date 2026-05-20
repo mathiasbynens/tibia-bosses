@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-19T09:47:22.867Z",
+	"timestamp": "2026-05-20T03:07:28.173Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.08
+			"chance": 64.08,
+			"killed": true
 		},
 		{
 			"name": "Dracola",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.54
+			"chance": 29.54,
+			"killed": true
 		},
 		{
 			"name": "White Pale",
@@ -27,7 +29,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 22.92
+			"chance": 22.92,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -100,6 +103,11 @@
 		{
 			"name": "Hirintror",
 			"chance": 3.63
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

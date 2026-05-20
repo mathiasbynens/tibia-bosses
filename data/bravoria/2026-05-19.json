@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-19T09:47:18.832Z",
+	"timestamp": "2026-05-20T03:07:26.806Z",
 	"bosses": [
 		{
 			"name": "Man in the Cave",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "The Pale Count",
-			"chance": 21.47
+			"chance": 21.47,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -80,6 +81,11 @@
 		{
 			"name": "Tyrn",
 			"chance": 5.74
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

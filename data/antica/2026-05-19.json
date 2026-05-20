@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-19T09:47:17.301Z",
+	"timestamp": "2026-05-20T03:07:26.450Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grandfather Tridian",
-			"chance": 28.68
+			"chance": 28.68,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -23,7 +24,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 23.01
+			"chance": 23.01,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 12.81
+			"chance": 12.81,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -120,6 +123,26 @@
 		{
 			"name": "The Voice of Ruin",
 			"chance": 3.71
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

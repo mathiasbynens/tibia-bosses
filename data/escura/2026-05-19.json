@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-19T09:47:24.354Z",
+	"timestamp": "2026-05-20T03:07:29.040Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Grand Mother Foulscale",
-			"chance": 65.18
+			"chance": 65.18,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -19,15 +20,27 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 9.59
+			"chance": 9.59,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 9.58
+			"chance": 9.58,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
 			"chance": 5.82
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-19T09:47:27.740Z",
+	"timestamp": "2026-05-20T03:07:31.160Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -27,7 +27,8 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 15.66
+			"chance": 15.66,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -47,7 +48,8 @@
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 11.23
+			"chance": 11.23,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -76,6 +78,21 @@
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 3.88
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-20T09:46:50.892Z",
+	"timestamp": "2026-05-21T03:08:10.320Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 81.68
+			"chance": 81.68,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",

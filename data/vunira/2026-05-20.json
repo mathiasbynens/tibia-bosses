@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-20T09:47:03.323Z",
+	"timestamp": "2026-05-21T03:08:13.525Z",
 	"bosses": [
 		{
 			"name": "General Murius",
@@ -7,15 +7,18 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
-			"chance": 28.88
+			"chance": 28.88,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Gaz'haragoth",
-			"chance": 19.75
+			"chance": 19.75,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 18.41
+			"chance": 18.41,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
@@ -100,6 +105,16 @@
 		{
 			"name": "The Welter",
 			"chance": 4.6
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

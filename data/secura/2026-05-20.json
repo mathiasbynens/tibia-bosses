@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-20T09:47:00.220Z",
+	"timestamp": "2026-05-21T03:08:12.499Z",
 	"bosses": [
 		{
 			"name": "High Templar Cobrass",
-			"chance": 37.86
+			"chance": 37.86,
+			"killed": true
 		},
 		{
 			"name": "The Imperor",
@@ -11,7 +12,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 33.45
+			"chance": 33.45,
+			"killed": true
 		},
 		{
 			"name": "Dharalion",
@@ -47,7 +49,8 @@
 		},
 		{
 			"name": "Hirintror",
-			"chance": 9.82
+			"chance": 9.82,
+			"killed": true
 		},
 		{
 			"name": "Fleabringer",
@@ -63,7 +66,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 7.84
+			"chance": 7.84,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -87,7 +91,33 @@
 		},
 		{
 			"name": "Dreadmaw",
-			"chance": 3.08
+			"chance": 3.08,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

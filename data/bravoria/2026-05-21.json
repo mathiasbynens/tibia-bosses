@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-21T09:46:57.342Z",
+	"timestamp": "2026-05-22T03:08:01.649Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,7 +11,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 28.16
+			"chance": 28.16,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
@@ -88,6 +89,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 4.11
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

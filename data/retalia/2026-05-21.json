@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-21T09:47:04.396Z",
+	"timestamp": "2026-05-22T03:08:06.769Z",
 	"bosses": [
 		{
 			"name": "The Frog Prince",
@@ -51,7 +51,8 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 13.82
+			"chance": 13.82,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -71,11 +72,27 @@
 		},
 		{
 			"name": "Ghazbaran",
-			"chance": 4.43
+			"chance": 4.43,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
 			"chance": 4.12
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

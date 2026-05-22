@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-05-21T09:47:05.609Z",
+	"timestamp": "2026-05-22T03:08:08.006Z",
 	"bosses": [
 		{
 			"name": "Dharalion",
-			"chance": 70.11
+			"chance": 70.11,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 32.14
+			"chance": 32.14,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
-			"chance": 29.51
+			"chance": 29.51,
+			"killed": true
 		},
 		{
 			"name": "Grand Mother Foulscale",
@@ -35,11 +38,13 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 14.65
+			"chance": 14.65,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 12.96
+			"chance": 12.96,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -71,7 +76,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 6.32
+			"chance": 6.32,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
@@ -79,7 +85,8 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.75
+			"chance": 4.75,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",
@@ -92,6 +99,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

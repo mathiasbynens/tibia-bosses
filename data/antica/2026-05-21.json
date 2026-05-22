@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-21T09:46:55.869Z",
+	"timestamp": "2026-05-22T03:08:00.649Z",
 	"bosses": [
 		{
 			"name": "Willi Wasp",
-			"chance": 64.03
+			"chance": 64.03,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
@@ -11,11 +12,13 @@
 		},
 		{
 			"name": "Man in the Cave",
-			"chance": 53.09
+			"chance": 53.09,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 50.37
+			"chance": 50.37,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -47,7 +50,8 @@
 		},
 		{
 			"name": "The Old Whopper",
-			"chance": 17.56
+			"chance": 17.56,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -59,7 +63,8 @@
 		},
 		{
 			"name": "The Welter",
-			"chance": 15.14
+			"chance": 15.14,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -87,11 +92,13 @@
 		},
 		{
 			"name": "Zulazza the Corruptor",
-			"chance": 8.62
+			"chance": 8.62,
+			"killed": true
 		},
 		{
 			"name": "Chizzoron the Distorter",
-			"chance": 8.6
+			"chance": 8.6,
+			"killed": true
 		},
 		{
 			"name": "Warlord Ruzad",
@@ -124,6 +131,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 2.94
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-21T09:46:58.544Z",
+	"timestamp": "2026-05-22T03:08:02.687Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 42.51
+			"chance": 42.51,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 41.4
+			"chance": 41.4,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
@@ -19,7 +21,8 @@
 		},
 		{
 			"name": "Dharalion",
-			"chance": 31.89
+			"chance": 31.89,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
@@ -75,11 +78,13 @@
 		},
 		{
 			"name": "Zushuka",
-			"chance": 14.51
+			"chance": 14.51,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 13.4
+			"chance": 13.4,
+			"killed": true
 		},
 		{
 			"name": "Battlemaster Zunzu",
@@ -127,7 +132,8 @@
 		},
 		{
 			"name": "Zarabustor",
-			"chance": 4.53
+			"chance": 4.53,
+			"killed": true
 		},
 		{
 			"name": "Dreadmaw",

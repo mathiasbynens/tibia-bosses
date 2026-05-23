@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-22T09:45:28.923Z",
+	"timestamp": "2026-05-23T03:05:51.213Z",
 	"bosses": [
 		{
 			"name": "Grand Mother Foulscale",
@@ -15,11 +15,13 @@
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.36
+			"chance": 22.36,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
-			"chance": 19.61
+			"chance": 19.61,
+			"killed": true
 		},
 		{
 			"name": "Captain Jones",
@@ -43,11 +45,13 @@
 		},
 		{
 			"name": "Fleabringer",
-			"chance": 10.07
+			"chance": 10.07,
+			"killed": true
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 9.36
+			"chance": 9.36,
+			"killed": true
 		},
 		{
 			"name": "Rukor Zad",

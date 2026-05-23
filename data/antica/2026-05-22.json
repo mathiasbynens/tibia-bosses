@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-22T09:45:17.808Z",
+	"timestamp": "2026-05-23T03:05:44.603Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 55
+			"chance": 55,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
-			"chance": 37.57
+			"chance": 37.57,
+			"killed": true
 		},
 		{
 			"name": "Zarabustor",
@@ -15,19 +17,23 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 30.01
+			"chance": 30.01,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 29.54
+			"chance": 29.54,
+			"killed": true
 		},
 		{
 			"name": "The Big Bad One",
-			"chance": 25.58
+			"chance": 25.58,
+			"killed": true
 		},
 		{
 			"name": "Countess Sorrow",
-			"chance": 24.71
+			"chance": 24.71,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -43,7 +49,8 @@
 		},
 		{
 			"name": "The Handmaiden",
-			"chance": 18.44
+			"chance": 18.44,
+			"killed": true
 		},
 		{
 			"name": "Diblis the Fair",
@@ -71,7 +78,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 13.81
+			"chance": 13.81,
+			"killed": true
 		},
 		{
 			"name": "The Voice of Ruin",

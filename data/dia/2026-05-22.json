@@ -1,21 +1,25 @@
 {
-	"timestamp": "2026-05-22T09:45:20.748Z",
+	"timestamp": "2026-05-23T03:05:45.527Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 62.4
+			"chance": 62.4,
+			"killed": true
 		},
 		{
 			"name": "General Murius",
-			"chance": 55.18
+			"chance": 55.18,
+			"killed": true
 		},
 		{
 			"name": "Massacre",
-			"chance": 46.21
+			"chance": 46.21,
+			"killed": true
 		},
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 38.69
+			"chance": 38.69,
+			"killed": true
 		},
 		{
 			"name": "High Templar Cobrass",
@@ -23,7 +27,8 @@
 		},
 		{
 			"name": "Tzumrah the Dazzler",
-			"chance": 31.38
+			"chance": 31.38,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
@@ -31,11 +36,13 @@
 		},
 		{
 			"name": "Captain Jones",
-			"chance": 25.3
+			"chance": 25.3,
+			"killed": true
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 23.08
+			"chance": 23.08,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
@@ -47,7 +54,8 @@
 		},
 		{
 			"name": "Rukor Zad",
-			"chance": 21.04
+			"chance": 21.04,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -67,7 +75,8 @@
 		},
 		{
 			"name": "The Evil Eye",
-			"chance": 15.09
+			"chance": 15.09,
+			"killed": true
 		},
 		{
 			"name": "The Old Whopper",
@@ -99,7 +108,8 @@
 		},
 		{
 			"name": "White Pale",
-			"chance": 8.88
+			"chance": 8.88,
+			"killed": true
 		},
 		{
 			"name": "The Pale Count",
@@ -120,6 +130,26 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.47
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

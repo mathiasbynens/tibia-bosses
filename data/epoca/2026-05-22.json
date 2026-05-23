@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-22T09:45:22.013Z",
+	"timestamp": "2026-05-23T03:05:46.545Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
@@ -59,7 +59,8 @@
 		},
 		{
 			"name": "Tyrn",
-			"chance": 15.58
+			"chance": 15.58,
+			"killed": true
 		},
 		{
 			"name": "Shlorg",
@@ -103,11 +104,17 @@
 		},
 		{
 			"name": "Flamecaller Zazrak",
-			"chance": 4.79
+			"chance": 4.79,
+			"killed": true
 		},
 		{
 			"name": "Hirintror",
 			"chance": 3.54
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

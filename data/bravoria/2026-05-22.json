@@ -1,9 +1,10 @@
 {
-	"timestamp": "2026-05-22T09:45:19.457Z",
+	"timestamp": "2026-05-23T03:05:45.013Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
-			"chance": 62.95
+			"chance": 62.95,
+			"killed": true
 		},
 		{
 			"name": "Sir Valorcrest",
@@ -80,6 +81,16 @@
 		{
 			"name": "Shlorg",
 			"chance": 6.4
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-05-23T09:11:27.606Z",
-	"bosses": []
+	"timestamp": "2026-05-24T03:07:49.883Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

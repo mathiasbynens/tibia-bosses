@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-24T09:18:13.755Z",
+	"timestamp": "2026-05-25T03:08:44.635Z",
 	"bosses": [
 		{
 			"name": "The Voice of Ruin",
@@ -7,19 +7,23 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.94
+			"chance": 39.94,
+			"killed": true
 		},
 		{
 			"name": "Tyrn",
-			"chance": 29
+			"chance": 29,
+			"killed": true
 		},
 		{
 			"name": "Big Boss Trolliver",
-			"chance": 22.51
+			"chance": 22.51,
+			"killed": true
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 19.58
+			"chance": 19.58,
+			"killed": true
 		},
 		{
 			"name": "Yaga the Crone",
@@ -88,6 +92,21 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.58
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

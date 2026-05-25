@@ -1,17 +1,20 @@
 {
-	"timestamp": "2026-05-24T09:18:12.090Z",
+	"timestamp": "2026-05-25T03:08:43.877Z",
 	"bosses": [
 		{
 			"name": "Sir Valorcrest",
-			"chance": 93.91
+			"chance": 93.91,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
-			"chance": 65.87
+			"chance": 65.87,
+			"killed": true
 		},
 		{
 			"name": "Zomba",
-			"chance": 62.35
+			"chance": 62.35,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -80,6 +83,16 @@
 		{
 			"name": "The Frog Prince",
 			"chance": 6.52
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

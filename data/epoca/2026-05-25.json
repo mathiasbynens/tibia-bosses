@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-05-25T09:49:16.618Z",
-	"bosses": []
+	"timestamp": "2026-05-26T03:07:34.792Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Orshabaal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

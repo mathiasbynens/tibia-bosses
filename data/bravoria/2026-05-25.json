@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-25T09:49:14.293Z",
+	"timestamp": "2026-05-26T03:07:33.857Z",
 	"bosses": [
 		{
 			"name": "Ocyakao",
-			"chance": 67.07
+			"chance": 67.07,
+			"killed": true
 		},
 		{
 			"name": "Arachir the Ancient One",
-			"chance": 38.06
+			"chance": 38.06,
+			"killed": true
 		},
 		{
 			"name": "Tzumrah the Dazzler",
@@ -71,11 +73,17 @@
 		},
 		{
 			"name": "Shlorg",
-			"chance": 7.88
+			"chance": 7.88,
+			"killed": true
 		},
 		{
 			"name": "Ferumbras",
 			"chance": 4.27
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

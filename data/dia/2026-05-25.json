@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-25T09:49:15.857Z",
+	"timestamp": "2026-05-26T03:07:34.332Z",
 	"bosses": [
 		{
 			"name": "Yaga the Crone",
@@ -92,6 +92,16 @@
 		{
 			"name": "Dreadmaw",
 			"chance": 3.71
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

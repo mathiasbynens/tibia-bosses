@@ -1,0 +1,45 @@
+{
+	"timestamp": "2026-05-26T09:47:59.479Z",
+	"bosses": [
+		{
+			"name": "Zomba",
+			"chance": 62.35
+		},
+		{
+			"name": "Dharalion",
+			"chance": 31.88
+		},
+		{
+			"name": "Tyrn",
+			"chance": 29.2
+		},
+		{
+			"name": "Grand Mother Foulscale",
+			"chance": 28.31
+		},
+		{
+			"name": "The Blightfather",
+			"chance": 19.57
+		},
+		{
+			"name": "Willi Wasp",
+			"chance": 11.27
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 8.53
+		},
+		{
+			"name": "Shlorg",
+			"chance": 7.24
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 5.36
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 5.36
+		}
+	]
+}

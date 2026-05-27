@@ -1,13 +1,15 @@
 {
-	"timestamp": "2026-05-26T09:48:04.172Z",
+	"timestamp": "2026-05-27T03:08:36.041Z",
 	"bosses": [
 		{
 			"name": "Grandfather Tridian",
-			"chance": 36.42
+			"chance": 36.42,
+			"killed": true
 		},
 		{
 			"name": "Smuggler Baron Silvertoe",
-			"chance": 34.39
+			"chance": 34.39,
+			"killed": true
 		},
 		{
 			"name": "The Plasmother",
@@ -39,7 +41,8 @@
 		},
 		{
 			"name": "Dracola",
-			"chance": 13.36
+			"chance": 13.36,
+			"killed": true
 		},
 		{
 			"name": "Foreman Kneebiter",
@@ -116,6 +119,11 @@
 		{
 			"name": "Morshabaal",
 			"chance": 2.7
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

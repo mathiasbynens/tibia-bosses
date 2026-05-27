@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-26T09:48:02.681Z",
+	"timestamp": "2026-05-27T03:08:35.401Z",
 	"bosses": [
 		{
 			"name": "Arachir the Ancient One",
@@ -75,7 +75,8 @@
 		},
 		{
 			"name": "Battlemaster Zunzu",
-			"chance": 6.53
+			"chance": 6.53,
+			"killed": true
 		},
 		{
 			"name": "The Handmaiden",

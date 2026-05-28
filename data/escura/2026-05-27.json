@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-27T09:47:51.826Z",
+	"timestamp": "2026-05-28T03:09:27.334Z",
 	"bosses": [
 		{
 			"name": "Zomba",
@@ -15,7 +15,8 @@
 		},
 		{
 			"name": "The Blightfather",
-			"chance": 25.11
+			"chance": 25.11,
+			"killed": true
 		},
 		{
 			"name": "Willi Wasp",
@@ -39,7 +40,13 @@
 		},
 		{
 			"name": "Ocyakao",
-			"chance": 6.16
+			"chance": 6.16,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

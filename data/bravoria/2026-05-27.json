@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-27T09:47:48.182Z",
+	"timestamp": "2026-05-28T03:09:22.886Z",
 	"bosses": [
 		{
 			"name": "The Blightfather",
@@ -47,7 +47,8 @@
 		},
 		{
 			"name": "The Imperor",
-			"chance": 12.99
+			"chance": 12.99,
+			"killed": true
 		},
 		{
 			"name": "Hatebreeder",
@@ -68,6 +69,21 @@
 		{
 			"name": "Hairman the Huge",
 			"chance": 5.8
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
 		}
 	]
 }

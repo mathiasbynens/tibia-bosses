@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026-05-27T09:47:50.617Z",
+	"timestamp": "2026-05-28T03:09:25.839Z",
 	"bosses": [
 		{
 			"name": "Zevelon Duskbringer",
@@ -7,7 +7,8 @@
 		},
 		{
 			"name": "Willi Wasp",
-			"chance": 39.95
+			"chance": 39.95,
+			"killed": true
 		},
 		{
 			"name": "Zushuka",
@@ -55,7 +56,8 @@
 		},
 		{
 			"name": "Hairman the Huge",
-			"chance": 9.3
+			"chance": 9.3,
+			"killed": true
 		},
 		{
 			"name": "Flamecaller Zazrak",

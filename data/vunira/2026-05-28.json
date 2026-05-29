@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-05-28T09:49:04.145Z",
-	"bosses": []
+	"timestamp": "2026-05-29T03:08:15.388Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

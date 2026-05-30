@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-05-29T09:48:02.656Z",
-	"bosses": []
+	"timestamp": "2026-05-30T03:06:44.911Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

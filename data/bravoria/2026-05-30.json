@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-05-30T09:17:04.506Z",
-	"bosses": []
+	"timestamp": "2026-05-31T03:08:32.816Z",
+	"bosses": [
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

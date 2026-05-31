@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-05-30T09:17:20.371Z",
-	"bosses": []
+	"timestamp": "2026-05-31T03:08:36.925Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

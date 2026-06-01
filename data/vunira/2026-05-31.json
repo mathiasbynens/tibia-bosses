@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-05-31T09:31:41.329Z",
-	"bosses": []
+	"timestamp": "2026-06-01T03:09:40.689Z",
+	"bosses": [
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

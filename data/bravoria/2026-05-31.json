@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-05-31T09:31:33.414Z",
-	"bosses": []
+	"timestamp": "2026-06-01T03:09:37.257Z",
+	"bosses": [
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

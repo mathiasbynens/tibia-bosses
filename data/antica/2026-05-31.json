@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-05-31T09:31:32.566Z",
-	"bosses": []
+	"timestamp": "2026-06-01T03:09:36.568Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

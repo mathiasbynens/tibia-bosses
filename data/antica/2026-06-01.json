@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-06-01T10:17:38.618Z",
-	"bosses": []
+	"timestamp": "2026-06-02T03:09:57.428Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-02T09:53:10.634Z",
-	"bosses": []
+	"timestamp": "2026-06-03T03:10:24.036Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-02T09:53:16.560Z",
-	"bosses": []
+	"timestamp": "2026-06-03T03:10:28.235Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

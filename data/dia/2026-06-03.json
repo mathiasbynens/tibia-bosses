@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-03T10:08:41.717Z",
-	"bosses": []
+	"timestamp": "2026-06-04T03:09:29.379Z",
+	"bosses": [
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

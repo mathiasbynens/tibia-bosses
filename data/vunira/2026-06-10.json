@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-10T09:48:21.585Z",
-	"bosses": []
+	"timestamp": "2026-06-11T03:07:56.010Z",
+	"bosses": [
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

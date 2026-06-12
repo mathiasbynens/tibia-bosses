@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-11T09:54:41.421Z",
-	"bosses": []
+	"timestamp": "2026-06-12T03:08:42.203Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

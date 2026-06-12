@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-11T09:54:45.418Z",
-	"bosses": []
+	"timestamp": "2026-06-12T03:08:49.054Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-12T09:49:49.037Z",
-	"bosses": []
+	"timestamp": "2026-06-13T03:07:44.154Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

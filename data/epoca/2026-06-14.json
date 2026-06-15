@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-14T09:46:06.346Z",
-	"bosses": []
+	"timestamp": "2026-06-15T03:10:19.045Z",
+	"bosses": [
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

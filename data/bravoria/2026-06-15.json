@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-06-15T10:36:59.481Z",
-	"bosses": []
+	"timestamp": "2026-06-16T03:09:59.994Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-16T10:16:04.890Z",
-	"bosses": []
+	"timestamp": "2026-06-17T03:09:15.986Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

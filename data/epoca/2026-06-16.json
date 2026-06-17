@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-16T10:16:00.724Z",
-	"bosses": []
+	"timestamp": "2026-06-17T03:09:09.815Z",
+	"bosses": [
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

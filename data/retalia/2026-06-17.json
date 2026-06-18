@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-06-17T10:07:54.416Z",
-	"bosses": []
+	"timestamp": "2026-06-18T03:08:58.665Z",
+	"bosses": [
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-18T09:57:57.670Z",
-	"bosses": []
+	"timestamp": "2026-06-19T03:09:32.398Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

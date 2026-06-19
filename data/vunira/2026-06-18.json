@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-06-18T09:58:03.639Z",
-	"bosses": []
+	"timestamp": "2026-06-19T03:09:39.889Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

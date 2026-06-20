@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-19T10:01:36.780Z",
-	"bosses": []
+	"timestamp": "2026-06-20T03:07:28.362Z",
+	"bosses": [
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-19T10:01:44.235Z",
-	"bosses": []
+	"timestamp": "2026-06-20T03:07:32.224Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

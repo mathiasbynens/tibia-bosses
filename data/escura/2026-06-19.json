@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-19T10:01:39.939Z",
-	"bosses": []
+	"timestamp": "2026-06-20T03:07:29.988Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

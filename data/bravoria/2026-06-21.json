@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-21T09:47:39.903Z",
-	"bosses": []
+	"timestamp": "2026-06-22T03:10:00.733Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

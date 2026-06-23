@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-22T10:25:59.891Z",
-	"bosses": []
+	"timestamp": "2026-06-23T03:06:59.893Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

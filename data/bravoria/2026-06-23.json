@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-06-23T09:46:36.371Z",
-	"bosses": []
+	"timestamp": "2026-06-24T03:07:19.991Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

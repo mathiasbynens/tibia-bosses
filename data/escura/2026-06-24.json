@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-06-24T09:45:47.664Z",
-	"bosses": []
+	"timestamp": "2026-06-25T03:07:31.521Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

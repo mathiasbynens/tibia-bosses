@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-24T09:45:53.462Z",
-	"bosses": []
+	"timestamp": "2026-06-25T03:07:35.198Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

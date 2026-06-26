@@ -1,4 +1,50 @@
 {
-	"timestamp": "2026-06-25T09:41:31.371Z",
-	"bosses": []
+	"timestamp": "2026-06-26T03:07:51.760Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

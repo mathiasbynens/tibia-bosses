@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-06-25T09:41:23.229Z",
-	"bosses": []
+	"timestamp": "2026-06-26T03:07:46.375Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Hungerer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

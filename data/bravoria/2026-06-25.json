@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-06-25T09:41:24.284Z",
-	"bosses": []
+	"timestamp": "2026-06-26T03:07:46.976Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

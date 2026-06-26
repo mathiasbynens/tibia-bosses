@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-06-25T09:41:30.320Z",
-	"bosses": []
+	"timestamp": "2026-06-26T03:07:51.220Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

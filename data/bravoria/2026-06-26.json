@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-26T09:45:33.186Z",
-	"bosses": []
+	"timestamp": "2026-06-27T03:06:31.156Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

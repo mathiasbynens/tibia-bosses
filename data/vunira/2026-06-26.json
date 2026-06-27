@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-06-26T09:45:42.621Z",
-	"bosses": []
+	"timestamp": "2026-06-27T03:06:36.290Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-06-27T09:19:30.688Z",
-	"bosses": []
+	"timestamp": "2026-06-28T03:07:55.477Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

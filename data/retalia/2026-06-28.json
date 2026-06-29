@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-06-28T09:36:30.335Z",
-	"bosses": []
+	"timestamp": "2026-06-29T03:09:05.173Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

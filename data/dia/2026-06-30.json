@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-30T09:46:21.823Z",
-	"bosses": []
+	"timestamp": "2026-07-01T03:08:45.914Z",
+	"bosses": [
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

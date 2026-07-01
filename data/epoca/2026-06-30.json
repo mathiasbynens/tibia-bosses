@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-30T09:46:22.588Z",
-	"bosses": []
+	"timestamp": "2026-07-01T03:08:47.199Z",
+	"bosses": [
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

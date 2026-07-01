@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-06-30T09:46:27.122Z",
-	"bosses": []
+	"timestamp": "2026-07-01T03:08:50.677Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

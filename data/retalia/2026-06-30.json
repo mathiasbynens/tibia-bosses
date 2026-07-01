@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-06-30T09:46:25.591Z",
-	"bosses": []
+	"timestamp": "2026-07-01T03:08:48.976Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

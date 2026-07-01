@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-06-30T09:46:26.361Z",
-	"bosses": []
+	"timestamp": "2026-07-01T03:08:49.432Z",
+	"bosses": [
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

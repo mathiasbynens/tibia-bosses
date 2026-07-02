@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-01T09:47:07.476Z",
-	"bosses": []
+	"timestamp": "2026-07-02T03:06:14.262Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-01T09:47:05.557Z",
-	"bosses": []
+	"timestamp": "2026-07-02T03:06:12.536Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

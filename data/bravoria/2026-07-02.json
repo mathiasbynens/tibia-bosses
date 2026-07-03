@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-02T09:36:52.540Z",
-	"bosses": []
+	"timestamp": "2026-07-03T05:48:54.706Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

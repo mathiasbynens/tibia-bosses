@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-07-03T11:08:48.434Z",
-	"bosses": []
+	"timestamp": "2026-07-04T05:41:38.157Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

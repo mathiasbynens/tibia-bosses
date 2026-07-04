@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-03T11:08:40.491Z",
-	"bosses": []
+	"timestamp": "2026-07-04T05:41:26.102Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

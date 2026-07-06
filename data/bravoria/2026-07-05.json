@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-05T10:36:32.469Z",
-	"bosses": []
+	"timestamp": "2026-07-06T06:23:45.748Z",
+	"bosses": [
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

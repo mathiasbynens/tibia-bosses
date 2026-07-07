@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-06T12:22:52.679Z",
-	"bosses": []
+	"timestamp": "2026-07-07T06:03:17.345Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

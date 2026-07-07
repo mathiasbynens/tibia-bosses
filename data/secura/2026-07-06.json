@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-06T12:22:58.870Z",
-	"bosses": []
+	"timestamp": "2026-07-07T06:03:20.238Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

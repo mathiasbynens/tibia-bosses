@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-09T11:26:02.554Z",
-	"bosses": []
+	"timestamp": "2026-07-10T05:59:21.698Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

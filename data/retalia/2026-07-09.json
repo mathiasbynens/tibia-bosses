@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-09T11:26:07.454Z",
-	"bosses": []
+	"timestamp": "2026-07-10T05:59:24.267Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-09T11:25:59.194Z",
-	"bosses": []
+	"timestamp": "2026-07-10T05:59:19.308Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

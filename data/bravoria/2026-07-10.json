@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-07-10T11:24:36.942Z",
-	"bosses": []
+	"timestamp": "2026-07-11T05:09:20.483Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

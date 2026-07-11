@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-07-10T11:24:45.024Z",
-	"bosses": []
+	"timestamp": "2026-07-11T05:09:25.758Z",
+	"bosses": [
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

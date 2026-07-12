@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-07-11T09:57:33.995Z",
-	"bosses": []
+	"timestamp": "2026-07-12T05:23:16.200Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

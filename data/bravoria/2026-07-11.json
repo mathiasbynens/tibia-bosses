@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-07-11T09:57:32.251Z",
-	"bosses": []
+	"timestamp": "2026-07-12T05:23:14.197Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

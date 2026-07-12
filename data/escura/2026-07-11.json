@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-11T09:57:34.894Z",
-	"bosses": []
+	"timestamp": "2026-07-12T05:23:16.580Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

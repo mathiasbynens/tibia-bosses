@@ -1,4 +1,50 @@
 {
-	"timestamp": "2026-07-12T10:06:49.957Z",
-	"bosses": []
+	"timestamp": "2026-07-13T05:32:38.646Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

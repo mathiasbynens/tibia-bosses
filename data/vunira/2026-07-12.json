@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-12T10:07:00.194Z",
-	"bosses": []
+	"timestamp": "2026-07-13T05:32:44.992Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

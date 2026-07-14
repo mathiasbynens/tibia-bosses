@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-13T11:37:28.196Z",
-	"bosses": []
+	"timestamp": "2026-07-14T04:47:19.174Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

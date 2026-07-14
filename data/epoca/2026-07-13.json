@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-07-13T11:37:23.967Z",
-	"bosses": []
+	"timestamp": "2026-07-14T04:47:16.801Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

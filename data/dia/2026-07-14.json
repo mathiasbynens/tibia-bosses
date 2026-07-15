@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-07-14T10:15:54.832Z",
-	"bosses": []
+	"timestamp": "2026-07-15T04:47:54.541Z",
+	"bosses": [
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

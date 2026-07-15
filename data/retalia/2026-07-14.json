@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-14T10:15:59.909Z",
-	"bosses": []
+	"timestamp": "2026-07-15T04:47:56.779Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

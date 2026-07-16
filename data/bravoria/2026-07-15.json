@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-15T10:19:49.973Z",
-	"bosses": []
+	"timestamp": "2026-07-16T04:56:08.013Z",
+	"bosses": [
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

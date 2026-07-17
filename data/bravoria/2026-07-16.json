@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-16T10:26:04.244Z",
-	"bosses": []
+	"timestamp": "2026-07-17T04:59:08.909Z",
+	"bosses": [
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-17T10:17:30.077Z",
-	"bosses": []
+	"timestamp": "2026-07-18T04:45:21.904Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

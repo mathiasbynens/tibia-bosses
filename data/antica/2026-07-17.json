@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-17T10:17:18.210Z",
-	"bosses": []
+	"timestamp": "2026-07-18T04:45:11.575Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

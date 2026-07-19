@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-18T09:55:37.549Z",
-	"bosses": []
+	"timestamp": "2026-07-19T05:17:37.629Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Furyosa",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

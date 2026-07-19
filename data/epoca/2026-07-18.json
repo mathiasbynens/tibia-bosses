@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-07-18T09:55:39.568Z",
-	"bosses": []
+	"timestamp": "2026-07-19T05:17:38.484Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

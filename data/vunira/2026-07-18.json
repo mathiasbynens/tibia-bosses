@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-07-18T09:55:49.085Z",
-	"bosses": []
+	"timestamp": "2026-07-19T05:17:42.872Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

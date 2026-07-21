@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-20T11:21:49.816Z",
-	"bosses": []
+	"timestamp": "2026-07-21T05:16:40.554Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

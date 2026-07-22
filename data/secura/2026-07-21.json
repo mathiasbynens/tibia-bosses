@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-07-21T10:37:59.815Z",
-	"bosses": []
+	"timestamp": "2026-07-22T05:15:36.143Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-07-23T10:38:57.918Z",
-	"bosses": []
+	"timestamp": "2026-07-24T05:16:33.307Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

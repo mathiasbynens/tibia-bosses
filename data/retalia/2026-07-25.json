@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-25T10:07:35.392Z",
-	"bosses": []
+	"timestamp": "2026-07-26T05:27:37.791Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

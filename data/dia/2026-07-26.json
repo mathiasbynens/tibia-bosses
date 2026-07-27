@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-26T10:17:33.690Z",
-	"bosses": []
+	"timestamp": "2026-07-27T05:44:19.478Z",
+	"bosses": [
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

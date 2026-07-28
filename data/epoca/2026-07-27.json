@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-27T11:50:35.392Z",
-	"bosses": []
+	"timestamp": "2026-07-28T05:10:37.660Z",
+	"bosses": [
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zarabustor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-29T11:02:23.911Z",
-	"bosses": []
+	"timestamp": "2026-07-30T04:54:30.744Z",
+	"bosses": [
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

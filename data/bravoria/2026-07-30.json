@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-07-30T10:37:42.331Z",
-	"bosses": []
+	"timestamp": "2026-07-31T05:31:11.132Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Morshabaal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-07-30T10:37:43.262Z",
-	"bosses": []
+	"timestamp": "2026-07-31T05:31:11.655Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

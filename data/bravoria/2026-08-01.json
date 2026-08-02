@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-01T10:15:57.438Z",
-	"bosses": []
+	"timestamp": "2026-08-02T05:22:30.826Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Manhunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

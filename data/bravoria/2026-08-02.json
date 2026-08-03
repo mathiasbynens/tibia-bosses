@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-02T10:14:29.594Z",
-	"bosses": []
+	"timestamp": "2026-08-03T05:36:59.951Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

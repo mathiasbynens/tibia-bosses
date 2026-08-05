@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-04T11:02:50.509Z",
-	"bosses": []
+	"timestamp": "2026-08-05T05:10:39.937Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

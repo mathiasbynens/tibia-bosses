@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-04T11:02:54.877Z",
-	"bosses": []
+	"timestamp": "2026-08-05T05:10:45.634Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

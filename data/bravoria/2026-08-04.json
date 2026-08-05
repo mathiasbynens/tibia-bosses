@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-08-04T11:02:49.639Z",
-	"bosses": []
+	"timestamp": "2026-08-05T05:10:38.781Z",
+	"bosses": [
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-06T11:00:16.092Z",
-	"bosses": []
+	"timestamp": "2026-08-07T04:22:26.754Z",
+	"bosses": [
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

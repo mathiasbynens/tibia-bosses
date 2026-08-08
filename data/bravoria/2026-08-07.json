@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-08-07T09:31:14.187Z",
-	"bosses": []
+	"timestamp": "2026-08-08T03:19:55.346Z",
+	"bosses": [
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

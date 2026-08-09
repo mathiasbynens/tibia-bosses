@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-08T09:10:01.083Z",
-	"bosses": []
+	"timestamp": "2026-08-09T03:28:04.655Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

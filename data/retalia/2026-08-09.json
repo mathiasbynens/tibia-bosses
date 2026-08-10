@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-09T09:11:22.967Z",
-	"bosses": []
+	"timestamp": "2026-08-10T03:48:28.630Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

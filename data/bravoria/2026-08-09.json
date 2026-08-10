@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-09T09:11:17.478Z",
-	"bosses": []
+	"timestamp": "2026-08-10T03:48:22.847Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

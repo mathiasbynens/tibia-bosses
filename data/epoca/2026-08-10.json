@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-10T09:57:04.384Z",
-	"bosses": []
+	"timestamp": "2026-08-11T03:38:25.664Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

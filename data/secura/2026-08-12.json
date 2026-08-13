@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-12T09:40:07.762Z",
-	"bosses": []
+	"timestamp": "2026-08-13T04:05:52.167Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

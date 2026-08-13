@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-08-12T09:40:06.646Z",
-	"bosses": []
+	"timestamp": "2026-08-13T04:05:51.480Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-08-12T09:39:58.316Z",
-	"bosses": []
+	"timestamp": "2026-08-13T04:05:47.939Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-13T09:40:47.545Z",
-	"bosses": []
+	"timestamp": "2026-08-14T04:02:20.245Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

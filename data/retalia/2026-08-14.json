@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-14T09:34:51.456Z",
-	"bosses": []
+	"timestamp": "2026-08-15T02:47:10.438Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

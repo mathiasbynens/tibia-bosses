@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-14T09:34:43.421Z",
-	"bosses": []
+	"timestamp": "2026-08-15T02:47:03.615Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

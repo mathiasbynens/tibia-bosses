@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-08-16T08:56:28.859Z",
-	"bosses": []
+	"timestamp": "2026-08-17T02:54:37.718Z",
+	"bosses": [
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

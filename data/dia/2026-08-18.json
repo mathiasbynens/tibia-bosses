@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-18T09:02:54.443Z",
-	"bosses": []
+	"timestamp": "2026-08-19T02:52:16.279Z",
+	"bosses": [
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

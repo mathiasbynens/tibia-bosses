@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-08-20T09:04:52.610Z",
-	"bosses": []
+	"timestamp": "2026-08-21T02:57:11.896Z",
+	"bosses": [
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

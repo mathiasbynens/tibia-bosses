@@ -1,4 +1,60 @@
 {
-	"timestamp": "2026-08-20T09:05:02.142Z",
-	"bosses": []
+	"timestamp": "2026-08-21T02:57:17.664Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

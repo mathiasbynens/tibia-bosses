@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-21T09:07:06.967Z",
-	"bosses": []
+	"timestamp": "2026-08-22T02:49:04.297Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

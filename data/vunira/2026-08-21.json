@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-21T09:07:07.952Z",
-	"bosses": []
+	"timestamp": "2026-08-22T02:49:04.711Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

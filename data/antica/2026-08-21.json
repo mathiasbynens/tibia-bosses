@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-08-21T09:06:59.062Z",
-	"bosses": []
+	"timestamp": "2026-08-22T02:48:52.781Z",
+	"bosses": [
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

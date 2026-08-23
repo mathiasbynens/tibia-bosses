@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-22T08:56:43.822Z",
-	"bosses": []
+	"timestamp": "2026-08-23T02:57:00.134Z",
+	"bosses": [
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

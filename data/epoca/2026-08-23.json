@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-23T08:57:14.402Z",
-	"bosses": []
+	"timestamp": "2026-08-24T02:57:50.460Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

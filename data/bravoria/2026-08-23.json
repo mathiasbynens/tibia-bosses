@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-08-23T08:57:12.947Z",
-	"bosses": []
+	"timestamp": "2026-08-24T02:57:48.662Z",
+	"bosses": [
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-24T09:12:49.262Z",
-	"bosses": []
+	"timestamp": "2026-08-25T02:53:24.661Z",
+	"bosses": [
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-24T09:12:55.121Z",
-	"bosses": []
+	"timestamp": "2026-08-25T02:53:28.859Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

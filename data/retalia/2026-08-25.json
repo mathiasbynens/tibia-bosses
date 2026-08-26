@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-25T09:07:27.013Z",
-	"bosses": []
+	"timestamp": "2026-08-26T02:59:09.525Z",
+	"bosses": [
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-25T09:07:19.963Z",
-	"bosses": []
+	"timestamp": "2026-08-26T02:59:02.632Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

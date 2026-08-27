@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-26T09:10:56.338Z",
-	"bosses": []
+	"timestamp": "2026-08-27T12:16:05.953Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

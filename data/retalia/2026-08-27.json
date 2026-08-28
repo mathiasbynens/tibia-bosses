@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-27T19:12:23.222Z",
-	"bosses": []
+	"timestamp": "2026-08-28T13:41:48.204Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

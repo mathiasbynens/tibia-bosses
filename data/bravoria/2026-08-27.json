@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-27T19:12:14.138Z",
-	"bosses": []
+	"timestamp": "2026-08-28T13:41:42.516Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-28T20:18:25.190Z",
-	"bosses": []
+	"timestamp": "2026-08-29T08:32:45.701Z",
+	"bosses": [
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-08-28T20:18:24.219Z",
-	"bosses": []
+	"timestamp": "2026-08-29T08:32:45.358Z",
+	"bosses": [
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

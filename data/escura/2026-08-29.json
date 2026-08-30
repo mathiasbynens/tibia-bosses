@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-08-29T13:56:23.472Z",
-	"bosses": []
+	"timestamp": "2026-08-30T07:46:05.163Z",
+	"bosses": [
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

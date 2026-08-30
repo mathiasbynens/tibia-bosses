@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-08-29T13:56:26.175Z",
-	"bosses": []
+	"timestamp": "2026-08-30T07:46:08.176Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

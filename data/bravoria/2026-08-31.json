@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-08-31T16:17:12.878Z",
-	"bosses": []
+	"timestamp": "2026-09-01T07:07:15.562Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

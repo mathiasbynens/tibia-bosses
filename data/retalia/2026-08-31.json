@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-08-31T16:17:21.456Z",
-	"bosses": []
+	"timestamp": "2026-09-01T07:07:20.416Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

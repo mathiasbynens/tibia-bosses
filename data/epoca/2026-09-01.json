@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-09-01T13:36:42.513Z",
-	"bosses": []
+	"timestamp": "2026-09-02T06:43:56.930Z",
+	"bosses": [
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

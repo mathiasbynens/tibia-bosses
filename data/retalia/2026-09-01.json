@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-09-01T13:36:46.290Z",
-	"bosses": []
+	"timestamp": "2026-09-02T06:43:58.753Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

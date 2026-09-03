@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-09-02T12:53:06.658Z",
-	"bosses": []
+	"timestamp": "2026-09-03T06:46:22.370Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grandfather Tridian",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

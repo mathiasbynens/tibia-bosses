@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-09-03T12:56:16.811Z",
-	"bosses": []
+	"timestamp": "2026-09-04T06:58:18.807Z",
+	"bosses": [
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

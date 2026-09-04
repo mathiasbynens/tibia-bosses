@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-09-03T12:56:14.567Z",
-	"bosses": []
+	"timestamp": "2026-09-04T06:58:17.515Z",
+	"bosses": [
+		{
+			"name": "Devovorga",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-09-06T12:14:40.142Z",
-	"bosses": []
+	"timestamp": "2026-09-07T06:55:02.587Z",
+	"bosses": [
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

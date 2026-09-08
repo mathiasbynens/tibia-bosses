@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-09-07T14:22:05.200Z",
-	"bosses": []
+	"timestamp": "2026-09-08T06:50:39.341Z",
+	"bosses": [
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

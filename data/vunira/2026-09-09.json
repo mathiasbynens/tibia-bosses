@@ -1,4 +1,50 @@
 {
-	"timestamp": "2026-09-09T13:04:42.893Z",
-	"bosses": []
+	"timestamp": "2026-09-10T06:55:58.465Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

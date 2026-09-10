@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-09-09T13:04:38.109Z",
-	"bosses": []
+	"timestamp": "2026-09-10T06:55:56.532Z",
+	"bosses": [
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-09-09T13:04:34.359Z",
-	"bosses": []
+	"timestamp": "2026-09-10T06:55:55.063Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mahatheb",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

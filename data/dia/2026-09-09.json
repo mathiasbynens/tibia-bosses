@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-09-09T13:04:36.214Z",
-	"bosses": []
+	"timestamp": "2026-09-10T06:55:55.857Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ghazbaran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

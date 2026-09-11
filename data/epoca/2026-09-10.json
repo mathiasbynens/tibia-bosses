@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-09-10T13:01:09.453Z",
-	"bosses": []
+	"timestamp": "2026-09-11T06:55:47.113Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

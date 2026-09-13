@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-09-12T12:16:57.770Z",
-	"bosses": []
+	"timestamp": "2026-09-13T07:05:19.313Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

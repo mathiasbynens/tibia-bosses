@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-09-12T12:16:56.831Z",
-	"bosses": []
+	"timestamp": "2026-09-13T07:05:18.868Z",
+	"bosses": [
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

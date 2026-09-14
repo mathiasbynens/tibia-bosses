@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-09-13T13:24:03.076Z",
-	"bosses": []
+	"timestamp": "2026-09-14T07:28:44.450Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Mean Masher",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

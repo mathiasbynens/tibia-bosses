@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-09-14T15:10:04.719Z",
-	"bosses": []
+	"timestamp": "2026-09-15T07:05:31.517Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

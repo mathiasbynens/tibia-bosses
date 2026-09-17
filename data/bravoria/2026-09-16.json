@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-09-16T13:38:44.032Z",
-	"bosses": []
+	"timestamp": "2026-09-17T07:03:44.544Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

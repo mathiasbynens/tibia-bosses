@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-09-17T13:41:23.931Z",
-	"bosses": []
+	"timestamp": "2026-09-18T06:58:04.828Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

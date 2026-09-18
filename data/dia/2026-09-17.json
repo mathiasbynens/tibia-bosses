@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-09-17T13:41:17.045Z",
-	"bosses": []
+	"timestamp": "2026-09-18T06:58:02.669Z",
+	"bosses": [
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

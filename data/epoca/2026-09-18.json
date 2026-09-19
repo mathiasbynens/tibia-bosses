@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-09-18T13:04:23.820Z",
-	"bosses": []
+	"timestamp": "2026-09-19T06:56:39.239Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

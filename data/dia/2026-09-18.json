@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-09-18T13:04:21.630Z",
-	"bosses": []
+	"timestamp": "2026-09-19T06:56:38.943Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

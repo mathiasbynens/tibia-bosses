@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-09-18T13:04:29.024Z",
-	"bosses": []
+	"timestamp": "2026-09-19T06:56:41.050Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

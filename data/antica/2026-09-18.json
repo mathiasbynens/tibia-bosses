@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-09-18T13:04:19.498Z",
-	"bosses": []
+	"timestamp": "2026-09-19T06:56:38.375Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

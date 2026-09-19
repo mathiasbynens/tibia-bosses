@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-09-18T13:04:27.967Z",
-	"bosses": []
+	"timestamp": "2026-09-19T06:56:40.569Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

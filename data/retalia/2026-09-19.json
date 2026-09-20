@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-09-19T12:37:11.896Z",
-	"bosses": []
+	"timestamp": "2026-09-20T07:22:06.985Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

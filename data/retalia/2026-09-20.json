@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-09-20T13:09:33.873Z",
-	"bosses": []
+	"timestamp": "2026-09-21T07:32:19.751Z",
+	"bosses": [
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

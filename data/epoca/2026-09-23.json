@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-09-23T13:46:35.136Z",
-	"bosses": []
+	"timestamp": "2026-09-24T07:04:23.152Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-09-24T13:41:41.537Z",
-	"bosses": []
+	"timestamp": "2026-09-25T07:01:28.825Z",
+	"bosses": [
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

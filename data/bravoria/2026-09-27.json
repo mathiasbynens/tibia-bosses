@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-09-27T14:11:47.495Z",
-	"bosses": []
+	"timestamp": "2026-09-28T08:06:57.787Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Jesse the Wicked",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

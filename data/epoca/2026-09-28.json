@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-09-28T16:53:07.200Z",
-	"bosses": []
+	"timestamp": "2026-09-29T07:47:40.318Z",
+	"bosses": [
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-01T15:34:34.040Z",
-	"bosses": []
+	"timestamp": "2026-10-02T07:51:26.698Z",
+	"bosses": [
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

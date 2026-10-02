@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-01T15:34:39.668Z",
-	"bosses": []
+	"timestamp": "2026-10-02T07:51:28.608Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

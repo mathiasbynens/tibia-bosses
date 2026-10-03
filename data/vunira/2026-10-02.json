@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-10-02T14:53:32.080Z",
-	"bosses": []
+	"timestamp": "2026-10-03T07:28:37.642Z",
+	"bosses": [
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

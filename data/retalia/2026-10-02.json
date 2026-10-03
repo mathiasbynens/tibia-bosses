@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-10-02T14:53:29.758Z",
-	"bosses": []
+	"timestamp": "2026-10-03T07:28:36.915Z",
+	"bosses": [
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Morgaroth",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

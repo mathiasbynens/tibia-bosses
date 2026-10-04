@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-10-03T13:36:13.218Z",
-	"bosses": []
+	"timestamp": "2026-10-04T07:40:55.759Z",
+	"bosses": [
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

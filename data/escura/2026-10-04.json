@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-04T14:16:28.382Z",
-	"bosses": []
+	"timestamp": "2026-10-05T08:09:05.933Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ferumbras",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

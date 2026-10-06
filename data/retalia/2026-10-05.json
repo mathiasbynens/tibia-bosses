@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-10-05T17:17:31.353Z",
-	"bosses": []
+	"timestamp": "2026-10-06T08:27:35.867Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "High Templar Cobrass",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

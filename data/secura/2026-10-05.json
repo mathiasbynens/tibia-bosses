@@ -1,4 +1,45 @@
 {
-	"timestamp": "2026-10-05T17:17:32.540Z",
-	"bosses": []
+	"timestamp": "2026-10-06T08:27:36.209Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

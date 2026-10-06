@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-10-05T17:17:25.919Z",
-	"bosses": []
+	"timestamp": "2026-10-06T08:27:34.066Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-10-05T17:17:26.701Z",
-	"bosses": []
+	"timestamp": "2026-10-06T08:27:34.368Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,50 @@
 {
-	"timestamp": "2026-10-05T17:17:25.144Z",
-	"bosses": []
+	"timestamp": "2026-10-06T08:27:33.769Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

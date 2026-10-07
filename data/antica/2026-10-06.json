@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-06T15:22:10.372Z",
-	"bosses": []
+	"timestamp": "2026-10-07T08:03:30.642Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

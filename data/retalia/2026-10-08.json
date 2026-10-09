@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-08T15:46:45.747Z",
-	"bosses": []
+	"timestamp": "2026-10-09T08:21:51.686Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-10-09T15:28:31.359Z",
-	"bosses": []
+	"timestamp": "2026-10-10T07:59:55.550Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-10-09T15:28:32.428Z",
-	"bosses": []
+	"timestamp": "2026-10-10T07:59:56.062Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

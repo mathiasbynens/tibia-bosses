@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-09T15:28:40.743Z",
-	"bosses": []
+	"timestamp": "2026-10-10T07:59:58.710Z",
+	"bosses": [
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

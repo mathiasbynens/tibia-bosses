@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-09T15:28:30.422Z",
-	"bosses": []
+	"timestamp": "2026-10-10T07:59:55.078Z",
+	"bosses": [
+		{
+			"name": "Captain Jones",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

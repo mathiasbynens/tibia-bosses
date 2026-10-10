@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-10-09T15:28:38.895Z",
-	"bosses": []
+	"timestamp": "2026-10-10T07:59:57.956Z",
+	"bosses": [
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

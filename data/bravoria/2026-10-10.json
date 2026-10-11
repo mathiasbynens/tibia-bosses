@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-10T14:35:30.131Z",
-	"bosses": []
+	"timestamp": "2026-10-11T08:11:16.072Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

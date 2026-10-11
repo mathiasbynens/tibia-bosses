@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-10-10T14:35:29.274Z",
-	"bosses": []
+	"timestamp": "2026-10-11T08:11:15.735Z",
+	"bosses": [
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-11T15:00:27.873Z",
-	"bosses": []
+	"timestamp": "2026-10-12T08:27:42.375Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

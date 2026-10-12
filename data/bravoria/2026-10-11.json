@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-11T15:00:22.806Z",
-	"bosses": []
+	"timestamp": "2026-10-12T08:27:39.960Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

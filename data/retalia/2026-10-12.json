@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-12T18:06:52.039Z",
-	"bosses": []
+	"timestamp": "2026-10-13T08:51:24.519Z",
+	"bosses": [
+		{
+			"name": "Mornenion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-12T18:06:42.187Z",
-	"bosses": []
+	"timestamp": "2026-10-13T08:51:22.565Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hirintror",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

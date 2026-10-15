@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-14T13:56:07.288Z",
-	"bosses": []
+	"timestamp": "2026-10-15T06:51:58.976Z",
+	"bosses": [
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

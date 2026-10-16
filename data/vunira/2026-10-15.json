@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-15T13:36:09.771Z",
-	"bosses": []
+	"timestamp": "2026-10-16T06:39:45.032Z",
+	"bosses": [
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

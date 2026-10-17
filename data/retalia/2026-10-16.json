@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-10-16T13:25:03.090Z",
-	"bosses": []
+	"timestamp": "2026-10-17T06:28:32.027Z",
+	"bosses": [
+		{
+			"name": "Diblis the Fair",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

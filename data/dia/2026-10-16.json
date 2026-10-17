@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-10-16T13:24:57.676Z",
-	"bosses": []
+	"timestamp": "2026-10-17T06:28:30.274Z",
+	"bosses": [
+		{
+			"name": "The Evil Eye",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

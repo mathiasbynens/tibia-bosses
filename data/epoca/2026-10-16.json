@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-16T13:24:58.667Z",
-	"bosses": []
+	"timestamp": "2026-10-17T06:28:30.618Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Ocyakao",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

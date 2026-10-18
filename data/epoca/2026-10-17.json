@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-10-17T12:18:51.832Z",
-	"bosses": []
+	"timestamp": "2026-10-18T06:53:05.284Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

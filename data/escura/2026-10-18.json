@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-10-18T12:43:00.286Z",
-	"bosses": []
+	"timestamp": "2026-10-19T07:13:21.721Z",
+	"bosses": [
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

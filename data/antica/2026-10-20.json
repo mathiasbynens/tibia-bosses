@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-20T13:45:23.655Z",
-	"bosses": []
+	"timestamp": "2026-10-21T06:55:13.265Z",
+	"bosses": [
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

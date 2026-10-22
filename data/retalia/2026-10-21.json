@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-21T14:01:14.308Z",
-	"bosses": []
+	"timestamp": "2026-10-22T06:59:14.991Z",
+	"bosses": [
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

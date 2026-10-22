@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-21T14:01:03.754Z",
-	"bosses": []
+	"timestamp": "2026-10-22T06:59:11.717Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

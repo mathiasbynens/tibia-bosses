@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-23T13:42:00.853Z",
-	"bosses": []
+	"timestamp": "2026-10-24T06:47:55.711Z",
+	"bosses": [
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Voice of Ruin",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

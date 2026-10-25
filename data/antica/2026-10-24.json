@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-24T12:50:52.457Z",
-	"bosses": []
+	"timestamp": "2026-10-25T08:02:19.956Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

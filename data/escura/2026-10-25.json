@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-25T13:50:08.640Z",
-	"bosses": []
+	"timestamp": "2026-10-26T08:24:57.049Z",
+	"bosses": [
+		{
+			"name": "Chizzoron the Distorter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zulazza the Corruptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

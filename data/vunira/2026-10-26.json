@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-26T16:15:06.381Z",
-	"bosses": []
+	"timestamp": "2026-10-27T08:34:19.387Z",
+	"bosses": [
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

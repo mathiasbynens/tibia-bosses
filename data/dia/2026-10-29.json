@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-10-29T16:19:53.429Z",
-	"bosses": []
+	"timestamp": "2026-10-30T09:28:56.445Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-10-31T15:27:48.009Z",
-	"bosses": []
+	"timestamp": "2026-11-01T09:58:32.340Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Mr. Punish",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

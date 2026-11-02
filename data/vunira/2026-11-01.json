@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-11-01T16:13:29.524Z",
-	"bosses": []
+	"timestamp": "2026-11-02T10:26:52.500Z",
+	"bosses": [
+		{
+			"name": "Countess Sorrow",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadful Disruptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-11-01T16:13:21.343Z",
-	"bosses": []
+	"timestamp": "2026-11-02T10:26:50.048Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

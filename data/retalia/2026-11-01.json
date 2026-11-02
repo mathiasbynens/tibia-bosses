@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-11-01T16:13:27.231Z",
-	"bosses": []
+	"timestamp": "2026-11-02T10:26:51.776Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

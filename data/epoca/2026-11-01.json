@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-11-01T16:13:22.451Z",
-	"bosses": []
+	"timestamp": "2026-11-02T10:26:50.482Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

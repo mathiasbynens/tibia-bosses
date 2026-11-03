@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-11-02T19:40:38.590Z",
-	"bosses": []
+	"timestamp": "2026-11-03T10:24:08.264Z",
+	"bosses": [
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-11-03T17:13:02.715Z",
-	"bosses": []
+	"timestamp": "2026-11-04T10:19:25.205Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yakchal",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

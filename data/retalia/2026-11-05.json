@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-11-05T17:31:50.890Z",
-	"bosses": []
+	"timestamp": "2026-11-06T10:17:11.361Z",
+	"bosses": [
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

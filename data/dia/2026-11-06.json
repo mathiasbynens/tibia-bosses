@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-11-06T16:52:15.605Z",
-	"bosses": []
+	"timestamp": "2026-11-07T09:31:33.563Z",
+	"bosses": [
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Gravelord Oshuran",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Hatebreeder",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

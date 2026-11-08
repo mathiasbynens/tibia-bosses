@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-11-07T15:49:40.878Z",
-	"bosses": []
+	"timestamp": "2026-11-08T09:47:45.678Z",
+	"bosses": [
+		{
+			"name": "The Old Whopper",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

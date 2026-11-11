@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-11-10T17:12:27.638Z",
-	"bosses": []
+	"timestamp": "2026-11-11T10:11:56.138Z",
+	"bosses": [
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-11-11T17:21:03.238Z",
-	"bosses": []
+	"timestamp": "2026-11-12T10:33:36.503Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Elvira Hammerthrust",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

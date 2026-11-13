@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-11-12T17:41:14.455Z",
-	"bosses": []
+	"timestamp": "2026-11-13T10:26:55.414Z",
+	"bosses": [
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Imperor",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

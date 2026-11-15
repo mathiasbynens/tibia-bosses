@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-11-14T15:56:37.622Z",
-	"bosses": []
+	"timestamp": "2026-11-15T10:17:27.470Z",
+	"bosses": [
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-11-15T16:29:50.486Z",
-	"bosses": []
+	"timestamp": "2026-11-16T10:32:04.800Z",
+	"bosses": [
+		{
+			"name": "Rukor Zad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Handmaiden",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

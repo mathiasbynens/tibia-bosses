@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-11-16T19:45:33.214Z",
-	"bosses": []
+	"timestamp": "2026-11-17T11:25:14.367Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Foreman Kneebiter",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

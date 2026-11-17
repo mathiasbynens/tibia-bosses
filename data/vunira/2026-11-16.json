@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-11-16T19:45:42.441Z",
-	"bosses": []
+	"timestamp": "2026-11-17T11:25:16.323Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Plasmother",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

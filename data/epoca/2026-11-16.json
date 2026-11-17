@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-11-16T19:45:34.531Z",
-	"bosses": []
+	"timestamp": "2026-11-17T11:25:14.632Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Welter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

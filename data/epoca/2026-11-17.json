@@ -1,4 +1,35 @@
 {
-	"timestamp": "2026-11-17T18:42:20.128Z",
-	"bosses": []
+	"timestamp": "2026-11-18T10:59:02.291Z",
+	"bosses": [
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "General Murius",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Shlorg",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Pale Count",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "midnight panther",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

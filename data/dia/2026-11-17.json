@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-11-17T18:42:18.390Z",
-	"bosses": []
+	"timestamp": "2026-11-18T10:59:01.940Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Barbaria",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Battlemaster Zunzu",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

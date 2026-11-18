@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-11-17T18:42:27.264Z",
-	"bosses": []
+	"timestamp": "2026-11-18T10:59:04.372Z",
+	"bosses": [
+		{
+			"name": "Grorlam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Sir Valorcrest",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Smuggler Baron Silvertoe",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

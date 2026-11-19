@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-11-18T18:18:00.418Z",
-	"bosses": []
+	"timestamp": "2026-11-19T11:01:24.847Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Burster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Massacre",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Omrafir",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Xenia",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-11-18T18:17:49.690Z",
-	"bosses": []
+	"timestamp": "2026-11-19T11:01:22.398Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Rotworm Queen",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

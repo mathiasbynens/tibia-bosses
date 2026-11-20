@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-11-19T18:29:28.769Z",
-	"bosses": []
+	"timestamp": "2026-11-20T10:50:21.484Z",
+	"bosses": [
+		{
+			"name": "Hairman the Huge",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

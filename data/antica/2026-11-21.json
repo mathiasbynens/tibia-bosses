@@ -1,4 +1,30 @@
 {
-	"timestamp": "2026-11-21T16:54:04.031Z",
-	"bosses": []
+	"timestamp": "2026-11-22T10:38:13.853Z",
+	"bosses": [
+		{
+			"name": "Dracola",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Oodok Witchmaster",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Abomination",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tyrn",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

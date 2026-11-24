@@ -1,4 +1,20 @@
 {
-	"timestamp": "2026-11-23T21:36:44.047Z",
-	"bosses": []
+	"timestamp": "2026-11-24T13:11:57.543Z",
+	"bosses": [
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zushuka",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

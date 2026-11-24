@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-11-23T21:36:36.794Z",
-	"bosses": []
+	"timestamp": "2026-11-24T13:11:55.104Z",
+	"bosses": [
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "White Pale",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

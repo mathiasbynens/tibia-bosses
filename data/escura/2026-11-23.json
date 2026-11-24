@@ -1,4 +1,10 @@
 {
-	"timestamp": "2026-11-23T21:36:37.963Z",
-	"bosses": []
+	"timestamp": "2026-11-24T13:11:55.460Z",
+	"bosses": [
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

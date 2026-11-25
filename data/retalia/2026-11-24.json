@@ -1,4 +1,15 @@
 {
-	"timestamp": "2026-11-24T20:17:11.046Z",
-	"bosses": []
+	"timestamp": "2026-11-25T12:00:21.754Z",
+	"bosses": [
+		{
+			"name": "Arachir the Ancient One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Tzumrah the Dazzler",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,25 @@
 {
-	"timestamp": "2026-11-25T19:30:16.295Z",
-	"bosses": []
+	"timestamp": "2026-11-26T11:48:26.631Z",
+	"bosses": [
+		{
+			"name": "Cublarc the Plunderer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Flamecaller Zazrak",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Robby the Reckless",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Frog Prince",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

@@ -1,4 +1,40 @@
 {
-	"timestamp": "2026-11-26T19:12:47.037Z",
-	"bosses": []
+	"timestamp": "2026-11-27T11:41:09.679Z",
+	"bosses": [
+		{
+			"name": "Arthom the Hunter",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Fleabringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "The Big Bad One",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Warlord Ruzad",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Yaga the Crone",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "yeti",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }

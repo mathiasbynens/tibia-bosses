@@ -1,4 +1,45 @@
 {
-	"timestamp": "2026-11-26T19:12:36.275Z",
-	"bosses": []
+	"timestamp": "2026-11-27T11:41:07.650Z",
+	"bosses": [
+		{
+			"name": "Big Boss Trolliver",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dharalion",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Dreadmaw",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Groam",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Horestis",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Man in the Cave",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "Zevelon Duskbringer",
+			"chance": 0,
+			"killed": true
+		},
+		{
+			"name": "draptor",
+			"chance": 0,
+			"killed": true
+		}
+	]
 }
